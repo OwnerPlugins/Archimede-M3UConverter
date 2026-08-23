@@ -1,0 +1,967 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: M 3UConverter\n"
+"PO-Revision-Date: 2026-08-23 07:19+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Afrikaans <i18n@af.org.za>\n"
+"Language: af\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "(Based on selected database mode: {})"
+msgstr "(Gegrond op geselekteerde databasismodus: {})"
+
+msgid "(Reused previous manual corrections)"
+msgstr "(Hergebruik vorige handleiding korreksies)"
+
+msgid "- {} duplicate groups"
+msgstr "- {} duplikaatgroepe"
+
+msgid "-- Auto-open Editor"
+msgstr "- Outo-oop redakteur"
+
+msgid "-- DVB search limit (Match Edit)"
+msgstr "-- DVB-soeklimiet (Match Edit)"
+
+msgid "-- Database Mode"
+msgstr "-- Databasismodus"
+
+msgid "-- EPG Generation Mode"
+msgstr ""
+
+msgid "-- EPG Language"
+msgstr "-- EPG Taal"
+
+msgid "-- Ignore DVB-T services"
+msgstr "-- Ignoreer DVB-T-dienste"
+
+msgid "-- Max Backups"
+msgstr "-- Maksimum rugsteun"
+
+msgid "-- Rytec search limit (Match Edit)"
+msgstr "-- Rytec-soeklimiet (Match Edit)"
+
+msgid "-- Similarity Threshold DVB (%)"
+msgstr "-- Ooreenstemming Drempel DVB (%)"
+
+msgid "-- Similarity Threshold Global (%)"
+msgstr "-- Ooreenkomstigdrempel wêreldwyd (%)"
+
+msgid "-- Similarity Threshold Rytec (%)"
+msgstr "-- Ooreenkomstigdrempel Rytec (%)"
+
+msgid "-- Use Manual Database"
+msgstr "-- Gebruik handleiding databasis"
+
+msgid "--- {} ({} duplicates) ---"
+msgstr "--- {} ({} duplikate) ---"
+
+msgid "---- Max manual corrections to save"
+msgstr "---- Maksimum handmatige regstellings om te stoor"
+
+msgid ">>> DUPLICATES VIEW"
+msgstr ">>> DUPLIKATE AANSIG"
+
+msgid ">>> SELECTION MODE - Select items with OK"
+msgstr ">>> KEUSE MODUS - Kies items met OK"
+
+msgid ">>> {} duplicate groups, {} total mappings"
+msgstr ">>> {} duplikaatgroepe, {} totale kartering"
+
+msgid ">>> {} groups, {} mappings total"
+msgstr ">>> {} groepe, {} kartering totaal"
+
+msgid "ALL MAPPINGS: {} total"
+msgstr "ALLE KARTERINGS: {} totaal"
+
+msgid "Action for: {}"
+msgstr "Aksie vir: {}"
+
+msgid "Advanced Tools Menu"
+msgstr "Gevorderde gereedskap-kieslys"
+
+msgid "All Mappings"
+msgstr "Alle Mappings"
+
+msgid "Archimede Converter Settings"
+msgstr "Archimede Converter-instellings"
+
+msgid "Archimede Universal Converter by Lululla v.{version} - {page}"
+msgstr "Archimede Universal Converter deur Lululla v.{version} - {page}"
+
+msgid "Archimede Universal Converter v.%s"
+msgstr ""
+
+msgid "Archimede Universal Converter v.%s by Lululla"
+msgstr "Archimede Universal Converter v.%s deur Lululla"
+
+msgid "Backup created successfully!"
+msgstr "Rugsteun suksesvol geskep!"
+
+msgid "Backup failed: {}"
+msgstr "Rugsteun het misluk: {}"
+
+msgid "Barry Allen"
+msgstr ""
+
+msgid "Bottom"
+msgstr "Onderkant"
+
+msgid "Bouquet Mode"
+msgstr "Boeketmodus"
+
+msgid "Bouquet Position"
+msgstr "Boeket posisie"
+
+msgid "Cancel"
+msgstr "Kanselleer"
+
+msgid "Cancelling conversion..."
+msgstr "Kanselleer tans omskakeling …"
+
+msgid "Cancelling..."
+msgstr "Kanselleer tans …"
+
+msgid "Channel: {} | {} | Match: {} | Press RIGHT for matches"
+msgstr "Kanaal: {} | {} | Pas by: {} | Druk REGS vir wedstryde"
+
+msgid "Close"
+msgstr "Maak toe"
+
+msgid "Conversion already in progress"
+msgstr "Omskakeling is reeds aan die gang"
+
+msgid "Conversion cancelled"
+msgstr "Omskakeling gekanselleer"
+
+msgid "Conversion completed"
+msgstr "Omskakeling voltooi"
+
+msgid "Conversion error: %s"
+msgstr "Omskakelingsfout: %s"
+
+msgid "Conversion failed: Invalid result"
+msgstr "Omskakeling het misluk: Ongeldige resultaat"
+
+msgid "Conversion failed: {}"
+msgstr "Omskakeling het misluk: {}"
+
+msgid "Conversion in progress..."
+msgstr "Omskakeling aan die gang..."
+
+msgid "Convert"
+msgstr "Skakel om"
+
+msgid "Convert HLS Streams"
+msgstr "Skakel HLS-strome om"
+
+msgid "Convert HLS to Enigma2 format"
+msgstr "Skakel HLS na Enigma2-formaat om"
+
+msgid "Convert JSON to M3U"
+msgstr "Skakel JSON om na M3U"
+
+msgid "Convert JSON to TV"
+msgstr "Skakel JSON om na TV"
+
+msgid "Convert M3U to JSON"
+msgstr "Skakel M3U om na JSON"
+
+msgid "Convert M3U to TV"
+msgstr "Skakel M3U om na TV"
+
+msgid "Convert TV to M3U"
+msgstr "Skakel TV om na M3U"
+
+msgid "Convert TV to TV"
+msgstr "Skakel TV na TV om"
+
+msgid "Convert XSPF to M3U"
+msgstr "Skakel XSPF na M3U om"
+
+msgid "Convert between M3U Enigma2 Bouquets Json"
+msgstr "Skakel tussen M3U Enigma2 Bouquets Json"
+
+msgid "Converting: %d/%d (%d%%)"
+msgstr "Skakel tans om: %d/%d (%d%%)"
+
+msgid "Converting: {name} ({percent}%)"
+msgstr "Omskakeling: {name} ({percent}%)"
+
+msgid "Converting: {title} ({percent}%)"
+msgstr "Omskakeling: {name} ({percent}%)"
+
+msgid "Converting: {} ({}%)"
+msgstr "Omskakeling: {} ({}%)"
+
+msgid "Create Backup"
+msgstr "Skep rugsteun"
+
+msgid "Create backup before conversion"
+msgstr "Skep rugsteun voor omskakeling"
+
+msgid "Create single or multiple bouquets"
+msgstr "Skep enkele of meer ruikers"
+
+msgid "DUPLICATES: {} groups, {} mappings"
+msgstr "DUPLIKATE: {} groepe, {} kartering"
+
+msgid "DVB + Rytec"
+msgstr "DVB + Graveur"
+
+msgid "DVB + Rytec + DTT (Full)"
+msgstr "DVB + Rytec + DTT (Vol)"
+
+msgid "Database Directory"
+msgstr "Databasis Gids"
+
+msgid "Debug Mode"
+msgstr "Ontfoutmodus"
+
+msgid "Default Folder"
+msgstr "Verstek gids"
+
+msgid "Default folder for opening and saving M3U files"
+msgstr "Verstekgids vir die oopmaak en stoor van M3U-lêers"
+
+msgid "Delete"
+msgstr "Vee uit"
+
+msgid "Deleted {} items"
+msgstr "Het {} items uitgevee"
+
+msgid "Deleted {} items. No more duplicates."
+msgstr "Het {} items uitgevee. Geen duplikate meer nie."
+
+msgid "Deleted {} items. Still in selection mode."
+msgstr "Het {} items uitgevee. Steeds in seleksiemodus."
+
+msgid "Done"
+msgstr "Klaar"
+
+msgid "Duplicates"
+msgstr "Duplikate"
+
+msgid "EPG Coverage: {}/{} channels ({:.1f}%)"
+msgstr "EPG-dekking: {}/{} kanale ({:.1f}%)"
+
+msgid "EPG assigned: {} | {}"
+msgstr "EPG toegeken: {} | {}"
+
+msgid "EPG cache cleared! {} entries removed"
+msgstr "EPG-kas is skoongemaak! {} inskrywings verwyder"
+
+msgid "EPG database reloaded successfully!"
+msgstr "EPG-databasis is suksesvol herlaai!"
+
+msgid "EPG mapper not available"
+msgstr "EPG-kaarter nie beskikbaar nie"
+
+msgid "EPG mapper not initialized"
+msgstr "EPG-karteerder nie geïnisialiseer nie"
+
+msgid "EPG matching algorithm"
+msgstr "EPG bypassende algoritme"
+
+msgid "EPGImport plugin not found"
+msgstr "EPGImport-inprop nie gevind nie"
+
+msgid "EPGImporter"
+msgstr "EPG invoerder"
+
+msgid "EPGShare Mode"
+msgstr "EPGShare-modus"
+
+msgid "Enable EPG"
+msgstr "Aktiveer EPG"
+
+msgid "Enable detailed logging"
+msgstr "Aktiveer gedetailleerde aantekening"
+
+msgid "Enigma2 Bouquet to Enigma2 Bouquet Conversion"
+msgstr "Enigma2 Bouquet na Enigma2 Bouquet Omskakeling"
+
+msgid "Enigma2 Bouquet to M3U Conversion"
+msgstr "Enigma2-boeket na M3U-omskakeling"
+
+msgid "Enigma2 Bouquets to  Enigma2 Bouquets"
+msgstr "Enigma2 ruikers na Enigma2 ruikers"
+
+msgid "Enigma2 Bouquets to  M3U"
+msgstr "Enigma2 Boekette na M3U"
+
+msgid "Error clearing EPG cache"
+msgstr "Kon nie EPG-kas skoonmaak nie"
+
+msgid "Error clearing database"
+msgstr "Kon nie databasis skoonmaak nie"
+
+msgid "Error deleting correction"
+msgstr "Kon nie regstelling uitvee nie"
+
+msgid "Error deleting items"
+msgstr "Kon nie items uitvee nie"
+
+msgid "Error deleting mapping"
+msgstr "Kon nie kartering uitvee nie"
+
+msgid "Error exporting database"
+msgstr "Kon nie databasis uitvoer nie"
+
+msgid "Error finalizing import: {}"
+msgstr "Kon nie invoer finaliseer nie: {}"
+
+msgid "Error importing database: {}"
+msgstr "Kon nie databasis invoer nie: {}"
+
+msgid "Error initiating service reload"
+msgstr "Kon nie diensherlaai begin nie"
+
+msgid "Error loading database"
+msgstr "Kon nie databasis laai nie"
+
+msgid "Error opening plugin information: %s"
+msgstr "Kon nie inpropinligting oopmaak nie: %s"
+
+msgid "Error processing conversion result"
+msgstr "Kon nie omskakelingsresultaat verwerk nie"
+
+msgid "Error reloading EPG database: {}"
+msgstr "Kon nie EPG-databasis herlaai nie: {}"
+
+msgid "Error saving imported database"
+msgstr "Kon nie ingevoerde databasis stoor nie"
+
+msgid "Error starting import: {}"
+msgstr "Kon nie invoer begin nie: {}"
+
+msgid "Error undoing action"
+msgstr "Kon nie handeling ontdoen nie"
+
+msgid "Error: Channel index out of range"
+msgstr "Fout: Kanaalindeks buite omvang"
+
+msgid "Failed to initialize EPG mapper - check logs"
+msgstr "Kon nie EPG-kaartmaker inisialiseer nie – kontroleer logs"
+
+msgid "File loaded: {}"
+msgstr "Lêer gelaai: {}"
+
+msgid "File not found"
+msgstr "Lêer nie gevind nie"
+
+msgid "File write error: %s"
+msgstr "Lêerskryffout: %s"
+
+msgid "File: {}"
+msgstr "Lêer: {}"
+
+msgid "Files larger than this will be sampled (1000 channels max)"
+msgstr "Lêers groter as dit sal gemonster word (maksimum 1000 kanale)"
+
+msgid "First select a match from the right list (use RIGHT arrow)"
+msgstr "Kies eers 'n passing uit die regterlys (gebruik REGspyltjie)"
+
+msgid "Found {} matches for: {} | Select and press OK"
+msgstr "Het {} passings gevind vir: {} | Kies en druk OK"
+
+msgid "Found {} matches so far for: {} | Searching..."
+msgstr "Het tot dusver {} passings gevind vir: {} | Soek tans …"
+
+msgid "Generate EPG data for bouquets"
+msgstr "Genereer EPG-data vir ruikers"
+
+msgid "Global similarity threshold for all matches (20-100%)"
+msgstr "Globale ooreenkomsdrempel vir alle wedstryde (20-100%)"
+
+msgid "HDD Drive"
+msgstr ""
+
+msgid "Ignore DVB-T services on conversion"
+msgstr "Ignoreer DVB-T-dienste tydens omskakeling"
+
+msgid "Import {} mappings from {}"
+msgstr "Voer {} kaarte in vanaf {}"
+
+msgid "Invalid .m3u item format"
+msgstr "Ongeldige .m3u-itemformaat"
+
+msgid "Invalid .tv item format"
+msgstr "Ongeldige .tv-itemformaat"
+
+msgid "Invalid XSPF file"
+msgstr "Ongeldige XSPF-lêer"
+
+msgid "Invalid database file structure"
+msgstr "Ongeldige databasislêerstruktuur"
+
+msgid "Invalid selection"
+msgstr "Ongeldige keuse"
+
+msgid "JSON to Enigma2 Bouquet Conversion"
+msgstr "JSON na Enigma2 Bouquet-omskakeling"
+
+msgid "JSON to M3U Conversion"
+msgstr "JSON na M3U-omskakeling"
+
+msgid "JSON to  Enigma2 Bouquets"
+msgstr "JSON na Enigma2 Boekette"
+
+msgid "JSON to  M3U"
+msgstr "JSON na M3U"
+
+msgid "Language for EPG sources"
+msgstr "Taal vir EPG-bronne"
+
+msgid "Large file detected: {:.1f}MB. Processing first {} channels..."
+msgstr "Groot lêer bespeur: {:.1f}MB. Verwerk tans eerste {} kanale..."
+
+msgid "Large file threshold (MB)"
+msgstr "Groot lêerdrempel (MB)"
+
+msgid "Loaded first %d channels. Press Green to convert."
+msgstr "Het eerste %d kanale gelaai. Druk Groen om te skakel."
+
+msgid "Loading database..."
+msgstr "Laai tans databasis …"
+
+msgid "Log file cleared successfully"
+msgstr "Loglêer is suksesvol uitgevee"
+
+msgid "M3U to Enigma2 Bouquet Conversion"
+msgstr "M3U na Enigma2 Bouquet Omskakeling"
+
+msgid "M3U to JSON Conversion"
+msgstr "M3U na JSON-omskakeling"
+
+msgid "M3U to  Enigma2 Bouquets"
+msgstr "M3U tot Enigma2 Boekette"
+
+msgid "M3U to  JSON"
+msgstr "M3U na JSON"
+
+msgid "Manual Corrections ({} total)"
+msgstr "Handmatige regstellings ({} totaal)"
+
+msgid "Manual Database Editor"
+msgstr "Handmatige databasisredigeerder"
+
+msgid "Manual EPG Match Editor"
+msgstr "Handleiding EPG Match Editor"
+
+msgid "Manual database cleared"
+msgstr "Handmatige databasis skoongemaak"
+
+msgid "Manual database not available"
+msgstr "Handmatige databasis nie beskikbaar nie"
+
+msgid "Manual editing completed"
+msgstr "Handmatige redigering voltooi"
+
+msgid "Manual editing completed - ready for conversion"
+msgstr "Handmatige redigering voltooi - gereed vir omskakeling"
+
+msgid "Mapping deleted successfully"
+msgstr "Kartering is suksesvol uitgevee"
+
+msgid "Match Editor"
+msgstr "Wedstrydredakteur"
+
+msgid "Match reset for: {}"
+msgstr "Pasmaatterugstelling vir: {}"
+
+msgid "Max DVB entries scanned during automatic Match Edit (Slow down scanning)"
+msgstr "Maksimum DVB-inskrywings geskandeer tydens outomatiese Paswysiging (Vertraag skandering)"
+
+msgid "Max Rytec entries scanned during automatic Match Edit (Slow down scanning)"
+msgstr "Max Rytec-inskrywings geskandeer tydens outomatiese Match Edit (Vertraag skandering)"
+
+msgid "Maximum backup copies"
+msgstr "Maksimum rugsteunkopieë"
+
+msgid "Maximum manual corrections to save"
+msgstr "Maksimum handmatige regstellings om te stoor"
+
+msgid "Multiple Bouquets"
+msgstr "Veelvuldige ruikers"
+
+msgid "Network Storage"
+msgstr "Netwerkberging"
+
+msgid "Next"
+msgstr "Volgende"
+
+msgid "No IPTV channels found in the bouquet"
+msgstr "Geen IPTV-kanale in die boeket gevind nie"
+
+msgid "No M3UConverter bouquets found to remove."
+msgstr "Geen M3UConverter-ruikers gevind om te verwyder nie."
+
+msgid "No MANUAL changes to save"
+msgstr "Geen HANDMATIGE veranderinge om te stoor nie"
+
+msgid "No MANUAL corrections saved"
+msgstr "Geen HANDMATIGE regstellings gestoor nie"
+
+msgid "No actions to undo"
+msgstr "Geen handelinge om te ontdoen nie"
+
+msgid "No channels available"
+msgstr "Geen kanale beskikbaar nie"
+
+msgid "No channels loaded. Please select a valid TV bouquet file."
+msgstr "Geen kanale gelaai nie. Kies asseblief 'n geldige TV-boeketlêer."
+
+msgid "No conversion data available."
+msgstr "Geen omskakelingsdata beskikbaar nie."
+
+msgid "No conversion data available. Please run a conversion first."
+msgstr "Geen omskakelingsdata beskikbaar nie. Voer asseblief eers 'n omskakeling uit."
+
+msgid "No conversion statistics available."
+msgstr "Geen omskakelingstatistieke beskikbaar nie."
+
+msgid "No duplicates available for selection"
+msgstr "Geen duplikate beskikbaar vir seleksie nie"
+
+msgid "No duplicates found"
+msgstr "Geen duplikate gevind nie"
+
+msgid "No duplicates found in the database"
+msgstr "Geen duplikate in die databasis gevind nie"
+
+msgid "No file selected"
+msgstr "Geen lêer gekies nie"
+
+msgid "No file selected for conversion"
+msgstr "Geen lêer gekies vir omskakeling nie"
+
+msgid "No items selected for deletion"
+msgstr "Geen items gekies vir uitvee nie"
+
+msgid "No manual corrections found"
+msgstr "Geen handmatige regstellings gevind nie"
+
+msgid "No manual corrections to export"
+msgstr "Geen handmatige regstellings om uit te voer nie"
+
+msgid "No mappings available"
+msgstr "Geen kartering beskikbaar nie"
+
+msgid "No matches found - try different search"
+msgstr "Geen passings gevind nie - probeer 'n ander soektog"
+
+msgid "No matches found for: {}"
+msgstr "Geen passings gevind vir: {}"
+
+msgid "No statistics available"
+msgstr "Geen statistieke beskikbaar nie"
+
+msgid "No valid channels found in the JSON file"
+msgstr "Geen geldige kanale in die JSON-lêer gevind nie"
+
+msgid "Only DTT"
+msgstr "Slegs DTT"
+
+msgid "Only DVB"
+msgstr "Slegs DVB"
+
+msgid "Only Rytec"
+msgstr "Slegs Rytec"
+
+msgid "Open File"
+msgstr "Maak lêer oop"
+
+msgid "Open manual editor after conversion"
+msgstr "Maak handredigeerder oop na omskakeling"
+
+msgid "Playback error"
+msgstr "Terugspeelfout"
+
+msgid "Playing: %s"
+msgstr "Speel tans: %s"
+
+msgid "Please select a channel first"
+msgstr "Kies asseblief eers 'n kanaal"
+
+msgid "Please select a mapping (not a group header)"
+msgstr "Kies asseblief 'n kartering (nie 'n groepopskrif nie)"
+
+msgid "Please select a mapping to delete"
+msgstr "Kies asseblief 'n kartering om uit te vee"
+
+msgid "Please select a valid match from the right list"
+msgstr "Kies asseblief 'n geldige passing uit die regte lys"
+
+msgid "Plugin Information"
+msgstr "Inprop inligting"
+
+msgid "Position in channel list"
+msgstr "Posisie in kanaallys"
+
+msgid "Press RED to select file"
+msgstr "Druk ROOI om lêer te kies"
+
+msgid "Prev"
+msgstr "Vorige"
+
+msgid "Processing selection..."
+msgstr "Verwerk tans seleksie …"
+
+msgid "Ready"
+msgstr "Gereed"
+
+msgid "Ready for next operation"
+msgstr "Gereed vir volgende operasie"
+
+msgid "Ready to convert"
+msgstr "Gereed om te omskep"
+
+msgid "Ready: Select the file from the %s you configured in settings."
+msgstr "Gereed: Kies die lêer uit die %s wat jy in instellings gekonfigureer het."
+
+msgid "Reloading services..."
+msgstr "Herlaai tans dienste …"
+
+msgid "Remove Bouquets"
+msgstr "Verwyder ruikers"
+
+msgid "Remove M3U Bouquets"
+msgstr "Verwyder M3U-ruikers"
+
+msgid "Reset"
+msgstr "Stel terug"
+
+msgid "Run a conversion first to see statistics."
+msgstr "Voer eers 'n omskakeling uit om statistieke te sien."
+
+msgid "SELECTION MODE: {} items selected"
+msgstr "KEURSMODUS: {} items gekies"
+
+msgid "Save All"
+msgstr "Stoor alles"
+
+msgid "Save error"
+msgstr "Stoor fout"
+
+msgid "Saved {} MANUAL corrections"
+msgstr "{} HANDMATIGE regstellings gestoor"
+
+msgid "Searching matches for: {}..."
+msgstr "Soek tans passings vir: {}..."
+
+msgid "Select"
+msgstr "Kies"
+
+msgid "Select a channel to correct the match"
+msgstr "Kies 'n kanaal om die wedstryd reg te stel"
+
+msgid "Select a channel to edit (use OK or RIGHT to go to matches)"
+msgstr "Kies 'n kanaal om te wysig (gebruik OK of REGS om na wedstryde te gaan)"
+
+msgid "Select a match and press OK to assign"
+msgstr "Kies 'n pasmaat en druk OK om toe te ken"
+
+msgid "Select databases for channel matching"
+msgstr "Kies databasisse vir kanaalpassing"
+
+msgid "Select file to import from {}"
+msgstr "Kies lêer om vanaf {} in te voer"
+
+msgid "Select import location"
+msgstr "Kies invoerligging"
+
+msgid "Selection mode active. Select items with OK"
+msgstr "Seleksiemodus aktief. Kies items met OK"
+
+msgid "Selection mode off"
+msgstr "Keurmodus af"
+
+msgid "Selection mode: Select items with OK"
+msgstr "Keurmodus: Kies items met OK"
+
+msgid "Service reload initiated"
+msgstr "Diensherlaai is geïnisieer"
+
+msgid "Similarity threshold for DVB matches (20-100%)"
+msgstr "Ooreenstemmingsdrempel vir DVB-wedstryde (20-100%)"
+
+msgid "Similarity threshold for Rytec matches (20-100%)"
+msgstr "Ooreenstemmingsdrempel vir Rytec-wedstryde (20-100%)"
+
+msgid "Single Bouquet"
+msgstr "Enkel ruiker"
+
+msgid "Standard Mode"
+msgstr "Standaardmodus"
+
+msgid "Stopped"
+msgstr "Gestop"
+
+msgid "Temporary"
+msgstr "Tydelik"
+
+msgid "Temporary Files"
+msgstr "Tydelike lêers"
+
+msgid "Tools"
+msgstr "Gereedskap"
+
+msgid "Top"
+msgstr ""
+
+msgid "USB Drive"
+msgstr ""
+
+msgid "Undo"
+msgstr "Ontdoen"
+
+msgid "Undo: Restored previous state for {}"
+msgstr "Ontdoen: het vorige toestand vir {} herstel"
+
+msgid "Universal Converter"
+msgstr "Universele omskakelaar"
+
+msgid "Unknown error"
+msgstr "Onbekende fout"
+
+msgid "Unsupported conversion type"
+msgstr "Ongesteunde omskakelingstipe"
+
+msgid "Use saved manual corrections"
+msgstr "Gebruik gestoorde handregstellings"
+
+msgid "We're ready: what do you want to do?"
+msgstr "Ons is gereed: wat wil jy doen?"
+
+msgid "XSPF conversion error: %s"
+msgstr "XSPF-omskakelingsfout: %s"
+
+msgid "XSPF to M3U Playlist Conversion"
+msgstr "XSPF na M3U Playlist Omskakeling"
+
+msgid "XSPF to  M3U Playlist"
+msgstr "XSPF na M3U-snitlys"
+
+msgid "merged"
+msgstr "saamgesmelt"
+
+msgid "replaced"
+msgstr "vervang"
+
+msgid "tv_to_m3u Conversion error: %s"
+msgstr "tv_to_m3u Omskakelingsfout: %s"
+
+msgid " Current total: {}"
+msgstr "Huidige totaal: {}"
+
+msgid " DVB: {} channels"
+msgstr "DVB: {} kanale"
+
+msgid " Duplicate mappings: {}"
+msgstr "Duplikaatkaarte: {}"
+
+msgid " Hit: {} ({:.1f}%)"
+msgstr "Treffer: {} ({:.1f}%)"
+
+msgid " Miss: {}"
+msgstr "Juffrou: {}"
+
+msgid " Mode: {}"
+msgstr "Modus: {}"
+
+msgid " New mappings: {}"
+msgstr "Nuwe kartering: {}"
+
+msgid " Rytec: {} channels"
+msgstr "Rytec: {} kanale"
+
+msgid " Size: {} entries"
+msgstr "Grootte: {} inskrywings"
+
+msgid " Total in import file: {}"
+msgstr "Totaal in invoerlêer: {}"
+
+msgid "  Manual DB: {} ({:.1f}%)"
+msgstr "Handmatige DB: {} ({:.1f}%)"
+
+msgid "  DVB-S: {} ({:.1f}%)"
+msgstr "DVB-S: {} ({:.1f}%)"
+
+msgid "  DVB-T: {} ({:.1f}%)"
+msgstr "DVB-T: {} ({:.1f}%)"
+
+msgid "  IPTV Fallback: {} ({:.1f}%)"
+msgstr "IPTV-terugval: {} ({:.1f}%)"
+
+msgid "  Rytec: {} ({:.1f}%)"
+msgstr "Rytec: {} ({:.1f}%)"
+
+msgid " Conversion type: {}"
+msgstr "Omskakelingstipe: {}"
+
+msgid " Status: Completed successfully"
+msgstr "Status: Suksesvol voltooi"
+
+msgid " Valid channels processed: {}"
+msgstr "Geldige kanale verwerk: {}"
+
+msgid " Edit this mapping"
+msgstr "Wysig hierdie kartering"
+
+msgid " Manual edits applied: {}"
+msgstr "Handmatige wysigings toegepas: {}"
+
+msgid " Open Database Editor"
+msgstr "Maak databasisredigeerder oop"
+
+msgid " Error generating statistics"
+msgstr "Kon nie statistiek genereer nie"
+
+msgid " Merge (keep both)"
+msgstr "Voeg saam (hou albei)"
+
+msgid " New mappings ({}):"
+msgstr "Nuwe kaarte ({}):"
+
+msgid " CONVERSION COMPLETE"
+msgstr "OMSAKING VOLTOOI"
+
+msgid " Effective EPG matches: {}"
+msgstr "Effektiewe EPG-passings: {}"
+
+msgid " TOTAL CHANNELS: {}"
+msgstr "TOTAAL KANALE: {}"
+
+msgid " View Manual Database"
+msgstr "Bekyk handmatige databasis"
+
+msgid " CACHE PERFORMANCE:"
+msgstr "CCHE PRESTASIE:"
+
+msgid " Cache efficiency: {}"
+msgstr "Kasdoeltreffendheid: {}"
+
+msgid " Create Backup"
+msgstr "Skep rugsteun"
+
+msgid " Manual DB matches: {}"
+msgstr "Handmatige DB-passings: {}"
+
+msgid " Output file: {}"
+msgstr "Uitvoerlêer: {}"
+
+msgid " File size: {}"
+msgstr "Lêergrootte: {}"
+
+msgid " EFFECTIVE EPG coverage: {}"
+msgstr "DOELTREFFENDE EPG-dekking: {}"
+
+msgid " EPG COVERAGE: {:.1f}%"
+msgstr "EPG-DEKKING: {:.1f}%"
+
+msgid " Statistics:"
+msgstr "Statistiek:"
+
+msgid " EPG Cache Statistics"
+msgstr "EPG Cache Statistiek"
+
+msgid " EPG STATISTICS - {}"
+msgstr "EPG STATISTIEKE - {}"
+
+msgid " IMPORT PREVIEW"
+msgstr "VOER VOORSKOU IN IN"
+
+msgid " Preview Changes"
+msgstr "Voorskou veranderinge"
+
+msgid " Total channels in file: {}"
+msgstr "Totale kanale in lêer: {}"
+
+msgid " Plugin Info"
+msgstr "Inprop inligting"
+
+msgid " Manual Match Editing"
+msgstr "Handmatige Paswysiging"
+
+msgid " DVB channels in DB: {}"
+msgstr "DVB-kanale in DB: {}"
+
+msgid " DVB-T EPG matches: {}"
+msgstr "DVB-T EPG pas: {}"
+
+msgid " Export Manual Database"
+msgstr "Voer handmatige databasis uit"
+
+msgid " Import Manual Database"
+msgstr "Voer handmatige databasis in"
+
+msgid " DVB EPG matches: {}"
+msgstr "DVB EPG-passings: {}"
+
+msgid " Duplicates ({}):"
+msgstr "Duplikate ({}):"
+
+msgid " Reload EPG Database"
+msgstr "Herlaai EPG-databasis"
+
+msgid " Reload Services"
+msgstr "Herlaai dienste"
+
+msgid " Replace All ({} mappings)"
+msgstr "Vervang alles ({} koppelings)"
+
+msgid " Fallback (no EPG): {}"
+msgstr "Terugval (geen EPG): {}"
+
+msgid " Cache size: {} entries"
+msgstr "Kasgrootte: {} inskrywings"
+
+msgid " Back"
+msgstr "Terug"
+
+msgid " Back to Tools"
+msgstr "Terug na Tools"
+
+msgid " Back to locations"
+msgstr "Terug na liggings"
+
+msgid " MATCH BREAKDOWN:"
+msgstr "WEDSTRYDSUITEENSETTING:"
+
+msgid " Completed at: {}"
+msgstr "Voltooi by: {}"
+
+msgid " Edited at: {}"
+msgstr "Geredigeer by: {}"
+
+msgid " === Manual Database Management ==="
+msgstr "=== Handmatige databasisbestuur ==="
+
+msgid " DATABASE INFO:"
+msgstr "DATABASIS INLIGTING:"
+
+msgid " Database mode: {}"
+msgstr "Databasismodus: {}"
+
+msgid " Rytec channels in DB: {}"
+msgstr "Rytec-kanale in DB: {}"
+
+msgid " Clear Log File"
+msgstr "Vee loglêer uit"
+
+msgid " Delete this mapping"
+msgstr "Vee hierdie kartering uit"
+
+msgid " Skipped channels: {}"
+msgstr "Oorgeslaande kanale: {}"
+
+msgid " Rytec EPG matches: {}"
+msgstr "Rytec EPG-wedstryde: {}"
+
+msgid " Clean Manual Database"
+msgstr "Maak handmatige databasis skoon"
+
+msgid " Clear EPG Cache"
+msgstr "Vee EPG-kas uit"

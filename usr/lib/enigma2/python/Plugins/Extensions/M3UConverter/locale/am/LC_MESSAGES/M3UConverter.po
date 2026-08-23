@@ -1,0 +1,967 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: M 3UConverter\n"
+"PO-Revision-Date: 2026-08-23 07:24+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Amharic\n"
+"Language: am\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "(Based on selected database mode: {})"
+msgstr "(በተመረጠው የውሂብ ጎታ ሁኔታ ላይ በመመስረት፡ {})"
+
+msgid "(Reused previous manual corrections)"
+msgstr "(የቀድሞው የእጅ እርማቶች እንደገና ጥቅም ላይ የዋሉ)"
+
+msgid "- {} duplicate groups"
+msgstr "- {} የተባዙ ቡድኖች"
+
+msgid "-- Auto-open Editor"
+msgstr "-- ራስ-ክፍት አርታዒ"
+
+msgid "-- DVB search limit (Match Edit)"
+msgstr "-- DVB ፍለጋ ገደብ (ግጥሚያ አርትዕ)"
+
+msgid "-- Database Mode"
+msgstr "-- የውሂብ ጎታ ሁነታ"
+
+msgid "-- EPG Generation Mode"
+msgstr "-- EPG ትውልድ ሁነታ"
+
+msgid "-- EPG Language"
+msgstr "-- EPG ቋንቋ"
+
+msgid "-- Ignore DVB-T services"
+msgstr "-- የDVB-T አገልግሎቶችን ችላ ይበሉ"
+
+msgid "-- Max Backups"
+msgstr "-- ከፍተኛ ምትኬዎች"
+
+msgid "-- Rytec search limit (Match Edit)"
+msgstr "-- Rytec ፍለጋ ገደብ (ግጥሚያ አርትዕ)"
+
+msgid "-- Similarity Threshold DVB (%)"
+msgstr "-- ተመሳሳይነት ገደብ DVB (%)"
+
+msgid "-- Similarity Threshold Global (%)"
+msgstr "-- ተመሳሳይነት ገደብ ግሎባል (%)"
+
+msgid "-- Similarity Threshold Rytec (%)"
+msgstr "-- ተመሳሳይነት ገደብ Rytec (%)"
+
+msgid "-- Use Manual Database"
+msgstr "-- በእጅ ዳታቤዝ ተጠቀም"
+
+msgid "--- {} ({} duplicates) ---"
+msgstr "--- {} ({} ብዜቶች) ---"
+
+msgid "---- Max manual corrections to save"
+msgstr "---- ለመቆጠብ ከፍተኛው በእጅ እርማቶች"
+
+msgid ">>> DUPLICATES VIEW"
+msgstr ">>> የተባዙ እይታዎች"
+
+msgid ">>> SELECTION MODE - Select items with OK"
+msgstr ">>> የመምረጫ ሁነታ - እሺ ያላቸውን እቃዎች ይምረጡ"
+
+msgid ">>> {} duplicate groups, {} total mappings"
+msgstr ">>> {} የተባዙ ቡድኖች፣ {} አጠቃላይ ካርታዎች"
+
+msgid ">>> {} groups, {} mappings total"
+msgstr ">>> {} ቡድኖች፣ {} የካርታ ስራዎች ጠቅላላ"
+
+msgid "ALL MAPPINGS: {} total"
+msgstr "ሁሉም ካርታዎች፡ {} ጠቅላላ"
+
+msgid "Action for: {}"
+msgstr "እርምጃ ለ፡ {}"
+
+msgid "Advanced Tools Menu"
+msgstr "የላቀ መሳሪያዎች ምናሌ"
+
+msgid "All Mappings"
+msgstr "ሁሉም ካርታዎች"
+
+msgid "Archimede Converter Settings"
+msgstr "Archimede መለወጫ ቅንብሮች"
+
+msgid "Archimede Universal Converter by Lululla v.{version} - {page}"
+msgstr "አርኪሜድ ሁለንተናዊ መለወጫ በሉሉላ v.{version} - {page}"
+
+msgid "Archimede Universal Converter v.%s"
+msgstr "አርኪሜድ ሁለንተናዊ መለወጫ v.%s"
+
+msgid "Archimede Universal Converter v.%s by Lululla"
+msgstr "አርኪሜድ ሁለንተናዊ መለወጫ v.%s በሉሉላ"
+
+msgid "Backup created successfully!"
+msgstr "ምትኬ በተሳካ ሁኔታ ተፈጥሯል!"
+
+msgid "Backup failed: {}"
+msgstr "ምትኬ አልተሳካም፦ {}"
+
+msgid "Barry Allen"
+msgstr "ባሪ አለን"
+
+msgid "Bottom"
+msgstr "ከታች"
+
+msgid "Bouquet Mode"
+msgstr "እቅፍ ሁነታ"
+
+msgid "Bouquet Position"
+msgstr "እቅፍ አቀማመጥ"
+
+msgid "Cancel"
+msgstr "ሰርዝ"
+
+msgid "Cancelling conversion..."
+msgstr "ልወጣን በመሰረዝ ላይ..."
+
+msgid "Cancelling..."
+msgstr "በመሰረዝ ላይ..."
+
+msgid "Channel: {} | {} | Match: {} | Press RIGHT for matches"
+msgstr "ቻናል፡ {} | {} | ግጥሚያ፡ {} | ለተዛማጆች RIGHTን ይጫኑ"
+
+msgid "Close"
+msgstr "ገጠመ"
+
+msgid "Conversion already in progress"
+msgstr "ልወጣ አስቀድሞ በሂደት ላይ ነው።"
+
+msgid "Conversion cancelled"
+msgstr "ልወጣ ተሰርዟል።"
+
+msgid "Conversion completed"
+msgstr "ልወጣ ተጠናቅቋል"
+
+msgid "Conversion error: %s"
+msgstr "የልወጣ ስህተት፡ %s"
+
+msgid "Conversion failed: Invalid result"
+msgstr "ልወጣ አልተሳካም፡ ልክ ያልሆነ ውጤት"
+
+msgid "Conversion failed: {}"
+msgstr "ልወጣ አልተሳካም፦ {}"
+
+msgid "Conversion in progress..."
+msgstr "ልወጣ በሂደት ላይ..."
+
+msgid "Convert"
+msgstr "ቀይር"
+
+msgid "Convert HLS Streams"
+msgstr "HLS ዥረቶችን ቀይር"
+
+msgid "Convert HLS to Enigma2 format"
+msgstr "HLS ወደ Enigma2 ቅርጸት ይለውጡ"
+
+msgid "Convert JSON to M3U"
+msgstr "JSON ወደ M3U ቀይር"
+
+msgid "Convert JSON to TV"
+msgstr "JSON ወደ ቲቪ ቀይር"
+
+msgid "Convert M3U to JSON"
+msgstr "M3Uን ወደ JSON ይለውጡ"
+
+msgid "Convert M3U to TV"
+msgstr "M3U ወደ ቲቪ ቀይር"
+
+msgid "Convert TV to M3U"
+msgstr "ቲቪ ወደ M3U ቀይር"
+
+msgid "Convert TV to TV"
+msgstr "ቲቪ ወደ ቲቪ ቀይር"
+
+msgid "Convert XSPF to M3U"
+msgstr "XSPF ወደ M3U ቀይር"
+
+msgid "Convert between M3U Enigma2 Bouquets Json"
+msgstr "በM3U Enigma2 Bouquets Json መካከል ቀይር"
+
+msgid "Converting: %d/%d (%d%%)"
+msgstr "በመለወጥ ላይ፡ %d/%d (%d%%)"
+
+msgid "Converting: {name} ({percent}%)"
+msgstr "በመቀየር ላይ፡ _CSH_0__ ({percent}%)"
+
+msgid "Converting: {title} ({percent}%)"
+msgstr "በመቀየር ላይ፡ _CSH_0__ ({percent}%)"
+
+msgid "Converting: {} ({}%)"
+msgstr "በመለወጥ ላይ፡ {} ({}%)"
+
+msgid "Create Backup"
+msgstr "ምትኬን ይፍጠሩ"
+
+msgid "Create backup before conversion"
+msgstr "ከመቀየርዎ በፊት ምትኬን ይፍጠሩ"
+
+msgid "Create single or multiple bouquets"
+msgstr "ነጠላ ወይም ብዙ እቅፍ አበባዎችን ይፍጠሩ"
+
+msgid "DUPLICATES: {} groups, {} mappings"
+msgstr "ብዜቶች፡ {} ቡድኖች፣ {} ካርታዎች"
+
+msgid "DVB + Rytec"
+msgstr "DVB + መቅረጫ"
+
+msgid "DVB + Rytec + DTT (Full)"
+msgstr "DVB + Rytec + DTT (ሙሉ)"
+
+msgid "Database Directory"
+msgstr "የውሂብ ጎታ ማውጫ"
+
+msgid "Debug Mode"
+msgstr "ማረም ሁነታ"
+
+msgid "Default Folder"
+msgstr "ነባሪ አቃፊ"
+
+msgid "Default folder for opening and saving M3U files"
+msgstr "M3U ፋይሎችን ለመክፈት እና ለማስቀመጥ ነባሪ አቃፊ"
+
+msgid "Delete"
+msgstr "ሰርዝ"
+
+msgid "Deleted {} items"
+msgstr "{} ንጥሎች ተሰርዘዋል"
+
+msgid "Deleted {} items. No more duplicates."
+msgstr "{} ንጥሎች ተሰርዘዋል። ተጨማሪ ቅጂዎች የሉም።"
+
+msgid "Deleted {} items. Still in selection mode."
+msgstr "{} ንጥሎች ተሰርዘዋል። አሁንም በምርጫ ሁነታ ላይ።"
+
+msgid "Done"
+msgstr "ተከናውኗል"
+
+msgid "Duplicates"
+msgstr "የተባዙ"
+
+msgid "EPG Coverage: {}/{} channels ({:.1f}%)"
+msgstr "የ EPG ሽፋን፡ {}/{} ቻናሎች ({:.1f}%)"
+
+msgid "EPG assigned: {} | {}"
+msgstr "EPG ተመድቧል፡ {} | {}"
+
+msgid "EPG cache cleared! {} entries removed"
+msgstr "EPG መሸጎጫ ጸድቷል! {} ግቤቶች ተወግደዋል"
+
+msgid "EPG database reloaded successfully!"
+msgstr "EPG ዳታቤዝ በተሳካ ሁኔታ ዳግም ተጭኗል!"
+
+msgid "EPG mapper not available"
+msgstr "EPG ካርታ የለም"
+
+msgid "EPG mapper not initialized"
+msgstr "EPG ካርታ አልተጀመረም።"
+
+msgid "EPG matching algorithm"
+msgstr "EPG ተዛማጅ ስልተቀመር"
+
+msgid "EPGImport plugin not found"
+msgstr "EPGImport ተሰኪ አልተገኘም።"
+
+msgid "EPGImporter"
+msgstr "EPG አስመጪ"
+
+msgid "EPGShare Mode"
+msgstr "EPGShare ሁነታ"
+
+msgid "Enable EPG"
+msgstr "EPG ን አንቃ"
+
+msgid "Enable detailed logging"
+msgstr "ዝርዝር ምዝግብ ማስታወሻን አንቃ"
+
+msgid "Enigma2 Bouquet to Enigma2 Bouquet Conversion"
+msgstr "Enigma2 Bouquet ወደ Enigma2 Bouquet መቀየር"
+
+msgid "Enigma2 Bouquet to M3U Conversion"
+msgstr "Enigma2 Bouquet ወደ M3U ልወጣ"
+
+msgid "Enigma2 Bouquets to  Enigma2 Bouquets"
+msgstr "Enigma2 Bouquets ወደ Enigma2 Bouquets"
+
+msgid "Enigma2 Bouquets to  M3U"
+msgstr "Enigma2 Bouquets ወደ M3U"
+
+msgid "Error clearing EPG cache"
+msgstr "የ EPG መሸጎጫ ማጽዳት ላይ ስህተት"
+
+msgid "Error clearing database"
+msgstr "የውሂብ ጎታውን ማጽዳት ላይ ስህተት"
+
+msgid "Error deleting correction"
+msgstr "እርማትን መሰረዝ ላይ ስህተት"
+
+msgid "Error deleting items"
+msgstr "ንጥሎችን መሰረዝ ላይ ስህተት"
+
+msgid "Error deleting mapping"
+msgstr "ካርታ መስራትን መሰረዝ ላይ ስህተት"
+
+msgid "Error exporting database"
+msgstr "የውሂብ ጎታ ወደ ውጭ በመላክ ላይ ስህተት"
+
+msgid "Error finalizing import: {}"
+msgstr "ማስመጣት በማጠናቀቅ ላይ ስህተት፡ {}"
+
+msgid "Error importing database: {}"
+msgstr "የውሂብ ጎታ ማስመጣት ላይ ስህተት፡ {}"
+
+msgid "Error initiating service reload"
+msgstr "የአገልግሎት ዳግም መጫንን በማስጀመር ላይ ስህተት"
+
+msgid "Error loading database"
+msgstr "የውሂብ ጎታ መጫን ላይ ስህተት"
+
+msgid "Error opening plugin information: %s"
+msgstr "የተሰኪ መረጃን መክፈት ላይ ስህተት፡%s"
+
+msgid "Error processing conversion result"
+msgstr "የልወጣ ውጤትን በማስኬድ ላይ ስህተት"
+
+msgid "Error reloading EPG database: {}"
+msgstr "የ EPG ዳታቤዝ እንደገና መጫን ላይ ስህተት፡ {}"
+
+msgid "Error saving imported database"
+msgstr "ከውጭ የመጣ የውሂብ ጎታ በማስቀመጥ ላይ ስህተት"
+
+msgid "Error starting import: {}"
+msgstr "ማስመጣት መጀመር ላይ ስህተት፡ {}"
+
+msgid "Error undoing action"
+msgstr "እርምጃን መቀልበስ ላይ ስህተት"
+
+msgid "Error: Channel index out of range"
+msgstr "ስህተት፡ የሰርጥ መረጃ ጠቋሚ ከክልል ውጭ ነው።"
+
+msgid "Failed to initialize EPG mapper - check logs"
+msgstr "EPG ካርታን ማስጀመር አልተሳካም - የምዝግብ ማስታወሻዎችን ይመልከቱ"
+
+msgid "File loaded: {}"
+msgstr "ፋይል ተጭኗል፡ {}"
+
+msgid "File not found"
+msgstr "ፋይል አልተገኘም።"
+
+msgid "File write error: %s"
+msgstr "የፋይል መፃፍ ስህተት፡ %s"
+
+msgid "File: {}"
+msgstr "ፋይል፡ {}"
+
+msgid "Files larger than this will be sampled (1000 channels max)"
+msgstr "ከዚህ በላይ የሆኑ ፋይሎች በናሙና ይወሰዳሉ (ከፍተኛ 1000 ቻናሎች)"
+
+msgid "First select a match from the right list (use RIGHT arrow)"
+msgstr "መጀመሪያ ከቀኝ ዝርዝር ውስጥ ግጥሚያ ምረጥ (የቀኝ ቀስት ተጠቀም)"
+
+msgid "Found {} matches for: {} | Select and press OK"
+msgstr "ተገኝቷል {} ግጥሚያዎች ለ፡ {} | ይምረጡ እና እሺን ይጫኑ"
+
+msgid "Found {} matches so far for: {} | Searching..."
+msgstr "እስካሁን የተገኘው {} ግጥሚያዎች ለ፡ {} | በመፈለግ ላይ..."
+
+msgid "Generate EPG data for bouquets"
+msgstr "ለዕቅፍ አበባዎች የ EPG ውሂብ ይፍጠሩ"
+
+msgid "Global similarity threshold for all matches (20-100%)"
+msgstr "ለሁሉም ግጥሚያዎች ዓለም አቀፍ ተመሳሳይነት ገደብ (20-100%)"
+
+msgid "HDD Drive"
+msgstr ""
+
+msgid "Ignore DVB-T services on conversion"
+msgstr "ልወጣ ላይ የDVB-T አገልግሎቶችን ችላ በል"
+
+msgid "Import {} mappings from {}"
+msgstr "ካርታዎችን ከ{} አስመጣ"
+
+msgid "Invalid .m3u item format"
+msgstr "ልክ ያልሆነ .m3u ንጥል ቅርጸት"
+
+msgid "Invalid .tv item format"
+msgstr "ልክ ያልሆነ የቲቪ ንጥል ቅርጸት"
+
+msgid "Invalid XSPF file"
+msgstr "ልክ ያልሆነ XSPF ፋይል"
+
+msgid "Invalid database file structure"
+msgstr "ልክ ያልሆነ የውሂብ ጎታ ፋይል መዋቅር"
+
+msgid "Invalid selection"
+msgstr "ልክ ያልሆነ ምርጫ"
+
+msgid "JSON to Enigma2 Bouquet Conversion"
+msgstr "JSON ወደ Enigma2 Bouquet ለውጥ"
+
+msgid "JSON to M3U Conversion"
+msgstr "JSON ወደ M3U ቀይር"
+
+msgid "JSON to  Enigma2 Bouquets"
+msgstr "JSON ወደ Enigma2 Bouquets"
+
+msgid "JSON to  M3U"
+msgstr "JSON ወደ M3U"
+
+msgid "Language for EPG sources"
+msgstr "ቋንቋ ለ EPG ምንጮች"
+
+msgid "Large file detected: {:.1f}MB. Processing first {} channels..."
+msgstr "ትልቅ ፋይል ተገኝቷል፡ _CSH_0__MB መጀመሪያ {} ቻናሎችን በመስራት ላይ..."
+
+msgid "Large file threshold (MB)"
+msgstr "ትልቅ የፋይል ገደብ (ሜባ)"
+
+msgid "Loaded first %d channels. Press Green to convert."
+msgstr "መጀመሪያ %d ሰርጦች ተጭነዋል። ለመቀየር አረንጓዴውን ይጫኑ።"
+
+msgid "Loading database..."
+msgstr "የውሂብ ጎታ በመጫን ላይ..."
+
+msgid "Log file cleared successfully"
+msgstr "የምዝግብ ማስታወሻ ፋይል በተሳካ ሁኔታ ጸድቷል።"
+
+msgid "M3U to Enigma2 Bouquet Conversion"
+msgstr "M3U ወደ Enigma2 Bouquet ልወጣ"
+
+msgid "M3U to JSON Conversion"
+msgstr "M3U ወደ JSON ቀይር"
+
+msgid "M3U to  Enigma2 Bouquets"
+msgstr "M3U ወደ Enigma2 Bouquets"
+
+msgid "M3U to  JSON"
+msgstr "M3U ወደ JSON"
+
+msgid "Manual Corrections ({} total)"
+msgstr "የእጅ እርማቶች ({} አጠቃላይ)"
+
+msgid "Manual Database Editor"
+msgstr "በእጅ የውሂብ ጎታ አርታዒ"
+
+msgid "Manual EPG Match Editor"
+msgstr "በእጅ EPG ተዛማጅ አርታዒ"
+
+msgid "Manual database cleared"
+msgstr "በእጅ የውሂብ ጎታ ጸድቷል።"
+
+msgid "Manual database not available"
+msgstr "በእጅ የውሂብ ጎታ አይገኝም"
+
+msgid "Manual editing completed"
+msgstr "በእጅ ማረም ተጠናቅቋል"
+
+msgid "Manual editing completed - ready for conversion"
+msgstr "በእጅ ማረም ተጠናቅቋል - ለመለወጥ ዝግጁ"
+
+msgid "Mapping deleted successfully"
+msgstr "ካርታ ስራ በተሳካ ሁኔታ ተሰርዟል።"
+
+msgid "Match Editor"
+msgstr "ተዛማጅ አርታዒ"
+
+msgid "Match reset for: {}"
+msgstr "የግጥሚያ ዳግም ማስጀመር ለ፡ {}"
+
+msgid "Max DVB entries scanned during automatic Match Edit (Slow down scanning)"
+msgstr "ከፍተኛ የDVB ግቤቶች በራስ-ሰር ግጥሚያ አርትዕ ጊዜ ይቃኛሉ (የዘገየ ቅኝት)"
+
+msgid "Max Rytec entries scanned during automatic Match Edit (Slow down scanning)"
+msgstr "የማክስ Rytec ግቤቶች በራስ-ሰር ግጥሚያ አርትዕ (የዘገየ ቅኝት) ተቃኝተዋል።"
+
+msgid "Maximum backup copies"
+msgstr "ከፍተኛው የመጠባበቂያ ቅጂዎች"
+
+msgid "Maximum manual corrections to save"
+msgstr "ለማስቀመጥ ከፍተኛው በእጅ እርማቶች"
+
+msgid "Multiple Bouquets"
+msgstr "በርካታ እቅፍ አበባዎች"
+
+msgid "Network Storage"
+msgstr "የአውታረ መረብ ማከማቻ"
+
+msgid "Next"
+msgstr "ቀጥሎ"
+
+msgid "No IPTV channels found in the bouquet"
+msgstr "በእቅፉ ውስጥ ምንም የአይፒ ቲቪ ቻናሎች አልተገኙም።"
+
+msgid "No M3UConverter bouquets found to remove."
+msgstr "ለማስወገድ ምንም M3UConverter እቅፍ አበባዎች አልተገኙም።"
+
+msgid "No MANUAL changes to save"
+msgstr "ለማስቀመጥ ምንም ማንዋል ለውጦች የሉም"
+
+msgid "No MANUAL corrections saved"
+msgstr "ምንም ማኑዋል እርማቶች አልተቀመጡም።"
+
+msgid "No actions to undo"
+msgstr "የሚቀለበስ ምንም እርምጃ የለም።"
+
+msgid "No channels available"
+msgstr "ምንም ቻናሎች የሉም"
+
+msgid "No channels loaded. Please select a valid TV bouquet file."
+msgstr "ምንም ቻናሎች አልተጫኑም። እባክዎ የሚሰራ የቲቪ እቅፍ ፋይል ይምረጡ።"
+
+msgid "No conversion data available."
+msgstr "ምንም የልወጣ ውሂብ አይገኝም።"
+
+msgid "No conversion data available. Please run a conversion first."
+msgstr "ምንም የልወጣ ውሂብ አይገኝም። እባክዎ መጀመሪያ ልወጣ ያሂዱ።"
+
+msgid "No conversion statistics available."
+msgstr "ምንም የልወጣ ስታቲስቲክስ አይገኝም።"
+
+msgid "No duplicates available for selection"
+msgstr "ለምርጫ ምንም ብዜቶች የሉም"
+
+msgid "No duplicates found"
+msgstr "ምንም ብዜቶች አልተገኙም።"
+
+msgid "No duplicates found in the database"
+msgstr "በመረጃ ቋቱ ውስጥ ምንም ቅጂዎች አልተገኙም።"
+
+msgid "No file selected"
+msgstr "ምንም ፋይል አልተመረጠም።"
+
+msgid "No file selected for conversion"
+msgstr "ለመለወጥ ምንም ፋይል አልተመረጠም።"
+
+msgid "No items selected for deletion"
+msgstr "ለመሰረዝ የተመረጡ ንጥሎች የሉም"
+
+msgid "No manual corrections found"
+msgstr "በእጅ ምንም እርማቶች አልተገኙም።"
+
+msgid "No manual corrections to export"
+msgstr "ወደ ውጭ ለመላክ ምንም የእጅ እርማቶች የሉም"
+
+msgid "No mappings available"
+msgstr "ምንም የካርታ ስራዎች የሉም"
+
+msgid "No matches found - try different search"
+msgstr "ምንም ተዛማጅ አልተገኙም - የተለየ ፍለጋ ይሞክሩ"
+
+msgid "No matches found for: {}"
+msgstr "ምንም ተዛማጅ አልተገኘም ለ፡ {}"
+
+msgid "No statistics available"
+msgstr "ምንም ስታቲስቲክስ አይገኝም"
+
+msgid "No valid channels found in the JSON file"
+msgstr "በJSON ፋይል ውስጥ ምንም የሚሰራ ሰርጦች አልተገኙም።"
+
+msgid "Only DTT"
+msgstr "DTT ብቻ"
+
+msgid "Only DVB"
+msgstr "DVB ብቻ"
+
+msgid "Only Rytec"
+msgstr "Rytec ብቻ"
+
+msgid "Open File"
+msgstr "ፋይል ክፈት"
+
+msgid "Open manual editor after conversion"
+msgstr "ከተለወጠ በኋላ በእጅ አርታዒን ይክፈቱ"
+
+msgid "Playback error"
+msgstr "የመልሶ ማጫወት ስህተት"
+
+msgid "Playing: %s"
+msgstr "በመጫወት ላይ፡ %s"
+
+msgid "Please select a channel first"
+msgstr "እባክዎ መጀመሪያ ቻናል ይምረጡ"
+
+msgid "Please select a mapping (not a group header)"
+msgstr "እባክዎን የካርታ ስራ ይምረጡ (የቡድን ርዕስ አይደለም)"
+
+msgid "Please select a mapping to delete"
+msgstr "እባክዎ ለመሰረዝ ካርታ ይምረጡ"
+
+msgid "Please select a valid match from the right list"
+msgstr "እባክዎ ከትክክለኛው ዝርዝር ውስጥ ትክክለኛ ተዛማጅ ይምረጡ"
+
+msgid "Plugin Information"
+msgstr "ተሰኪ መረጃ"
+
+msgid "Position in channel list"
+msgstr "በሰርጥ ዝርዝር ውስጥ አቀማመጥ"
+
+msgid "Press RED to select file"
+msgstr "ፋይል ለመምረጥ RED ን ይጫኑ"
+
+msgid "Prev"
+msgstr "ቀዳሚ"
+
+msgid "Processing selection..."
+msgstr "ምርጫን በማሰናዳት ላይ..."
+
+msgid "Ready"
+msgstr "ዝግጁ"
+
+msgid "Ready for next operation"
+msgstr "ለቀጣይ ክዋኔ ዝግጁ"
+
+msgid "Ready to convert"
+msgstr "ለመለወጥ ዝግጁ"
+
+msgid "Ready: Select the file from the %s you configured in settings."
+msgstr "ዝግጁ፡ ፋይሉን በቅንብሮች ውስጥ ካዋቀሩት %s ይምረጡ።"
+
+msgid "Reloading services..."
+msgstr "አገልግሎቶችን እንደገና በመጫን ላይ..."
+
+msgid "Remove Bouquets"
+msgstr "እቅፍ አበባዎችን አስወግድ"
+
+msgid "Remove M3U Bouquets"
+msgstr "M3U Bouquets አስወግድ"
+
+msgid "Reset"
+msgstr "ዳግም አስጀምር"
+
+msgid "Run a conversion first to see statistics."
+msgstr "ስታቲስቲክስን ለማየት መጀመሪያ ልወጣን አሂድ።"
+
+msgid "SELECTION MODE: {} items selected"
+msgstr "የምርጫ ሁነታ፡ {} ንጥሎች ተመርጠዋል"
+
+msgid "Save All"
+msgstr "ሁሉንም አስቀምጥ"
+
+msgid "Save error"
+msgstr "ስህተት አስቀምጥ"
+
+msgid "Saved {} MANUAL corrections"
+msgstr "ተቀምጧል {} በእጅ ማስተካከያ"
+
+msgid "Searching matches for: {}..."
+msgstr "ተዛማጅ ፍለጋ ለ፡ {}..."
+
+msgid "Select"
+msgstr "ይምረጡ"
+
+msgid "Select a channel to correct the match"
+msgstr "ግጥሚያውን ለማስተካከል ቻናል ይምረጡ"
+
+msgid "Select a channel to edit (use OK or RIGHT to go to matches)"
+msgstr "ለማርትዕ ቻናል ይምረጡ (ወደ ግጥሚያዎች ለመሄድ እሺ ወይም ቀኝ ይጠቀሙ)"
+
+msgid "Select a match and press OK to assign"
+msgstr "ተዛማጅ ይምረጡ እና ለመመደብ እሺን ይጫኑ"
+
+msgid "Select databases for channel matching"
+msgstr "ለሰርጥ ማመሳሰል የውሂብ ጎታዎችን ይምረጡ"
+
+msgid "Select file to import from {}"
+msgstr "ከ{} የሚያስመጣውን ፋይል ይምረጡ"
+
+msgid "Select import location"
+msgstr "የማስመጣት ቦታን ይምረጡ"
+
+msgid "Selection mode active. Select items with OK"
+msgstr "የምርጫ ሁነታ ገባሪ ነው። እሺ ጋር እቃዎችን ይምረጡ"
+
+msgid "Selection mode off"
+msgstr "የምርጫ ሁነታ ጠፍቷል"
+
+msgid "Selection mode: Select items with OK"
+msgstr "የመምረጫ ሁነታ፡ እቃዎችን ከ OK ጋር ይምረጡ"
+
+msgid "Service reload initiated"
+msgstr "አገልግሎት ዳግም መጫን ተጀመረ"
+
+msgid "Similarity threshold for DVB matches (20-100%)"
+msgstr "ለDVB ግጥሚያዎች ተመሳሳይነት ገደብ (20-100%)"
+
+msgid "Similarity threshold for Rytec matches (20-100%)"
+msgstr "ለRytec ግጥሚያዎች ተመሳሳይነት ገደብ (20-100%)"
+
+msgid "Single Bouquet"
+msgstr "ነጠላ እቅፍ"
+
+msgid "Standard Mode"
+msgstr "መደበኛ ሁነታ"
+
+msgid "Stopped"
+msgstr "ቆሟል"
+
+msgid "Temporary"
+msgstr "ጊዜያዊ"
+
+msgid "Temporary Files"
+msgstr "ጊዜያዊ ፋይሎች"
+
+msgid "Tools"
+msgstr "መሳሪያዎች"
+
+msgid "Top"
+msgstr "ከፍተኛ"
+
+msgid "USB Drive"
+msgstr "የዩኤስቢ ድራይቭ"
+
+msgid "Undo"
+msgstr "ቀልብስ"
+
+msgid "Undo: Restored previous state for {}"
+msgstr "ይቀልብሱ፡ ለ{} ወደ ቀድሞ ሁኔታው ​​ተመልሷል"
+
+msgid "Universal Converter"
+msgstr "ሁለንተናዊ መለወጫ"
+
+msgid "Unknown error"
+msgstr "ያልታወቀ ስህተት"
+
+msgid "Unsupported conversion type"
+msgstr "የማይደገፍ የልወጣ አይነት"
+
+msgid "Use saved manual corrections"
+msgstr "በእጅ የተቀመጡ እርማቶችን ተጠቀም"
+
+msgid "We're ready: what do you want to do?"
+msgstr "ዝግጁ ነን፡ ምን ማድረግ ትፈልጋለህ?"
+
+msgid "XSPF conversion error: %s"
+msgstr "የXSPF ልወጣ ስህተት፡ %s"
+
+msgid "XSPF to M3U Playlist Conversion"
+msgstr "የXSPF ወደ M3U አጫዋች ዝርዝር ለውጥ"
+
+msgid "XSPF to  M3U Playlist"
+msgstr "XSPF ወደ M3U አጫዋች ዝርዝር"
+
+msgid "merged"
+msgstr "ተቀላቀለ"
+
+msgid "replaced"
+msgstr "ተተካ"
+
+msgid "tv_to_m3u Conversion error: %s"
+msgstr "tv_to_m3u የመቀየር ስህተት፡ %s"
+
+msgid " Current total: {}"
+msgstr "የአሁኑ ጠቅላላ፡ {}"
+
+msgid " DVB: {} channels"
+msgstr "DVB፡ {} ቻናሎች"
+
+msgid " Duplicate mappings: {}"
+msgstr "የተባዙ ካርታዎች፡ {}"
+
+msgid " Hit: {} ({:.1f}%)"
+msgstr "መምታት፡ {} ({:.1f}%)"
+
+msgid " Miss: {}"
+msgstr "ሚስ፡ {}"
+
+msgid " Mode: {}"
+msgstr "ሁነታ፡ {}"
+
+msgid " New mappings: {}"
+msgstr "አዲስ ካርታዎች፡ {}"
+
+msgid " Rytec: {} channels"
+msgstr "Rytec፡ {} ቻናሎች"
+
+msgid " Size: {} entries"
+msgstr "መጠን፡ {} ግቤቶች"
+
+msgid " Total in import file: {}"
+msgstr "በአጠቃላይ የማስመጣት ፋይል፡ {}"
+
+msgid "  Manual DB: {} ({:.1f}%)"
+msgstr "በእጅ ዲቢ፡ {} ({:.1f}%)"
+
+msgid "  DVB-S: {} ({:.1f}%)"
+msgstr "DVB-S፡ {} ({:.1f}%)"
+
+msgid "  DVB-T: {} ({:.1f}%)"
+msgstr "DVB-T፡ {} ({:.1f}%)"
+
+msgid "  IPTV Fallback: {} ({:.1f}%)"
+msgstr "IPTV ውድቀት፡ {} ({:.1f}%)"
+
+msgid "  Rytec: {} ({:.1f}%)"
+msgstr "Rytec፡ {} ({:.1f}%)"
+
+msgid " Conversion type: {}"
+msgstr "የልወጣ አይነት፡ {}"
+
+msgid " Status: Completed successfully"
+msgstr "ሁኔታ፡ በተሳካ ሁኔታ ተጠናቋል"
+
+msgid " Valid channels processed: {}"
+msgstr "የሚሰሩ ሰርጦች፡ {}"
+
+msgid " Edit this mapping"
+msgstr "ይህን ካርታ አስተካክል።"
+
+msgid " Manual edits applied: {}"
+msgstr "በእጅ ማስተካከያዎች ተተግብረዋል፡ {}"
+
+msgid " Open Database Editor"
+msgstr "የውሂብ ጎታ አርታዒን ክፈት"
+
+msgid " Error generating statistics"
+msgstr "ስታቲስቲክስን በማመንጨት ላይ ስህተት"
+
+msgid " Merge (keep both)"
+msgstr "አዋህድ (ሁለቱንም አስቀምጥ)"
+
+msgid " New mappings ({}):"
+msgstr "አዲስ ካርታዎች ({})፦"
+
+msgid " CONVERSION COMPLETE"
+msgstr "ልወጣ ተጠናቋል"
+
+msgid " Effective EPG matches: {}"
+msgstr "ውጤታማ የ EPG ግጥሚያዎች፡ {}"
+
+msgid " TOTAL CHANNELS: {}"
+msgstr "ጠቅላላ ቻናሎች፡ {}"
+
+msgid " View Manual Database"
+msgstr "በእጅ ዳታቤዝ ይመልከቱ"
+
+msgid " CACHE PERFORMANCE:"
+msgstr "የመሸጎጫ አፈጻጸም፡"
+
+msgid " Cache efficiency: {}"
+msgstr "የመሸጎጫ ቅልጥፍና፡ {}"
+
+msgid " Create Backup"
+msgstr "ምትኬን ይፍጠሩ"
+
+msgid " Manual DB matches: {}"
+msgstr "በእጅ ዲቢ ግጥሚያዎች፡ {}"
+
+msgid " Output file: {}"
+msgstr "የውጤት ፋይል፡ {}"
+
+msgid " File size: {}"
+msgstr "የፋይል መጠን፡ {}"
+
+msgid " EFFECTIVE EPG coverage: {}"
+msgstr "ውጤታማ የ EPG ሽፋን፡ {}"
+
+msgid " EPG COVERAGE: {:.1f}%"
+msgstr "የ EPG ሽፋን፡ _CSH_0__%"
+
+msgid " Statistics:"
+msgstr "ስታቲስቲክስ፡"
+
+msgid " EPG Cache Statistics"
+msgstr "EPG መሸጎጫ ስታቲስቲክስ"
+
+msgid " EPG STATISTICS - {}"
+msgstr "EPG ስታቲስቲክስ - {}"
+
+msgid " IMPORT PREVIEW"
+msgstr "ቅድመ እይታን አስመጣ"
+
+msgid " Preview Changes"
+msgstr "ለውጦችን አስቀድመው ይመልከቱ"
+
+msgid " Total channels in file: {}"
+msgstr "ጠቅላላ ቻናሎች በፋይል፡ {}"
+
+msgid " Plugin Info"
+msgstr "ተሰኪ መረጃ"
+
+msgid " Manual Match Editing"
+msgstr "በእጅ ተዛማጅ አርትዖት"
+
+msgid " DVB channels in DB: {}"
+msgstr "በዲቢ ውስጥ የDVB ቻናሎች፡ {}"
+
+msgid " DVB-T EPG matches: {}"
+msgstr "DVB-T EPG ግጥሚያዎች፡ {}"
+
+msgid " Export Manual Database"
+msgstr "በእጅ ዳታቤዝ ወደ ውጪ ላክ"
+
+msgid " Import Manual Database"
+msgstr "በእጅ ዳታቤዝ አስመጣ"
+
+msgid " DVB EPG matches: {}"
+msgstr "DVB EPG ግጥሚያዎች፡ {}"
+
+msgid " Duplicates ({}):"
+msgstr "የተባዙ ({})፦"
+
+msgid " Reload EPG Database"
+msgstr "የ EPG ዳታቤዝ ዳግም ጫን"
+
+msgid " Reload Services"
+msgstr "አገልግሎቶችን እንደገና ጫን"
+
+msgid " Replace All ({} mappings)"
+msgstr "ሁሉንም ይተኩ ({} ካርታዎች)"
+
+msgid " Fallback (no EPG): {}"
+msgstr "ወደኋላ መመለስ (EPG የለም)፡ {}"
+
+msgid " Cache size: {} entries"
+msgstr "የመሸጎጫ መጠን፡ {} ግቤቶች"
+
+msgid " Back"
+msgstr "ተመለስ"
+
+msgid " Back to Tools"
+msgstr "ወደ መሳሪያዎች ተመለስ"
+
+msgid " Back to locations"
+msgstr "ወደ ቦታዎች ተመለስ"
+
+msgid " MATCH BREAKDOWN:"
+msgstr "የግጥሚያ ብልሽት፡-"
+
+msgid " Completed at: {}"
+msgstr "የተጠናቀቀው በ፡ {}"
+
+msgid " Edited at: {}"
+msgstr "የተስተካከለው በ፡ {}"
+
+msgid " === Manual Database Management ==="
+msgstr "== በእጅ የውሂብ ጎታ አስተዳደር ==="
+
+msgid " DATABASE INFO:"
+msgstr "የውሂብ ጎታ መረጃ፡-"
+
+msgid " Database mode: {}"
+msgstr "የውሂብ ጎታ ሁነታ፡ {}"
+
+msgid " Rytec channels in DB: {}"
+msgstr "Rytec ሰርጦች በዲቢ፡ {}"
+
+msgid " Clear Log File"
+msgstr "የምዝግብ ማስታወሻ ፋይልን ያጽዱ"
+
+msgid " Delete this mapping"
+msgstr "ይህን የካርታ ስራ ሰርዝ"
+
+msgid " Skipped channels: {}"
+msgstr "የተዘለሉ ቻናሎች፡ {}"
+
+msgid " Rytec EPG matches: {}"
+msgstr "Rytec EPG ተዛማጅ፡ {}"
+
+msgid " Clean Manual Database"
+msgstr "ማኑዋል ዳታቤዝ አጽዳ"
+
+msgid " Clear EPG Cache"
+msgstr "የ EPG መሸጎጫ አጽዳ"

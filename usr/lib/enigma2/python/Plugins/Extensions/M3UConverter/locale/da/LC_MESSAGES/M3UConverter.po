@@ -1,0 +1,968 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: M 3UConverter\n"
+"PO-Revision-Date: 2026-08-23 08:13+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "(Based on selected database mode: {})"
+msgstr "(Baseret på valgt databasetilstand: {})"
+
+msgid "(Reused previous manual corrections)"
+msgstr "(Genbrugte tidligere manuelle rettelser)"
+
+msgid "- {} duplicate groups"
+msgstr "- {} dubletgrupper"
+
+msgid "-- Auto-open Editor"
+msgstr "-- Automatisk åbning af Editor"
+
+msgid "-- DVB search limit (Match Edit)"
+msgstr "-- DVB-søgegrænse (Match Edit)"
+
+msgid "-- Database Mode"
+msgstr "-- Databasetilstand"
+
+msgid "-- EPG Generation Mode"
+msgstr "-- EPG-genereringstilstand"
+
+msgid "-- EPG Language"
+msgstr "-- EPG sprog"
+
+msgid "-- Ignore DVB-T services"
+msgstr "-- Ignorer DVB-T-tjenester"
+
+msgid "-- Max Backups"
+msgstr "-- Max sikkerhedskopier"
+
+msgid "-- Rytec search limit (Match Edit)"
+msgstr "-- Rytec søgegrænse (Match Edit)"
+
+msgid "-- Similarity Threshold DVB (%)"
+msgstr ""
+
+msgid "-- Similarity Threshold Global (%)"
+msgstr "-- Globale lighedstærskel (%)"
+
+msgid "-- Similarity Threshold Rytec (%)"
+msgstr ""
+
+msgid "-- Use Manual Database"
+msgstr "-- Brug manuel database"
+
+msgid "--- {} ({} duplicates) ---"
+msgstr "--- {} ({} dubletter) ---"
+
+msgid "---- Max manual corrections to save"
+msgstr "---- Max manuelle rettelser at gemme"
+
+msgid ">>> DUPLICATES VIEW"
+msgstr ">>> DUBLIKATER VISNING"
+
+msgid ">>> SELECTION MODE - Select items with OK"
+msgstr ">>> VALG MODUS - Vælg elementer med OK"
+
+msgid ">>> {} duplicate groups, {} total mappings"
+msgstr ">>> {} dubletgrupper, {} tilknytninger i alt"
+
+msgid ">>> {} groups, {} mappings total"
+msgstr ">>> {} grupper, {} tilknytninger i alt"
+
+msgid "ALL MAPPINGS: {} total"
+msgstr "ALLE KORTLÆGNINGER: {} i alt"
+
+msgid "Action for: {}"
+msgstr "Handling for: {}"
+
+msgid "Advanced Tools Menu"
+msgstr "Menuen Avancerede værktøjer"
+
+msgid "All Mappings"
+msgstr "Alle kortlægninger"
+
+msgid "Archimede Converter Settings"
+msgstr "Indstillinger for Archimede Converter"
+
+msgid "Archimede Universal Converter by Lululla v.{version} - {page}"
+msgstr "Archimede Universal Converter af Lululla v.{version} - {page}"
+
+msgid "Archimede Universal Converter v.%s"
+msgstr ""
+
+msgid "Archimede Universal Converter v.%s by Lululla"
+msgstr "Archimede Universal Converter v.%s af Lululla"
+
+msgid "Backup created successfully!"
+msgstr "Sikkerhedskopien blev oprettet!"
+
+msgid "Backup failed: {}"
+msgstr "Sikkerhedskopiering mislykkedes: {}"
+
+msgid "Barry Allen"
+msgstr ""
+
+msgid "Bottom"
+msgstr "Bund"
+
+msgid "Bouquet Mode"
+msgstr "Buket tilstand"
+
+msgid "Bouquet Position"
+msgstr "Buket position"
+
+msgid "Cancel"
+msgstr "Ophæve"
+
+msgid "Cancelling conversion..."
+msgstr "Annullerer konvertering..."
+
+msgid "Cancelling..."
+msgstr "Annullerer..."
+
+msgid "Channel: {} | {} | Match: {} | Press RIGHT for matches"
+msgstr "Kanal: {} | {} | Match: {} | Tryk på HØJRE for kampe"
+
+msgid "Close"
+msgstr "Tæt"
+
+msgid "Conversion already in progress"
+msgstr "Konvertering er allerede i gang"
+
+msgid "Conversion cancelled"
+msgstr "Konvertering annulleret"
+
+msgid "Conversion completed"
+msgstr "Konvertering gennemført"
+
+msgid "Conversion error: %s"
+msgstr "Konverteringsfejl: %s"
+
+msgid "Conversion failed: Invalid result"
+msgstr "Konvertering mislykkedes: Ugyldigt resultat"
+
+msgid "Conversion failed: {}"
+msgstr "Konvertering mislykkedes: {}"
+
+msgid "Conversion in progress..."
+msgstr "Konvertering i gang..."
+
+msgid "Convert"
+msgstr "Konvertere"
+
+msgid "Convert HLS Streams"
+msgstr "Konverter HLS-streams"
+
+msgid "Convert HLS to Enigma2 format"
+msgstr "Konverter HLS til Enigma2-format"
+
+msgid "Convert JSON to M3U"
+msgstr "Konverter JSON til M3U"
+
+msgid "Convert JSON to TV"
+msgstr "Konverter JSON til TV"
+
+msgid "Convert M3U to JSON"
+msgstr "Konverter M3U til JSON"
+
+msgid "Convert M3U to TV"
+msgstr "Konverter M3U til TV"
+
+msgid "Convert TV to M3U"
+msgstr "Konverter TV til M3U"
+
+msgid "Convert TV to TV"
+msgstr "Konverter TV til TV"
+
+msgid "Convert XSPF to M3U"
+msgstr "Konverter XSPF til M3U"
+
+msgid "Convert between M3U Enigma2 Bouquets Json"
+msgstr "Konverter mellem M3U Enigma2 Bouquets Json"
+
+msgid "Converting: %d/%d (%d%%)"
+msgstr "Konvertering: %d/%d (%d%%)"
+
+msgid "Converting: {name} ({percent}%)"
+msgstr "Konvertering: {name} ({percent}%)"
+
+msgid "Converting: {title} ({percent}%)"
+msgstr "Konvertering: {name} ({percent}%)"
+
+msgid "Converting: {} ({}%)"
+msgstr "Konvertering: {} ({}%)"
+
+msgid "Create Backup"
+msgstr "Opret sikkerhedskopi"
+
+msgid "Create backup before conversion"
+msgstr "Opret backup før konvertering"
+
+msgid "Create single or multiple bouquets"
+msgstr "Lav en enkelt eller flere buketter"
+
+msgid "DUPLICATES: {} groups, {} mappings"
+msgstr "DUBLIKATER: {} grupper, {} tilknytninger"
+
+msgid "DVB + Rytec"
+msgstr "DVB + Gravør"
+
+msgid "DVB + Rytec + DTT (Full)"
+msgstr "DVB + Rytec + DTT (fuld)"
+
+msgid "Database Directory"
+msgstr ""
+
+msgid "Debug Mode"
+msgstr "Fejlretningstilstand"
+
+msgid "Default Folder"
+msgstr "Standardmappe"
+
+msgid "Default folder for opening and saving M3U files"
+msgstr "Standardmappe til åbning og lagring af M3U-filer"
+
+msgid "Delete"
+msgstr "Slet"
+
+msgid "Deleted {} items"
+msgstr "Slettede {} elementer"
+
+msgid "Deleted {} items. No more duplicates."
+msgstr "Slettede {} elementer. Ikke flere dubletter."
+
+msgid "Deleted {} items. Still in selection mode."
+msgstr "Slettede {} elementer. Stadig i valgtilstand."
+
+msgid "Done"
+msgstr "Færdig"
+
+msgid "Duplicates"
+msgstr "Dubletter"
+
+msgid "EPG Coverage: {}/{} channels ({:.1f}%)"
+msgstr "EPG-dækning: {}/{} kanaler ({:.1f}%)"
+
+msgid "EPG assigned: {} | {}"
+msgstr "EPG tildelt: {} | {}"
+
+msgid "EPG cache cleared! {} entries removed"
+msgstr "EPG-cache ryddet! {} poster fjernet"
+
+msgid "EPG database reloaded successfully!"
+msgstr "EPG-databasen blev genindlæst!"
+
+msgid "EPG mapper not available"
+msgstr "EPG-mapper ikke tilgængelig"
+
+msgid "EPG mapper not initialized"
+msgstr "EPG-mapper ikke initialiseret"
+
+msgid "EPG matching algorithm"
+msgstr "EPG matchende algoritme"
+
+msgid "EPGImport plugin not found"
+msgstr "EPGImport plugin blev ikke fundet"
+
+msgid "EPGImporter"
+msgstr "EPG importør"
+
+msgid "EPGShare Mode"
+msgstr "EPGShare-tilstand"
+
+msgid "Enable EPG"
+msgstr "Aktiver EPG"
+
+msgid "Enable detailed logging"
+msgstr "Aktiver detaljeret logning"
+
+msgid "Enigma2 Bouquet to Enigma2 Bouquet Conversion"
+msgstr "Enigma2 Bouquet til Enigma2 Bouquet Konvertering"
+
+msgid "Enigma2 Bouquet to M3U Conversion"
+msgstr "Enigma2 Bouquet til M3U Konvertering"
+
+msgid "Enigma2 Bouquets to  Enigma2 Bouquets"
+msgstr "Enigma2 Buketter til Enigma2 Buketter"
+
+msgid "Enigma2 Bouquets to  M3U"
+msgstr "Enigma2 Buketter til M3U"
+
+msgid "Error clearing EPG cache"
+msgstr "Fejl ved rydning af EPG-cache"
+
+msgid "Error clearing database"
+msgstr "Fejl ved rydning af database"
+
+msgid "Error deleting correction"
+msgstr "Fejl ved sletning af rettelse"
+
+msgid "Error deleting items"
+msgstr "Fejl ved sletning af elementer"
+
+msgid "Error deleting mapping"
+msgstr "Fejl ved sletning af kortlægning"
+
+msgid "Error exporting database"
+msgstr "Fejl ved eksport af database"
+
+msgid "Error finalizing import: {}"
+msgstr "Fejl ved færdiggørelse af import: {}"
+
+msgid "Error importing database: {}"
+msgstr "Fejl ved import af database: {}"
+
+msgid "Error initiating service reload"
+msgstr "Fejl ved påbegyndelse af genindlæsning af tjeneste"
+
+msgid "Error loading database"
+msgstr "Fejl ved indlæsning af database"
+
+msgid "Error opening plugin information: %s"
+msgstr "Fejl ved åbning af plugin-oplysninger: %s"
+
+msgid "Error processing conversion result"
+msgstr "Fejl ved behandling af konverteringsresultat"
+
+msgid "Error reloading EPG database: {}"
+msgstr "Fejl ved genindlæsning af EPG-database: {}"
+
+msgid "Error saving imported database"
+msgstr "Fejl ved lagring af importeret database"
+
+msgid "Error starting import: {}"
+msgstr "Fejl ved start af import: {}"
+
+msgid "Error undoing action"
+msgstr "Fejl under fortrydelse af handling"
+
+msgid "Error: Channel index out of range"
+msgstr "Fejl: Kanalindeks uden for rækkevidde"
+
+msgid "Failed to initialize EPG mapper - check logs"
+msgstr "Kunne ikke initialisere EPG-mapper - tjek logfiler"
+
+msgid "File loaded: {}"
+msgstr "Fil indlæst: {}"
+
+msgid "File not found"
+msgstr "Filen blev ikke fundet"
+
+msgid "File write error: %s"
+msgstr "Fil skrivefejl: %s"
+
+msgid "File: {}"
+msgstr "Fil: {}"
+
+msgid "Files larger than this will be sampled (1000 channels max)"
+msgstr "Filer større end dette vil blive samplet (maks. 1000 kanaler)"
+
+msgid "First select a match from the right list (use RIGHT arrow)"
+msgstr "Vælg først et match fra den højre liste (brug HØJRE pil)"
+
+msgid "Found {} matches for: {} | Select and press OK"
+msgstr "Fundet {} matcher til: {} | Vælg og tryk på OK"
+
+msgid "Found {} matches so far for: {} | Searching..."
+msgstr "Fundet {} resultater indtil videre for: {} | Søger..."
+
+msgid "Generate EPG data for bouquets"
+msgstr "Generer EPG-data til buketter"
+
+msgid "Global similarity threshold for all matches (20-100%)"
+msgstr "Global lighedstærskel for alle kampe (20-100 %)"
+
+msgid "HDD Drive"
+msgstr "HDD-drev"
+
+msgid "Ignore DVB-T services on conversion"
+msgstr "Ignorer DVB-T-tjenester ved konvertering"
+
+msgid "Import {} mappings from {}"
+msgstr "Importer {} tilknytninger fra {}"
+
+msgid "Invalid .m3u item format"
+msgstr "Ugyldigt .m3u-vareformat"
+
+msgid "Invalid .tv item format"
+msgstr "Ugyldigt .tv-elementformat"
+
+msgid "Invalid XSPF file"
+msgstr "Ugyldig XSPF-fil"
+
+msgid "Invalid database file structure"
+msgstr "Ugyldig databasefilstruktur"
+
+msgid "Invalid selection"
+msgstr "Ugyldigt valg"
+
+msgid "JSON to Enigma2 Bouquet Conversion"
+msgstr "JSON til Enigma2 Bouquet Konvertering"
+
+msgid "JSON to M3U Conversion"
+msgstr "JSON til M3U konvertering"
+
+msgid "JSON to  Enigma2 Bouquets"
+msgstr "JSON til Enigma2 buketter"
+
+msgid "JSON to  M3U"
+msgstr "JSON til M3U"
+
+msgid "Language for EPG sources"
+msgstr "Sprog til EPG-kilder"
+
+msgid "Large file detected: {:.1f}MB. Processing first {} channels..."
+msgstr "Stor fil fundet: {:.1f}MB. Behandler første {} kanaler..."
+
+msgid "Large file threshold (MB)"
+msgstr "Stor filgrænse (MB)"
+
+msgid "Loaded first %d channels. Press Green to convert."
+msgstr "Indlæste første %d kanaler. Tryk på Grøn for at konvertere."
+
+msgid "Loading database..."
+msgstr "Indlæser database..."
+
+msgid "Log file cleared successfully"
+msgstr "Logfilen blev ryddet"
+
+msgid "M3U to Enigma2 Bouquet Conversion"
+msgstr "M3U til Enigma2 Bouquet Konvertering"
+
+msgid "M3U to JSON Conversion"
+msgstr "M3U til JSON-konvertering"
+
+msgid "M3U to  Enigma2 Bouquets"
+msgstr "M3U til Enigma2 buketter"
+
+msgid "M3U to  JSON"
+msgstr "M3U til JSON"
+
+msgid "Manual Corrections ({} total)"
+msgstr "Manuelle rettelser ({} i alt)"
+
+msgid "Manual Database Editor"
+msgstr "Manuel databaseeditor"
+
+msgid "Manual EPG Match Editor"
+msgstr "Manuel EPG Match Editor"
+
+msgid "Manual database cleared"
+msgstr "Manuel database ryddet"
+
+msgid "Manual database not available"
+msgstr "Manuel database er ikke tilgængelig"
+
+msgid "Manual editing completed"
+msgstr "Manuel redigering afsluttet"
+
+msgid "Manual editing completed - ready for conversion"
+msgstr "Manuel redigering afsluttet - klar til konvertering"
+
+msgid "Mapping deleted successfully"
+msgstr "Kortlægningen blev slettet"
+
+msgid "Match Editor"
+msgstr ""
+
+msgid "Match reset for: {}"
+msgstr "Match nulstilling for: {}"
+
+msgid "Max DVB entries scanned during automatic Match Edit (Slow down scanning)"
+msgstr "Maks. DVB-indgange scannet under automatisk matchredigering (Sænk scanning)"
+
+msgid "Max Rytec entries scanned during automatic Match Edit (Slow down scanning)"
+msgstr "Max Rytec-poster scannet under automatisk matchredigering (Sænk scanning)"
+
+msgid "Maximum backup copies"
+msgstr "Maksimalt antal sikkerhedskopier"
+
+msgid "Maximum manual corrections to save"
+msgstr "Maksimal manuelle rettelser at gemme"
+
+msgid "Multiple Bouquets"
+msgstr "Flere buketter"
+
+msgid "Network Storage"
+msgstr "Netværkslagring"
+
+msgid "Next"
+msgstr "Næste"
+
+msgid "No IPTV channels found in the bouquet"
+msgstr "Ingen IPTV-kanaler fundet i buketten"
+
+msgid "No M3UConverter bouquets found to remove."
+msgstr "Ingen M3UConverter-buketter fundet at fjerne."
+
+msgid "No MANUAL changes to save"
+msgstr "Ingen MANUELLE ændringer at gemme"
+
+msgid "No MANUAL corrections saved"
+msgstr "Ingen MANUELLE rettelser gemt"
+
+msgid "No actions to undo"
+msgstr "Ingen handlinger at fortryde"
+
+msgid "No channels available"
+msgstr "Ingen tilgængelige kanaler"
+
+msgid "No channels loaded. Please select a valid TV bouquet file."
+msgstr "Ingen kanaler indlæst. Vælg venligst en gyldig tv-buketfil."
+
+msgid "No conversion data available."
+msgstr "Ingen tilgængelige konverteringsdata."
+
+msgid "No conversion data available. Please run a conversion first."
+msgstr "Ingen tilgængelige konverteringsdata. Kør venligst en konvertering først."
+
+msgid "No conversion statistics available."
+msgstr "Ingen konverteringsstatistik tilgængelig."
+
+msgid "No duplicates available for selection"
+msgstr "Ingen dubletter tilgængelige for valg"
+
+msgid "No duplicates found"
+msgstr "Ingen dubletter fundet"
+
+msgid "No duplicates found in the database"
+msgstr "Ingen dubletter fundet i databasen"
+
+msgid "No file selected"
+msgstr "Ingen fil valgt"
+
+msgid "No file selected for conversion"
+msgstr "Der er ikke valgt nogen fil til konvertering"
+
+msgid "No items selected for deletion"
+msgstr "Ingen elementer er valgt til sletning"
+
+msgid "No manual corrections found"
+msgstr "Ingen manuelle rettelser fundet"
+
+msgid "No manual corrections to export"
+msgstr "Ingen manuelle rettelser til eksport"
+
+msgid "No mappings available"
+msgstr "Ingen kortlægninger tilgængelige"
+
+msgid "No matches found - try different search"
+msgstr "Ingen resultater fundet - prøv en anden søgning"
+
+msgid "No matches found for: {}"
+msgstr "Ingen resultater fundet for: {}"
+
+msgid "No statistics available"
+msgstr "Ingen statistik tilgængelig"
+
+msgid "No valid channels found in the JSON file"
+msgstr "Ingen gyldige kanaler fundet i JSON-filen"
+
+msgid "Only DTT"
+msgstr "Kun DTT"
+
+msgid "Only DVB"
+msgstr "Kun DVB"
+
+msgid "Only Rytec"
+msgstr "Kun Rytec"
+
+msgid "Open File"
+msgstr "Åbn fil"
+
+msgid "Open manual editor after conversion"
+msgstr "Åbn manuel editor efter konvertering"
+
+msgid "Playback error"
+msgstr "Afspilningsfejl"
+
+msgid "Playing: %s"
+msgstr "Afspiller: %s"
+
+msgid "Please select a channel first"
+msgstr "Vælg venligst en kanal først"
+
+msgid "Please select a mapping (not a group header)"
+msgstr "Vælg venligst en tilknytning (ikke en gruppeoverskrift)"
+
+msgid "Please select a mapping to delete"
+msgstr "Vælg venligst en kortlægning, der skal slettes"
+
+msgid "Please select a valid match from the right list"
+msgstr "Vælg venligst et gyldigt match fra den højre liste"
+
+msgid "Plugin Information"
+msgstr "Plugin-oplysninger"
+
+msgid "Position in channel list"
+msgstr "Position i kanallisten"
+
+msgid "Press RED to select file"
+msgstr "Tryk på RØD for at vælge fil"
+
+msgid "Prev"
+msgstr ""
+
+msgid "Processing selection..."
+msgstr "Behandler valg..."
+
+msgid "Ready"
+msgstr "Parat"
+
+msgid "Ready for next operation"
+msgstr "Klar til næste operation"
+
+msgid "Ready to convert"
+msgstr "Klar til at konvertere"
+
+msgid "Ready: Select the file from the %s you configured in settings."
+msgstr "Klar: Vælg filen fra %s, du konfigurerede i indstillingerne."
+
+msgid "Reloading services..."
+msgstr "Genindlæser tjenester..."
+
+msgid "Remove Bouquets"
+msgstr "Fjern buketter"
+
+msgid "Remove M3U Bouquets"
+msgstr "Fjern M3U-buketter"
+
+msgid "Reset"
+msgstr "Nulstil"
+
+msgid "Run a conversion first to see statistics."
+msgstr "Kør først en konvertering for at se statistik."
+
+msgid "SELECTION MODE: {} items selected"
+msgstr "UDVALGSTILSTAND: {} elementer er valgt"
+
+msgid "Save All"
+msgstr "Gem alle"
+
+msgid "Save error"
+msgstr "Gem fejl"
+
+msgid "Saved {} MANUAL corrections"
+msgstr "Gemte {} MANUELLE rettelser"
+
+msgid "Searching matches for: {}..."
+msgstr "Søger match efter: {}..."
+
+msgid "Select"
+msgstr "Vælge"
+
+msgid "Select a channel to correct the match"
+msgstr "Vælg en kanal for at rette kampen"
+
+msgid "Select a channel to edit (use OK or RIGHT to go to matches)"
+msgstr "Vælg en kanal, der skal redigeres (brug OK eller HØJRE for at gå til kampe)"
+
+msgid "Select a match and press OK to assign"
+msgstr "Vælg et match, og tryk på OK for at tildele"
+
+msgid "Select databases for channel matching"
+msgstr "Vælg databaser til kanalmatchning"
+
+msgid "Select file to import from {}"
+msgstr "Vælg fil, der skal importeres fra {}"
+
+msgid "Select import location"
+msgstr "Vælg importplacering"
+
+msgid "Selection mode active. Select items with OK"
+msgstr "Valgtilstand aktiv. Vælg elementer med OK"
+
+msgid "Selection mode off"
+msgstr "Valgtilstand fra"
+
+msgid "Selection mode: Select items with OK"
+msgstr "Valgtilstand: Vælg elementer med OK"
+
+msgid "Service reload initiated"
+msgstr "Tjenesteindlæsning påbegyndt"
+
+msgid "Similarity threshold for DVB matches (20-100%)"
+msgstr "Lighedstærskel for DVB-kampe (20-100 %)"
+
+msgid "Similarity threshold for Rytec matches (20-100%)"
+msgstr "Lighedstærskel for Rytec-kampe (20-100 %)"
+
+msgid "Single Bouquet"
+msgstr "Enkel buket"
+
+msgid "Standard Mode"
+msgstr "Standardtilstand"
+
+msgid "Stopped"
+msgstr "Stoppet"
+
+msgid "Temporary"
+msgstr "Midlertidig"
+
+msgid "Temporary Files"
+msgstr "Midlertidige filer"
+
+msgid "Tools"
+msgstr "Værktøjer"
+
+msgid "Top"
+msgstr ""
+
+msgid "USB Drive"
+msgstr "USB-drev"
+
+msgid "Undo"
+msgstr "Fortryd"
+
+msgid "Undo: Restored previous state for {}"
+msgstr "Fortryd: Gendannet tidligere tilstand for {}"
+
+msgid "Universal Converter"
+msgstr "Universal konverter"
+
+msgid "Unknown error"
+msgstr "Ukendt fejl"
+
+msgid "Unsupported conversion type"
+msgstr "Ikke-understøttet konverteringstype"
+
+msgid "Use saved manual corrections"
+msgstr "Brug gemte manuelle rettelser"
+
+msgid "We're ready: what do you want to do?"
+msgstr "Vi er klar: hvad vil du lave?"
+
+msgid "XSPF conversion error: %s"
+msgstr "XSPF-konverteringsfejl: %s"
+
+msgid "XSPF to M3U Playlist Conversion"
+msgstr "XSPF til M3U Playlist Konvertering"
+
+msgid "XSPF to  M3U Playlist"
+msgstr "XSPF til M3U afspilningsliste"
+
+msgid "merged"
+msgstr "slået sammen"
+
+msgid "replaced"
+msgstr "udskiftet"
+
+msgid "tv_to_m3u Conversion error: %s"
+msgstr "tv_to_m3u Konverteringsfejl: %s"
+
+msgid " Current total: {}"
+msgstr "Aktuel total: {}"
+
+msgid " DVB: {} channels"
+msgstr "DVB: {} kanaler"
+
+msgid " Duplicate mappings: {}"
+msgstr "Dublerede tilknytninger: {}"
+
+msgid " Hit: {} ({:.1f}%)"
+msgstr "Hit: {} ({:.1f}%)"
+
+msgid " Miss: {}"
+msgstr "Frøken: {}"
+
+msgid " Mode: {}"
+msgstr "Tilstand: {}"
+
+msgid " New mappings: {}"
+msgstr "Nye kortlægninger: {}"
+
+msgid " Rytec: {} channels"
+msgstr "Rytec: {} kanaler"
+
+msgid " Size: {} entries"
+msgstr "Størrelse: {} poster"
+
+msgid " Total in import file: {}"
+msgstr "I alt i importfil: {}"
+
+msgid "  Manual DB: {} ({:.1f}%)"
+msgstr "Manuel DB: {} ({:.1f}%)"
+
+msgid "  DVB-S: {} ({:.1f}%)"
+msgstr "DVB-S: {} ({:.1f}%)"
+
+msgid "  DVB-T: {} ({:.1f}%)"
+msgstr "DVB-T: {} ({:.1f}%)"
+
+msgid "  IPTV Fallback: {} ({:.1f}%)"
+msgstr "IPTV Fallback: {} ({:.1f}%)"
+
+msgid "  Rytec: {} ({:.1f}%)"
+msgstr "Rytec: {} ({:.1f}%)"
+
+msgid " Conversion type: {}"
+msgstr "Konverteringstype: {}"
+
+msgid " Status: Completed successfully"
+msgstr "Status: Fuldført med succes"
+
+msgid " Valid channels processed: {}"
+msgstr "Gyldige kanaler behandlet: {}"
+
+msgid " Edit this mapping"
+msgstr "Rediger denne kortlægning"
+
+msgid " Manual edits applied: {}"
+msgstr "Manuelle redigeringer anvendt: {}"
+
+msgid " Open Database Editor"
+msgstr "Åbn Database Editor"
+
+msgid " Error generating statistics"
+msgstr "Fejl ved generering af statistik"
+
+msgid " Merge (keep both)"
+msgstr "Flet (behold begge)"
+
+msgid " New mappings ({}):"
+msgstr "Nye tilknytninger ({}):"
+
+msgid " CONVERSION COMPLETE"
+msgstr "KONVERTERING FULDFØRT"
+
+msgid " Effective EPG matches: {}"
+msgstr "Effektive EPG-matches: {}"
+
+msgid " TOTAL CHANNELS: {}"
+msgstr "SAMLET KANALER: {}"
+
+msgid " View Manual Database"
+msgstr "Se den manuelle database"
+
+msgid " CACHE PERFORMANCE:"
+msgstr "CACHE YDELSE:"
+
+msgid " Cache efficiency: {}"
+msgstr "Cacheeffektivitet: {}"
+
+msgid " Create Backup"
+msgstr "Opret sikkerhedskopi"
+
+msgid " Manual DB matches: {}"
+msgstr "Manuelle DB-matches: {}"
+
+msgid " Output file: {}"
+msgstr "Outputfil: {}"
+
+msgid " File size: {}"
+msgstr "Filstørrelse: {}"
+
+msgid " EFFECTIVE EPG coverage: {}"
+msgstr "EFFEKTIV EPG-dækning: {}"
+
+msgid " EPG COVERAGE: {:.1f}%"
+msgstr "EPG DÆKNING: {:.1f}%"
+
+msgid " Statistics:"
+msgstr "Statistik:"
+
+msgid " EPG Cache Statistics"
+msgstr "EPG Cache-statistik"
+
+msgid " EPG STATISTICS - {}"
+msgstr "EPG STATISTIK - {}"
+
+msgid " IMPORT PREVIEW"
+msgstr "IMPORTER FORBUD"
+
+msgid " Preview Changes"
+msgstr "Forhåndsvisning af ændringer"
+
+msgid " Total channels in file: {}"
+msgstr "Samlet antal kanaler i filen: {}"
+
+msgid " Plugin Info"
+msgstr "Plugin info"
+
+msgid " Manual Match Editing"
+msgstr "Manuel matchredigering"
+
+msgid " DVB channels in DB: {}"
+msgstr "DVB-kanaler i DB: {}"
+
+msgid " DVB-T EPG matches: {}"
+msgstr "DVB-T EPG matcher: {}"
+
+msgid " Export Manual Database"
+msgstr "Eksporter manuel database"
+
+msgid " Import Manual Database"
+msgstr "Importer manuel database"
+
+msgid " DVB EPG matches: {}"
+msgstr "DVB EPG matcher: {}"
+
+msgid " Duplicates ({}):"
+msgstr "Dubletter ({}):"
+
+msgid " Reload EPG Database"
+msgstr "Genindlæs EPG-database"
+
+msgid " Reload Services"
+msgstr "Genindlæs tjenester"
+
+msgid " Replace All ({} mappings)"
+msgstr "Erstat alle ({} tilknytninger)"
+
+msgid " Fallback (no EPG): {}"
+msgstr "Fallback (ingen EPG): {}"
+
+msgid " Cache size: {} entries"
+msgstr "Cachestørrelse: {} poster"
+
+msgid " Back"
+msgstr "Tilbage"
+
+msgid " Back to Tools"
+msgstr "Tilbage til Værktøjer"
+
+msgid " Back to locations"
+msgstr "Tilbage til lokationer"
+
+msgid " MATCH BREAKDOWN:"
+msgstr "KAMPOPDELING:"
+
+msgid " Completed at: {}"
+msgstr "Afsluttet på: {}"
+
+msgid " Edited at: {}"
+msgstr "Redigeret på: {}"
+
+msgid " === Manual Database Management ==="
+msgstr "=== Manuel databasestyring ==="
+
+msgid " DATABASE INFO:"
+msgstr "DATABASE INFO:"
+
+msgid " Database mode: {}"
+msgstr "Databasetilstand: {}"
+
+msgid " Rytec channels in DB: {}"
+msgstr "Rytec-kanaler i DB: {}"
+
+msgid " Clear Log File"
+msgstr "Ryd logfil"
+
+msgid " Delete this mapping"
+msgstr "Slet denne kortlægning"
+
+msgid " Skipped channels: {}"
+msgstr "Sprang over kanaler: {}"
+
+msgid " Rytec EPG matches: {}"
+msgstr "Rytec EPG-kampe: {}"
+
+msgid " Clean Manual Database"
+msgstr "Rens manuel database"
+
+msgid " Clear EPG Cache"
+msgstr "Ryd EPG-cache"

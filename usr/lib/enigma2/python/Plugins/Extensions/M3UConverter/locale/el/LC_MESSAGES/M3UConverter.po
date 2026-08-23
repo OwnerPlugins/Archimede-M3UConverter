@@ -1,0 +1,968 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: M 3UConverter\n"
+"PO-Revision-Date: 2026-08-23 08:19+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Greek <team@lists.gnome.gr>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "(Based on selected database mode: {})"
+msgstr "(Με βάση την επιλεγμένη λειτουργία βάσης δεδομένων: {})"
+
+msgid "(Reused previous manual corrections)"
+msgstr "(Επαναχρησιμοποίηση προηγούμενων μη αυτόματων διορθώσεων)"
+
+msgid "- {} duplicate groups"
+msgstr "- {} διπλότυπες ομάδες"
+
+msgid "-- Auto-open Editor"
+msgstr "-- Αυτόματο άνοιγμα Επεξεργαστή"
+
+msgid "-- DVB search limit (Match Edit)"
+msgstr "-- Όριο αναζήτησης DVB (Επεξεργασία αντιστοίχισης)"
+
+msgid "-- Database Mode"
+msgstr "-- Λειτουργία βάσης δεδομένων"
+
+msgid "-- EPG Generation Mode"
+msgstr "-- Λειτουργία δημιουργίας EPG"
+
+msgid "-- EPG Language"
+msgstr "-- Γλώσσα EPG"
+
+msgid "-- Ignore DVB-T services"
+msgstr "-- Αγνοήστε τις υπηρεσίες DVB-T"
+
+msgid "-- Max Backups"
+msgstr "-- Μέγιστα αντίγραφα ασφαλείας"
+
+msgid "-- Rytec search limit (Match Edit)"
+msgstr "-- Όριο αναζήτησης Rytec (Επεξεργασία αντιστοίχισης)"
+
+msgid "-- Similarity Threshold DVB (%)"
+msgstr "-- Όριο ομοιότητας DVB (%)"
+
+msgid "-- Similarity Threshold Global (%)"
+msgstr "-- Καθολικό κατώφλι ομοιότητας (%)"
+
+msgid "-- Similarity Threshold Rytec (%)"
+msgstr "-- Όριο ομοιότητας Rytec (%)"
+
+msgid "-- Use Manual Database"
+msgstr "-- Χρήση μη αυτόματης βάσης δεδομένων"
+
+msgid "--- {} ({} duplicates) ---"
+msgstr "--- {} ({} διπλότυπα) ---"
+
+msgid "---- Max manual corrections to save"
+msgstr "---- Μέγιστες μη αυτόματες διορθώσεις προς αποθήκευση"
+
+msgid ">>> DUPLICATES VIEW"
+msgstr ">>> ΠΡΟΒΟΛΗ ΔΙΠΛΩΝ"
+
+msgid ">>> SELECTION MODE - Select items with OK"
+msgstr ">>> ΛΕΙΤΟΥΡΓΙΑ ΕΠΙΛΟΓΗΣ - Επιλέξτε στοιχεία με OK"
+
+msgid ">>> {} duplicate groups, {} total mappings"
+msgstr ">>> {} διπλότυπες ομάδες, {} συνολικές αντιστοιχίσεις"
+
+msgid ">>> {} groups, {} mappings total"
+msgstr ">>> {} ομάδες, {} αντιστοιχίσεις συνολικά"
+
+msgid "ALL MAPPINGS: {} total"
+msgstr "ΟΛΕΣ ΟΙ ΧΑΡΤΟΓΡΑΦΙΕΣ: {} συνολικά"
+
+msgid "Action for: {}"
+msgstr "Ενέργεια για: {}"
+
+msgid "Advanced Tools Menu"
+msgstr "Μενού εργαλείων για προχωρημένους"
+
+msgid "All Mappings"
+msgstr "Όλες οι αντιστοιχίσεις"
+
+msgid "Archimede Converter Settings"
+msgstr "Ρυθμίσεις μετατροπέα Archimede"
+
+msgid "Archimede Universal Converter by Lululla v.{version} - {page}"
+msgstr ""
+
+msgid "Archimede Universal Converter v.%s"
+msgstr ""
+
+msgid "Archimede Universal Converter v.%s by Lululla"
+msgstr "Archimede Universal Converter v.%s από την Lululla"
+
+msgid "Backup created successfully!"
+msgstr "Το αντίγραφο ασφαλείας δημιουργήθηκε με επιτυχία!"
+
+msgid "Backup failed: {}"
+msgstr "Η δημιουργία αντιγράφων ασφαλείας απέτυχε: {}"
+
+msgid "Barry Allen"
+msgstr "Μπάρι Άλεν"
+
+msgid "Bottom"
+msgstr "Κάτω μέρος"
+
+msgid "Bouquet Mode"
+msgstr "Λειτουργία μπουκέτο"
+
+msgid "Bouquet Position"
+msgstr "Θέση ανθοδέσμης"
+
+msgid "Cancel"
+msgstr "Ματαίωση"
+
+msgid "Cancelling conversion..."
+msgstr "Ακύρωση μετατροπής..."
+
+msgid "Cancelling..."
+msgstr "Ακύρωση..."
+
+msgid "Channel: {} | {} | Match: {} | Press RIGHT for matches"
+msgstr "Κανάλι: {} | {} | Ταίριασμα: {} | Πατήστε ΔΕΞΙΑ για αγώνες"
+
+msgid "Close"
+msgstr "Κοντά"
+
+msgid "Conversion already in progress"
+msgstr "Η μετατροπή βρίσκεται ήδη σε εξέλιξη"
+
+msgid "Conversion cancelled"
+msgstr "Η μετατροπή ακυρώθηκε"
+
+msgid "Conversion completed"
+msgstr "Η μετατροπή ολοκληρώθηκε"
+
+msgid "Conversion error: %s"
+msgstr "Σφάλμα μετατροπής: %s"
+
+msgid "Conversion failed: Invalid result"
+msgstr "Η μετατροπή απέτυχε: Μη έγκυρο αποτέλεσμα"
+
+msgid "Conversion failed: {}"
+msgstr "Η μετατροπή απέτυχε: {}"
+
+msgid "Conversion in progress..."
+msgstr "Μετατροπή σε εξέλιξη..."
+
+msgid "Convert"
+msgstr "Μετατρέπω"
+
+msgid "Convert HLS Streams"
+msgstr "Μετατροπή ροών HLS"
+
+msgid "Convert HLS to Enigma2 format"
+msgstr "Μετατροπή HLS σε μορφή Enigma2"
+
+msgid "Convert JSON to M3U"
+msgstr "Μετατροπή JSON σε M3U"
+
+msgid "Convert JSON to TV"
+msgstr "Μετατροπή JSON σε TV"
+
+msgid "Convert M3U to JSON"
+msgstr "Μετατροπή M3U σε JSON"
+
+msgid "Convert M3U to TV"
+msgstr "Μετατρέψτε το M3U σε τηλεόραση"
+
+msgid "Convert TV to M3U"
+msgstr "Μετατροπή τηλεόρασης σε M3U"
+
+msgid "Convert TV to TV"
+msgstr "Μετατροπή τηλεόρασης σε τηλεόραση"
+
+msgid "Convert XSPF to M3U"
+msgstr "Μετατρέψτε το XSPF σε M3U"
+
+msgid "Convert between M3U Enigma2 Bouquets Json"
+msgstr "Μετατροπή μεταξύ M3U Enigma2 Bouquets Json"
+
+msgid "Converting: %d/%d (%d%%)"
+msgstr "Μετατροπή: %d/%d (%d%%)"
+
+msgid "Converting: {name} ({percent}%)"
+msgstr "Μετατροπή: {name} ({percent}%)"
+
+msgid "Converting: {title} ({percent}%)"
+msgstr "Μετατροπή: {name} ({percent}%)"
+
+msgid "Converting: {} ({}%)"
+msgstr "Μετατροπή: {} ({}%)"
+
+msgid "Create Backup"
+msgstr "Δημιουργία αντιγράφων ασφαλείας"
+
+msgid "Create backup before conversion"
+msgstr "Δημιουργήστε αντίγραφο ασφαλείας πριν από τη μετατροπή"
+
+msgid "Create single or multiple bouquets"
+msgstr "Δημιουργήστε μονά ή πολλαπλά μπουκέτα"
+
+msgid "DUPLICATES: {} groups, {} mappings"
+msgstr "ΔΙΠΛΗΝΤΙΚΑ: {} ομάδες, {} αντιστοιχίσεις"
+
+msgid "DVB + Rytec"
+msgstr "DVB + Χαράκτης"
+
+msgid "DVB + Rytec + DTT (Full)"
+msgstr "DVB + Rytec + DTT (Πλήρη)"
+
+msgid "Database Directory"
+msgstr "Κατάλογος Βάσεων Δεδομένων"
+
+msgid "Debug Mode"
+msgstr "Λειτουργία εντοπισμού σφαλμάτων"
+
+msgid "Default Folder"
+msgstr "Προεπιλεγμένος φάκελος"
+
+msgid "Default folder for opening and saving M3U files"
+msgstr "Προεπιλεγμένος φάκελος για το άνοιγμα και την αποθήκευση αρχείων M3U"
+
+msgid "Delete"
+msgstr "Διαγράφω"
+
+msgid "Deleted {} items"
+msgstr "Διαγράφηκαν {} στοιχεία"
+
+msgid "Deleted {} items. No more duplicates."
+msgstr "Διαγράφηκαν {} στοιχεία. Όχι άλλα διπλότυπα."
+
+msgid "Deleted {} items. Still in selection mode."
+msgstr "Διαγράφηκαν {} στοιχεία. Ακόμα σε λειτουργία επιλογής."
+
+msgid "Done"
+msgstr "Γινώμενος"
+
+msgid "Duplicates"
+msgstr "Αντίγραφα"
+
+msgid "EPG Coverage: {}/{} channels ({:.1f}%)"
+msgstr "Κάλυψη EPG: {}/{} κανάλια ({:.1f}%)"
+
+msgid "EPG assigned: {} | {}"
+msgstr "Εκχωρήθηκε EPG: {} | {}"
+
+msgid "EPG cache cleared! {} entries removed"
+msgstr "Η προσωρινή μνήμη EPG διαγράφηκε! Καταργήθηκαν {} καταχωρήσεις"
+
+msgid "EPG database reloaded successfully!"
+msgstr "Η βάση δεδομένων EPG φορτώθηκε ξανά με επιτυχία!"
+
+msgid "EPG mapper not available"
+msgstr "Μη διαθέσιμος χάρτης EPG"
+
+msgid "EPG mapper not initialized"
+msgstr "Ο χάρτης EPG δεν έχει αρχικοποιηθεί"
+
+msgid "EPG matching algorithm"
+msgstr "Αλγόριθμος αντιστοίχισης EPG"
+
+msgid "EPGImport plugin not found"
+msgstr "Το πρόσθετο EPGImport δεν βρέθηκε"
+
+msgid "EPGImporter"
+msgstr "Εισαγωγέας EPG"
+
+msgid "EPGShare Mode"
+msgstr "Λειτουργία EPGShare"
+
+msgid "Enable EPG"
+msgstr "Ενεργοποίηση EPG"
+
+msgid "Enable detailed logging"
+msgstr "Ενεργοποίηση λεπτομερούς καταγραφής"
+
+msgid "Enigma2 Bouquet to Enigma2 Bouquet Conversion"
+msgstr "Μετατροπή Ανθοδέσμης Enigma2 σε Μπουκέτο Enigma2"
+
+msgid "Enigma2 Bouquet to M3U Conversion"
+msgstr "Μετατροπή Enigma2 Bouquet σε M3U"
+
+msgid "Enigma2 Bouquets to  Enigma2 Bouquets"
+msgstr "Μπουκέτα Enigma2 σε Ανθοδέσμες Enigma2"
+
+msgid "Enigma2 Bouquets to  M3U"
+msgstr "Μπουκέτα Enigma2 σε M3U"
+
+msgid "Error clearing EPG cache"
+msgstr "Σφάλμα κατά την εκκαθάριση της προσωρινής μνήμης EPG"
+
+msgid "Error clearing database"
+msgstr "Σφάλμα κατά την εκκαθάριση της βάσης δεδομένων"
+
+msgid "Error deleting correction"
+msgstr "Σφάλμα κατά τη διαγραφή της διόρθωσης"
+
+msgid "Error deleting items"
+msgstr "Σφάλμα κατά τη διαγραφή στοιχείων"
+
+msgid "Error deleting mapping"
+msgstr "Σφάλμα κατά τη διαγραφή της χαρτογράφησης"
+
+msgid "Error exporting database"
+msgstr "Σφάλμα κατά την εξαγωγή βάσης δεδομένων"
+
+msgid "Error finalizing import: {}"
+msgstr "Σφάλμα κατά την οριστικοποίηση της εισαγωγής: {}"
+
+msgid "Error importing database: {}"
+msgstr "Σφάλμα κατά την εισαγωγή βάσης δεδομένων: {}"
+
+msgid "Error initiating service reload"
+msgstr "Σφάλμα κατά την εκκίνηση της επαναφόρτωσης της υπηρεσίας"
+
+msgid "Error loading database"
+msgstr "Σφάλμα κατά τη φόρτωση της βάσης δεδομένων"
+
+msgid "Error opening plugin information: %s"
+msgstr "Σφάλμα κατά το άνοιγμα των πληροφοριών προσθήκης: %s"
+
+msgid "Error processing conversion result"
+msgstr "Σφάλμα κατά την επεξεργασία του αποτελέσματος μετατροπής"
+
+msgid "Error reloading EPG database: {}"
+msgstr "Σφάλμα κατά την εκ νέου φόρτωση της βάσης δεδομένων EPG: {}"
+
+msgid "Error saving imported database"
+msgstr "Σφάλμα κατά την αποθήκευση της εισαγόμενης βάσης δεδομένων"
+
+msgid "Error starting import: {}"
+msgstr "Σφάλμα έναρξης εισαγωγής: {}"
+
+msgid "Error undoing action"
+msgstr "Σφάλμα κατά την αναίρεση της ενέργειας"
+
+msgid "Error: Channel index out of range"
+msgstr "Σφάλμα: Ευρετήριο καναλιού εκτός εύρους"
+
+msgid "Failed to initialize EPG mapper - check logs"
+msgstr "Αποτυχία προετοιμασίας αντιστοίχισης EPG - αρχεία καταγραφής ελέγχου"
+
+msgid "File loaded: {}"
+msgstr "Φορτώθηκε το αρχείο: {}"
+
+msgid "File not found"
+msgstr "Το αρχείο δεν βρέθηκε"
+
+msgid "File write error: %s"
+msgstr "Σφάλμα εγγραφής αρχείου: %s"
+
+msgid "File: {}"
+msgstr "Αρχείο: {}"
+
+msgid "Files larger than this will be sampled (1000 channels max)"
+msgstr "Θα γίνει δειγματοληψία για αρχεία μεγαλύτερα από αυτό (μέγιστο 1000 κανάλια)"
+
+msgid "First select a match from the right list (use RIGHT arrow)"
+msgstr "Πρώτα επιλέξτε έναν αγώνα από τη δεξιά λίστα (χρησιμοποιήστε το ΔΕΞΙΟ βέλος)"
+
+msgid "Found {} matches for: {} | Select and press OK"
+msgstr "Βρέθηκαν {} αντιστοιχίσεις για: {} | Επιλέξτε και πατήστε OK"
+
+msgid "Found {} matches so far for: {} | Searching..."
+msgstr "Βρέθηκαν {} αντιστοιχίσεις μέχρι στιγμής για: {} | Ερευνητικός..."
+
+msgid "Generate EPG data for bouquets"
+msgstr "Δημιουργήστε δεδομένα EPG για ανθοδέσμες"
+
+msgid "Global similarity threshold for all matches (20-100%)"
+msgstr "Παγκόσμιο όριο ομοιότητας για όλους τους αγώνες (20-100%)"
+
+msgid "HDD Drive"
+msgstr "Μονάδα σκληρού δίσκου"
+
+msgid "Ignore DVB-T services on conversion"
+msgstr "Αγνοήστε τις υπηρεσίες DVB-T κατά τη μετατροπή"
+
+msgid "Import {} mappings from {}"
+msgstr "Εισαγωγή {} αντιστοιχίσεων από {}"
+
+msgid "Invalid .m3u item format"
+msgstr "Μη έγκυρη μορφή στοιχείου .m3u"
+
+msgid "Invalid .tv item format"
+msgstr "Μη έγκυρη μορφή στοιχείου .tv"
+
+msgid "Invalid XSPF file"
+msgstr "Μη έγκυρο αρχείο XSPF"
+
+msgid "Invalid database file structure"
+msgstr "Μη έγκυρη δομή αρχείου βάσης δεδομένων"
+
+msgid "Invalid selection"
+msgstr "Μη έγκυρη επιλογή"
+
+msgid "JSON to Enigma2 Bouquet Conversion"
+msgstr "Μετατροπή JSON σε Enigma2 Bouquet"
+
+msgid "JSON to M3U Conversion"
+msgstr "Μετατροπή JSON σε M3U"
+
+msgid "JSON to  Enigma2 Bouquets"
+msgstr "Ανθοδέσμες JSON σε Enigma2"
+
+msgid "JSON to  M3U"
+msgstr "JSON σε M3U"
+
+msgid "Language for EPG sources"
+msgstr "Γλώσσα για πηγές EPG"
+
+msgid "Large file detected: {:.1f}MB. Processing first {} channels..."
+msgstr "Εντοπίστηκε μεγάλο αρχείο: {:.1f}MB. Επεξεργασία πρώτων {} καναλιών..."
+
+msgid "Large file threshold (MB)"
+msgstr "Όριο μεγάλου αρχείου (MB)"
+
+msgid "Loaded first %d channels. Press Green to convert."
+msgstr "Φορτώθηκαν τα πρώτα %d κανάλια. Πατήστε Πράσινο για μετατροπή."
+
+msgid "Loading database..."
+msgstr "Φόρτωση βάσης δεδομένων..."
+
+msgid "Log file cleared successfully"
+msgstr "Το αρχείο καταγραφής διαγράφηκε με επιτυχία"
+
+msgid "M3U to Enigma2 Bouquet Conversion"
+msgstr "Μετατροπή μπουκέτο M3U σε Enigma2"
+
+msgid "M3U to JSON Conversion"
+msgstr "Μετατροπή M3U σε JSON"
+
+msgid "M3U to  Enigma2 Bouquets"
+msgstr "Μπουκέτα M3U σε Enigma2"
+
+msgid "M3U to  JSON"
+msgstr "M3U σε JSON"
+
+msgid "Manual Corrections ({} total)"
+msgstr "Μη αυτόματες διορθώσεις ({} συνολικά)"
+
+msgid "Manual Database Editor"
+msgstr "Μη αυτόματο πρόγραμμα επεξεργασίας βάσεων δεδομένων"
+
+msgid "Manual EPG Match Editor"
+msgstr "Εγχειρίδιο EPG Match Editor"
+
+msgid "Manual database cleared"
+msgstr "Η μη αυτόματη εκκαθάριση της βάσης δεδομένων"
+
+msgid "Manual database not available"
+msgstr "Η μη αυτόματη βάση δεδομένων δεν είναι διαθέσιμη"
+
+msgid "Manual editing completed"
+msgstr "Ολοκληρώθηκε η χειροκίνητη επεξεργασία"
+
+msgid "Manual editing completed - ready for conversion"
+msgstr "Ολοκληρώθηκε η μη αυτόματη επεξεργασία - έτοιμο για μετατροπή"
+
+msgid "Mapping deleted successfully"
+msgstr "Η χαρτογράφηση διαγράφηκε με επιτυχία"
+
+msgid "Match Editor"
+msgstr "Συντάκτης αγώνα"
+
+msgid "Match reset for: {}"
+msgstr "Επαναφορά αντιστοίχισης για: {}"
+
+msgid "Max DVB entries scanned during automatic Match Edit (Slow down scanning)"
+msgstr "Μέγιστος αριθμός εγγραφών DVB που σαρώθηκαν κατά την αυτόματη επεξεργασία αντιστοίχισης (επιβράδυνση σάρωσης)"
+
+msgid "Max Rytec entries scanned during automatic Match Edit (Slow down scanning)"
+msgstr "Οι καταχωρήσεις Max Rytec σαρώθηκαν κατά την αυτόματη επεξεργασία αντιστοίχισης (Σάρωση επιβράδυνσης)"
+
+msgid "Maximum backup copies"
+msgstr "Μέγιστα αντίγραφα ασφαλείας"
+
+msgid "Maximum manual corrections to save"
+msgstr "Μέγιστες μη αυτόματες διορθώσεις προς αποθήκευση"
+
+msgid "Multiple Bouquets"
+msgstr "Πολλαπλές ανθοδέσμες"
+
+msgid "Network Storage"
+msgstr "Αποθήκευση δικτύου"
+
+msgid "Next"
+msgstr "Επόμενος"
+
+msgid "No IPTV channels found in the bouquet"
+msgstr "Δεν βρέθηκαν κανάλια IPTV στο μπουκέτο"
+
+msgid "No M3UConverter bouquets found to remove."
+msgstr "Δεν βρέθηκαν ανθοδέσμες M3UConverter για αφαίρεση."
+
+msgid "No MANUAL changes to save"
+msgstr "Δεν υπάρχουν MANUAL αλλαγές για αποθήκευση"
+
+msgid "No MANUAL corrections saved"
+msgstr "Δεν αποθηκεύτηκαν ΧΕΙΡΟΚΙΝΗΤΕΣ διορθώσεις"
+
+msgid "No actions to undo"
+msgstr "Δεν υπάρχουν ενέργειες για αναίρεση"
+
+msgid "No channels available"
+msgstr "Δεν υπάρχουν διαθέσιμα κανάλια"
+
+msgid "No channels loaded. Please select a valid TV bouquet file."
+msgstr "Δεν έχουν φορτωθεί κανάλια. Επιλέξτε ένα έγκυρο αρχείο μπουκέτο τηλεόρασης."
+
+msgid "No conversion data available."
+msgstr "Δεν υπάρχουν διαθέσιμα δεδομένα μετατροπών."
+
+msgid "No conversion data available. Please run a conversion first."
+msgstr "Δεν υπάρχουν διαθέσιμα δεδομένα μετατροπών. Εκτελέστε πρώτα μια μετατροπή."
+
+msgid "No conversion statistics available."
+msgstr "Δεν υπάρχουν διαθέσιμα στατιστικά στοιχεία μετατροπών."
+
+msgid "No duplicates available for selection"
+msgstr "Δεν υπάρχουν διπλότυπα διαθέσιμα για επιλογή"
+
+msgid "No duplicates found"
+msgstr "Δεν βρέθηκαν διπλότυπα"
+
+msgid "No duplicates found in the database"
+msgstr "Δεν βρέθηκαν διπλότυπα στη βάση δεδομένων"
+
+msgid "No file selected"
+msgstr "Δεν έχει επιλεγεί αρχείο"
+
+msgid "No file selected for conversion"
+msgstr "Δεν έχει επιλεγεί αρχείο για μετατροπή"
+
+msgid "No items selected for deletion"
+msgstr "Δεν επιλέχθηκαν στοιχεία για διαγραφή"
+
+msgid "No manual corrections found"
+msgstr "Δεν βρέθηκαν μη αυτόματες διορθώσεις"
+
+msgid "No manual corrections to export"
+msgstr "Δεν υπάρχουν μη αυτόματες διορθώσεις για εξαγωγή"
+
+msgid "No mappings available"
+msgstr "Δεν υπάρχουν διαθέσιμες αντιστοιχίσεις"
+
+msgid "No matches found - try different search"
+msgstr "Δεν βρέθηκαν αντιστοιχίες - δοκιμάστε διαφορετική αναζήτηση"
+
+msgid "No matches found for: {}"
+msgstr "Δεν βρέθηκαν αντιστοιχίες για: {}"
+
+msgid "No statistics available"
+msgstr "Δεν υπάρχουν διαθέσιμα στατιστικά στοιχεία"
+
+msgid "No valid channels found in the JSON file"
+msgstr "Δεν βρέθηκαν έγκυρα κανάλια στο αρχείο JSON"
+
+msgid "Only DTT"
+msgstr "Μόνο DTT"
+
+msgid "Only DVB"
+msgstr "Μόνο DVB"
+
+msgid "Only Rytec"
+msgstr "Μόνο η Rytec"
+
+msgid "Open File"
+msgstr "Ανοίξτε το Αρχείο"
+
+msgid "Open manual editor after conversion"
+msgstr "Ανοίξτε το μη αυτόματο πρόγραμμα επεξεργασίας μετά τη μετατροπή"
+
+msgid "Playback error"
+msgstr "Σφάλμα αναπαραγωγής"
+
+msgid "Playing: %s"
+msgstr "Παίζει: %s"
+
+msgid "Please select a channel first"
+msgstr "Επιλέξτε πρώτα ένα κανάλι"
+
+msgid "Please select a mapping (not a group header)"
+msgstr "Επιλέξτε μια αντιστοίχιση (όχι μια κεφαλίδα ομάδας)"
+
+msgid "Please select a mapping to delete"
+msgstr "Επιλέξτε μια αντιστοίχιση για διαγραφή"
+
+msgid "Please select a valid match from the right list"
+msgstr "Επιλέξτε μια έγκυρη αντιστοίχιση από τη σωστή λίστα"
+
+msgid "Plugin Information"
+msgstr "Πληροφορίες πρόσθετου"
+
+msgid "Position in channel list"
+msgstr "Θέση στη λίστα καναλιών"
+
+msgid "Press RED to select file"
+msgstr "Πατήστε ΚΟΚΚΙΝΟ για να επιλέξετε αρχείο"
+
+msgid "Prev"
+msgstr "Προηγ"
+
+msgid "Processing selection..."
+msgstr "Επεξεργασία επιλογής..."
+
+msgid "Ready"
+msgstr "Ετοιμος"
+
+msgid "Ready for next operation"
+msgstr "Έτοιμο για την επόμενη λειτουργία"
+
+msgid "Ready to convert"
+msgstr "Έτοιμο για μετατροπή"
+
+msgid "Ready: Select the file from the %s you configured in settings."
+msgstr "Έτοιμο: Επιλέξτε το αρχείο από το %s που ρυθμίσατε στις ρυθμίσεις."
+
+msgid "Reloading services..."
+msgstr "Επαναφόρτωση υπηρεσιών..."
+
+msgid "Remove Bouquets"
+msgstr "Αφαιρέστε τις ανθοδέσμες"
+
+msgid "Remove M3U Bouquets"
+msgstr "Αφαιρέστε τα μπουκέτα M3U"
+
+msgid "Reset"
+msgstr "Επαναφορά"
+
+msgid "Run a conversion first to see statistics."
+msgstr "Εκτελέστε πρώτα μια μετατροπή για να δείτε στατιστικά."
+
+msgid "SELECTION MODE: {} items selected"
+msgstr "ΛΕΙΤΟΥΡΓΙΑ ΕΠΙΛΟΓΗΣ: Επιλέχθηκαν {} στοιχεία"
+
+msgid "Save All"
+msgstr "Αποθήκευση όλων"
+
+msgid "Save error"
+msgstr "Σφάλμα αποθήκευσης"
+
+msgid "Saved {} MANUAL corrections"
+msgstr "Αποθηκεύτηκαν {} ΧΕΙΡΟΚΙΝΗΤΕΣ διορθώσεις"
+
+msgid "Searching matches for: {}..."
+msgstr "Αναζήτηση αντιστοιχιών για: {}..."
+
+msgid "Select"
+msgstr "Επιλέγω"
+
+msgid "Select a channel to correct the match"
+msgstr "Επιλέξτε ένα κανάλι για να διορθώσετε την αντιστοίχιση"
+
+msgid "Select a channel to edit (use OK or RIGHT to go to matches)"
+msgstr "Επιλέξτε ένα κανάλι για επεξεργασία (χρησιμοποιήστε OK ή RIGHT για να μεταβείτε στους αγώνες)"
+
+msgid "Select a match and press OK to assign"
+msgstr "Επιλέξτε έναν αγώνα και πατήστε OK για εκχώρηση"
+
+msgid "Select databases for channel matching"
+msgstr "Επιλέξτε βάσεις δεδομένων για αντιστοίχιση καναλιών"
+
+msgid "Select file to import from {}"
+msgstr "Επιλέξτε αρχείο για εισαγωγή από {}"
+
+msgid "Select import location"
+msgstr "Επιλέξτε τοποθεσία εισαγωγής"
+
+msgid "Selection mode active. Select items with OK"
+msgstr "Η λειτουργία επιλογής είναι ενεργή. Επιλέξτε στοιχεία με OK"
+
+msgid "Selection mode off"
+msgstr "Η λειτουργία επιλογής είναι απενεργοποιημένη"
+
+msgid "Selection mode: Select items with OK"
+msgstr "Λειτουργία επιλογής: Επιλέξτε στοιχεία με OK"
+
+msgid "Service reload initiated"
+msgstr "Ξεκίνησε η επαναφόρτωση της υπηρεσίας"
+
+msgid "Similarity threshold for DVB matches (20-100%)"
+msgstr "Όριο ομοιότητας για αγώνες DVB (20-100%)"
+
+msgid "Similarity threshold for Rytec matches (20-100%)"
+msgstr "Όριο ομοιότητας για αγώνες Rytec (20-100%)"
+
+msgid "Single Bouquet"
+msgstr "Μονό Μπουκέτο"
+
+msgid "Standard Mode"
+msgstr "Τυπική λειτουργία"
+
+msgid "Stopped"
+msgstr "Σταμάτησε"
+
+msgid "Temporary"
+msgstr "Προσωρινός"
+
+msgid "Temporary Files"
+msgstr "Προσωρινά Αρχεία"
+
+msgid "Tools"
+msgstr "Εργαλεία"
+
+msgid "Top"
+msgstr "Κορυφή"
+
+msgid "USB Drive"
+msgstr "Μονάδα USB"
+
+msgid "Undo"
+msgstr "Ξεκάνω"
+
+msgid "Undo: Restored previous state for {}"
+msgstr "Αναίρεση: Έγινε επαναφορά της προηγούμενης κατάστασης για το {}"
+
+msgid "Universal Converter"
+msgstr ""
+
+msgid "Unknown error"
+msgstr "Άγνωστο σφάλμα"
+
+msgid "Unsupported conversion type"
+msgstr "Μη υποστηριζόμενος τύπος μετατροπής"
+
+msgid "Use saved manual corrections"
+msgstr "Χρησιμοποιήστε αποθηκευμένες μη αυτόματες διορθώσεις"
+
+msgid "We're ready: what do you want to do?"
+msgstr "Είμαστε έτοιμοι: τι θέλετε να κάνετε;"
+
+msgid "XSPF conversion error: %s"
+msgstr "Σφάλμα μετατροπής XSPF: %s"
+
+msgid "XSPF to M3U Playlist Conversion"
+msgstr "Μετατροπή λίστας αναπαραγωγής XSPF σε M3U"
+
+msgid "XSPF to  M3U Playlist"
+msgstr "Λίστα αναπαραγωγής XSPF σε M3U"
+
+msgid "merged"
+msgstr "συγχωνεύτηκαν"
+
+msgid "replaced"
+msgstr "αντικαταστάθηκε"
+
+msgid "tv_to_m3u Conversion error: %s"
+msgstr "tv_to_m3u Σφάλμα μετατροπής: %s"
+
+msgid " Current total: {}"
+msgstr "Τρέχον σύνολο: {}"
+
+msgid " DVB: {} channels"
+msgstr "DVB: {} κανάλια"
+
+msgid " Duplicate mappings: {}"
+msgstr "Διπλότυπες αντιστοιχίσεις: {}"
+
+msgid " Hit: {} ({:.1f}%)"
+msgstr "Επίσκεψη: {} ({:.1f}%)"
+
+msgid " Miss: {}"
+msgstr "Δεσποινίς: {}"
+
+msgid " Mode: {}"
+msgstr "Λειτουργία: {}"
+
+msgid " New mappings: {}"
+msgstr "Νέες αντιστοιχίσεις: {}"
+
+msgid " Rytec: {} channels"
+msgstr "Rytec: {} κανάλια"
+
+msgid " Size: {} entries"
+msgstr "Μέγεθος: {} καταχωρήσεις"
+
+msgid " Total in import file: {}"
+msgstr "Σύνολο σε αρχείο εισαγωγής: {}"
+
+msgid "  Manual DB: {} ({:.1f}%)"
+msgstr "Μη αυτόματο DB: {} ({:.1f}%)"
+
+msgid "  DVB-S: {} ({:.1f}%)"
+msgstr "DVB-S: {} ({:.1f}%)"
+
+msgid "  DVB-T: {} ({:.1f}%)"
+msgstr "DVB-T: {} ({:.1f}%)"
+
+msgid "  IPTV Fallback: {} ({:.1f}%)"
+msgstr "Εναλλακτικό IPTV: {} ({:.1f}%)"
+
+msgid "  Rytec: {} ({:.1f}%)"
+msgstr "Rytec: {} ({:.1f}%)"
+
+msgid " Conversion type: {}"
+msgstr "Τύπος μετατροπής: {}"
+
+msgid " Status: Completed successfully"
+msgstr "Κατάσταση: Ολοκληρώθηκε με επιτυχία"
+
+msgid " Valid channels processed: {}"
+msgstr "Έγκυρα κανάλια που υποβλήθηκαν σε επεξεργασία: {}"
+
+msgid " Edit this mapping"
+msgstr "Επεξεργαστείτε αυτήν τη χαρτογράφηση"
+
+msgid " Manual edits applied: {}"
+msgstr "Εφαρμόστηκαν μη αυτόματες επεξεργασίες: {}"
+
+msgid " Open Database Editor"
+msgstr "Ανοίξτε τον Επεξεργαστή Βάσης Δεδομένων"
+
+msgid " Error generating statistics"
+msgstr "Σφάλμα κατά τη δημιουργία στατιστικών στοιχείων"
+
+msgid " Merge (keep both)"
+msgstr "Συγχώνευση (διατήρηση και των δύο)"
+
+msgid " New mappings ({}):"
+msgstr "Νέες αντιστοιχίσεις ({}):"
+
+msgid " CONVERSION COMPLETE"
+msgstr "Η ΜΕΤΑΤΡΟΠΗ ΟΛΟΚΛΗΡΩΘΗΚΕ"
+
+msgid " Effective EPG matches: {}"
+msgstr "Αποτελεσματικές αντιστοιχίσεις EPG: {}"
+
+msgid " TOTAL CHANNELS: {}"
+msgstr "ΣΥΝΟΛΟ ΚΑΝΑΛΩΝ: {}"
+
+msgid " View Manual Database"
+msgstr "Προβολή μη αυτόματης βάσης δεδομένων"
+
+msgid " CACHE PERFORMANCE:"
+msgstr "ΑΠΟΔΟΣΗ CACH:"
+
+msgid " Cache efficiency: {}"
+msgstr "Αποτελεσματικότητα προσωρινής μνήμης: {}"
+
+msgid " Create Backup"
+msgstr "Δημιουργία αντιγράφων ασφαλείας"
+
+msgid " Manual DB matches: {}"
+msgstr "Μη αυτόματες αντιστοιχίσεις DB: {}"
+
+msgid " Output file: {}"
+msgstr "Αρχείο εξόδου: {}"
+
+msgid " File size: {}"
+msgstr "Μέγεθος αρχείου: {}"
+
+msgid " EFFECTIVE EPG coverage: {}"
+msgstr "ΑΠΟΤΕΛΕΣΜΑΤΙΚΗ κάλυψη EPG: {}"
+
+msgid " EPG COVERAGE: {:.1f}%"
+msgstr "ΚΑΛΥΨΗ EPG: {:.1f}%"
+
+msgid " Statistics:"
+msgstr "Στατιστική:"
+
+msgid " EPG Cache Statistics"
+msgstr "Στατιστικά κρυφής μνήμης EPG"
+
+msgid " EPG STATISTICS - {}"
+msgstr "ΣΤΑΤΙΣΤΙΚΑ EPG - {}"
+
+msgid " IMPORT PREVIEW"
+msgstr "ΕΙΣΑΓΩΓΗ ΠΡΟΕΠΙΣΚΟΠΗΣΗ"
+
+msgid " Preview Changes"
+msgstr "Προεπισκόπηση αλλαγών"
+
+msgid " Total channels in file: {}"
+msgstr "Σύνολο καναλιών στο αρχείο: {}"
+
+msgid " Plugin Info"
+msgstr "Πληροφορίες πρόσθετου"
+
+msgid " Manual Match Editing"
+msgstr "Χειροκίνητη Επεξεργασία Αντιστοίχισης"
+
+msgid " DVB channels in DB: {}"
+msgstr "Κανάλια DVB σε DB: {}"
+
+msgid " DVB-T EPG matches: {}"
+msgstr "Αντιστοιχίσεις DVB-T EPG: {}"
+
+msgid " Export Manual Database"
+msgstr "Εξαγωγή μη αυτόματης βάσης δεδομένων"
+
+msgid " Import Manual Database"
+msgstr "Εγχειρίδιο εισαγωγής βάσης δεδομένων"
+
+msgid " DVB EPG matches: {}"
+msgstr "Αντιστοιχίσεις DVB EPG: {}"
+
+msgid " Duplicates ({}):"
+msgstr "Διπλότυπα ({}):"
+
+msgid " Reload EPG Database"
+msgstr "Επαναφόρτωση της βάσης δεδομένων EPG"
+
+msgid " Reload Services"
+msgstr "Επαναφόρτωση υπηρεσιών"
+
+msgid " Replace All ({} mappings)"
+msgstr "Αντικατάσταση όλων ({} αντιστοιχίσεις)"
+
+msgid " Fallback (no EPG): {}"
+msgstr "Εναλλακτικό (χωρίς EPG): {}"
+
+msgid " Cache size: {} entries"
+msgstr "Μέγεθος προσωρινής μνήμης: {} καταχωρήσεις"
+
+msgid " Back"
+msgstr "Πίσω"
+
+msgid " Back to Tools"
+msgstr "Επιστροφή στα Εργαλεία"
+
+msgid " Back to locations"
+msgstr "Επιστροφή στις τοποθεσίες"
+
+msgid " MATCH BREAKDOWN:"
+msgstr "ΚΑΤΑΝΟΜΗ ΑΓΩΝΑ:"
+
+msgid " Completed at: {}"
+msgstr "Ολοκληρώθηκε στις: {}"
+
+msgid " Edited at: {}"
+msgstr "Επεξεργασία σε: {}"
+
+msgid " === Manual Database Management ==="
+msgstr "=== Μη αυτόματη διαχείριση βάσεων δεδομένων ==="
+
+msgid " DATABASE INFO:"
+msgstr "ΠΛΗΡΟΦΟΡΙΕΣ ΒΑΣΗΣ ΔΕΔΟΜΕΝΩΝ:"
+
+msgid " Database mode: {}"
+msgstr "Λειτουργία βάσης δεδομένων: {}"
+
+msgid " Rytec channels in DB: {}"
+msgstr "Κανάλια Rytec στο DB: {}"
+
+msgid " Clear Log File"
+msgstr "Εκκαθάριση αρχείου καταγραφής"
+
+msgid " Delete this mapping"
+msgstr "Διαγραφή αυτής της αντιστοίχισης"
+
+msgid " Skipped channels: {}"
+msgstr "Παράλειψη καναλιών: {}"
+
+msgid " Rytec EPG matches: {}"
+msgstr "Το Rytec EPG ταιριάζει: {}"
+
+msgid " Clean Manual Database"
+msgstr "Clean Manual Database"
+
+msgid " Clear EPG Cache"
+msgstr "Εκκαθάριση προσωρινής μνήμης EPG"

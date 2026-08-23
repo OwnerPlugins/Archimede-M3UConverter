@@ -142,7 +142,6 @@ msgstr ""
 
 #: plugin.py:3479
 #, python-brace-format
-msgid ""
 "Removed {count} bouquet(s):\n"
 "{files}"
 msgstr ""
@@ -203,7 +202,6 @@ msgstr ""
 
 #: plugin.py:3872
 #, python-format
-msgid ""
 "Error opening file browser:\n"
 "%s"
 msgstr ""
@@ -346,7 +344,6 @@ msgid "No statistics available"
 msgstr ""
 
 #: plugin.py:4176
-msgid ""
 "No conversion statistics available.\n"
 "Run a conversion first to see statistics."
 msgstr ""
@@ -485,7 +482,6 @@ msgid "Service reload initiated"
 msgstr ""
 
 #: plugin.py:4369
-msgid ""
 "Service reload command sent successfully.\n"
 "Bouquets should appear shortly."
 msgstr ""
@@ -526,7 +522,6 @@ msgstr ""
 
 #: plugin.py:4514
 #, python-brace-format
-msgid ""
 "This will delete ALL manual corrections.\n"
 "\n"
 "Total corrections: {}\n"
@@ -549,7 +544,6 @@ msgstr ""
 
 #: plugin.py:4602
 #, python-brace-format
-msgid ""
 "Manual database exported successfully!\n"
 "\n"
 "File: {}\n"
@@ -572,7 +566,6 @@ msgstr ""
 
 #: plugin.py:4667
 #, python-brace-format
-msgid ""
 "No database files found in:\n"
 "{}"
 msgstr ""
@@ -605,7 +598,6 @@ msgstr ""
 
 #: plugin.py:4829
 #, python-brace-format
-msgid ""
 "Delete manual correction for:\n"
 "{}\n"
 "\n"
@@ -618,7 +610,6 @@ msgstr ""
 
 #: plugin.py:4918
 #, python-brace-format
-msgid ""
 "Import file not found:\n"
 "{}"
 msgstr ""
@@ -642,7 +633,6 @@ msgstr ""
 
 #: plugin.py:4999
 #, python-brace-format
-msgid ""
 "Database import successful!\n"
 "\n"
 "{} mappings {}.\n"
@@ -756,14 +746,12 @@ msgstr ""
 
 #: plugin.py:5596
 #, python-format
-msgid ""
 "Error parsing TV bouquet file:\n"
 "%s"
 msgstr ""
 
 #: plugin.py:5751
 #, python-format
-msgid ""
 "Error parsing JSON file. Please check the format.\n"
 "\n"
 "Error: %s"
@@ -843,7 +831,6 @@ msgstr ""
 
 #: plugin.py:6920
 #, python-brace-format
-msgid ""
 "✅ CONVERSION COMPLETED SUCCESSFULLY\n"
 "\n"
 "📁 Bouquet: {}\n"
@@ -1050,7 +1037,6 @@ msgid "Save error"
 msgstr ""
 
 #: plugin.py:7966
-msgid ""
 "You have unsaved manual changes.\n"
 "\n"
 "Do you want to save before closing?"
@@ -1246,7 +1232,6 @@ msgstr ""
 
 #: plugin.py:9178
 #, python-brace-format
-msgid ""
 "Delete {} selected items?\n"
 "\n"
 "This action cannot be undone."
@@ -1281,7 +1266,6 @@ msgstr ""
 
 #: plugin.py:9297
 #, python-brace-format
-msgid ""
 "Delete manual mapping?\n"
 "\n"
 "Channel: {}\n"
@@ -1299,7 +1283,6 @@ msgid "Error deleting mapping"
 msgstr ""
 
 #: plugin.py:9449
-msgid ""
 "You have unsaved changes in the database.\n"
 "\n"
 "Do you want to save before closing?"

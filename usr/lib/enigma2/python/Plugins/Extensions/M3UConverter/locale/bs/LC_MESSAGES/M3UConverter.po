@@ -1,0 +1,967 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: M 3UConverter\n"
+"PO-Revision-Date: 2026-08-23 07:56+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Bosnian <mtodorov@alu.hr>\n"
+"Language: bs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "(Based on selected database mode: {})"
+msgstr "(Na osnovu odabranog načina rada baze podataka: {})"
+
+msgid "(Reused previous manual corrections)"
+msgstr "(Ponovno korištene prethodne ručne ispravke)"
+
+msgid "- {} duplicate groups"
+msgstr "- {} duplikata grupa"
+
+msgid "-- Auto-open Editor"
+msgstr "-- Automatsko otvaranje uređivača"
+
+msgid "-- DVB search limit (Match Edit)"
+msgstr "-- Ograničenje DVB pretrage (Uređivanje utakmica)"
+
+msgid "-- Database Mode"
+msgstr "-- Režim baze podataka"
+
+msgid "-- EPG Generation Mode"
+msgstr ""
+
+msgid "-- EPG Language"
+msgstr "-- EPG jezik"
+
+msgid "-- Ignore DVB-T services"
+msgstr "-- Zanemari DVB-T usluge"
+
+msgid "-- Max Backups"
+msgstr "-- Maks rezervnih kopija"
+
+msgid "-- Rytec search limit (Match Edit)"
+msgstr "-- Rytec ograničenje pretraživanja (Uređivanje utakmice)"
+
+msgid "-- Similarity Threshold DVB (%)"
+msgstr "-- Prag sličnosti DVB (%)"
+
+msgid "-- Similarity Threshold Global (%)"
+msgstr "-- Globalni prag sličnosti (%)"
+
+msgid "-- Similarity Threshold Rytec (%)"
+msgstr "-- Prag sličnosti Rytec (%)"
+
+msgid "-- Use Manual Database"
+msgstr "-- Koristite ručnu bazu podataka"
+
+msgid "--- {} ({} duplicates) ---"
+msgstr "--- {} ({} duplikata) ---"
+
+msgid "---- Max manual corrections to save"
+msgstr "---- Maks. ručne ispravke za spremanje"
+
+msgid ">>> DUPLICATES VIEW"
+msgstr ">>> DUPLIKATI PREGLED"
+
+msgid ">>> SELECTION MODE - Select items with OK"
+msgstr ">>> REŽIM IZBORA - Odaberite stavke sa OK"
+
+msgid ">>> {} duplicate groups, {} total mappings"
+msgstr ">>> {} duplikata grupa, ukupno {} mapiranja"
+
+msgid ">>> {} groups, {} mappings total"
+msgstr ">>> {} grupa, ukupno {} mapiranja"
+
+msgid "ALL MAPPINGS: {} total"
+msgstr "SVA MAPIRANJA: ukupno {}"
+
+msgid "Action for: {}"
+msgstr "Akcija za: {}"
+
+msgid "Advanced Tools Menu"
+msgstr "Meni naprednih alata"
+
+msgid "All Mappings"
+msgstr "Sva mapiranja"
+
+msgid "Archimede Converter Settings"
+msgstr "Postavke Archimede Convertera"
+
+msgid "Archimede Universal Converter by Lululla v.{version} - {page}"
+msgstr ""
+
+msgid "Archimede Universal Converter v.%s"
+msgstr ""
+
+msgid "Archimede Universal Converter v.%s by Lululla"
+msgstr "Archimede Universal Converter v.%s od Lululla"
+
+msgid "Backup created successfully!"
+msgstr "Sigurnosna kopija uspješno kreirana!"
+
+msgid "Backup failed: {}"
+msgstr "Sigurnosna kopija nije uspjela: {}"
+
+msgid "Barry Allen"
+msgstr ""
+
+msgid "Bottom"
+msgstr "Dno"
+
+msgid "Bouquet Mode"
+msgstr ""
+
+msgid "Bouquet Position"
+msgstr ""
+
+msgid "Cancel"
+msgstr "Otkaži"
+
+msgid "Cancelling conversion..."
+msgstr "Otkazivanje konverzije..."
+
+msgid "Cancelling..."
+msgstr "Otkazivanje..."
+
+msgid "Channel: {} | {} | Match: {} | Press RIGHT for matches"
+msgstr "Kanal: {} | {} | Utakmica: {} | Pritisnite DESNO za utakmice"
+
+msgid "Close"
+msgstr "Zatvori"
+
+msgid "Conversion already in progress"
+msgstr "Konverzija je već u toku"
+
+msgid "Conversion cancelled"
+msgstr "Konverzija je otkazana"
+
+msgid "Conversion completed"
+msgstr "Konverzija je završena"
+
+msgid "Conversion error: %s"
+msgstr "Greška konverzije: %s"
+
+msgid "Conversion failed: Invalid result"
+msgstr "Konverzija nije uspjela: nevažeći rezultat"
+
+msgid "Conversion failed: {}"
+msgstr "Konverzija nije uspjela: {}"
+
+msgid "Conversion in progress..."
+msgstr "Konverzija u toku..."
+
+msgid "Convert"
+msgstr "Pretvori"
+
+msgid "Convert HLS Streams"
+msgstr "Pretvori HLS tokove"
+
+msgid "Convert HLS to Enigma2 format"
+msgstr "Pretvorite HLS u Enigma2 format"
+
+msgid "Convert JSON to M3U"
+msgstr "Pretvorite JSON u M3U"
+
+msgid "Convert JSON to TV"
+msgstr "Pretvorite JSON u TV"
+
+msgid "Convert M3U to JSON"
+msgstr "Pretvorite M3U u JSON"
+
+msgid "Convert M3U to TV"
+msgstr "Pretvorite M3U u TV"
+
+msgid "Convert TV to M3U"
+msgstr "Pretvorite TV u M3U"
+
+msgid "Convert TV to TV"
+msgstr "Pretvorite TV u TV"
+
+msgid "Convert XSPF to M3U"
+msgstr "Pretvorite XSPF u M3U"
+
+msgid "Convert between M3U Enigma2 Bouquets Json"
+msgstr "Pretvorite između M3U Enigma2 Bouquets Json"
+
+msgid "Converting: %d/%d (%d%%)"
+msgstr "Pretvaranje: %d/%d (%d%%)"
+
+msgid "Converting: {name} ({percent}%)"
+msgstr "Konverzija: {name} ({percent}%)"
+
+msgid "Converting: {title} ({percent}%)"
+msgstr "Konverzija: {name} ({percent}%)"
+
+msgid "Converting: {} ({}%)"
+msgstr "Pretvaranje: {} ({}%)"
+
+msgid "Create Backup"
+msgstr "Kreirajte sigurnosnu kopiju"
+
+msgid "Create backup before conversion"
+msgstr "Napravite rezervnu kopiju prije konverzije"
+
+msgid "Create single or multiple bouquets"
+msgstr "Napravite jedan ili više buketa"
+
+msgid "DUPLICATES: {} groups, {} mappings"
+msgstr "DUPLIKATI: {} grupe, {} mapiranja"
+
+msgid "DVB + Rytec"
+msgstr "DVB + Engraver"
+
+msgid "DVB + Rytec + DTT (Full)"
+msgstr "DVB + Rytec + DTT (puna)"
+
+msgid "Database Directory"
+msgstr "Imenik baze podataka"
+
+msgid "Debug Mode"
+msgstr "Režim za otklanjanje grešaka"
+
+msgid "Default Folder"
+msgstr ""
+
+msgid "Default folder for opening and saving M3U files"
+msgstr "Podrazumevana fascikla za otvaranje i čuvanje M3U fajlova"
+
+msgid "Delete"
+msgstr "Izbriši"
+
+msgid "Deleted {} items"
+msgstr "Izbrisano je {} stavki"
+
+msgid "Deleted {} items. No more duplicates."
+msgstr "Izbrisano je {} stavki. Nema više duplikata."
+
+msgid "Deleted {} items. Still in selection mode."
+msgstr "Izbrisano je {} stavki. Još uvijek u načinu odabira."
+
+msgid "Done"
+msgstr "Gotovo"
+
+msgid "Duplicates"
+msgstr "Duplikati"
+
+msgid "EPG Coverage: {}/{} channels ({:.1f}%)"
+msgstr "EPG pokrivenost: {}/{} kanala ({:.1f}%)"
+
+msgid "EPG assigned: {} | {}"
+msgstr "EPG dodijeljen: {} | {}"
+
+msgid "EPG cache cleared! {} entries removed"
+msgstr "EPG keš je obrisan! {} unosa je uklonjeno"
+
+msgid "EPG database reloaded successfully!"
+msgstr "EPG baza podataka uspješno ponovo učitana!"
+
+msgid "EPG mapper not available"
+msgstr "EPG maper nije dostupan"
+
+msgid "EPG mapper not initialized"
+msgstr "EPG maper nije inicijaliziran"
+
+msgid "EPG matching algorithm"
+msgstr "EPG algoritam podudaranja"
+
+msgid "EPGImport plugin not found"
+msgstr "Dodatak EPGImport nije pronađen"
+
+msgid "EPGImporter"
+msgstr "EPG uvoznik"
+
+msgid "EPGShare Mode"
+msgstr ""
+
+msgid "Enable EPG"
+msgstr "Omogući EPG"
+
+msgid "Enable detailed logging"
+msgstr "Omogući detaljnu evidenciju"
+
+msgid "Enigma2 Bouquet to Enigma2 Bouquet Conversion"
+msgstr "Pretvorba Enigma2 Bouqueta u Enigma2 Bouquet"
+
+msgid "Enigma2 Bouquet to M3U Conversion"
+msgstr "Pretvorba Enigma2 Bouquet u M3U"
+
+msgid "Enigma2 Bouquets to  Enigma2 Bouquets"
+msgstr "Enigma2 buketi do Enigma2 buketi"
+
+msgid "Enigma2 Bouquets to  M3U"
+msgstr "Enigma2 Buketi za M3U"
+
+msgid "Error clearing EPG cache"
+msgstr "Greška pri čišćenju EPG keša"
+
+msgid "Error clearing database"
+msgstr "Greška pri čišćenju baze podataka"
+
+msgid "Error deleting correction"
+msgstr "Greška prilikom brisanja ispravke"
+
+msgid "Error deleting items"
+msgstr "Greška prilikom brisanja stavki"
+
+msgid "Error deleting mapping"
+msgstr "Greška prilikom brisanja mapiranja"
+
+msgid "Error exporting database"
+msgstr "Greška pri izvozu baze podataka"
+
+msgid "Error finalizing import: {}"
+msgstr "Greška pri finaliziranju uvoza: {}"
+
+msgid "Error importing database: {}"
+msgstr "Greška pri uvozu baze podataka: {}"
+
+msgid "Error initiating service reload"
+msgstr "Greška pri pokretanju ponovnog učitavanja usluge"
+
+msgid "Error loading database"
+msgstr "Greška pri učitavanju baze podataka"
+
+msgid "Error opening plugin information: %s"
+msgstr "Greška pri otvaranju informacija o dodatku: %s"
+
+msgid "Error processing conversion result"
+msgstr "Greška pri obradi rezultata konverzije"
+
+msgid "Error reloading EPG database: {}"
+msgstr "Greška pri ponovnom učitavanju EPG baze podataka: {}"
+
+msgid "Error saving imported database"
+msgstr "Greška pri spremanju uvezene baze podataka"
+
+msgid "Error starting import: {}"
+msgstr "Greška pri pokretanju uvoza: {}"
+
+msgid "Error undoing action"
+msgstr "Greška pri poništavanju radnje"
+
+msgid "Error: Channel index out of range"
+msgstr "Greška: Indeks kanala je izvan opsega"
+
+msgid "Failed to initialize EPG mapper - check logs"
+msgstr "Inicijalizacija EPG mapera nije uspjela - provjerite dnevnike"
+
+msgid "File loaded: {}"
+msgstr "Fajl je učitan: {}"
+
+msgid "File not found"
+msgstr "Fajl nije pronađen"
+
+msgid "File write error: %s"
+msgstr "Greška u pisanju datoteke: %s"
+
+msgid "File: {}"
+msgstr "Fajl: {}"
+
+msgid "Files larger than this will be sampled (1000 channels max)"
+msgstr "Fajlovi veći od ovog će biti uzorkovani (maksimalno 1000 kanala)"
+
+msgid "First select a match from the right list (use RIGHT arrow)"
+msgstr "Prvo odaberite podudaranje sa desne liste (koristite strelicu DESNO)"
+
+msgid "Found {} matches for: {} | Select and press OK"
+msgstr "Pronađeno {} podudaranja za: {} | Odaberite i pritisnite OK"
+
+msgid "Found {} matches so far for: {} | Searching..."
+msgstr "Do sada pronađeno {} podudaranja za: {} | Pretraživanje..."
+
+msgid "Generate EPG data for bouquets"
+msgstr "Generirajte EPG podatke za bukete"
+
+msgid "Global similarity threshold for all matches (20-100%)"
+msgstr "Globalni prag sličnosti za sve utakmice (20-100%)"
+
+msgid "HDD Drive"
+msgstr ""
+
+msgid "Ignore DVB-T services on conversion"
+msgstr "Zanemarite DVB-T usluge prilikom konverzije"
+
+msgid "Import {} mappings from {}"
+msgstr "Uvezi {} mapiranja iz {}"
+
+msgid "Invalid .m3u item format"
+msgstr "Nevažeći format .m3u stavke"
+
+msgid "Invalid .tv item format"
+msgstr "Nevažeći format .tv stavke"
+
+msgid "Invalid XSPF file"
+msgstr "Nevažeći XSPF fajl"
+
+msgid "Invalid database file structure"
+msgstr "Nevažeća struktura datoteke baze podataka"
+
+msgid "Invalid selection"
+msgstr "Nevažeći odabir"
+
+msgid "JSON to Enigma2 Bouquet Conversion"
+msgstr "Konverzija JSON-a u Enigma2 buket"
+
+msgid "JSON to M3U Conversion"
+msgstr "Konverzija JSON u M3U"
+
+msgid "JSON to  Enigma2 Bouquets"
+msgstr "JSON u Enigma2 bukete"
+
+msgid "JSON to  M3U"
+msgstr "JSON u M3U"
+
+msgid "Language for EPG sources"
+msgstr "Jezik za EPG izvore"
+
+msgid "Large file detected: {:.1f}MB. Processing first {} channels..."
+msgstr "Otkriven je veliki fajl: {:.1f}MB. Obrada prvih {} kanala..."
+
+msgid "Large file threshold (MB)"
+msgstr "Prag za veliki fajl (MB)"
+
+msgid "Loaded first %d channels. Press Green to convert."
+msgstr "Učitano prvih %d kanala. Pritisnite zelenu za konverziju."
+
+msgid "Loading database..."
+msgstr "Učitavanje baze podataka..."
+
+msgid "Log file cleared successfully"
+msgstr "Dnevnik je uspješno obrisan"
+
+msgid "M3U to Enigma2 Bouquet Conversion"
+msgstr "Pretvorba buketa M3U u Enigma2"
+
+msgid "M3U to JSON Conversion"
+msgstr "Pretvorba M3U u JSON"
+
+msgid "M3U to  Enigma2 Bouquets"
+msgstr "Buketi od M3U do Enigma2"
+
+msgid "M3U to  JSON"
+msgstr "M3U u JSON"
+
+msgid "Manual Corrections ({} total)"
+msgstr "Ručne korekcije (ukupno {})"
+
+msgid "Manual Database Editor"
+msgstr "Ručni uređivač baze podataka"
+
+msgid "Manual EPG Match Editor"
+msgstr "Ručni EPG Match Editor"
+
+msgid "Manual database cleared"
+msgstr "Ručna baza podataka je obrisana"
+
+msgid "Manual database not available"
+msgstr "Ručna baza podataka nije dostupna"
+
+msgid "Manual editing completed"
+msgstr "Ručno uređivanje je završeno"
+
+msgid "Manual editing completed - ready for conversion"
+msgstr "Ručno uređivanje je završeno - spremno za konverziju"
+
+msgid "Mapping deleted successfully"
+msgstr "Mapiranje je uspješno izbrisano"
+
+msgid "Match Editor"
+msgstr "Uređivač utakmica"
+
+msgid "Match reset for: {}"
+msgstr "Poništavanje utakmice za: {}"
+
+msgid "Max DVB entries scanned during automatic Match Edit (Slow down scanning)"
+msgstr "Maksimalan broj DVB unosa skeniranih tokom automatskog uređivanja podudaranja (usporeno skeniranje)"
+
+msgid "Max Rytec entries scanned during automatic Match Edit (Slow down scanning)"
+msgstr "Maksimalni broj Rytec unosa skeniranih tokom automatskog uređivanja utakmice (Uspori skeniranje)"
+
+msgid "Maximum backup copies"
+msgstr "Maksimalan broj rezervnih kopija"
+
+msgid "Maximum manual corrections to save"
+msgstr "Maksimalne ručne ispravke za spremanje"
+
+msgid "Multiple Bouquets"
+msgstr "Višestruki buketi"
+
+msgid "Network Storage"
+msgstr "Mrežna pohrana"
+
+msgid "Next"
+msgstr "Sledeći"
+
+msgid "No IPTV channels found in the bouquet"
+msgstr "Nijedan IPTV kanal nije pronađen u buketu"
+
+msgid "No M3UConverter bouquets found to remove."
+msgstr "Nisu pronađeni M3UConverter buketi za uklanjanje."
+
+msgid "No MANUAL changes to save"
+msgstr "Nema RUČNIH promjena za spremanje"
+
+msgid "No MANUAL corrections saved"
+msgstr "Nisu sačuvane RUČNE ispravke"
+
+msgid "No actions to undo"
+msgstr "Nema radnji za poništavanje"
+
+msgid "No channels available"
+msgstr "Nema dostupnih kanala"
+
+msgid "No channels loaded. Please select a valid TV bouquet file."
+msgstr "Nema učitanih kanala. Molimo odaberite važeću datoteku TV buketa."
+
+msgid "No conversion data available."
+msgstr "Nema dostupnih podataka o konverziji."
+
+msgid "No conversion data available. Please run a conversion first."
+msgstr "Nema dostupnih podataka o konverziji. Prvo pokrenite konverziju."
+
+msgid "No conversion statistics available."
+msgstr "Nema dostupne statistike konverzije."
+
+msgid "No duplicates available for selection"
+msgstr "Nema dostupnih duplikata za odabir"
+
+msgid "No duplicates found"
+msgstr "Nema pronađenih duplikata"
+
+msgid "No duplicates found in the database"
+msgstr "U bazi podataka nisu pronađeni duplikati"
+
+msgid "No file selected"
+msgstr "Nije odabran nijedan fajl"
+
+msgid "No file selected for conversion"
+msgstr "Nijedan fajl nije odabran za konverziju"
+
+msgid "No items selected for deletion"
+msgstr "Nema odabranih stavki za brisanje"
+
+msgid "No manual corrections found"
+msgstr "Nisu pronađene ručne ispravke"
+
+msgid "No manual corrections to export"
+msgstr "Nema ručnih ispravki za izvoz"
+
+msgid "No mappings available"
+msgstr "Nema dostupnih mapiranja"
+
+msgid "No matches found - try different search"
+msgstr "Nema pronađenih podudaranja - pokušajte s drugim pretraživanjem"
+
+msgid "No matches found for: {}"
+msgstr "Nema pronađenih podudaranja za: {}"
+
+msgid "No statistics available"
+msgstr "Nema dostupne statistike"
+
+msgid "No valid channels found in the JSON file"
+msgstr "U JSON datoteci nisu pronađeni važeći kanali"
+
+msgid "Only DTT"
+msgstr "Samo DTT"
+
+msgid "Only DVB"
+msgstr "Samo DVB"
+
+msgid "Only Rytec"
+msgstr "Samo Rytec"
+
+msgid "Open File"
+msgstr "Otvorite datoteku"
+
+msgid "Open manual editor after conversion"
+msgstr "Otvorite ručni uređivač nakon konverzije"
+
+msgid "Playback error"
+msgstr "Greška pri reprodukciji"
+
+msgid "Playing: %s"
+msgstr "Reprodukcija: %s"
+
+msgid "Please select a channel first"
+msgstr "Prvo odaberite kanal"
+
+msgid "Please select a mapping (not a group header)"
+msgstr "Molimo odaberite mapiranje (ne zaglavlje grupe)"
+
+msgid "Please select a mapping to delete"
+msgstr "Molimo odaberite mapiranje za brisanje"
+
+msgid "Please select a valid match from the right list"
+msgstr "Molimo odaberite važeću utakmicu sa desne liste"
+
+msgid "Plugin Information"
+msgstr "Informacije o dodatku"
+
+msgid "Position in channel list"
+msgstr "Pozicija na listi kanala"
+
+msgid "Press RED to select file"
+msgstr "Pritisnite CRVENU za odabir datoteke"
+
+msgid "Prev"
+msgstr ""
+
+msgid "Processing selection..."
+msgstr "Obrada odabira..."
+
+msgid "Ready"
+msgstr "Spreman"
+
+msgid "Ready for next operation"
+msgstr "Spreman za sljedeću operaciju"
+
+msgid "Ready to convert"
+msgstr "Spreman za konverziju"
+
+msgid "Ready: Select the file from the %s you configured in settings."
+msgstr "Spreman: Odaberite datoteku iz %s koju ste konfigurirali u postavkama."
+
+msgid "Reloading services..."
+msgstr "Ponovno učitavanje usluga..."
+
+msgid "Remove Bouquets"
+msgstr "Uklonite bukete"
+
+msgid "Remove M3U Bouquets"
+msgstr "Uklonite M3U bukete"
+
+msgid "Reset"
+msgstr ""
+
+msgid "Run a conversion first to see statistics."
+msgstr "Prvo pokrenite konverziju da vidite statistiku."
+
+msgid "SELECTION MODE: {} items selected"
+msgstr "NAČIN ODABRA: {} odabranih stavki"
+
+msgid "Save All"
+msgstr ""
+
+msgid "Save error"
+msgstr "Greška pri čuvanju"
+
+msgid "Saved {} MANUAL corrections"
+msgstr "Sačuvano {} MANUAL ispravki"
+
+msgid "Searching matches for: {}..."
+msgstr "Pretraživanje podudaranja za: {}..."
+
+msgid "Select"
+msgstr "Odaberite"
+
+msgid "Select a channel to correct the match"
+msgstr "Odaberite kanal da ispravite podudaranje"
+
+msgid "Select a channel to edit (use OK or RIGHT to go to matches)"
+msgstr "Odaberite kanal za uređivanje (koristite OK ili DESNO za prelazak na utakmice)"
+
+msgid "Select a match and press OK to assign"
+msgstr "Odaberite podudaranje i pritisnite OK za dodjelu"
+
+msgid "Select databases for channel matching"
+msgstr "Odaberite baze podataka za podudaranje kanala"
+
+msgid "Select file to import from {}"
+msgstr "Odaberite fajl za uvoz iz {}"
+
+msgid "Select import location"
+msgstr "Odaberite lokaciju za uvoz"
+
+msgid "Selection mode active. Select items with OK"
+msgstr "Aktivan način odabira. Odaberite stavke sa OK"
+
+msgid "Selection mode off"
+msgstr "Način odabira isključen"
+
+msgid "Selection mode: Select items with OK"
+msgstr "Način odabira: Odaberite stavke pomoću OK"
+
+msgid "Service reload initiated"
+msgstr "Pokrenuto ponovno učitavanje usluge"
+
+msgid "Similarity threshold for DVB matches (20-100%)"
+msgstr "Prag sličnosti za DVB utakmice (20-100%)"
+
+msgid "Similarity threshold for Rytec matches (20-100%)"
+msgstr "Prag sličnosti za Rytec utakmice (20-100%)"
+
+msgid "Single Bouquet"
+msgstr ""
+
+msgid "Standard Mode"
+msgstr "Standardni način rada"
+
+msgid "Stopped"
+msgstr "Zaustavljeno"
+
+msgid "Temporary"
+msgstr "Privremeno"
+
+msgid "Temporary Files"
+msgstr "Privremene datoteke"
+
+msgid "Tools"
+msgstr "Alati"
+
+msgid "Top"
+msgstr ""
+
+msgid "USB Drive"
+msgstr "USB disk"
+
+msgid "Undo"
+msgstr "Poništi"
+
+msgid "Undo: Restored previous state for {}"
+msgstr "Poništi: Vraćeno prethodno stanje za {}"
+
+msgid "Universal Converter"
+msgstr "Univerzalni pretvarač"
+
+msgid "Unknown error"
+msgstr "Nepoznata greška"
+
+msgid "Unsupported conversion type"
+msgstr "Nepodržana vrsta konverzije"
+
+msgid "Use saved manual corrections"
+msgstr "Koristite sačuvane ručne ispravke"
+
+msgid "We're ready: what do you want to do?"
+msgstr "Spremni smo: šta želite da uradite?"
+
+msgid "XSPF conversion error: %s"
+msgstr "Greška konverzije XSPF: %s"
+
+msgid "XSPF to M3U Playlist Conversion"
+msgstr "Konverzija XSPF u M3U plejliste"
+
+msgid "XSPF to  M3U Playlist"
+msgstr "XSPF u M3U plejlistu"
+
+msgid "merged"
+msgstr "spojeno"
+
+msgid "replaced"
+msgstr "zamijenjen"
+
+msgid "tv_to_m3u Conversion error: %s"
+msgstr "tv_to_m3u Greška konverzije: %s"
+
+msgid " Current total: {}"
+msgstr "Trenutni ukupno: {}"
+
+msgid " DVB: {} channels"
+msgstr "DVB: {} kanala"
+
+msgid " Duplicate mappings: {}"
+msgstr "Duplicirana mapiranja: {}"
+
+msgid " Hit: {} ({:.1f}%)"
+msgstr "Pogodak: {} ({:.1f}%)"
+
+msgid " Miss: {}"
+msgstr "gospođica: {}"
+
+msgid " Mode: {}"
+msgstr "Način rada: {}"
+
+msgid " New mappings: {}"
+msgstr "Nova mapiranja: {}"
+
+msgid " Rytec: {} channels"
+msgstr "Rytec: {} kanala"
+
+msgid " Size: {} entries"
+msgstr "Veličina: {} unosa"
+
+msgid " Total in import file: {}"
+msgstr "Ukupno u uvoznom fajlu: {}"
+
+msgid "  Manual DB: {} ({:.1f}%)"
+msgstr "Ručni DB: {} ({:.1f}%)"
+
+msgid "  DVB-S: {} ({:.1f}%)"
+msgstr "DVB-S: {} ({:.1f}%)"
+
+msgid "  DVB-T: {} ({:.1f}%)"
+msgstr "DVB-T: {} ({:.1f}%)"
+
+msgid "  IPTV Fallback: {} ({:.1f}%)"
+msgstr "IPTV zamjenski: {} ({:.1f}%)"
+
+msgid "  Rytec: {} ({:.1f}%)"
+msgstr "Rytec: {} ({:.1f}%)"
+
+msgid " Conversion type: {}"
+msgstr "Vrsta konverzije: {}"
+
+msgid " Status: Completed successfully"
+msgstr "Status: Uspješno završeno"
+
+msgid " Valid channels processed: {}"
+msgstr "Obrađeni važeći kanali: {}"
+
+msgid " Edit this mapping"
+msgstr "Uredite ovo mapiranje"
+
+msgid " Manual edits applied: {}"
+msgstr "Primijenjene su ručne izmjene: {}"
+
+msgid " Open Database Editor"
+msgstr "Otvorite uređivač baze podataka"
+
+msgid " Error generating statistics"
+msgstr "Greška pri generiranju statistike"
+
+msgid " Merge (keep both)"
+msgstr "Spoji (zadrži oba)"
+
+msgid " New mappings ({}):"
+msgstr "Nova mapiranja ({}):"
+
+msgid " CONVERSION COMPLETE"
+msgstr "KONVERZIJA KOMPLETNA"
+
+msgid " Effective EPG matches: {}"
+msgstr "Efektivna EPG podudaranja: {}"
+
+msgid " TOTAL CHANNELS: {}"
+msgstr "UKUPNO KANALA: {}"
+
+msgid " View Manual Database"
+msgstr "Pogledajte ručnu bazu podataka"
+
+msgid " CACHE PERFORMANCE:"
+msgstr "PERFORMANSE CACHE:"
+
+msgid " Cache efficiency: {}"
+msgstr "Efikasnost keš memorije: {}"
+
+msgid " Create Backup"
+msgstr "Kreirajte sigurnosnu kopiju"
+
+msgid " Manual DB matches: {}"
+msgstr "Ručna DB podudaranja: {}"
+
+msgid " Output file: {}"
+msgstr "Izlazni fajl: {}"
+
+msgid " File size: {}"
+msgstr "Veličina fajla: {}"
+
+msgid " EFFECTIVE EPG coverage: {}"
+msgstr "EFEKTIVNA EPG pokrivenost: {}"
+
+msgid " EPG COVERAGE: {:.1f}%"
+msgstr "POKRIVANJE EPG-a: {:.1f}%"
+
+msgid " Statistics:"
+msgstr "Statistika:"
+
+msgid " EPG Cache Statistics"
+msgstr "EPG keš statistika"
+
+msgid " EPG STATISTICS - {}"
+msgstr "EPG STATISTIKA - {}"
+
+msgid " IMPORT PREVIEW"
+msgstr "PREGLED UVOZA"
+
+msgid " Preview Changes"
+msgstr "Pregledajte promjene"
+
+msgid " Total channels in file: {}"
+msgstr "Ukupan broj kanala u fajlu: {}"
+
+msgid " Plugin Info"
+msgstr "Informacije o dodatku"
+
+msgid " Manual Match Editing"
+msgstr "Ručno uređivanje utakmica"
+
+msgid " DVB channels in DB: {}"
+msgstr "DVB kanali u DB: {}"
+
+msgid " DVB-T EPG matches: {}"
+msgstr "DVB-T EPG podudaranja: {}"
+
+msgid " Export Manual Database"
+msgstr "Izvezi ručnu bazu podataka"
+
+msgid " Import Manual Database"
+msgstr "Uvezite ručnu bazu podataka"
+
+msgid " DVB EPG matches: {}"
+msgstr "DVB EPG podudaranja: {}"
+
+msgid " Duplicates ({}):"
+msgstr "Duplikati ({}):"
+
+msgid " Reload EPG Database"
+msgstr "Ponovo učitaj EPG bazu podataka"
+
+msgid " Reload Services"
+msgstr "Reload Services"
+
+msgid " Replace All ({} mappings)"
+msgstr "Zamijeni sve ({} mapiranja)"
+
+msgid " Fallback (no EPG): {}"
+msgstr "Zamjena (bez EPG): {}"
+
+msgid " Cache size: {} entries"
+msgstr "Veličina keš memorije: {} unosa"
+
+msgid " Back"
+msgstr "Nazad"
+
+msgid " Back to Tools"
+msgstr "Povratak na Alati"
+
+msgid " Back to locations"
+msgstr "Natrag na lokacije"
+
+msgid " MATCH BREAKDOWN:"
+msgstr "RASPORED UTAKMICA:"
+
+msgid " Completed at: {}"
+msgstr "Završeno u: {}"
+
+msgid " Edited at: {}"
+msgstr "Uređeno na: {}"
+
+msgid " === Manual Database Management ==="
+msgstr "=== Ručno upravljanje bazom podataka ==="
+
+msgid " DATABASE INFO:"
+msgstr "INFORMACIJE O BAZI PODATAKA:"
+
+msgid " Database mode: {}"
+msgstr "Način rada baze podataka: {}"
+
+msgid " Rytec channels in DB: {}"
+msgstr "Rytec kanali u DB: {}"
+
+msgid " Clear Log File"
+msgstr "Obrišite datoteku dnevnika"
+
+msgid " Delete this mapping"
+msgstr "Izbrišite ovo mapiranje"
+
+msgid " Skipped channels: {}"
+msgstr "Preskočeni kanali: {}"
+
+msgid " Rytec EPG matches: {}"
+msgstr "Rytec EPG podudaranja: {}"
+
+msgid " Clean Manual Database"
+msgstr "Očistite ručnu bazu podataka"
+
+msgid " Clear EPG Cache"
+msgstr "Obrišite EPG keš memoriju"

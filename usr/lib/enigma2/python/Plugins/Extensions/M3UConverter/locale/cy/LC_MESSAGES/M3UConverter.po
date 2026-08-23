@@ -1,0 +1,967 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: M 3UConverter\n"
+"PO-Revision-Date: 2026-08-23 08:07+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Welsh\n"
+"Language: cy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "(Based on selected database mode: {})"
+msgstr "(Yn seiliedig ar y modd cronfa ddata a ddewiswyd: {})"
+
+msgid "(Reused previous manual corrections)"
+msgstr "(Cywiriadau llaw blaenorol wedi'u hailddefnyddio)"
+
+msgid "- {} duplicate groups"
+msgstr "- {} grwpiau dyblyg"
+
+msgid "-- Auto-open Editor"
+msgstr "-- Awto-agor Golygydd"
+
+msgid "-- DVB search limit (Match Edit)"
+msgstr "-- Terfyn chwilio DVB (Golygu Cyfatebol)"
+
+msgid "-- Database Mode"
+msgstr "- Modd Cronfa Ddata"
+
+msgid "-- EPG Generation Mode"
+msgstr "-- Modd Cynhyrchu EPG"
+
+msgid "-- EPG Language"
+msgstr "-- Iaith EPG"
+
+msgid "-- Ignore DVB-T services"
+msgstr "-- Anwybyddu gwasanaethau DVB-T"
+
+msgid "-- Max Backups"
+msgstr "- Max Copïau Wrth Gefn"
+
+msgid "-- Rytec search limit (Match Edit)"
+msgstr "-- Terfyn chwilio Rytec (Match Edit)"
+
+msgid "-- Similarity Threshold DVB (%)"
+msgstr "-- Trothwy Tebygrwydd DVB (%)"
+
+msgid "-- Similarity Threshold Global (%)"
+msgstr "-- Trothwy Tebygrwydd Byd-eang (%)"
+
+msgid "-- Similarity Threshold Rytec (%)"
+msgstr "-- Trothwy Tebygrwydd Rytec (%)"
+
+msgid "-- Use Manual Database"
+msgstr "-- Defnyddio Cronfa Ddata Llawlyfr"
+
+msgid "--- {} ({} duplicates) ---"
+msgstr "--- {} ({} yn dyblygu) ---"
+
+msgid "---- Max manual corrections to save"
+msgstr "---- Cywiriadau llaw Max i arbed"
+
+msgid ">>> DUPLICATES VIEW"
+msgstr ">>> GOLWG DDYBLYGIADAU"
+
+msgid ">>> SELECTION MODE - Select items with OK"
+msgstr ">>> MODD DETHOL - Dewiswch eitemau gyda OK"
+
+msgid ">>> {} duplicate groups, {} total mappings"
+msgstr ">>> {} grwpiau dyblyg, {} cyfanswm o fapiau"
+
+msgid ">>> {} groups, {} mappings total"
+msgstr ">>> {} grwpiau, {} cyfanswm o fapiau"
+
+msgid "ALL MAPPINGS: {} total"
+msgstr "POB MAPIO: {} cyfanswm"
+
+msgid "Action for: {}"
+msgstr "Gweithred ar gyfer: {}"
+
+msgid "Advanced Tools Menu"
+msgstr "Dewislen Offer Uwch"
+
+msgid "All Mappings"
+msgstr "Pob Map"
+
+msgid "Archimede Converter Settings"
+msgstr "Gosodiadau Trawsnewidydd Archimede"
+
+msgid "Archimede Universal Converter by Lululla v.{version} - {page}"
+msgstr "Trawsnewidydd Archimede Universal gan Lululla v.{version} - {page}"
+
+msgid "Archimede Universal Converter v.%s"
+msgstr "Trawsnewidydd Cyffredinol Archimede v.%s"
+
+msgid "Archimede Universal Converter v.%s by Lululla"
+msgstr "Archimede Universal Converter v.%s gan Lululla"
+
+msgid "Backup created successfully!"
+msgstr "Crëwyd copi wrth gefn yn llwyddiannus!"
+
+msgid "Backup failed: {}"
+msgstr "Methodd gwneud copi wrth gefn: {}"
+
+msgid "Barry Allen"
+msgstr ""
+
+msgid "Bottom"
+msgstr "Gwaelod"
+
+msgid "Bouquet Mode"
+msgstr "Modd Bouquet"
+
+msgid "Bouquet Position"
+msgstr "Safle Bouquet"
+
+msgid "Cancel"
+msgstr "Canslo"
+
+msgid "Cancelling conversion..."
+msgstr "Wrthi'n canslo trosi..."
+
+msgid "Cancelling..."
+msgstr "Wrthi'n canslo..."
+
+msgid "Channel: {} | {} | Match: {} | Press RIGHT for matches"
+msgstr "Sianel: {} | {} | Cydweddu: {} | Pwyswch DDE am gemau"
+
+msgid "Close"
+msgstr "Cau"
+
+msgid "Conversion already in progress"
+msgstr "Trawsnewid eisoes ar y gweill"
+
+msgid "Conversion cancelled"
+msgstr "Cafodd y trosiad ei ganslo"
+
+msgid "Conversion completed"
+msgstr "Trosi wedi'i gwblhau"
+
+msgid "Conversion error: %s"
+msgstr "Gwall trosi: %s"
+
+msgid "Conversion failed: Invalid result"
+msgstr "Methodd y trosi: Canlyniad annilys"
+
+msgid "Conversion failed: {}"
+msgstr "Methodd y trosi: {}"
+
+msgid "Conversion in progress..."
+msgstr "Trosi ar y gweill..."
+
+msgid "Convert"
+msgstr "Trosi"
+
+msgid "Convert HLS Streams"
+msgstr "Trosi Ffrydiau HLS"
+
+msgid "Convert HLS to Enigma2 format"
+msgstr "Trosi HLS i fformat Enigma2"
+
+msgid "Convert JSON to M3U"
+msgstr "Trosi JSON i M3U"
+
+msgid "Convert JSON to TV"
+msgstr "Trosi JSON i deledu"
+
+msgid "Convert M3U to JSON"
+msgstr "Trosi M3U i JSON"
+
+msgid "Convert M3U to TV"
+msgstr "Trosi M3U i deledu"
+
+msgid "Convert TV to M3U"
+msgstr "Trosi teledu i M3U"
+
+msgid "Convert TV to TV"
+msgstr "Trosi teledu i deledu"
+
+msgid "Convert XSPF to M3U"
+msgstr "Trosi XSPF i M3U"
+
+msgid "Convert between M3U Enigma2 Bouquets Json"
+msgstr "Trosi rhwng M3U Enigma2 Bouquets Json"
+
+msgid "Converting: %d/%d (%d%%)"
+msgstr "Trosi: %d/%d (%d%%)"
+
+msgid "Converting: {name} ({percent}%)"
+msgstr "Trosi: {name} ({percent}%)"
+
+msgid "Converting: {title} ({percent}%)"
+msgstr "Trosi: {name} ({percent}%)"
+
+msgid "Converting: {} ({}%)"
+msgstr "Trosi: {} ({}%)"
+
+msgid "Create Backup"
+msgstr "Creu copi wrth gefn"
+
+msgid "Create backup before conversion"
+msgstr "Creu copi wrth gefn cyn trosi"
+
+msgid "Create single or multiple bouquets"
+msgstr "Creu tuswau sengl neu luosog"
+
+msgid "DUPLICATES: {} groups, {} mappings"
+msgstr "DATBLYGIADAU: {} grwpiau, {} mapiadau"
+
+msgid "DVB + Rytec"
+msgstr "DVB + Ysgythrwr"
+
+msgid "DVB + Rytec + DTT (Full)"
+msgstr "DVB + Rytec + DTT (Llawn)"
+
+msgid "Database Directory"
+msgstr "Cyfeiriadur Cronfa Ddata"
+
+msgid "Debug Mode"
+msgstr "Modd Dadfygio"
+
+msgid "Default Folder"
+msgstr "Ffolder Diofyn"
+
+msgid "Default folder for opening and saving M3U files"
+msgstr "Ffolder ddiofyn ar gyfer agor ac arbed ffeiliau M3U"
+
+msgid "Delete"
+msgstr "Dileu"
+
+msgid "Deleted {} items"
+msgstr "{} eitem wedi'u dileu"
+
+msgid "Deleted {} items. No more duplicates."
+msgstr "{} eitem wedi'u dileu. Dim mwy o ddyblygiadau."
+
+msgid "Deleted {} items. Still in selection mode."
+msgstr "{} eitem wedi'u dileu. Dal yn y modd dewis."
+
+msgid "Done"
+msgstr "Wedi'i wneud"
+
+msgid "Duplicates"
+msgstr "Dyblyg"
+
+msgid "EPG Coverage: {}/{} channels ({:.1f}%)"
+msgstr "Cwmpas EPG: {}/{} sianeli ({:.1f}%)"
+
+msgid "EPG assigned: {} | {}"
+msgstr "EPG wedi'i aseinio: {} | {}"
+
+msgid "EPG cache cleared! {} entries removed"
+msgstr "Celc EPG wedi'i glirio! {} cofnod wedi'u dileu"
+
+msgid "EPG database reloaded successfully!"
+msgstr "Cronfa ddata EPG wedi'i hail-lwytho'n llwyddiannus!"
+
+msgid "EPG mapper not available"
+msgstr "Nid yw mapiwr EPG ar gael"
+
+msgid "EPG mapper not initialized"
+msgstr "Mapiwr EPG heb ei gychwyn"
+
+msgid "EPG matching algorithm"
+msgstr "Algorithm paru EPG"
+
+msgid "EPGImport plugin not found"
+msgstr "Heb ganfod ategyn EPGImport"
+
+msgid "EPGImporter"
+msgstr "Mewnforiwr EPG"
+
+msgid "EPGShare Mode"
+msgstr "Modd EPGShare"
+
+msgid "Enable EPG"
+msgstr "Galluogi EPG"
+
+msgid "Enable detailed logging"
+msgstr "Galluogi logio manwl"
+
+msgid "Enigma2 Bouquet to Enigma2 Bouquet Conversion"
+msgstr "Trosi Tusw Enigma2 i Enigma2"
+
+msgid "Enigma2 Bouquet to M3U Conversion"
+msgstr "Trosi Tusw Enigma2 i M3U"
+
+msgid "Enigma2 Bouquets to  Enigma2 Bouquets"
+msgstr "Tuswau Enigma2 i Tuswau Enigma2"
+
+msgid "Enigma2 Bouquets to  M3U"
+msgstr "Enigma2 Tuswau i M3U"
+
+msgid "Error clearing EPG cache"
+msgstr "Gwall wrth glirio storfa EPG"
+
+msgid "Error clearing database"
+msgstr "Gwall wrth glirio cronfa ddata"
+
+msgid "Error deleting correction"
+msgstr "Gwall wrth ddileu cywiriad"
+
+msgid "Error deleting items"
+msgstr "Gwall wrth ddileu eitemau"
+
+msgid "Error deleting mapping"
+msgstr "Gwall wrth ddileu'r mapio"
+
+msgid "Error exporting database"
+msgstr "Gwall wrth allforio cronfa ddata"
+
+msgid "Error finalizing import: {}"
+msgstr "Gwall wrth gwblhau mewnforio: {}"
+
+msgid "Error importing database: {}"
+msgstr "Gwall wrth fewnforio cronfa ddata: {}"
+
+msgid "Error initiating service reload"
+msgstr "Gwall wrth gychwyn ail-lwytho gwasanaeth"
+
+msgid "Error loading database"
+msgstr "Gwall wrth lwytho cronfa ddata"
+
+msgid "Error opening plugin information: %s"
+msgstr "Gwall wrth agor gwybodaeth ategyn: %s"
+
+msgid "Error processing conversion result"
+msgstr "Gwall wrth brosesu canlyniad trosi"
+
+msgid "Error reloading EPG database: {}"
+msgstr "Gwall wrth ail-lwytho cronfa ddata EPG: {}"
+
+msgid "Error saving imported database"
+msgstr "Gwall wrth gadw cronfa ddata a fewnforiwyd"
+
+msgid "Error starting import: {}"
+msgstr "Gwall wrth gychwyn mewnforio: {}"
+
+msgid "Error undoing action"
+msgstr "Gwall wrth ddadwneud y weithred"
+
+msgid "Error: Channel index out of range"
+msgstr "Gwall: Mynegai sianel y tu allan i'r ystod"
+
+msgid "Failed to initialize EPG mapper - check logs"
+msgstr "Wedi methu cychwyn mapiwr EPG - siec logiau"
+
+msgid "File loaded: {}"
+msgstr "Ffeil wedi'i llwytho: {}"
+
+msgid "File not found"
+msgstr "Ffeil heb ei chanfod"
+
+msgid "File write error: %s"
+msgstr "Gwall wrth ysgrifennu ffeil: %s"
+
+msgid "File: {}"
+msgstr "Ffeil: {}"
+
+msgid "Files larger than this will be sampled (1000 channels max)"
+msgstr "Bydd ffeiliau mwy na hyn yn cael eu samplu (1000 sianel ar y mwyaf)"
+
+msgid "First select a match from the right list (use RIGHT arrow)"
+msgstr "Yn gyntaf dewiswch gyfatebiaeth o'r rhestr dde (defnyddiwch y saeth DDE)"
+
+msgid "Found {} matches for: {} | Select and press OK"
+msgstr "Wedi darganfod {} cyfatebiadau ar gyfer: {} | Dewiswch a gwasgwch OK"
+
+msgid "Found {} matches so far for: {} | Searching..."
+msgstr "Wedi dod o hyd i {} gyfatebiaeth hyd yn hyn ar gyfer: {} | Wrthi'n chwilio..."
+
+msgid "Generate EPG data for bouquets"
+msgstr "Cynhyrchu data EPG ar gyfer tuswau"
+
+msgid "Global similarity threshold for all matches (20-100%)"
+msgstr "Trothwy tebygrwydd byd-eang ar gyfer pob paru (20-100%)"
+
+msgid "HDD Drive"
+msgstr "Gyriant HDD"
+
+msgid "Ignore DVB-T services on conversion"
+msgstr "Anwybyddu gwasanaethau DVB-T wrth drawsnewid"
+
+msgid "Import {} mappings from {}"
+msgstr "Mewnforio {} mapiadau o {}"
+
+msgid "Invalid .m3u item format"
+msgstr "Fformat eitem .m3u annilys"
+
+msgid "Invalid .tv item format"
+msgstr "Fformat eitem .tv annilys"
+
+msgid "Invalid XSPF file"
+msgstr "Ffeil XSPF annilys"
+
+msgid "Invalid database file structure"
+msgstr "Strwythur ffeil cronfa ddata annilys"
+
+msgid "Invalid selection"
+msgstr "Detholiad annilys"
+
+msgid "JSON to Enigma2 Bouquet Conversion"
+msgstr "Trosi Bouquet JSON i Enigma2"
+
+msgid "JSON to M3U Conversion"
+msgstr "Trosi JSON i M3U"
+
+msgid "JSON to  Enigma2 Bouquets"
+msgstr "JSON i Enigma2 Tuswau"
+
+msgid "JSON to  M3U"
+msgstr "JSON i M3U"
+
+msgid "Language for EPG sources"
+msgstr "Iaith ar gyfer ffynonellau EPG"
+
+msgid "Large file detected: {:.1f}MB. Processing first {} channels..."
+msgstr "Wedi canfod ffeil fawr: {:.1f}MB. Wrthi'n prosesu'r {} sianel gyntaf..."
+
+msgid "Large file threshold (MB)"
+msgstr "Trothwy ffeil fawr (MB)"
+
+msgid "Loaded first %d channels. Press Green to convert."
+msgstr "Wedi llwytho %d sianel gyntaf. Pwyswch Green i drosi."
+
+msgid "Loading database..."
+msgstr "Wrthi'n llwytho cronfa ddata..."
+
+msgid "Log file cleared successfully"
+msgstr "Ffeil log wedi'i chlirio'n llwyddiannus"
+
+msgid "M3U to Enigma2 Bouquet Conversion"
+msgstr "Trosi Bouquet M3U i Enigma2"
+
+msgid "M3U to JSON Conversion"
+msgstr "Trosi M3U i JSON"
+
+msgid "M3U to  Enigma2 Bouquets"
+msgstr "M3U i Enigma2 Tuswau"
+
+msgid "M3U to  JSON"
+msgstr "M3U i JSON"
+
+msgid "Manual Corrections ({} total)"
+msgstr "Cywiriadau â Llaw ({} cyfanswm)"
+
+msgid "Manual Database Editor"
+msgstr "Golygydd Cronfa Ddata â Llaw"
+
+msgid "Manual EPG Match Editor"
+msgstr "Golygydd Cyfateb EPG â llaw"
+
+msgid "Manual database cleared"
+msgstr "Clirio cronfa ddata â llaw"
+
+msgid "Manual database not available"
+msgstr "Nid yw cronfa ddata â llaw ar gael"
+
+msgid "Manual editing completed"
+msgstr "Golygu â llaw wedi'i gwblhau"
+
+msgid "Manual editing completed - ready for conversion"
+msgstr "Golygu â llaw wedi'i gwblhau - yn barod i'w drosi"
+
+msgid "Mapping deleted successfully"
+msgstr "Mapio wedi'i ddileu yn llwyddiannus"
+
+msgid "Match Editor"
+msgstr "Golygydd Cyfateb"
+
+msgid "Match reset for: {}"
+msgstr "Ailosod paru ar gyfer: {}"
+
+msgid "Max DVB entries scanned during automatic Match Edit (Slow down scanning)"
+msgstr "Uchafswm cofnodion DVB wedi'u sganio yn ystod Golygu Paru awtomatig (Sganio Araf)"
+
+msgid "Max Rytec entries scanned during automatic Match Edit (Slow down scanning)"
+msgstr "Cofnodion Max Rytec wedi'u sganio yn ystod Golygu Paru awtomatig (sganio'n araf)"
+
+msgid "Maximum backup copies"
+msgstr "Uchafswm y copïau wrth gefn"
+
+msgid "Maximum manual corrections to save"
+msgstr "Uchafswm cywiriadau llaw i arbed"
+
+msgid "Multiple Bouquets"
+msgstr "Tuswau Lluosog"
+
+msgid "Network Storage"
+msgstr "Storio Rhwydwaith"
+
+msgid "Next"
+msgstr "Nesaf"
+
+msgid "No IPTV channels found in the bouquet"
+msgstr "Ni chanfuwyd unrhyw sianeli IPTV yn y tusw"
+
+msgid "No M3UConverter bouquets found to remove."
+msgstr "Ni ddarganfuwyd tuswau M3UCConverter i'w tynnu."
+
+msgid "No MANUAL changes to save"
+msgstr "Dim newidiadau LAW i'w cadw"
+
+msgid "No MANUAL corrections saved"
+msgstr "Dim cywiriadau llaw wedi'u cadw"
+
+msgid "No actions to undo"
+msgstr "Dim gweithredoedd i'w dadwneud"
+
+msgid "No channels available"
+msgstr "Dim sianeli ar gael"
+
+msgid "No channels loaded. Please select a valid TV bouquet file."
+msgstr "Dim sianeli wedi'u llwytho. Dewiswch ffeil tusw teledu ddilys."
+
+msgid "No conversion data available."
+msgstr "Dim data trosi ar gael."
+
+msgid "No conversion data available. Please run a conversion first."
+msgstr "Dim data trosi ar gael. Rhedeg trosiad yn gyntaf."
+
+msgid "No conversion statistics available."
+msgstr "Dim ystadegau trosi ar gael."
+
+msgid "No duplicates available for selection"
+msgstr "Nid oes copïau dyblyg ar gael i'w dewis"
+
+msgid "No duplicates found"
+msgstr "Ni chanfuwyd copïau dyblyg"
+
+msgid "No duplicates found in the database"
+msgstr "Ni chanfuwyd copïau dyblyg yn y gronfa ddata"
+
+msgid "No file selected"
+msgstr "Dim ffeil wedi'i dewis"
+
+msgid "No file selected for conversion"
+msgstr "Dim ffeil wedi'i dewis i'w throsi"
+
+msgid "No items selected for deletion"
+msgstr "Dim eitemau wedi'u dewis i'w dileu"
+
+msgid "No manual corrections found"
+msgstr "Ni chanfuwyd cywiriadau â llaw"
+
+msgid "No manual corrections to export"
+msgstr "Dim cywiriadau llaw i allforio"
+
+msgid "No mappings available"
+msgstr "Dim mapiau ar gael"
+
+msgid "No matches found - try different search"
+msgstr "Heb ganfod cyfatebiaethau - rhowch gynnig ar chwiliad gwahanol"
+
+msgid "No matches found for: {}"
+msgstr "Heb ganfod unrhyw beth sy'n cyfateb ar gyfer: {}"
+
+msgid "No statistics available"
+msgstr "Dim ystadegau ar gael"
+
+msgid "No valid channels found in the JSON file"
+msgstr "Ni chanfuwyd sianeli dilys yn y ffeil JSON"
+
+msgid "Only DTT"
+msgstr "Dim ond DTT"
+
+msgid "Only DVB"
+msgstr "DVB yn unig"
+
+msgid "Only Rytec"
+msgstr "Dim ond Rytec"
+
+msgid "Open File"
+msgstr "Agor Ffeil"
+
+msgid "Open manual editor after conversion"
+msgstr "Agor golygydd â llaw ar ôl trosi"
+
+msgid "Playback error"
+msgstr "Gwall chwarae"
+
+msgid "Playing: %s"
+msgstr "Yn chwarae: %s"
+
+msgid "Please select a channel first"
+msgstr "Dewiswch sianel yn gyntaf"
+
+msgid "Please select a mapping (not a group header)"
+msgstr "Dewiswch fapio (nid pennyn grŵp)"
+
+msgid "Please select a mapping to delete"
+msgstr "Dewiswch fap i'w ddileu"
+
+msgid "Please select a valid match from the right list"
+msgstr "Dewiswch gyfatebiaeth ddilys o'r rhestr gywir"
+
+msgid "Plugin Information"
+msgstr "Gwybodaeth Ategyn"
+
+msgid "Position in channel list"
+msgstr "Safle yn y rhestr sianeli"
+
+msgid "Press RED to select file"
+msgstr "Pwyswch RED i ddewis ffeil"
+
+msgid "Prev"
+msgstr "Cynt"
+
+msgid "Processing selection..."
+msgstr "Wrthi'n prosesu'r dewis..."
+
+msgid "Ready"
+msgstr "Yn barod"
+
+msgid "Ready for next operation"
+msgstr "Yn barod ar gyfer y llawdriniaeth nesaf"
+
+msgid "Ready to convert"
+msgstr "Yn barod i drosi"
+
+msgid "Ready: Select the file from the %s you configured in settings."
+msgstr "Barod: Dewiswch y ffeil o'r %s a ffurfweddu gennych yn y gosodiadau."
+
+msgid "Reloading services..."
+msgstr "Wrthi'n ail-lwytho gwasanaethau..."
+
+msgid "Remove Bouquets"
+msgstr "Dileu Tuswau"
+
+msgid "Remove M3U Bouquets"
+msgstr "Dileu Tuswau M3U"
+
+msgid "Reset"
+msgstr "Ailosod"
+
+msgid "Run a conversion first to see statistics."
+msgstr "Rhedeg trosiad yn gyntaf i weld ystadegau."
+
+msgid "SELECTION MODE: {} items selected"
+msgstr "MODD DEWIS: {} eitem wedi'u dewis"
+
+msgid "Save All"
+msgstr "Arbed Pawb"
+
+msgid "Save error"
+msgstr "Cadw gwall"
+
+msgid "Saved {} MANUAL corrections"
+msgstr "Wedi cadw {} cywiriadau MANUAL"
+
+msgid "Searching matches for: {}..."
+msgstr "Wrthi'n chwilio am gyfatebiaethau am: {}..."
+
+msgid "Select"
+msgstr "Dewiswch"
+
+msgid "Select a channel to correct the match"
+msgstr "Dewiswch sianel i gywiro'r gyfatebiaeth"
+
+msgid "Select a channel to edit (use OK or RIGHT to go to matches)"
+msgstr "Dewiswch sianel i'w golygu (defnyddiwch Iawn neu DDE i fynd i gemau)"
+
+msgid "Select a match and press OK to assign"
+msgstr "Dewiswch gyfatebiaeth a gwasgwch OK i aseinio"
+
+msgid "Select databases for channel matching"
+msgstr "Dewiswch gronfeydd data ar gyfer paru sianeli"
+
+msgid "Select file to import from {}"
+msgstr "Dewiswch ffeil i'w mewnforio o {}"
+
+msgid "Select import location"
+msgstr "Dewiswch leoliad mewnforio"
+
+msgid "Selection mode active. Select items with OK"
+msgstr "Modd dewis yn weithredol. Dewiswch eitemau gyda OK"
+
+msgid "Selection mode off"
+msgstr "Modd dewis i ffwrdd"
+
+msgid "Selection mode: Select items with OK"
+msgstr "Modd dewis: Dewiswch eitemau ag Iawn"
+
+msgid "Service reload initiated"
+msgstr "Dechreuwyd ail-lwytho gwasanaeth"
+
+msgid "Similarity threshold for DVB matches (20-100%)"
+msgstr "Trothwy tebygrwydd ar gyfer paru DVB (20-100%)"
+
+msgid "Similarity threshold for Rytec matches (20-100%)"
+msgstr "Trothwy tebygrwydd ar gyfer gemau Rytec (20-100%)"
+
+msgid "Single Bouquet"
+msgstr "Tusw Sengl"
+
+msgid "Standard Mode"
+msgstr "Modd Safonol"
+
+msgid "Stopped"
+msgstr "Wedi stopio"
+
+msgid "Temporary"
+msgstr "Dros Dro"
+
+msgid "Temporary Files"
+msgstr "Ffeiliau Dros Dro"
+
+msgid "Tools"
+msgstr "Offer"
+
+msgid "Top"
+msgstr "Brig"
+
+msgid "USB Drive"
+msgstr "Gyriant USB"
+
+msgid "Undo"
+msgstr "Dadwneud"
+
+msgid "Undo: Restored previous state for {}"
+msgstr "Dadwneud: Wedi adfer cyflwr blaenorol ar gyfer {}"
+
+msgid "Universal Converter"
+msgstr "Trawsnewidydd Cyffredinol"
+
+msgid "Unknown error"
+msgstr "Gwall anhysbys"
+
+msgid "Unsupported conversion type"
+msgstr "Math trosi heb ei gefnogi"
+
+msgid "Use saved manual corrections"
+msgstr "Defnyddiwch gywiriadau llaw sydd wedi'u cadw"
+
+msgid "We're ready: what do you want to do?"
+msgstr "Rydyn ni'n barod: beth ydych chi am ei wneud?"
+
+msgid "XSPF conversion error: %s"
+msgstr "Gwall trosi XSPF: %s"
+
+msgid "XSPF to M3U Playlist Conversion"
+msgstr "Trosi Rhestr Chwarae XSPF i M3U"
+
+msgid "XSPF to  M3U Playlist"
+msgstr "Rhestr Chwarae XSPF i M3U"
+
+msgid "merged"
+msgstr "uno"
+
+msgid "replaced"
+msgstr "disodli"
+
+msgid "tv_to_m3u Conversion error: %s"
+msgstr "tv_to_m3u Gwall trosi: %s"
+
+msgid " Current total: {}"
+msgstr "Cyfanswm presennol: {}"
+
+msgid " DVB: {} channels"
+msgstr "DVB: {} sianeli"
+
+msgid " Duplicate mappings: {}"
+msgstr "Mapiau dyblyg: {}"
+
+msgid " Hit: {} ({:.1f}%)"
+msgstr "Taro: {} ({:.1f}%)"
+
+msgid " Miss: {}"
+msgstr "Miss: {}"
+
+msgid " Mode: {}"
+msgstr "Modd: {}"
+
+msgid " New mappings: {}"
+msgstr "Mapiau newydd: {}"
+
+msgid " Rytec: {} channels"
+msgstr "Rytec: {} sianeli"
+
+msgid " Size: {} entries"
+msgstr "Maint: {} cofnod"
+
+msgid " Total in import file: {}"
+msgstr "Cyfanswm yn y ffeil mewngludo: {}"
+
+msgid "  Manual DB: {} ({:.1f}%)"
+msgstr "Llawlyfr DB: {} ({:.1f}%)"
+
+msgid "  DVB-S: {} ({:.1f}%)"
+msgstr "DVB-S: {} ({:.1f}%)"
+
+msgid "  DVB-T: {} ({:.1f}%)"
+msgstr "DVB-T: {} ({:.1f}%)"
+
+msgid "  IPTV Fallback: {} ({:.1f}%)"
+msgstr "IPTV Wrth Gefn: {} ({:.1f}%)"
+
+msgid "  Rytec: {} ({:.1f}%)"
+msgstr "Rytec: {} ({:.1f}%)"
+
+msgid " Conversion type: {}"
+msgstr "Math o drawsnewidiad: {}"
+
+msgid " Status: Completed successfully"
+msgstr "Statws: Wedi'i gwblhau'n llwyddiannus"
+
+msgid " Valid channels processed: {}"
+msgstr "Sianeli dilys wedi'u prosesu: {}"
+
+msgid " Edit this mapping"
+msgstr "Golygu'r mapio hwn"
+
+msgid " Manual edits applied: {}"
+msgstr "Golygiadau llaw wedi'u cymhwyso: {}"
+
+msgid " Open Database Editor"
+msgstr "Agor Golygydd Cronfa Ddata"
+
+msgid " Error generating statistics"
+msgstr "Gwall wrth gynhyrchu ystadegau"
+
+msgid " Merge (keep both)"
+msgstr "Cyfuno (cadw'r ddau)"
+
+msgid " New mappings ({}):"
+msgstr "Mapiau newydd ({}):"
+
+msgid " CONVERSION COMPLETE"
+msgstr "TRAWSNEWID CWBLHAOL"
+
+msgid " Effective EPG matches: {}"
+msgstr "Paru EPG effeithiol: {}"
+
+msgid " TOTAL CHANNELS: {}"
+msgstr "CYFANSWM SIANELAU: {}"
+
+msgid " View Manual Database"
+msgstr "Gweld Cronfa Ddata Llawlyfr"
+
+msgid " CACHE PERFORMANCE:"
+msgstr "PERFFORMIAD CACHE:"
+
+msgid " Cache efficiency: {}"
+msgstr "Effeithlonrwydd storfa: {}"
+
+msgid " Create Backup"
+msgstr "Creu copi wrth gefn"
+
+msgid " Manual DB matches: {}"
+msgstr "Mae DB â llaw yn cyfateb: {}"
+
+msgid " Output file: {}"
+msgstr "Ffeil allbwn: {}"
+
+msgid " File size: {}"
+msgstr "Maint ffeil: {}"
+
+msgid " EFFECTIVE EPG coverage: {}"
+msgstr "Sylw EPG EFFEITHIOL: {}"
+
+msgid " EPG COVERAGE: {:.1f}%"
+msgstr "CWMPAS EPG: {:.1f}%"
+
+msgid " Statistics:"
+msgstr "Ystadegau:"
+
+msgid " EPG Cache Statistics"
+msgstr "Ystadegau Cache EPG"
+
+msgid " EPG STATISTICS - {}"
+msgstr "YSTADEGAU EPG - {}"
+
+msgid " IMPORT PREVIEW"
+msgstr "RHAGOLWG MEWNFORIO"
+
+msgid " Preview Changes"
+msgstr "Newidiadau Rhagolwg"
+
+msgid " Total channels in file: {}"
+msgstr "Cyfanswm y sianeli yn y ffeil: {}"
+
+msgid " Plugin Info"
+msgstr "Gwybodaeth Ategyn"
+
+msgid " Manual Match Editing"
+msgstr "Golygu Cyfateb â Llaw"
+
+msgid " DVB channels in DB: {}"
+msgstr "Sianeli DVB yn DB: {}"
+
+msgid " DVB-T EPG matches: {}"
+msgstr "Mae EPG DVB-T yn cyfateb: {}"
+
+msgid " Export Manual Database"
+msgstr "Cronfa Ddata Llawlyfr Allforio"
+
+msgid " Import Manual Database"
+msgstr "Mewnforio Cronfa Ddata Llawlyfr"
+
+msgid " DVB EPG matches: {}"
+msgstr "Mae DVB EPG yn cyfateb: {}"
+
+msgid " Duplicates ({}):"
+msgstr "Copïau dyblyg ({}):"
+
+msgid " Reload EPG Database"
+msgstr "Ail-lwytho Cronfa Ddata EPG"
+
+msgid " Reload Services"
+msgstr "Gwasanaethau Ail-lwytho"
+
+msgid " Replace All ({} mappings)"
+msgstr "Disodli Pob ({} map)"
+
+msgid " Fallback (no EPG): {}"
+msgstr "Wrth gefn (dim EPG): {}"
+
+msgid " Cache size: {} entries"
+msgstr "Maint y storfa: {} cofnod"
+
+msgid " Back"
+msgstr "Yn ol"
+
+msgid " Back to Tools"
+msgstr "Yn ôl i Offer"
+
+msgid " Back to locations"
+msgstr "Yn ôl i leoliadau"
+
+msgid " MATCH BREAKDOWN:"
+msgstr "TORRI GORCHYMYN:"
+
+msgid " Completed at: {}"
+msgstr "Cwblhawyd yn: {}"
+
+msgid " Edited at: {}"
+msgstr "Wedi'i olygu yn: {}"
+
+msgid " === Manual Database Management ==="
+msgstr "=== Rheoli Cronfa Ddata â Llaw ==="
+
+msgid " DATABASE INFO:"
+msgstr "GWYBODAETH CRONFA DDATA:"
+
+msgid " Database mode: {}"
+msgstr "Modd cronfa ddata: {}"
+
+msgid " Rytec channels in DB: {}"
+msgstr "Sianeli Rytec yn DB: {}"
+
+msgid " Clear Log File"
+msgstr "Clirio Ffeil Log"
+
+msgid " Delete this mapping"
+msgstr "Dileu'r mapio hwn"
+
+msgid " Skipped channels: {}"
+msgstr "Sianeli sydd wedi'u hepgor: {}"
+
+msgid " Rytec EPG matches: {}"
+msgstr "Mae Rytec EPG yn cyfateb: {}"
+
+msgid " Clean Manual Database"
+msgstr "Cronfa Ddata Llaw Glân"
+
+msgid " Clear EPG Cache"
+msgstr "Clirio EPG Cache"

@@ -1,0 +1,967 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: M 3UConverter\n"
+"PO-Revision-Date: 2026-08-23 07:53+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Bengali\n"
+"Language: bn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "(Based on selected database mode: {})"
+msgstr ""
+
+msgid "(Reused previous manual corrections)"
+msgstr "(আগের ম্যানুয়াল সংশোধনগুলি পুনরায় ব্যবহার করা হয়েছে)"
+
+msgid "- {} duplicate groups"
+msgstr "- {} ডুপ্লিকেট গ্রুপ"
+
+msgid "-- Auto-open Editor"
+msgstr ""
+
+msgid "-- DVB search limit (Match Edit)"
+msgstr "-- DVB অনুসন্ধান সীমা (ম্যাচ সম্পাদনা)"
+
+msgid "-- Database Mode"
+msgstr "-- ডাটাবেস মোড"
+
+msgid "-- EPG Generation Mode"
+msgstr ""
+
+msgid "-- EPG Language"
+msgstr ""
+
+msgid "-- Ignore DVB-T services"
+msgstr "-- DVB-T পরিষেবা উপেক্ষা করুন"
+
+msgid "-- Max Backups"
+msgstr "-- সর্বোচ্চ ব্যাকআপ"
+
+msgid "-- Rytec search limit (Match Edit)"
+msgstr ""
+
+msgid "-- Similarity Threshold DVB (%)"
+msgstr "-- মিল থ্রেশহোল্ড DVB (%)"
+
+msgid "-- Similarity Threshold Global (%)"
+msgstr "-- সাদৃশ্য থ্রেশহোল্ড গ্লোবাল (%)"
+
+msgid "-- Similarity Threshold Rytec (%)"
+msgstr "-- মিল থ্রেশহোল্ড Rytec (%)"
+
+msgid "-- Use Manual Database"
+msgstr "-- ম্যানুয়াল ডাটাবেস ব্যবহার করুন"
+
+msgid "--- {} ({} duplicates) ---"
+msgstr "--- {} ({} সদৃশ) ---"
+
+msgid "---- Max manual corrections to save"
+msgstr "---- সংরক্ষণ করতে সর্বোচ্চ ম্যানুয়াল সংশোধন"
+
+msgid ">>> DUPLICATES VIEW"
+msgstr ">>> ডুপ্লিকেট ভিউ"
+
+msgid ">>> SELECTION MODE - Select items with OK"
+msgstr ">>> নির্বাচন মোড - ঠিক আছে আইটেম নির্বাচন করুন"
+
+msgid ">>> {} duplicate groups, {} total mappings"
+msgstr ">>> {} ডুপ্লিকেট গ্রুপ, {} মোট ম্যাপিং"
+
+msgid ">>> {} groups, {} mappings total"
+msgstr ">>> {} গ্রুপ, {} মোট ম্যাপিং"
+
+msgid "ALL MAPPINGS: {} total"
+msgstr "সমস্ত ম্যাপিং: {} মোট"
+
+msgid "Action for: {}"
+msgstr "এর জন্য কাজ: {}"
+
+msgid "Advanced Tools Menu"
+msgstr "উন্নত সরঞ্জাম মেনু"
+
+msgid "All Mappings"
+msgstr "সমস্ত ম্যাপিং"
+
+msgid "Archimede Converter Settings"
+msgstr "আর্কিমিড কনভার্টার সেটিংস"
+
+msgid "Archimede Universal Converter by Lululla v.{version} - {page}"
+msgstr "লুলুল্লা v.{version} - {page} দ্বারা আর্কিমিডি ইউনিভার্সাল কনভার্টার"
+
+msgid "Archimede Universal Converter v.%s"
+msgstr "আর্কিমিড ইউনিভার্সাল কনভার্টার v.%s"
+
+msgid "Archimede Universal Converter v.%s by Lululla"
+msgstr "লুলুল্লার দ্বারা আর্কিমিড ইউনিভার্সাল কনভার্টার v.%s"
+
+msgid "Backup created successfully!"
+msgstr "ব্যাকআপ সফলভাবে তৈরি হয়েছে!"
+
+msgid "Backup failed: {}"
+msgstr "ব্যাকআপ ব্যর্থ হয়েছে: {}"
+
+msgid "Barry Allen"
+msgstr "ব্যারি অ্যালেন"
+
+msgid "Bottom"
+msgstr "নীচে"
+
+msgid "Bouquet Mode"
+msgstr "তোড়া মোড"
+
+msgid "Bouquet Position"
+msgstr "তোড়ার অবস্থান"
+
+msgid "Cancel"
+msgstr "বাতিল করুন"
+
+msgid "Cancelling conversion..."
+msgstr "রূপান্তর বাতিল করা হচ্ছে..."
+
+msgid "Cancelling..."
+msgstr "বাতিল হচ্ছে..."
+
+msgid "Channel: {} | {} | Match: {} | Press RIGHT for matches"
+msgstr "চ্যানেল: {} | {} | মিল: {} | ম্যাচের জন্য ডান টিপুন"
+
+msgid "Close"
+msgstr "বন্ধ"
+
+msgid "Conversion already in progress"
+msgstr "রূপান্তর ইতিমধ্যেই চলছে৷"
+
+msgid "Conversion cancelled"
+msgstr "রূপান্তর বাতিল করা হয়েছে৷"
+
+msgid "Conversion completed"
+msgstr "রূপান্তর সম্পন্ন হয়েছে"
+
+msgid "Conversion error: %s"
+msgstr "রূপান্তর ত্রুটি: %s"
+
+msgid "Conversion failed: Invalid result"
+msgstr "রূপান্তর ব্যর্থ হয়েছে: অবৈধ ফলাফল"
+
+msgid "Conversion failed: {}"
+msgstr "রূপান্তর ব্যর্থ হয়েছে: {}"
+
+msgid "Conversion in progress..."
+msgstr "রূপান্তর চলছে..."
+
+msgid "Convert"
+msgstr "রূপান্তর করুন"
+
+msgid "Convert HLS Streams"
+msgstr "HLS স্ট্রিম রূপান্তর করুন"
+
+msgid "Convert HLS to Enigma2 format"
+msgstr "এইচএলএসকে এনিগমা 2 ফর্ম্যাটে রূপান্তর করুন"
+
+msgid "Convert JSON to M3U"
+msgstr "JSON কে M3U তে রূপান্তর করুন"
+
+msgid "Convert JSON to TV"
+msgstr "JSON কে টিভিতে রূপান্তর করুন"
+
+msgid "Convert M3U to JSON"
+msgstr "M3U কে JSON এ রূপান্তর করুন"
+
+msgid "Convert M3U to TV"
+msgstr "M3U কে টিভিতে রূপান্তর করুন"
+
+msgid "Convert TV to M3U"
+msgstr "টিভিকে M3U তে রূপান্তর করুন"
+
+msgid "Convert TV to TV"
+msgstr "টিভিকে টিভিতে রূপান্তর করুন"
+
+msgid "Convert XSPF to M3U"
+msgstr "XSPF কে M3U তে রূপান্তর করুন"
+
+msgid "Convert between M3U Enigma2 Bouquets Json"
+msgstr "M3U Enigma2 Bouquets Json এর মধ্যে রূপান্তর করুন"
+
+msgid "Converting: %d/%d (%d%%)"
+msgstr "রূপান্তর করা হচ্ছে: %d/%d (%d%%)"
+
+msgid "Converting: {name} ({percent}%)"
+msgstr "রূপান্তর করা হচ্ছে: {name} ({percent}%)"
+
+msgid "Converting: {title} ({percent}%)"
+msgstr "রূপান্তর করা হচ্ছে: {name} ({percent}%)"
+
+msgid "Converting: {} ({}%)"
+msgstr "রূপান্তর করা হচ্ছে: {} ({}%)"
+
+msgid "Create Backup"
+msgstr "ব্যাকআপ তৈরি করুন"
+
+msgid "Create backup before conversion"
+msgstr "রূপান্তর করার আগে ব্যাকআপ তৈরি করুন"
+
+msgid "Create single or multiple bouquets"
+msgstr "একক বা একাধিক bouquets তৈরি করুন"
+
+msgid "DUPLICATES: {} groups, {} mappings"
+msgstr "সদৃশ: {} গোষ্ঠী, {} ম্যাপিং৷"
+
+msgid "DVB + Rytec"
+msgstr "DVB + খোদাইকারী"
+
+msgid "DVB + Rytec + DTT (Full)"
+msgstr "DVB + Rytec + DTT (সম্পূর্ণ)"
+
+msgid "Database Directory"
+msgstr "ডাটাবেস ডিরেক্টরি"
+
+msgid "Debug Mode"
+msgstr "ডিবাগ মোড"
+
+msgid "Default Folder"
+msgstr "ডিফল্ট ফোল্ডার"
+
+msgid "Default folder for opening and saving M3U files"
+msgstr "M3U ফাইল খোলা এবং সংরক্ষণ করার জন্য ডিফল্ট ফোল্ডার"
+
+msgid "Delete"
+msgstr "মুছুন"
+
+msgid "Deleted {} items"
+msgstr "{}টি আইটেম মুছে ফেলা হয়েছে"
+
+msgid "Deleted {} items. No more duplicates."
+msgstr "মুছে ফেলা হয়েছে {} আইটেম। আর নকল নেই।"
+
+msgid "Deleted {} items. Still in selection mode."
+msgstr "মুছে ফেলা হয়েছে {} আইটেম। এখনও নির্বাচন মোডে."
+
+msgid "Done"
+msgstr "সম্পন্ন"
+
+msgid "Duplicates"
+msgstr "ডুপ্লিকেট"
+
+msgid "EPG Coverage: {}/{} channels ({:.1f}%)"
+msgstr "EPG কভারেজ: {}/{} চ্যানেল ({:.1f}%)"
+
+msgid "EPG assigned: {} | {}"
+msgstr "EPG বরাদ্দ করা হয়েছে: {} | {}"
+
+msgid "EPG cache cleared! {} entries removed"
+msgstr "ইপিজি ক্যাশে সাফ! {} এন্ট্রি সরানো হয়েছে"
+
+msgid "EPG database reloaded successfully!"
+msgstr "EPG ডাটাবেস সফলভাবে পুনরায় লোড হয়েছে!"
+
+msgid "EPG mapper not available"
+msgstr "EPG ম্যাপার উপলব্ধ নেই"
+
+msgid "EPG mapper not initialized"
+msgstr "EPG ম্যাপার আরম্ভ করা হয়নি"
+
+msgid "EPG matching algorithm"
+msgstr "EPG ম্যাচিং অ্যালগরিদম"
+
+msgid "EPGImport plugin not found"
+msgstr "EPGImport প্লাগইন পাওয়া যায়নি"
+
+msgid "EPGImporter"
+msgstr "ইপিজি আমদানিকারক"
+
+msgid "EPGShare Mode"
+msgstr "ইপিজি শেয়ার মোড"
+
+msgid "Enable EPG"
+msgstr "EPG সক্ষম করুন"
+
+msgid "Enable detailed logging"
+msgstr "বিস্তারিত লগিং সক্ষম করুন"
+
+msgid "Enigma2 Bouquet to Enigma2 Bouquet Conversion"
+msgstr "Enigma2 Bouquet থেকে Enigma2 Bouquet রূপান্তর"
+
+msgid "Enigma2 Bouquet to M3U Conversion"
+msgstr "Enigma2 Bouquet থেকে M3U রূপান্তর"
+
+msgid "Enigma2 Bouquets to  Enigma2 Bouquets"
+msgstr "Enigma2 bouquets থেকে Enigma2 bouquets"
+
+msgid "Enigma2 Bouquets to  M3U"
+msgstr "Enigma2 M3U এর তোড়া"
+
+msgid "Error clearing EPG cache"
+msgstr "EPG ক্যাশে সাফ করার সময় ত্রুটি৷"
+
+msgid "Error clearing database"
+msgstr "ডাটাবেস সাফ করার সময় ত্রুটি৷"
+
+msgid "Error deleting correction"
+msgstr "সংশোধন মোছার সময় ত্রুটি৷"
+
+msgid "Error deleting items"
+msgstr "আইটেম মোছার সময় ত্রুটি৷"
+
+msgid "Error deleting mapping"
+msgstr "ম্যাপিং মোছার সময় ত্রুটি৷"
+
+msgid "Error exporting database"
+msgstr "ডাটাবেস রপ্তানি করার সময় ত্রুটি৷"
+
+msgid "Error finalizing import: {}"
+msgstr "আমদানি চূড়ান্ত করার ত্রুটি: {}"
+
+msgid "Error importing database: {}"
+msgstr "ডাটাবেস আমদানিতে ত্রুটি: {}"
+
+msgid "Error initiating service reload"
+msgstr "পরিষেবা পুনরায় লোড শুরু করার সময় ত্রুটি৷"
+
+msgid "Error loading database"
+msgstr "ডাটাবেস লোড করার সময় ত্রুটি৷"
+
+msgid "Error opening plugin information: %s"
+msgstr "প্লাগইন তথ্য খোলার সময় ত্রুটি: %s"
+
+msgid "Error processing conversion result"
+msgstr "রূপান্তর ফলাফল প্রক্রিয়াকরণে ত্রুটি৷"
+
+msgid "Error reloading EPG database: {}"
+msgstr "EPG ডাটাবেস পুনরায় লোড করার সময় ত্রুটি: {}"
+
+msgid "Error saving imported database"
+msgstr "আমদানিকৃত ডাটাবেস সংরক্ষণে ত্রুটি৷"
+
+msgid "Error starting import: {}"
+msgstr "আমদানি শুরু করতে ত্রুটি: {}"
+
+msgid "Error undoing action"
+msgstr "কর্ম পূর্বাবস্থায় ত্রুটি"
+
+msgid "Error: Channel index out of range"
+msgstr "ত্রুটি: চ্যানেল সূচী সীমার বাইরে"
+
+msgid "Failed to initialize EPG mapper - check logs"
+msgstr "EPG ম্যাপার আরম্ভ করতে ব্যর্থ - লগ চেক করুন৷"
+
+msgid "File loaded: {}"
+msgstr "ফাইল লোড হয়েছে: {}"
+
+msgid "File not found"
+msgstr "ফাইল পাওয়া যায়নি"
+
+msgid "File write error: %s"
+msgstr "ফাইল লেখার ত্রুটি: %s"
+
+msgid "File: {}"
+msgstr "ফাইল: {}"
+
+msgid "Files larger than this will be sampled (1000 channels max)"
+msgstr "এর থেকে বড় ফাইলের নমুনা নেওয়া হবে (1000 চ্যানেল সর্বাধিক)"
+
+msgid "First select a match from the right list (use RIGHT arrow)"
+msgstr "প্রথমে ডান তালিকা থেকে একটি মিল নির্বাচন করুন (ডান তীর ব্যবহার করুন)"
+
+msgid "Found {} matches for: {} | Select and press OK"
+msgstr "এর জন্য {} মিল পাওয়া গেছে: {} | নির্বাচন করুন এবং ঠিক আছে টিপুন"
+
+msgid "Found {} matches so far for: {} | Searching..."
+msgstr "এখন পর্যন্ত {} মিল পাওয়া গেছে: {} | অনুসন্ধান করা হচ্ছে..."
+
+msgid "Generate EPG data for bouquets"
+msgstr "bouquets জন্য EPG ডেটা জেনারেট করুন"
+
+msgid "Global similarity threshold for all matches (20-100%)"
+msgstr "সমস্ত ম্যাচের জন্য বৈশ্বিক মিল থ্রেশহোল্ড (20-100%)"
+
+msgid "HDD Drive"
+msgstr "এইচডিডি ড্রাইভ"
+
+msgid "Ignore DVB-T services on conversion"
+msgstr "রূপান্তরে DVB-T পরিষেবাগুলি উপেক্ষা করুন৷"
+
+msgid "Import {} mappings from {}"
+msgstr "{} থেকে {} ম্যাপিং আমদানি করুন"
+
+msgid "Invalid .m3u item format"
+msgstr "অবৈধ .m3u আইটেম বিন্যাস"
+
+msgid "Invalid .tv item format"
+msgstr "অবৈধ .tv আইটেম বিন্যাস"
+
+msgid "Invalid XSPF file"
+msgstr "অবৈধ XSPF ফাইল"
+
+msgid "Invalid database file structure"
+msgstr "অবৈধ ডাটাবেস ফাইল গঠন"
+
+msgid "Invalid selection"
+msgstr "অবৈধ নির্বাচন"
+
+msgid "JSON to Enigma2 Bouquet Conversion"
+msgstr "JSON থেকে Enigma2 Bouquet রূপান্তর"
+
+msgid "JSON to M3U Conversion"
+msgstr "JSON থেকে M3U রূপান্তর"
+
+msgid "JSON to  Enigma2 Bouquets"
+msgstr "JSON to Enigma2 Bouquets"
+
+msgid "JSON to  M3U"
+msgstr "JSON থেকে M3U"
+
+msgid "Language for EPG sources"
+msgstr "EPG উৎসের জন্য ভাষা"
+
+msgid "Large file detected: {:.1f}MB. Processing first {} channels..."
+msgstr "বড় ফাইল সনাক্ত করা হয়েছে: {:.1f}MB। প্রথম {} চ্যানেল প্রক্রিয়া করা হচ্ছে..."
+
+msgid "Large file threshold (MB)"
+msgstr "বড় ফাইল থ্রেশহোল্ড (MB)"
+
+msgid "Loaded first %d channels. Press Green to convert."
+msgstr "প্রথম %d চ্যানেল লোড হয়েছে। রূপান্তর করতে সবুজ টিপুন।"
+
+msgid "Loading database..."
+msgstr "ডাটাবেস লোড হচ্ছে..."
+
+msgid "Log file cleared successfully"
+msgstr "লগ ফাইল সফলভাবে সাফ করা হয়েছে"
+
+msgid "M3U to Enigma2 Bouquet Conversion"
+msgstr "M3U থেকে Enigma2 Bouquet রূপান্তর"
+
+msgid "M3U to JSON Conversion"
+msgstr "M3U থেকে JSON রূপান্তর"
+
+msgid "M3U to  Enigma2 Bouquets"
+msgstr "M3U থেকে Enigma2 Bouquets"
+
+msgid "M3U to  JSON"
+msgstr "M3U থেকে JSON"
+
+msgid "Manual Corrections ({} total)"
+msgstr "ম্যানুয়াল সংশোধন ({} মোট)"
+
+msgid "Manual Database Editor"
+msgstr "ম্যানুয়াল ডাটাবেস সম্পাদক"
+
+msgid "Manual EPG Match Editor"
+msgstr "ম্যানুয়াল ইপিজি ম্যাচ এডিটর"
+
+msgid "Manual database cleared"
+msgstr "ম্যানুয়াল ডাটাবেস সাফ করা হয়েছে"
+
+msgid "Manual database not available"
+msgstr "ম্যানুয়াল ডাটাবেস উপলব্ধ নেই"
+
+msgid "Manual editing completed"
+msgstr "ম্যানুয়াল সম্পাদনা সম্পন্ন হয়েছে"
+
+msgid "Manual editing completed - ready for conversion"
+msgstr "ম্যানুয়াল সম্পাদনা সম্পন্ন হয়েছে - রূপান্তরের জন্য প্রস্তুত"
+
+msgid "Mapping deleted successfully"
+msgstr "ম্যাপিং সফলভাবে মুছে ফেলা হয়েছে৷"
+
+msgid "Match Editor"
+msgstr "ম্যাচ সম্পাদক"
+
+msgid "Match reset for: {}"
+msgstr "এর জন্য ম্যাচ রিসেট: {}"
+
+msgid "Max DVB entries scanned during automatic Match Edit (Slow down scanning)"
+msgstr "স্বয়ংক্রিয় ম্যাচ সম্পাদনার সময় সর্বাধিক DVB এন্ট্রি স্ক্যান করা হয়েছে (স্ক্যানিং ধীর গতিতে)"
+
+msgid "Max Rytec entries scanned during automatic Match Edit (Slow down scanning)"
+msgstr "স্বয়ংক্রিয় ম্যাচ সম্পাদনার সময় সর্বাধিক Rytec এন্ট্রি স্ক্যান করা হয়েছে (স্ক্যানিং ধীর গতিতে)"
+
+msgid "Maximum backup copies"
+msgstr "সর্বোচ্চ ব্যাকআপ কপি"
+
+msgid "Maximum manual corrections to save"
+msgstr "সংরক্ষণের জন্য সর্বাধিক ম্যানুয়াল সংশোধন"
+
+msgid "Multiple Bouquets"
+msgstr "একাধিক তোড়া"
+
+msgid "Network Storage"
+msgstr "নেটওয়ার্ক স্টোরেজ"
+
+msgid "Next"
+msgstr "পরবর্তী"
+
+msgid "No IPTV channels found in the bouquet"
+msgstr "তোড়াতে কোনো আইপিটিভি চ্যানেল পাওয়া যায়নি"
+
+msgid "No M3UConverter bouquets found to remove."
+msgstr "অপসারণের জন্য কোন M3UConverter bouquets পাওয়া যায়নি।"
+
+msgid "No MANUAL changes to save"
+msgstr "সংরক্ষণ করার জন্য কোনো ম্যানুয়াল পরিবর্তন নেই"
+
+msgid "No MANUAL corrections saved"
+msgstr "কোন ম্যানুয়াল সংশোধন সংরক্ষিত"
+
+msgid "No actions to undo"
+msgstr "পূর্বাবস্থায় ফেরানোর জন্য কোনো কাজ নেই"
+
+msgid "No channels available"
+msgstr "কোনো চ্যানেল উপলব্ধ নেই৷"
+
+msgid "No channels loaded. Please select a valid TV bouquet file."
+msgstr "কোনো চ্যানেল লোড হয়নি। দয়া করে একটি বৈধ টিভি তোড়া ফাইল নির্বাচন করুন৷"
+
+msgid "No conversion data available."
+msgstr "কোন রূপান্তর তথ্য উপলব্ধ."
+
+msgid "No conversion data available. Please run a conversion first."
+msgstr "কোন রূপান্তর তথ্য উপলব্ধ. অনুগ্রহ করে প্রথমে একটি রূপান্তর চালান।"
+
+msgid "No conversion statistics available."
+msgstr "কোন রূপান্তর পরিসংখ্যান উপলব্ধ."
+
+msgid "No duplicates available for selection"
+msgstr "নির্বাচনের জন্য কোনো সদৃশ উপলব্ধ নেই"
+
+msgid "No duplicates found"
+msgstr "কোন সদৃশ পাওয়া যায়নি"
+
+msgid "No duplicates found in the database"
+msgstr "ডাটাবেসে কোনো সদৃশ পাওয়া যায়নি"
+
+msgid "No file selected"
+msgstr "কোনো ফাইল নির্বাচন করা হয়নি"
+
+msgid "No file selected for conversion"
+msgstr "রূপান্তরের জন্য কোনো ফাইল নির্বাচন করা হয়নি৷"
+
+msgid "No items selected for deletion"
+msgstr "কোনো আইটেম মুছে ফেলার জন্য নির্বাচিত"
+
+msgid "No manual corrections found"
+msgstr "কোন ম্যানুয়াল সংশোধন পাওয়া যায়নি"
+
+msgid "No manual corrections to export"
+msgstr "রপ্তানি করার জন্য কোনো ম্যানুয়াল সংশোধন নেই"
+
+msgid "No mappings available"
+msgstr "কোনো ম্যাপিং উপলব্ধ নেই৷"
+
+msgid "No matches found - try different search"
+msgstr "কোন মিল পাওয়া যায়নি - ভিন্ন অনুসন্ধান চেষ্টা করুন"
+
+msgid "No matches found for: {}"
+msgstr "এর জন্য কোনো মিল পাওয়া যায়নি: {}"
+
+msgid "No statistics available"
+msgstr "কোন পরিসংখ্যান উপলব্ধ"
+
+msgid "No valid channels found in the JSON file"
+msgstr "JSON ফাইলে কোনো বৈধ চ্যানেল পাওয়া যায়নি"
+
+msgid "Only DTT"
+msgstr "শুধুমাত্র ডিটিটি"
+
+msgid "Only DVB"
+msgstr "শুধুমাত্র DVB"
+
+msgid "Only Rytec"
+msgstr "শুধুমাত্র Rytec"
+
+msgid "Open File"
+msgstr "ফাইল খুলুন"
+
+msgid "Open manual editor after conversion"
+msgstr "রূপান্তরের পরে ম্যানুয়াল সম্পাদক খুলুন"
+
+msgid "Playback error"
+msgstr "প্লেব্যাক ত্রুটি"
+
+msgid "Playing: %s"
+msgstr "বাজানো হচ্ছে: %s"
+
+msgid "Please select a channel first"
+msgstr "অনুগ্রহ করে প্রথমে একটি চ্যানেল নির্বাচন করুন৷"
+
+msgid "Please select a mapping (not a group header)"
+msgstr "অনুগ্রহ করে একটি ম্যাপিং নির্বাচন করুন (গ্রুপ হেডার নয়)"
+
+msgid "Please select a mapping to delete"
+msgstr "মুছে ফেলার জন্য একটি ম্যাপিং নির্বাচন করুন"
+
+msgid "Please select a valid match from the right list"
+msgstr "সঠিক তালিকা থেকে একটি বৈধ মিল নির্বাচন করুন"
+
+msgid "Plugin Information"
+msgstr "প্লাগইন তথ্য"
+
+msgid "Position in channel list"
+msgstr "চ্যানেল তালিকায় অবস্থান"
+
+msgid "Press RED to select file"
+msgstr "ফাইল নির্বাচন করতে RED টিপুন"
+
+msgid "Prev"
+msgstr "পূর্ববর্তী"
+
+msgid "Processing selection..."
+msgstr "নির্বাচন প্রক্রিয়া করা হচ্ছে..."
+
+msgid "Ready"
+msgstr "প্রস্তুত"
+
+msgid "Ready for next operation"
+msgstr "পরবর্তী অপারেশনের জন্য প্রস্তুত"
+
+msgid "Ready to convert"
+msgstr "রূপান্তর করতে প্রস্তুত"
+
+msgid "Ready: Select the file from the %s you configured in settings."
+msgstr "প্রস্তুত: আপনি সেটিংসে কনফিগার করা %s থেকে ফাইলটি নির্বাচন করুন৷"
+
+msgid "Reloading services..."
+msgstr "পরিষেবাগুলি পুনরায় লোড করা হচ্ছে..."
+
+msgid "Remove Bouquets"
+msgstr "Bouquets সরান"
+
+msgid "Remove M3U Bouquets"
+msgstr "M3U তোড়া সরান"
+
+msgid "Reset"
+msgstr "রিসেট করুন"
+
+msgid "Run a conversion first to see statistics."
+msgstr "পরিসংখ্যান দেখতে প্রথমে একটি রূপান্তর চালান।"
+
+msgid "SELECTION MODE: {} items selected"
+msgstr "নির্বাচন মোড: {}টি আইটেম নির্বাচন করা হয়েছে৷"
+
+msgid "Save All"
+msgstr "সব সংরক্ষণ করুন"
+
+msgid "Save error"
+msgstr "ত্রুটি সংরক্ষণ করুন"
+
+msgid "Saved {} MANUAL corrections"
+msgstr "সংরক্ষিত {} ম্যানুয়াল সংশোধন"
+
+msgid "Searching matches for: {}..."
+msgstr "এর জন্য মিল অনুসন্ধান করা হচ্ছে: {}..."
+
+msgid "Select"
+msgstr "নির্বাচন করুন"
+
+msgid "Select a channel to correct the match"
+msgstr "ম্যাচ সংশোধন করতে একটি চ্যানেল নির্বাচন করুন"
+
+msgid "Select a channel to edit (use OK or RIGHT to go to matches)"
+msgstr "সম্পাদনা করার জন্য একটি চ্যানেল নির্বাচন করুন (মিলগুলিতে যেতে ঠিক আছে বা ডান ব্যবহার করুন)"
+
+msgid "Select a match and press OK to assign"
+msgstr "একটি মিল নির্বাচন করুন এবং বরাদ্দ করতে ঠিক আছে টিপুন"
+
+msgid "Select databases for channel matching"
+msgstr "চ্যানেল ম্যাচিং জন্য ডাটাবেস নির্বাচন করুন"
+
+msgid "Select file to import from {}"
+msgstr "{} থেকে আমদানি করার জন্য ফাইল নির্বাচন করুন"
+
+msgid "Select import location"
+msgstr "আমদানি অবস্থান নির্বাচন করুন"
+
+msgid "Selection mode active. Select items with OK"
+msgstr "নির্বাচন মোড সক্রিয়। ঠিক আছে আইটেম নির্বাচন করুন"
+
+msgid "Selection mode off"
+msgstr "নির্বাচন মোড বন্ধ"
+
+msgid "Selection mode: Select items with OK"
+msgstr "নির্বাচন মোড: ঠিক আছে আইটেম নির্বাচন করুন"
+
+msgid "Service reload initiated"
+msgstr "পরিষেবা পুনরায় লোড শুরু হয়েছে৷"
+
+msgid "Similarity threshold for DVB matches (20-100%)"
+msgstr "DVB ম্যাচের জন্য মিল থ্রেশহোল্ড (20-100%)"
+
+msgid "Similarity threshold for Rytec matches (20-100%)"
+msgstr "Rytec ম্যাচের জন্য মিল থ্রেশহোল্ড (20-100%)"
+
+msgid "Single Bouquet"
+msgstr "একক তোড়া"
+
+msgid "Standard Mode"
+msgstr "স্ট্যান্ডার্ড মোড"
+
+msgid "Stopped"
+msgstr "থেমে গেল"
+
+msgid "Temporary"
+msgstr "অস্থায়ী"
+
+msgid "Temporary Files"
+msgstr "অস্থায়ী ফাইল"
+
+msgid "Tools"
+msgstr "টুলস"
+
+msgid "Top"
+msgstr "শীর্ষ"
+
+msgid "USB Drive"
+msgstr "ইউএসবি ড্রাইভ"
+
+msgid "Undo"
+msgstr "পূর্বাবস্থায় ফেরান"
+
+msgid "Undo: Restored previous state for {}"
+msgstr "পূর্বাবস্থায় ফেরান: {} এর জন্য পূর্ববর্তী অবস্থা পুনরুদ্ধার করা হয়েছে"
+
+msgid "Universal Converter"
+msgstr "ইউনিভার্সাল কনভার্টার"
+
+msgid "Unknown error"
+msgstr "অজানা ত্রুটি"
+
+msgid "Unsupported conversion type"
+msgstr "অসমর্থিত রূপান্তর প্রকার"
+
+msgid "Use saved manual corrections"
+msgstr "সংরক্ষিত ম্যানুয়াল সংশোধন ব্যবহার করুন"
+
+msgid "We're ready: what do you want to do?"
+msgstr "আমরা প্রস্তুত: আপনি কি করতে চান?"
+
+msgid "XSPF conversion error: %s"
+msgstr "XSPF রূপান্তর ত্রুটি: %s"
+
+msgid "XSPF to M3U Playlist Conversion"
+msgstr "XSPF থেকে M3U প্লেলিস্ট রূপান্তর"
+
+msgid "XSPF to  M3U Playlist"
+msgstr "XSPF থেকে M3U প্লেলিস্ট"
+
+msgid "merged"
+msgstr "একত্রিত"
+
+msgid "replaced"
+msgstr "প্রতিস্থাপিত"
+
+msgid "tv_to_m3u Conversion error: %s"
+msgstr "tv_to_m3u রূপান্তর ত্রুটি: %s"
+
+msgid " Current total: {}"
+msgstr "বর্তমান মোট: {}"
+
+msgid " DVB: {} channels"
+msgstr "DVB: {} চ্যানেল"
+
+msgid " Duplicate mappings: {}"
+msgstr "ডুপ্লিকেট ম্যাপিং: {}"
+
+msgid " Hit: {} ({:.1f}%)"
+msgstr "হিট: {} ({:.1f}%)"
+
+msgid " Miss: {}"
+msgstr "মিস: {}"
+
+msgid " Mode: {}"
+msgstr "মোড: {}"
+
+msgid " New mappings: {}"
+msgstr "নতুন ম্যাপিং: {}"
+
+msgid " Rytec: {} channels"
+msgstr "Rytec: {} চ্যানেল"
+
+msgid " Size: {} entries"
+msgstr "আকার: {} এন্ট্রি"
+
+msgid " Total in import file: {}"
+msgstr "আমদানি ফাইলে মোট: {}"
+
+msgid "  Manual DB: {} ({:.1f}%)"
+msgstr "ম্যানুয়াল DB: {} ({:.1f}%)"
+
+msgid "  DVB-S: {} ({:.1f}%)"
+msgstr "DVB-S: {} ({:.1f}%)"
+
+msgid "  DVB-T: {} ({:.1f}%)"
+msgstr "DVB-T: {} ({:.1f}%)"
+
+msgid "  IPTV Fallback: {} ({:.1f}%)"
+msgstr "IPTV ফলব্যাক: {} ({:.1f}%)"
+
+msgid "  Rytec: {} ({:.1f}%)"
+msgstr "Rytec: {} ({:.1f}%)"
+
+msgid " Conversion type: {}"
+msgstr "রূপান্তর প্রকার: {}"
+
+msgid " Status: Completed successfully"
+msgstr "স্থিতি: সফলভাবে সম্পন্ন হয়েছে"
+
+msgid " Valid channels processed: {}"
+msgstr "বৈধ চ্যানেল প্রক্রিয়া করা হয়েছে: {}"
+
+msgid " Edit this mapping"
+msgstr "এই ম্যাপিং সম্পাদনা করুন"
+
+msgid " Manual edits applied: {}"
+msgstr "ম্যানুয়াল সম্পাদনা প্রয়োগ করা হয়েছে: {}"
+
+msgid " Open Database Editor"
+msgstr "ডাটাবেস এডিটর খুলুন"
+
+msgid " Error generating statistics"
+msgstr "পরিসংখ্যান তৈরিতে ত্রুটি৷"
+
+msgid " Merge (keep both)"
+msgstr "একত্রিত করুন (উভয় রাখুন)"
+
+msgid " New mappings ({}):"
+msgstr "নতুন ম্যাপিং ({}):"
+
+msgid " CONVERSION COMPLETE"
+msgstr "রূপান্তর সম্পূর্ণ"
+
+msgid " Effective EPG matches: {}"
+msgstr "কার্যকরী EPG মিল: {}"
+
+msgid " TOTAL CHANNELS: {}"
+msgstr "মোট চ্যানেল: {}"
+
+msgid " View Manual Database"
+msgstr "ম্যানুয়াল ডাটাবেস দেখুন"
+
+msgid " CACHE PERFORMANCE:"
+msgstr "ক্যাশে পারফরমেন্স:"
+
+msgid " Cache efficiency: {}"
+msgstr "ক্যাশে দক্ষতা: {}"
+
+msgid " Create Backup"
+msgstr "ব্যাকআপ তৈরি করুন"
+
+msgid " Manual DB matches: {}"
+msgstr "ম্যানুয়াল ডিবি মেলে: {}"
+
+msgid " Output file: {}"
+msgstr "আউটপুট ফাইল: {}"
+
+msgid " File size: {}"
+msgstr "ফাইলের আকার: {}"
+
+msgid " EFFECTIVE EPG coverage: {}"
+msgstr "কার্যকরী EPG কভারেজ: {}"
+
+msgid " EPG COVERAGE: {:.1f}%"
+msgstr "EPG কভারেজ: {:.1f}%"
+
+msgid " Statistics:"
+msgstr "পরিসংখ্যান:"
+
+msgid " EPG Cache Statistics"
+msgstr "ইপিজি ক্যাশে পরিসংখ্যান"
+
+msgid " EPG STATISTICS - {}"
+msgstr "ইপিজি পরিসংখ্যান - {}"
+
+msgid " IMPORT PREVIEW"
+msgstr "পূর্বরূপ আমদানি করুন"
+
+msgid " Preview Changes"
+msgstr "পূর্বরূপ পরিবর্তন"
+
+msgid " Total channels in file: {}"
+msgstr "ফাইলে মোট চ্যানেল: {}"
+
+msgid " Plugin Info"
+msgstr "প্লাগইন তথ্য"
+
+msgid " Manual Match Editing"
+msgstr "ম্যানুয়াল ম্যাচ এডিটিং"
+
+msgid " DVB channels in DB: {}"
+msgstr "DB-তে DVB চ্যানেল: {}"
+
+msgid " DVB-T EPG matches: {}"
+msgstr "DVB-T EPG মেলে: {}"
+
+msgid " Export Manual Database"
+msgstr "ম্যানুয়াল ডাটাবেস রপ্তানি করুন"
+
+msgid " Import Manual Database"
+msgstr "ম্যানুয়াল ডাটাবেস আমদানি করুন"
+
+msgid " DVB EPG matches: {}"
+msgstr "DVB EPG মিল: {}"
+
+msgid " Duplicates ({}):"
+msgstr "সদৃশ ({}):"
+
+msgid " Reload EPG Database"
+msgstr "ইপিজি ডাটাবেস পুনরায় লোড করুন"
+
+msgid " Reload Services"
+msgstr "পরিষেবাগুলি পুনরায় লোড করুন"
+
+msgid " Replace All ({} mappings)"
+msgstr "সমস্ত প্রতিস্থাপন করুন ({} ম্যাপিং)"
+
+msgid " Fallback (no EPG): {}"
+msgstr "ফলব্যাক (ইপিজি নেই): {}"
+
+msgid " Cache size: {} entries"
+msgstr "ক্যাশে আকার: {} এন্ট্রি"
+
+msgid " Back"
+msgstr "ফিরে"
+
+msgid " Back to Tools"
+msgstr "টুলস-এ ফিরে যান"
+
+msgid " Back to locations"
+msgstr "অবস্থানে ফিরে যান"
+
+msgid " MATCH BREAKDOWN:"
+msgstr "ম্যাচ ব্রেকডাউন:"
+
+msgid " Completed at: {}"
+msgstr "শেষ হয়েছে: {}"
+
+msgid " Edited at: {}"
+msgstr "এ সম্পাদিত: {}"
+
+msgid " === Manual Database Management ==="
+msgstr "=== ম্যানুয়াল ডাটাবেস ম্যানেজমেন্ট ==="
+
+msgid " DATABASE INFO:"
+msgstr "ডেটাবেস তথ্য:"
+
+msgid " Database mode: {}"
+msgstr "ডাটাবেস মোড: {}"
+
+msgid " Rytec channels in DB: {}"
+msgstr "DB-তে Rytec চ্যানেল: {}"
+
+msgid " Clear Log File"
+msgstr "লগ ফাইল সাফ করুন"
+
+msgid " Delete this mapping"
+msgstr "এই ম্যাপিং মুছুন"
+
+msgid " Skipped channels: {}"
+msgstr "এড়িয়ে যাওয়া চ্যানেলগুলি: {}"
+
+msgid " Rytec EPG matches: {}"
+msgstr "Rytec EPG মেলে: {}"
+
+msgid " Clean Manual Database"
+msgstr "ম্যানুয়াল ডাটাবেস পরিষ্কার করুন"
+
+msgid " Clear EPG Cache"
+msgstr "EPG ক্যাশে সাফ করুন"

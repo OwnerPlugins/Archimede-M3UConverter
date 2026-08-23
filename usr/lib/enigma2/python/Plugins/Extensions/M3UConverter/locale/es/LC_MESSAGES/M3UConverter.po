@@ -1,0 +1,968 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: M 3UConverter\n"
+"PO-Revision-Date: 2026-08-23 08:27+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Spanish <es@tp.org.es>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "(Based on selected database mode: {})"
+msgstr "(Basado en el modo de base de datos seleccionado: {})"
+
+msgid "(Reused previous manual corrections)"
+msgstr "(Se reutilizaron correcciones manuales anteriores)"
+
+msgid "- {} duplicate groups"
+msgstr "- {} grupos duplicados"
+
+msgid "-- Auto-open Editor"
+msgstr "- Editor de apertura automática"
+
+msgid "-- DVB search limit (Match Edit)"
+msgstr "- Límite de búsqueda DVB (Edición de coincidencia)"
+
+msgid "-- Database Mode"
+msgstr "-- Modo de base de datos"
+
+msgid "-- EPG Generation Mode"
+msgstr "-- Modo de generación de EPG"
+
+msgid "-- EPG Language"
+msgstr "-- Idioma EPG"
+
+msgid "-- Ignore DVB-T services"
+msgstr "-- Ignorar los servicios DVB-T"
+
+msgid "-- Max Backups"
+msgstr "- Copias de seguridad máximas"
+
+msgid "-- Rytec search limit (Match Edit)"
+msgstr "- Límite de búsqueda de Rytec (Edición de coincidencia)"
+
+msgid "-- Similarity Threshold DVB (%)"
+msgstr "-- Umbral de similitud DVB (%)"
+
+msgid "-- Similarity Threshold Global (%)"
+msgstr "-- Umbral de similitud global (%)"
+
+msgid "-- Similarity Threshold Rytec (%)"
+msgstr "-- Umbral de similitud Rytec (%)"
+
+msgid "-- Use Manual Database"
+msgstr "-- Usar base de datos manual"
+
+msgid "--- {} ({} duplicates) ---"
+msgstr "--- {} ({} duplicados) ---"
+
+msgid "---- Max manual corrections to save"
+msgstr "---- Máximo de correcciones manuales para guardar"
+
+msgid ">>> DUPLICATES VIEW"
+msgstr ">>> VISTA DUPLICADOS"
+
+msgid ">>> SELECTION MODE - Select items with OK"
+msgstr ">>> MODO DE SELECCIÓN - Seleccione elementos con OK"
+
+msgid ">>> {} duplicate groups, {} total mappings"
+msgstr ">>> {} grupos duplicados, {} asignaciones totales"
+
+msgid ">>> {} groups, {} mappings total"
+msgstr ">>> {} grupos, {} asignaciones en total"
+
+msgid "ALL MAPPINGS: {} total"
+msgstr "TODAS LAS ASIGNACIONES: {} total"
+
+msgid "Action for: {}"
+msgstr "Acción para: {}"
+
+msgid "Advanced Tools Menu"
+msgstr "Menú de herramientas avanzadas"
+
+msgid "All Mappings"
+msgstr "Todas las asignaciones"
+
+msgid "Archimede Converter Settings"
+msgstr "Configuración del convertidor Archimede"
+
+msgid "Archimede Universal Converter by Lululla v.{version} - {page}"
+msgstr "Archimede Universal Converter de Lululla v.{version} - {page}"
+
+msgid "Archimede Universal Converter v.%s"
+msgstr ""
+
+msgid "Archimede Universal Converter v.%s by Lululla"
+msgstr "Archimede Universal Converter v.%s de Lululla"
+
+msgid "Backup created successfully!"
+msgstr "¡Copia de seguridad creada exitosamente!"
+
+msgid "Backup failed: {}"
+msgstr "Error de copia de seguridad: {}"
+
+msgid "Barry Allen"
+msgstr ""
+
+msgid "Bottom"
+msgstr "Abajo"
+
+msgid "Bouquet Mode"
+msgstr "Modo ramo"
+
+msgid "Bouquet Position"
+msgstr "Posición del ramo"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Cancelling conversion..."
+msgstr "Cancelando conversión..."
+
+msgid "Cancelling..."
+msgstr "Cancelado..."
+
+msgid "Channel: {} | {} | Match: {} | Press RIGHT for matches"
+msgstr "Canal: {} | {} | Coincidencia: {} | Presione DERECHA para ver coincidencias"
+
+msgid "Close"
+msgstr "Cerca"
+
+msgid "Conversion already in progress"
+msgstr "Conversión ya en curso"
+
+msgid "Conversion cancelled"
+msgstr "Conversión cancelada"
+
+msgid "Conversion completed"
+msgstr "Conversión completada"
+
+msgid "Conversion error: %s"
+msgstr "Error de conversión: %s"
+
+msgid "Conversion failed: Invalid result"
+msgstr "Error de conversión: resultado no válido"
+
+msgid "Conversion failed: {}"
+msgstr "Error de conversión: {}"
+
+msgid "Conversion in progress..."
+msgstr "Conversión en curso..."
+
+msgid "Convert"
+msgstr "Convertir"
+
+msgid "Convert HLS Streams"
+msgstr "Convertir transmisiones HLS"
+
+msgid "Convert HLS to Enigma2 format"
+msgstr "Convertir HLS al formato Enigma2"
+
+msgid "Convert JSON to M3U"
+msgstr "Convertir JSON a M3U"
+
+msgid "Convert JSON to TV"
+msgstr "Convertir JSON a TV"
+
+msgid "Convert M3U to JSON"
+msgstr "Convertir M3U a JSON"
+
+msgid "Convert M3U to TV"
+msgstr "Convertir M3U a TV"
+
+msgid "Convert TV to M3U"
+msgstr "Convertir TV a M3U"
+
+msgid "Convert TV to TV"
+msgstr "Convertir televisión a televisión"
+
+msgid "Convert XSPF to M3U"
+msgstr "Convertir XSPF a M3U"
+
+msgid "Convert between M3U Enigma2 Bouquets Json"
+msgstr "Convertir entre M3U Enigma2 Ramos Json"
+
+msgid "Converting: %d/%d (%d%%)"
+msgstr "Conversión: %d/%d (%d%%)"
+
+msgid "Converting: {name} ({percent}%)"
+msgstr "Conversión: {name} ({percent}%)"
+
+msgid "Converting: {title} ({percent}%)"
+msgstr "Conversión: {name} ({percent}%)"
+
+msgid "Converting: {} ({}%)"
+msgstr "Conversión: {} ({}%)"
+
+msgid "Create Backup"
+msgstr "Crear copia de seguridad"
+
+msgid "Create backup before conversion"
+msgstr "Crear copia de seguridad antes de la conversión"
+
+msgid "Create single or multiple bouquets"
+msgstr "Crea ramos únicos o múltiples"
+
+msgid "DUPLICATES: {} groups, {} mappings"
+msgstr "DUPLICADOS: {} grupos, {} asignaciones"
+
+msgid "DVB + Rytec"
+msgstr "Grabador DVB +"
+
+msgid "DVB + Rytec + DTT (Full)"
+msgstr "DVB + Rytec + TDT (Completo)"
+
+msgid "Database Directory"
+msgstr "Directorio de base de datos"
+
+msgid "Debug Mode"
+msgstr "Modo de depuración"
+
+msgid "Default Folder"
+msgstr "Carpeta predeterminada"
+
+msgid "Default folder for opening and saving M3U files"
+msgstr "Carpeta predeterminada para abrir y guardar archivos M3U"
+
+msgid "Delete"
+msgstr "Borrar"
+
+msgid "Deleted {} items"
+msgstr "{} elementos eliminados"
+
+msgid "Deleted {} items. No more duplicates."
+msgstr "{} elementos eliminados. No más duplicados."
+
+msgid "Deleted {} items. Still in selection mode."
+msgstr "{} elementos eliminados. Todavía en modo de selección."
+
+msgid "Done"
+msgstr "Hecho"
+
+msgid "Duplicates"
+msgstr "Duplicados"
+
+msgid "EPG Coverage: {}/{} channels ({:.1f}%)"
+msgstr "Cobertura EPG: {}/{} canales ({:.1f}%)"
+
+msgid "EPG assigned: {} | {}"
+msgstr "EPG asignada: {} | {}"
+
+msgid "EPG cache cleared! {} entries removed"
+msgstr "¡Caché EPG borrado! {} entradas eliminadas"
+
+msgid "EPG database reloaded successfully!"
+msgstr "¡La base de datos EPG se recargó exitosamente!"
+
+msgid "EPG mapper not available"
+msgstr "Mapeador EPG no disponible"
+
+msgid "EPG mapper not initialized"
+msgstr "Mapeador EPG no inicializado"
+
+msgid "EPG matching algorithm"
+msgstr "Algoritmo de coincidencia de EPG"
+
+msgid "EPGImport plugin not found"
+msgstr "Complemento EPGImport no encontrado"
+
+msgid "EPGImporter"
+msgstr "Importador de EPG"
+
+msgid "EPGShare Mode"
+msgstr "Modo EPGShare"
+
+msgid "Enable EPG"
+msgstr "Habilitar EPG"
+
+msgid "Enable detailed logging"
+msgstr "Habilitar registro detallado"
+
+msgid "Enigma2 Bouquet to Enigma2 Bouquet Conversion"
+msgstr "Conversión de ramo Enigma2 a ramo Enigma2"
+
+msgid "Enigma2 Bouquet to M3U Conversion"
+msgstr "Conversión de Enigma2 Bouquet a M3U"
+
+msgid "Enigma2 Bouquets to  Enigma2 Bouquets"
+msgstr "Ramos Enigma2 a Ramos Enigma2"
+
+msgid "Enigma2 Bouquets to  M3U"
+msgstr "Ramos de Enigma2 a M3U"
+
+msgid "Error clearing EPG cache"
+msgstr "Error al borrar la caché de EPG"
+
+msgid "Error clearing database"
+msgstr "Error al borrar la base de datos"
+
+msgid "Error deleting correction"
+msgstr "Corrección de error al eliminar"
+
+msgid "Error deleting items"
+msgstr "Error al eliminar elementos"
+
+msgid "Error deleting mapping"
+msgstr "Error al eliminar la asignación"
+
+msgid "Error exporting database"
+msgstr "Error al exportar la base de datos"
+
+msgid "Error finalizing import: {}"
+msgstr "Error al finalizar la importación: {}"
+
+msgid "Error importing database: {}"
+msgstr "Error al importar la base de datos: {}"
+
+msgid "Error initiating service reload"
+msgstr "Error al iniciar la recarga del servicio"
+
+msgid "Error loading database"
+msgstr "Error al cargar la base de datos"
+
+msgid "Error opening plugin information: %s"
+msgstr "Error al abrir la información del complemento: %s"
+
+msgid "Error processing conversion result"
+msgstr "Error al procesar el resultado de la conversión"
+
+msgid "Error reloading EPG database: {}"
+msgstr "Error al recargar la base de datos EPG: {}"
+
+msgid "Error saving imported database"
+msgstr "Error al guardar la base de datos importada"
+
+msgid "Error starting import: {}"
+msgstr "Error al iniciar la importación: {}"
+
+msgid "Error undoing action"
+msgstr "Error al deshacer la acción"
+
+msgid "Error: Channel index out of range"
+msgstr "Error: índice de canal fuera de rango"
+
+msgid "Failed to initialize EPG mapper - check logs"
+msgstr "No se pudo inicializar el asignador de EPG: verificar registros"
+
+msgid "File loaded: {}"
+msgstr "Archivo cargado: {}"
+
+msgid "File not found"
+msgstr "Archivo no encontrado"
+
+msgid "File write error: %s"
+msgstr "Error de escritura de archivo: %s"
+
+msgid "File: {}"
+msgstr "Archivo: {}"
+
+msgid "Files larger than this will be sampled (1000 channels max)"
+msgstr "Se muestrearán archivos de mayor tamaño (1000 canales como máximo)"
+
+msgid "First select a match from the right list (use RIGHT arrow)"
+msgstr "Primero seleccione una coincidencia de la lista de la derecha (use la flecha DERECHA)"
+
+msgid "Found {} matches for: {} | Select and press OK"
+msgstr "Se encontraron {} coincidencias para: {} | Seleccione y presione Aceptar"
+
+msgid "Found {} matches so far for: {} | Searching..."
+msgstr "Encontradas {} coincidencias hasta ahora para: {} | Búsqueda..."
+
+msgid "Generate EPG data for bouquets"
+msgstr "Generar datos EPG para ramos"
+
+msgid "Global similarity threshold for all matches (20-100%)"
+msgstr "Umbral de similitud global para todas las coincidencias (20-100%)"
+
+msgid "HDD Drive"
+msgstr "Unidad de disco duro"
+
+msgid "Ignore DVB-T services on conversion"
+msgstr "Ignorar los servicios DVB-T en la conversión"
+
+msgid "Import {} mappings from {}"
+msgstr "Importar {} asignaciones desde {}"
+
+msgid "Invalid .m3u item format"
+msgstr "Formato de elemento .m3u no válido"
+
+msgid "Invalid .tv item format"
+msgstr "Formato de elemento .tv no válido"
+
+msgid "Invalid XSPF file"
+msgstr "Archivo XSPF no válido"
+
+msgid "Invalid database file structure"
+msgstr "Estructura de archivos de base de datos no válida"
+
+msgid "Invalid selection"
+msgstr "Selección no válida"
+
+msgid "JSON to Enigma2 Bouquet Conversion"
+msgstr "Conversión de ramo de JSON a Enigma2"
+
+msgid "JSON to M3U Conversion"
+msgstr "Conversión de JSON a M3U"
+
+msgid "JSON to  Enigma2 Bouquets"
+msgstr "JSON a Enigma2 Ramos"
+
+msgid "JSON to  M3U"
+msgstr "JSON a M3U"
+
+msgid "Language for EPG sources"
+msgstr "Idioma para fuentes EPG"
+
+msgid "Large file detected: {:.1f}MB. Processing first {} channels..."
+msgstr "Archivo grande detectado: {:.1f}MB. Procesando los primeros {} canales..."
+
+msgid "Large file threshold (MB)"
+msgstr "Umbral de archivos grandes (MB)"
+
+msgid "Loaded first %d channels. Press Green to convert."
+msgstr "Se cargaron los primeros %d canales. Presione Verde para convertir."
+
+msgid "Loading database..."
+msgstr "Cargando base de datos..."
+
+msgid "Log file cleared successfully"
+msgstr "El archivo de registro se borró correctamente"
+
+msgid "M3U to Enigma2 Bouquet Conversion"
+msgstr "Conversión de ramo M3U a Enigma2"
+
+msgid "M3U to JSON Conversion"
+msgstr "Conversión de M3U a JSON"
+
+msgid "M3U to  Enigma2 Bouquets"
+msgstr "Ramos de M3U a Enigma2"
+
+msgid "M3U to  JSON"
+msgstr "M3U a JSON"
+
+msgid "Manual Corrections ({} total)"
+msgstr "Correcciones manuales ({} en total)"
+
+msgid "Manual Database Editor"
+msgstr "Editor de bases de datos manuales"
+
+msgid "Manual EPG Match Editor"
+msgstr "Editor manual de coincidencias EPG"
+
+msgid "Manual database cleared"
+msgstr "Base de datos manual borrada"
+
+msgid "Manual database not available"
+msgstr "Base de datos manual no disponible"
+
+msgid "Manual editing completed"
+msgstr "Edición manual completada"
+
+msgid "Manual editing completed - ready for conversion"
+msgstr "Edición manual completada: lista para la conversión"
+
+msgid "Mapping deleted successfully"
+msgstr "Mapeo eliminado exitosamente"
+
+msgid "Match Editor"
+msgstr "Editor de partidos"
+
+msgid "Match reset for: {}"
+msgstr "Restablecimiento del partido para: {}"
+
+msgid "Max DVB entries scanned during automatic Match Edit (Slow down scanning)"
+msgstr "Entradas máximas de DVB escaneadas durante la edición automática de coincidencias (ralentización del escaneo)"
+
+msgid "Max Rytec entries scanned during automatic Match Edit (Slow down scanning)"
+msgstr "Entradas de Max Rytec escaneadas durante la edición automática del partido (ralentización del escaneo)"
+
+msgid "Maximum backup copies"
+msgstr "Copias de seguridad máximas"
+
+msgid "Maximum manual corrections to save"
+msgstr "Correcciones manuales máximas para guardar"
+
+msgid "Multiple Bouquets"
+msgstr "Múltiples ramos"
+
+msgid "Network Storage"
+msgstr "Almacenamiento en red"
+
+msgid "Next"
+msgstr "Próximo"
+
+msgid "No IPTV channels found in the bouquet"
+msgstr "No se encontraron canales de IPTV en el ramo"
+
+msgid "No M3UConverter bouquets found to remove."
+msgstr "No se encontraron ramos de M3UConverter para eliminar."
+
+msgid "No MANUAL changes to save"
+msgstr "No hay cambios MANUALES para guardar"
+
+msgid "No MANUAL corrections saved"
+msgstr "No se han guardado correcciones MANUALES"
+
+msgid "No actions to undo"
+msgstr "No hay acciones para deshacer"
+
+msgid "No channels available"
+msgstr "No hay canales disponibles"
+
+msgid "No channels loaded. Please select a valid TV bouquet file."
+msgstr "No hay canales cargados. Seleccione un archivo de ramo de TV válido."
+
+msgid "No conversion data available."
+msgstr "No hay datos de conversión disponibles."
+
+msgid "No conversion data available. Please run a conversion first."
+msgstr "No hay datos de conversión disponibles. Primero ejecute una conversión."
+
+msgid "No conversion statistics available."
+msgstr "No hay estadísticas de conversión disponibles."
+
+msgid "No duplicates available for selection"
+msgstr "No hay duplicados disponibles para la selección"
+
+msgid "No duplicates found"
+msgstr "No se encontraron duplicados"
+
+msgid "No duplicates found in the database"
+msgstr "No se encontraron duplicados en la base de datos."
+
+msgid "No file selected"
+msgstr "Ningún archivo seleccionado"
+
+msgid "No file selected for conversion"
+msgstr "No se seleccionó ningún archivo para la conversión"
+
+msgid "No items selected for deletion"
+msgstr "No hay elementos seleccionados para eliminar"
+
+msgid "No manual corrections found"
+msgstr "No se encontraron correcciones manuales"
+
+msgid "No manual corrections to export"
+msgstr "No hay correcciones manuales para exportar."
+
+msgid "No mappings available"
+msgstr "No hay asignaciones disponibles"
+
+msgid "No matches found - try different search"
+msgstr "No se encontraron coincidencias; intente una búsqueda diferente"
+
+msgid "No matches found for: {}"
+msgstr "No se encontraron coincidencias para: {}"
+
+msgid "No statistics available"
+msgstr "No hay estadísticas disponibles"
+
+msgid "No valid channels found in the JSON file"
+msgstr "No se encontraron canales válidos en el archivo JSON"
+
+msgid "Only DTT"
+msgstr "Sólo TDT"
+
+msgid "Only DVB"
+msgstr "Sólo DVB"
+
+msgid "Only Rytec"
+msgstr "Sólo Rytec"
+
+msgid "Open File"
+msgstr "Abrir archivo"
+
+msgid "Open manual editor after conversion"
+msgstr "Abrir el editor manual después de la conversión"
+
+msgid "Playback error"
+msgstr "Error de reproducción"
+
+msgid "Playing: %s"
+msgstr "Jugando: %s"
+
+msgid "Please select a channel first"
+msgstr "Por favor seleccione un canal primero"
+
+msgid "Please select a mapping (not a group header)"
+msgstr ""
+
+msgid "Please select a mapping to delete"
+msgstr "Por favor seleccione una asignación para eliminar"
+
+msgid "Please select a valid match from the right list"
+msgstr "Seleccione una coincidencia válida de la lista de la derecha"
+
+msgid "Plugin Information"
+msgstr "Información del complemento"
+
+msgid "Position in channel list"
+msgstr ""
+
+msgid "Press RED to select file"
+msgstr "Presione ROJO para seleccionar el archivo"
+
+msgid "Prev"
+msgstr "Anterior"
+
+msgid "Processing selection..."
+msgstr "Procesando selección..."
+
+msgid "Ready"
+msgstr "Listo"
+
+msgid "Ready for next operation"
+msgstr "Listo para la próxima operación"
+
+msgid "Ready to convert"
+msgstr "Listo para convertir"
+
+msgid "Ready: Select the file from the %s you configured in settings."
+msgstr "Listo: Seleccione el archivo de los %s que configuró en la configuración."
+
+msgid "Reloading services..."
+msgstr "Servicios de recarga..."
+
+msgid "Remove Bouquets"
+msgstr "Quitar ramos"
+
+msgid "Remove M3U Bouquets"
+msgstr "Eliminar ramos M3U"
+
+msgid "Reset"
+msgstr "Reiniciar"
+
+msgid "Run a conversion first to see statistics."
+msgstr "Primero ejecute una conversión para ver las estadísticas."
+
+msgid "SELECTION MODE: {} items selected"
+msgstr "MODO DE SELECCIÓN: {} elementos seleccionados"
+
+msgid "Save All"
+msgstr "Guardar todo"
+
+msgid "Save error"
+msgstr "Error al guardar"
+
+msgid "Saved {} MANUAL corrections"
+msgstr "{} correcciones MANUALES guardadas"
+
+msgid "Searching matches for: {}..."
+msgstr "Buscando coincidencias para: {}...."
+
+msgid "Select"
+msgstr "Seleccionar"
+
+msgid "Select a channel to correct the match"
+msgstr "Selecciona un canal para corregir la coincidencia"
+
+msgid "Select a channel to edit (use OK or RIGHT to go to matches)"
+msgstr "Seleccione un canal para editar (use OK o DERECHA para ir a los partidos)"
+
+msgid "Select a match and press OK to assign"
+msgstr "Seleccione una coincidencia y presione OK para asignar"
+
+msgid "Select databases for channel matching"
+msgstr "Seleccionar bases de datos para la coincidencia de canales"
+
+msgid "Select file to import from {}"
+msgstr ""
+
+msgid "Select import location"
+msgstr ""
+
+msgid "Selection mode active. Select items with OK"
+msgstr ""
+
+msgid "Selection mode off"
+msgstr "Modo de selección desactivado"
+
+msgid "Selection mode: Select items with OK"
+msgstr "Modo de selección: seleccione elementos con OK"
+
+msgid "Service reload initiated"
+msgstr "Recarga del servicio iniciada"
+
+msgid "Similarity threshold for DVB matches (20-100%)"
+msgstr "Umbral de similitud para coincidencias DVB (20-100%)"
+
+msgid "Similarity threshold for Rytec matches (20-100%)"
+msgstr ""
+
+msgid "Single Bouquet"
+msgstr "Ramo individual"
+
+msgid "Standard Mode"
+msgstr "Modo estándar"
+
+msgid "Stopped"
+msgstr "Interrumpido"
+
+msgid "Temporary"
+msgstr ""
+
+msgid "Temporary Files"
+msgstr "Archivos temporales"
+
+msgid "Tools"
+msgstr ""
+
+msgid "Top"
+msgstr "Arriba"
+
+msgid "USB Drive"
+msgstr "Unidad USB"
+
+msgid "Undo"
+msgstr ""
+
+msgid "Undo: Restored previous state for {}"
+msgstr "Deshacer: estado anterior restaurado para {}"
+
+msgid "Universal Converter"
+msgstr "Convertidor universal"
+
+msgid "Unknown error"
+msgstr "Error desconocido"
+
+msgid "Unsupported conversion type"
+msgstr "Tipo de conversión no admitido"
+
+msgid "Use saved manual corrections"
+msgstr "Usar correcciones manuales guardadas"
+
+msgid "We're ready: what do you want to do?"
+msgstr "Estamos listos: ¿qué quieres hacer?"
+
+msgid "XSPF conversion error: %s"
+msgstr "Error de conversión XSPF: %s"
+
+msgid "XSPF to M3U Playlist Conversion"
+msgstr "Conversión de lista de reproducción XSPF a M3U"
+
+msgid "XSPF to  M3U Playlist"
+msgstr "Lista de reproducción de XSPF a M3U"
+
+msgid "merged"
+msgstr "fusionado"
+
+msgid "replaced"
+msgstr ""
+
+msgid "tv_to_m3u Conversion error: %s"
+msgstr ""
+
+msgid " Current total: {}"
+msgstr "Total actual: {}"
+
+msgid " DVB: {} channels"
+msgstr ""
+
+msgid " Duplicate mappings: {}"
+msgstr ""
+
+msgid " Hit: {} ({:.1f}%)"
+msgstr ""
+
+msgid " Miss: {}"
+msgstr ""
+
+msgid " Mode: {}"
+msgstr ""
+
+msgid " New mappings: {}"
+msgstr ""
+
+msgid " Rytec: {} channels"
+msgstr ""
+
+msgid " Size: {} entries"
+msgstr ""
+
+msgid " Total in import file: {}"
+msgstr ""
+
+msgid "  Manual DB: {} ({:.1f}%)"
+msgstr ""
+
+msgid "  DVB-S: {} ({:.1f}%)"
+msgstr ""
+
+msgid "  DVB-T: {} ({:.1f}%)"
+msgstr ""
+
+msgid "  IPTV Fallback: {} ({:.1f}%)"
+msgstr ""
+
+msgid "  Rytec: {} ({:.1f}%)"
+msgstr ""
+
+msgid " Conversion type: {}"
+msgstr ""
+
+msgid " Status: Completed successfully"
+msgstr ""
+
+msgid " Valid channels processed: {}"
+msgstr ""
+
+msgid " Edit this mapping"
+msgstr ""
+
+msgid " Manual edits applied: {}"
+msgstr ""
+
+msgid " Open Database Editor"
+msgstr ""
+
+msgid " Error generating statistics"
+msgstr ""
+
+msgid " Merge (keep both)"
+msgstr ""
+
+msgid " New mappings ({}):"
+msgstr ""
+
+msgid " CONVERSION COMPLETE"
+msgstr ""
+
+msgid " Effective EPG matches: {}"
+msgstr ""
+
+msgid " TOTAL CHANNELS: {}"
+msgstr ""
+
+msgid " View Manual Database"
+msgstr ""
+
+msgid " CACHE PERFORMANCE:"
+msgstr ""
+
+msgid " Cache efficiency: {}"
+msgstr ""
+
+msgid " Create Backup"
+msgstr ""
+
+msgid " Manual DB matches: {}"
+msgstr ""
+
+msgid " Output file: {}"
+msgstr ""
+
+msgid " File size: {}"
+msgstr ""
+
+msgid " EFFECTIVE EPG coverage: {}"
+msgstr ""
+
+msgid " EPG COVERAGE: {:.1f}%"
+msgstr ""
+
+msgid " Statistics:"
+msgstr ""
+
+msgid " EPG Cache Statistics"
+msgstr ""
+
+msgid " EPG STATISTICS - {}"
+msgstr ""
+
+msgid " IMPORT PREVIEW"
+msgstr ""
+
+msgid " Preview Changes"
+msgstr ""
+
+msgid " Total channels in file: {}"
+msgstr ""
+
+msgid " Plugin Info"
+msgstr ""
+
+msgid " Manual Match Editing"
+msgstr ""
+
+msgid " DVB channels in DB: {}"
+msgstr ""
+
+msgid " DVB-T EPG matches: {}"
+msgstr ""
+
+msgid " Export Manual Database"
+msgstr ""
+
+msgid " Import Manual Database"
+msgstr ""
+
+msgid " DVB EPG matches: {}"
+msgstr ""
+
+msgid " Duplicates ({}):"
+msgstr ""
+
+msgid " Reload EPG Database"
+msgstr ""
+
+msgid " Reload Services"
+msgstr ""
+
+msgid " Replace All ({} mappings)"
+msgstr ""
+
+msgid " Fallback (no EPG): {}"
+msgstr ""
+
+msgid " Cache size: {} entries"
+msgstr ""
+
+msgid " Back"
+msgstr ""
+
+msgid " Back to Tools"
+msgstr ""
+
+msgid " Back to locations"
+msgstr ""
+
+msgid " MATCH BREAKDOWN:"
+msgstr ""
+
+msgid " Completed at: {}"
+msgstr ""
+
+msgid " Edited at: {}"
+msgstr ""
+
+msgid " === Manual Database Management ==="
+msgstr ""
+
+msgid " DATABASE INFO:"
+msgstr ""
+
+msgid " Database mode: {}"
+msgstr ""
+
+msgid " Rytec channels in DB: {}"
+msgstr ""
+
+msgid " Clear Log File"
+msgstr ""
+
+msgid " Delete this mapping"
+msgstr ""
+
+msgid " Skipped channels: {}"
+msgstr ""
+
+msgid " Rytec EPG matches: {}"
+msgstr ""
+
+msgid " Clean Manual Database"
+msgstr ""
+
+msgid " Clear EPG Cache"
+msgstr ""

@@ -1,0 +1,967 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: M 3UConverter\n"
+"PO-Revision-Date: 2026-08-23 08:02+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Catalan <ca@dodds.net>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "(Based on selected database mode: {})"
+msgstr "(Basat en el mode de base de dades seleccionat: {})"
+
+msgid "(Reused previous manual corrections)"
+msgstr "(S'han reutilitzat correccions manuals anteriors)"
+
+msgid "- {} duplicate groups"
+msgstr "- {} grups duplicats"
+
+msgid "-- Auto-open Editor"
+msgstr "-- Editor d'obertura automàtica"
+
+msgid "-- DVB search limit (Match Edit)"
+msgstr "-- Límit de cerca DVB (Match Edit)"
+
+msgid "-- Database Mode"
+msgstr "-- Mode base de dades"
+
+msgid "-- EPG Generation Mode"
+msgstr "-- Mode de generació d'EPG"
+
+msgid "-- EPG Language"
+msgstr "-- Llenguatge EPG"
+
+msgid "-- Ignore DVB-T services"
+msgstr "-- Ignora els serveis DVB-T"
+
+msgid "-- Max Backups"
+msgstr "-- Còpies de seguretat màximes"
+
+msgid "-- Rytec search limit (Match Edit)"
+msgstr "-- Límit de cerca de Rytec (edició de coincidències)"
+
+msgid "-- Similarity Threshold DVB (%)"
+msgstr "-- Llindar de semblança DVB (%)"
+
+msgid "-- Similarity Threshold Global (%)"
+msgstr "-- Llindar de semblança global (%)"
+
+msgid "-- Similarity Threshold Rytec (%)"
+msgstr "-- Llindar de semblança Rytec (%)"
+
+msgid "-- Use Manual Database"
+msgstr "-- Utilitzeu la base de dades manual"
+
+msgid "--- {} ({} duplicates) ---"
+msgstr "--- {} ({} duplicats) ---"
+
+msgid "---- Max manual corrections to save"
+msgstr "---- Correccions manuals màximes per guardar"
+
+msgid ">>> DUPLICATES VIEW"
+msgstr ">>> VISTA DUPLICATS"
+
+msgid ">>> SELECTION MODE - Select items with OK"
+msgstr ">>> MODE DE SELECCIÓ - Seleccioneu els elements amb D'acord"
+
+msgid ">>> {} duplicate groups, {} total mappings"
+msgstr ">>> {} grups duplicats, {} mapes totals"
+
+msgid ">>> {} groups, {} mappings total"
+msgstr ">>> {} grups, {} mapes en total"
+
+msgid "ALL MAPPINGS: {} total"
+msgstr "TOTS ELS MAPPINGS: {} total"
+
+msgid "Action for: {}"
+msgstr "Acció per a: {}"
+
+msgid "Advanced Tools Menu"
+msgstr "Menú d'eines avançades"
+
+msgid "All Mappings"
+msgstr "Tots els mapes"
+
+msgid "Archimede Converter Settings"
+msgstr "Configuració del convertidor d'Arquimedes"
+
+msgid "Archimede Universal Converter by Lululla v.{version} - {page}"
+msgstr "Archimede Universal Converter de Lululla v.{version} - {page}"
+
+msgid "Archimede Universal Converter v.%s"
+msgstr ""
+
+msgid "Archimede Universal Converter v.%s by Lululla"
+msgstr "Archimede Universal Converter v.%s de Lululla"
+
+msgid "Backup created successfully!"
+msgstr "Còpia de seguretat creada correctament!"
+
+msgid "Backup failed: {}"
+msgstr "La còpia de seguretat ha fallat: {}"
+
+msgid "Barry Allen"
+msgstr ""
+
+msgid "Bottom"
+msgstr "A baix"
+
+msgid "Bouquet Mode"
+msgstr "Mode ram"
+
+msgid "Bouquet Position"
+msgstr "Posició del ram"
+
+msgid "Cancel"
+msgstr "Cancel·la"
+
+msgid "Cancelling conversion..."
+msgstr "S'està cancel·lant la conversió..."
+
+msgid "Cancelling..."
+msgstr "S'està cancel·lant..."
+
+msgid "Channel: {} | {} | Match: {} | Press RIGHT for matches"
+msgstr "Canal: {} | {} | Coincidència: {} | Premeu la DRETA per a les coincidències"
+
+msgid "Close"
+msgstr "Tancar"
+
+msgid "Conversion already in progress"
+msgstr "La conversió ja està en curs"
+
+msgid "Conversion cancelled"
+msgstr "S'ha cancel·lat la conversió"
+
+msgid "Conversion completed"
+msgstr "Conversió completada"
+
+msgid "Conversion error: %s"
+msgstr "Error de conversió: %s"
+
+msgid "Conversion failed: Invalid result"
+msgstr "La conversió ha fallat: resultat no vàlid"
+
+msgid "Conversion failed: {}"
+msgstr "La conversió ha fallat: {}"
+
+msgid "Conversion in progress..."
+msgstr "Conversió en curs..."
+
+msgid "Convert"
+msgstr "Converteix"
+
+msgid "Convert HLS Streams"
+msgstr "Converteix fluxos HLS"
+
+msgid "Convert HLS to Enigma2 format"
+msgstr "Converteix HLS a format Enigma2"
+
+msgid "Convert JSON to M3U"
+msgstr "Converteix JSON a M3U"
+
+msgid "Convert JSON to TV"
+msgstr "Converteix JSON a TV"
+
+msgid "Convert M3U to JSON"
+msgstr "Convertir M3U a JSON"
+
+msgid "Convert M3U to TV"
+msgstr "Converteix M3U a TV"
+
+msgid "Convert TV to M3U"
+msgstr "Converteix TV a M3U"
+
+msgid "Convert TV to TV"
+msgstr "Converteix TV a TV"
+
+msgid "Convert XSPF to M3U"
+msgstr "Convertir XSPF a M3U"
+
+msgid "Convert between M3U Enigma2 Bouquets Json"
+msgstr "Converteix entre M3U Enigma2 Bouquets Json"
+
+msgid "Converting: %d/%d (%d%%)"
+msgstr "Conversió: %d/%d (%d%%)"
+
+msgid "Converting: {name} ({percent}%)"
+msgstr "Conversió: {name} ({percent}%)"
+
+msgid "Converting: {title} ({percent}%)"
+msgstr "Conversió: {name} ({percent}%)"
+
+msgid "Converting: {} ({}%)"
+msgstr "Conversió: {} ({}%)"
+
+msgid "Create Backup"
+msgstr "Crea una còpia de seguretat"
+
+msgid "Create backup before conversion"
+msgstr "Creeu una còpia de seguretat abans de la conversió"
+
+msgid "Create single or multiple bouquets"
+msgstr "Crea rams individuals o múltiples"
+
+msgid "DUPLICATES: {} groups, {} mappings"
+msgstr "DUPLICATS: {} grups, {} mapes"
+
+msgid "DVB + Rytec"
+msgstr "DVB + gravador"
+
+msgid "DVB + Rytec + DTT (Full)"
+msgstr "DVB + Rytec + TDT (complet)"
+
+msgid "Database Directory"
+msgstr "Directori de bases de dades"
+
+msgid "Debug Mode"
+msgstr "Mode de depuració"
+
+msgid "Default Folder"
+msgstr "Carpeta per defecte"
+
+msgid "Default folder for opening and saving M3U files"
+msgstr "Carpeta predeterminada per obrir i desar fitxers M3U"
+
+msgid "Delete"
+msgstr "Suprimeix"
+
+msgid "Deleted {} items"
+msgstr "S'han suprimit {} elements"
+
+msgid "Deleted {} items. No more duplicates."
+msgstr "S'han suprimit {} elements. No més duplicats."
+
+msgid "Deleted {} items. Still in selection mode."
+msgstr "S'han suprimit {} elements. Encara en mode de selecció."
+
+msgid "Done"
+msgstr "Fet"
+
+msgid "Duplicates"
+msgstr "Duplicats"
+
+msgid "EPG Coverage: {}/{} channels ({:.1f}%)"
+msgstr "Cobertura EPG: {}/{} canals ({:.1f}%)"
+
+msgid "EPG assigned: {} | {}"
+msgstr "EPG assignat: {} | {}"
+
+msgid "EPG cache cleared! {} entries removed"
+msgstr "S'ha esborrat la memòria cau EPG! S'han eliminat {} entrades"
+
+msgid "EPG database reloaded successfully!"
+msgstr "La base de dades EPG s'ha recarregat correctament!"
+
+msgid "EPG mapper not available"
+msgstr "EPG mapper no disponible"
+
+msgid "EPG mapper not initialized"
+msgstr "El mapeador EPG no s'ha inicialitzat"
+
+msgid "EPG matching algorithm"
+msgstr "Algorisme de concordança EPG"
+
+msgid "EPGImport plugin not found"
+msgstr "No s'ha trobat el connector EPGImport"
+
+msgid "EPGImporter"
+msgstr "Importador EPG"
+
+msgid "EPGShare Mode"
+msgstr "Mode EPGShare"
+
+msgid "Enable EPG"
+msgstr "Activa l'EPG"
+
+msgid "Enable detailed logging"
+msgstr "Activa el registre detallat"
+
+msgid "Enigma2 Bouquet to Enigma2 Bouquet Conversion"
+msgstr "Conversió d'Enigma2 Bouquet a Enigma2 Bouquet"
+
+msgid "Enigma2 Bouquet to M3U Conversion"
+msgstr "Conversió Enigma2 Bouquet a M3U"
+
+msgid "Enigma2 Bouquets to  Enigma2 Bouquets"
+msgstr "Rams Enigma2 a Rams Enigma2"
+
+msgid "Enigma2 Bouquets to  M3U"
+msgstr "Enigma2 Bouquets a M3U"
+
+msgid "Error clearing EPG cache"
+msgstr "S'ha produït un error en esborrar la memòria cau de l'EPG"
+
+msgid "Error clearing database"
+msgstr "Error en esborrar la base de dades"
+
+msgid "Error deleting correction"
+msgstr "S'ha produït un error en suprimir la correcció"
+
+msgid "Error deleting items"
+msgstr "S'ha produït un error en suprimir els elements"
+
+msgid "Error deleting mapping"
+msgstr "S'ha produït un error en suprimir el mapa"
+
+msgid "Error exporting database"
+msgstr "S'ha produït un error en exportar la base de dades"
+
+msgid "Error finalizing import: {}"
+msgstr "Error en finalitzar la importació: {}"
+
+msgid "Error importing database: {}"
+msgstr "Error en importar la base de dades: {}"
+
+msgid "Error initiating service reload"
+msgstr "S'ha produït un error en iniciar la recàrrega del servei"
+
+msgid "Error loading database"
+msgstr "Error en carregar la base de dades"
+
+msgid "Error opening plugin information: %s"
+msgstr "S'ha produït un error en obrir la informació del connector: %s"
+
+msgid "Error processing conversion result"
+msgstr "Error en processar el resultat de la conversió"
+
+msgid "Error reloading EPG database: {}"
+msgstr "Error en tornar a carregar la base de dades EPG: {}"
+
+msgid "Error saving imported database"
+msgstr "S'ha produït un error en desar la base de dades importada"
+
+msgid "Error starting import: {}"
+msgstr "Error en iniciar la importació: {}"
+
+msgid "Error undoing action"
+msgstr "S'ha produït un error en desfer l'acció"
+
+msgid "Error: Channel index out of range"
+msgstr "Error: índex de canal fora de l'abast"
+
+msgid "Failed to initialize EPG mapper - check logs"
+msgstr "No s'ha pogut inicialitzar el mapeador EPG: comproveu els registres"
+
+msgid "File loaded: {}"
+msgstr "Fitxer carregat: {}"
+
+msgid "File not found"
+msgstr "No s'ha trobat el fitxer"
+
+msgid "File write error: %s"
+msgstr "Error d'escriptura del fitxer: %s"
+
+msgid "File: {}"
+msgstr "Fitxer: {}"
+
+msgid "Files larger than this will be sampled (1000 channels max)"
+msgstr "Els fitxers més grans que això es mostren (1.000 canals com a màxim)"
+
+msgid "First select a match from the right list (use RIGHT arrow)"
+msgstr "Primer seleccioneu una coincidència de la llista dreta (utilitza la fletxa DRET)"
+
+msgid "Found {} matches for: {} | Select and press OK"
+msgstr "S'han trobat {} coincidències per a: {} | Seleccioneu i premeu D'acord"
+
+msgid "Found {} matches so far for: {} | Searching..."
+msgstr "S'han trobat {} coincidències fins ara per a: {} | S'està buscant..."
+
+msgid "Generate EPG data for bouquets"
+msgstr "Genereu dades EPG per als rams"
+
+msgid "Global similarity threshold for all matches (20-100%)"
+msgstr "Llindar de semblança global per a totes les coincidències (20-100%)"
+
+msgid "HDD Drive"
+msgstr "Unitat HDD"
+
+msgid "Ignore DVB-T services on conversion"
+msgstr "Ignoreu els serveis DVB-T durant la conversió"
+
+msgid "Import {} mappings from {}"
+msgstr "Importa {} mapes de {}"
+
+msgid "Invalid .m3u item format"
+msgstr "Format d'element .m3u no vàlid"
+
+msgid "Invalid .tv item format"
+msgstr "Format d'element .tv no vàlid"
+
+msgid "Invalid XSPF file"
+msgstr "Fitxer XSPF no vàlid"
+
+msgid "Invalid database file structure"
+msgstr "Estructura de fitxers de base de dades no vàlida"
+
+msgid "Invalid selection"
+msgstr "Selecció no vàlida"
+
+msgid "JSON to Enigma2 Bouquet Conversion"
+msgstr "Conversió de bouquet JSON a Enigma2"
+
+msgid "JSON to M3U Conversion"
+msgstr "Conversió de JSON a M3U"
+
+msgid "JSON to  Enigma2 Bouquets"
+msgstr "JSON a Enigma2 Bouquets"
+
+msgid "JSON to  M3U"
+msgstr "JSON a M3U"
+
+msgid "Language for EPG sources"
+msgstr "Llenguatge per a fonts EPG"
+
+msgid "Large file detected: {:.1f}MB. Processing first {} channels..."
+msgstr "S'ha detectat un fitxer gran: {:.1f}MB. S'estan processant els primers {} canals..."
+
+msgid "Large file threshold (MB)"
+msgstr "Llindar de fitxer gran (MB)"
+
+msgid "Loaded first %d channels. Press Green to convert."
+msgstr "S'han carregat els primers %d canals. Premeu Verd per convertir."
+
+msgid "Loading database..."
+msgstr "S'està carregant la base de dades..."
+
+msgid "Log file cleared successfully"
+msgstr "El fitxer de registre s'ha esborrat correctament"
+
+msgid "M3U to Enigma2 Bouquet Conversion"
+msgstr "Conversió de bouquet M3U a Enigma2"
+
+msgid "M3U to JSON Conversion"
+msgstr "Conversió M3U a JSON"
+
+msgid "M3U to  Enigma2 Bouquets"
+msgstr "M3U a Enigma2 Bouquets"
+
+msgid "M3U to  JSON"
+msgstr "M3U a JSON"
+
+msgid "Manual Corrections ({} total)"
+msgstr "Correccions manuals ({} total)"
+
+msgid "Manual Database Editor"
+msgstr "Editor manual de bases de dades"
+
+msgid "Manual EPG Match Editor"
+msgstr "Editor de coincidències EPG manual"
+
+msgid "Manual database cleared"
+msgstr "S'ha esborrat la base de dades manual"
+
+msgid "Manual database not available"
+msgstr "Base de dades manual no disponible"
+
+msgid "Manual editing completed"
+msgstr "S'ha completat l'edició manual"
+
+msgid "Manual editing completed - ready for conversion"
+msgstr "S'ha completat l'edició manual - llest per a la conversió"
+
+msgid "Mapping deleted successfully"
+msgstr "El mapatge s'ha suprimit correctament"
+
+msgid "Match Editor"
+msgstr "Editor de partits"
+
+msgid "Match reset for: {}"
+msgstr "Restableix la coincidència per a: {}"
+
+msgid "Max DVB entries scanned during automatic Match Edit (Slow down scanning)"
+msgstr "Màxim d'entrades DVB escanejades durant l'edició automàtica de coincidències (escaneig alentit)"
+
+msgid "Max Rytec entries scanned during automatic Match Edit (Slow down scanning)"
+msgstr "Entrades de Max Rytec escanejades durant l'edició automàtica de coincidències (escaneig alentit)"
+
+msgid "Maximum backup copies"
+msgstr "Màxim de còpies de seguretat"
+
+msgid "Maximum manual corrections to save"
+msgstr "Màximes correccions manuals per guardar"
+
+msgid "Multiple Bouquets"
+msgstr "Rams múltiples"
+
+msgid "Network Storage"
+msgstr "Emmagatzematge en xarxa"
+
+msgid "Next"
+msgstr "A continuació"
+
+msgid "No IPTV channels found in the bouquet"
+msgstr "No s'han trobat canals IPTV al ram"
+
+msgid "No M3UConverter bouquets found to remove."
+msgstr "No s'han trobat rams M3UConverter per eliminar."
+
+msgid "No MANUAL changes to save"
+msgstr "No hi ha canvis MANUAL per desar"
+
+msgid "No MANUAL corrections saved"
+msgstr "No s'han desat cap correcció MANUAL"
+
+msgid "No actions to undo"
+msgstr "No hi ha accions per desfer"
+
+msgid "No channels available"
+msgstr "No hi ha canals disponibles"
+
+msgid "No channels loaded. Please select a valid TV bouquet file."
+msgstr "No s'ha carregat cap canal. Seleccioneu un fitxer de bouquet de TV vàlid."
+
+msgid "No conversion data available."
+msgstr "No hi ha dades de conversió disponibles."
+
+msgid "No conversion data available. Please run a conversion first."
+msgstr "No hi ha dades de conversió disponibles. Primer executeu una conversió."
+
+msgid "No conversion statistics available."
+msgstr "No hi ha estadístiques de conversió disponibles."
+
+msgid "No duplicates available for selection"
+msgstr "No hi ha duplicats disponibles per a la selecció"
+
+msgid "No duplicates found"
+msgstr "No s'han trobat duplicats"
+
+msgid "No duplicates found in the database"
+msgstr "No s'han trobat duplicats a la base de dades"
+
+msgid "No file selected"
+msgstr "No s'ha seleccionat cap fitxer"
+
+msgid "No file selected for conversion"
+msgstr "No s'ha seleccionat cap fitxer per a la conversió"
+
+msgid "No items selected for deletion"
+msgstr "No s'ha seleccionat cap element per suprimir-lo"
+
+msgid "No manual corrections found"
+msgstr "No s'han trobat correccions manuals"
+
+msgid "No manual corrections to export"
+msgstr "No hi ha correccions manuals per exportar"
+
+msgid "No mappings available"
+msgstr "No hi ha mapes disponibles"
+
+msgid "No matches found - try different search"
+msgstr "No s'ha trobat cap coincidència; proveu una cerca diferent"
+
+msgid "No matches found for: {}"
+msgstr "No s'han trobat coincidències per a: {}"
+
+msgid "No statistics available"
+msgstr "No hi ha estadístiques disponibles"
+
+msgid "No valid channels found in the JSON file"
+msgstr "No s'han trobat canals vàlids al fitxer JSON"
+
+msgid "Only DTT"
+msgstr "Només TDT"
+
+msgid "Only DVB"
+msgstr "Només DVB"
+
+msgid "Only Rytec"
+msgstr "Només Rytec"
+
+msgid "Open File"
+msgstr "Obre Fitxer"
+
+msgid "Open manual editor after conversion"
+msgstr "Obriu l'editor manual després de la conversió"
+
+msgid "Playback error"
+msgstr "Error de reproducció"
+
+msgid "Playing: %s"
+msgstr "Jugant: %s"
+
+msgid "Please select a channel first"
+msgstr "Seleccioneu primer un canal"
+
+msgid "Please select a mapping (not a group header)"
+msgstr "Seleccioneu un mapeig (no una capçalera de grup)"
+
+msgid "Please select a mapping to delete"
+msgstr "Seleccioneu un mapa per suprimir"
+
+msgid "Please select a valid match from the right list"
+msgstr "Seleccioneu una coincidència vàlida de la llista correcta"
+
+msgid "Plugin Information"
+msgstr "Informació del connector"
+
+msgid "Position in channel list"
+msgstr "Posició a la llista de canals"
+
+msgid "Press RED to select file"
+msgstr "Premeu VERMELL per seleccionar el fitxer"
+
+msgid "Prev"
+msgstr "Anterior"
+
+msgid "Processing selection..."
+msgstr "S'està processant la selecció..."
+
+msgid "Ready"
+msgstr "A punt"
+
+msgid "Ready for next operation"
+msgstr "A punt per a la propera operació"
+
+msgid "Ready to convert"
+msgstr "A punt per convertir"
+
+msgid "Ready: Select the file from the %s you configured in settings."
+msgstr "A punt: seleccioneu el fitxer dels %s que heu configurat a la configuració."
+
+msgid "Reloading services..."
+msgstr "S'estan tornant a carregar serveis..."
+
+msgid "Remove Bouquets"
+msgstr "Elimina els rams"
+
+msgid "Remove M3U Bouquets"
+msgstr "Elimina els rams M3U"
+
+msgid "Reset"
+msgstr "Restableix"
+
+msgid "Run a conversion first to see statistics."
+msgstr "Primer executeu una conversió per veure les estadístiques."
+
+msgid "SELECTION MODE: {} items selected"
+msgstr "MODE DE SELECCIÓ: {} elements seleccionats"
+
+msgid "Save All"
+msgstr "Desa-ho tot"
+
+msgid "Save error"
+msgstr "Error de desar"
+
+msgid "Saved {} MANUAL corrections"
+msgstr "S'han desat {} correccions MANUALS"
+
+msgid "Searching matches for: {}..."
+msgstr "S'estan cercant coincidències per a: {}..."
+
+msgid "Select"
+msgstr "Seleccioneu"
+
+msgid "Select a channel to correct the match"
+msgstr "Seleccioneu un canal per corregir la coincidència"
+
+msgid "Select a channel to edit (use OK or RIGHT to go to matches)"
+msgstr "Seleccioneu un canal per editar (feu servir OK o DRET per anar a les coincidències)"
+
+msgid "Select a match and press OK to assign"
+msgstr "Seleccioneu una coincidència i premeu D'acord per assignar-la"
+
+msgid "Select databases for channel matching"
+msgstr "Seleccioneu bases de dades per a la concordança de canals"
+
+msgid "Select file to import from {}"
+msgstr "Seleccioneu el fitxer per importar des de {}"
+
+msgid "Select import location"
+msgstr "Seleccioneu la ubicació d'importació"
+
+msgid "Selection mode active. Select items with OK"
+msgstr "Mode de selecció actiu. Seleccioneu els elements amb D'acord"
+
+msgid "Selection mode off"
+msgstr "Mode de selecció desactivat"
+
+msgid "Selection mode: Select items with OK"
+msgstr "Mode de selecció: seleccioneu els elements amb OK"
+
+msgid "Service reload initiated"
+msgstr "S'ha iniciat la recàrrega del servei"
+
+msgid "Similarity threshold for DVB matches (20-100%)"
+msgstr "Llindar de semblança per a coincidències DVB (20-100%)"
+
+msgid "Similarity threshold for Rytec matches (20-100%)"
+msgstr "Llindar de semblança per a les partides Rytec (20-100%)"
+
+msgid "Single Bouquet"
+msgstr "Ram únic"
+
+msgid "Standard Mode"
+msgstr "Mode estàndard"
+
+msgid "Stopped"
+msgstr "Parat"
+
+msgid "Temporary"
+msgstr "Temporal"
+
+msgid "Temporary Files"
+msgstr "Fitxers temporals"
+
+msgid "Tools"
+msgstr "Eines"
+
+msgid "Top"
+msgstr "A dalt"
+
+msgid "USB Drive"
+msgstr "Unitat USB"
+
+msgid "Undo"
+msgstr "Desfer"
+
+msgid "Undo: Restored previous state for {}"
+msgstr "Desfés: s'ha restaurat l'estat anterior per a {}"
+
+msgid "Universal Converter"
+msgstr "Convertidor universal"
+
+msgid "Unknown error"
+msgstr "Error desconegut"
+
+msgid "Unsupported conversion type"
+msgstr "Tipus de conversió no compatible"
+
+msgid "Use saved manual corrections"
+msgstr "Utilitzeu les correccions manuals desades"
+
+msgid "We're ready: what do you want to do?"
+msgstr "Estem preparats: què vols fer?"
+
+msgid "XSPF conversion error: %s"
+msgstr "Error de conversió XSPF: %s"
+
+msgid "XSPF to M3U Playlist Conversion"
+msgstr "Conversió de llista de reproducció XSPF a M3U"
+
+msgid "XSPF to  M3U Playlist"
+msgstr "Llista de reproducció XSPF a M3U"
+
+msgid "merged"
+msgstr "fusionats"
+
+msgid "replaced"
+msgstr "substituït"
+
+msgid "tv_to_m3u Conversion error: %s"
+msgstr "tv_to_m3u Error de conversió: %s"
+
+msgid " Current total: {}"
+msgstr "Total actual: {}"
+
+msgid " DVB: {} channels"
+msgstr "DVB: {} canals"
+
+msgid " Duplicate mappings: {}"
+msgstr "Mapes duplicats: {}"
+
+msgid " Hit: {} ({:.1f}%)"
+msgstr "Peça: {} ({:.1f}%)"
+
+msgid " Miss: {}"
+msgstr "Senyora: {}"
+
+msgid " Mode: {}"
+msgstr "Mode: {}"
+
+msgid " New mappings: {}"
+msgstr "Mapes nous: {}"
+
+msgid " Rytec: {} channels"
+msgstr "Rytec: {} canals"
+
+msgid " Size: {} entries"
+msgstr "Mida: {} entrades"
+
+msgid " Total in import file: {}"
+msgstr "Total al fitxer d'importació: {}"
+
+msgid "  Manual DB: {} ({:.1f}%)"
+msgstr "Base de dades manual: {} ({:.1f}%)"
+
+msgid "  DVB-S: {} ({:.1f}%)"
+msgstr "DVB-S: {} ({:.1f}%)"
+
+msgid "  DVB-T: {} ({:.1f}%)"
+msgstr "DVB-T: {} ({:.1f}%)"
+
+msgid "  IPTV Fallback: {} ({:.1f}%)"
+msgstr "IPTV alternativa: {} ({:.1f}%)"
+
+msgid "  Rytec: {} ({:.1f}%)"
+msgstr "Rytec: {} ({:.1f}%)"
+
+msgid " Conversion type: {}"
+msgstr "Tipus de conversió: {}"
+
+msgid " Status: Completed successfully"
+msgstr "Estat: s'ha completat correctament"
+
+msgid " Valid channels processed: {}"
+msgstr "Canals vàlids processats: {}"
+
+msgid " Edit this mapping"
+msgstr "Editeu aquest mapatge"
+
+msgid " Manual edits applied: {}"
+msgstr "Edicions manuals aplicades: {}"
+
+msgid " Open Database Editor"
+msgstr "Obre l'editor de bases de dades"
+
+msgid " Error generating statistics"
+msgstr "Error en generar les estadístiques"
+
+msgid " Merge (keep both)"
+msgstr "Fusionar (mantenir tots dos)"
+
+msgid " New mappings ({}):"
+msgstr "Mapes nous ({}):"
+
+msgid " CONVERSION COMPLETE"
+msgstr "CONVERSIÓ COMPLETA"
+
+msgid " Effective EPG matches: {}"
+msgstr "Coincidències EPG efectives: {}"
+
+msgid " TOTAL CHANNELS: {}"
+msgstr "TOTAL DE CANALS: {}"
+
+msgid " View Manual Database"
+msgstr "Visualitza la base de dades manual"
+
+msgid " CACHE PERFORMANCE:"
+msgstr "RENDIMENT DE LA CACHE:"
+
+msgid " Cache efficiency: {}"
+msgstr "Eficiència de la memòria cau: {}"
+
+msgid " Create Backup"
+msgstr "Crea una còpia de seguretat"
+
+msgid " Manual DB matches: {}"
+msgstr "Coincidències manuals de base de dades: {}"
+
+msgid " Output file: {}"
+msgstr "Fitxer de sortida: {}"
+
+msgid " File size: {}"
+msgstr "Mida del fitxer: {}"
+
+msgid " EFFECTIVE EPG coverage: {}"
+msgstr "Cobertura EPG EFECTIVA: {}"
+
+msgid " EPG COVERAGE: {:.1f}%"
+msgstr "COBERTURA EPG: {:.1f}%"
+
+msgid " Statistics:"
+msgstr "Estadístiques:"
+
+msgid " EPG Cache Statistics"
+msgstr "Estadístiques de la memòria cau EPG"
+
+msgid " EPG STATISTICS - {}"
+msgstr "ESTADÍSTIQUES EPG - {}"
+
+msgid " IMPORT PREVIEW"
+msgstr "PREVISUALITZACIÓ DE LA IMPORTACIÓ"
+
+msgid " Preview Changes"
+msgstr "Vista prèvia dels canvis"
+
+msgid " Total channels in file: {}"
+msgstr "Total de canals al fitxer: {}"
+
+msgid " Plugin Info"
+msgstr "Informació del connector"
+
+msgid " Manual Match Editing"
+msgstr "Edició manual de coincidències"
+
+msgid " DVB channels in DB: {}"
+msgstr "Canals DVB a DB: {}"
+
+msgid " DVB-T EPG matches: {}"
+msgstr "Coincidències DVB-T EPG: {}"
+
+msgid " Export Manual Database"
+msgstr "Exportar la base de dades manual"
+
+msgid " Import Manual Database"
+msgstr "Importa la base de dades manual"
+
+msgid " DVB EPG matches: {}"
+msgstr "Coincidències DVB EPG: {}"
+
+msgid " Duplicates ({}):"
+msgstr "Duplicats ({}):"
+
+msgid " Reload EPG Database"
+msgstr "Torneu a carregar la base de dades EPG"
+
+msgid " Reload Services"
+msgstr "Serveis de recàrrega"
+
+msgid " Replace All ({} mappings)"
+msgstr "Substitueix-ho tot ({} mapes)"
+
+msgid " Fallback (no EPG): {}"
+msgstr "Alternativa (sense EPG): {}"
+
+msgid " Cache size: {} entries"
+msgstr "Mida de la memòria cau: {} entrades"
+
+msgid " Back"
+msgstr "Enrere"
+
+msgid " Back to Tools"
+msgstr "Torna a Eines"
+
+msgid " Back to locations"
+msgstr "Tornar a les ubicacions"
+
+msgid " MATCH BREAKDOWN:"
+msgstr "DESCLOSACIÓ DEL PARTIT:"
+
+msgid " Completed at: {}"
+msgstr "Completat a: {}"
+
+msgid " Edited at: {}"
+msgstr "Editat a: {}"
+
+msgid " === Manual Database Management ==="
+msgstr "=== Gestió manual de bases de dades ==="
+
+msgid " DATABASE INFO:"
+msgstr "INFORMACIÓ DE LA BASE DE DADES:"
+
+msgid " Database mode: {}"
+msgstr "Mode base de dades: {}"
+
+msgid " Rytec channels in DB: {}"
+msgstr "Canals Rytec a DB: {}"
+
+msgid " Clear Log File"
+msgstr "Esborra el fitxer de registre"
+
+msgid " Delete this mapping"
+msgstr "Suprimeix aquest mapatge"
+
+msgid " Skipped channels: {}"
+msgstr "Canals omesos: {}"
+
+msgid " Rytec EPG matches: {}"
+msgstr "Coincidències Rytec EPG: {}"
+
+msgid " Clean Manual Database"
+msgstr "Neteja la base de dades manual"
+
+msgid " Clear EPG Cache"
+msgstr "Esborra la memòria cau EPG"

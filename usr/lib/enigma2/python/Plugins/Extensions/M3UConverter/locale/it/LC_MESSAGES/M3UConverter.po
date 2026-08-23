@@ -142,7 +142,6 @@ msgstr "Plugin EPGImport non trovato"
 
 #: plugin.py:3484
 #, python-brace-format
-msgid ""
 "Removed {count} bouquet(s):\n"
 "{files}"
 msgstr ""
@@ -205,7 +204,6 @@ msgstr "File caricato: {}"
 
 #: plugin.py:3878
 #, python-format
-msgid ""
 "Error opening file browser:\n"
 "%s"
 msgstr ""
@@ -350,7 +348,6 @@ msgid "No statistics available"
 msgstr "Nessuna statistica disponibile"
 
 #: plugin.py:4182
-msgid ""
 "No conversion statistics available.\n"
 "Run a conversion first to see statistics."
 msgstr ""
@@ -491,7 +488,6 @@ msgid "Service reload initiated"
 msgstr "Ricaricamento del servizio avviato"
 
 #: plugin.py:4375
-msgid ""
 "Service reload command sent successfully.\n"
 "Bouquets should appear shortly."
 msgstr ""
@@ -534,7 +530,6 @@ msgstr "Correzioni manuali ({} totali)"
 
 #: plugin.py:4520
 #, python-brace-format
-msgid ""
 "This will delete ALL manual corrections.\n"
 "\n"
 "Total corrections: {}\n"
@@ -563,7 +558,6 @@ msgstr "Nessuna correzione manuale da esportare"
 
 #: plugin.py:4608
 #, python-brace-format
-msgid ""
 "Manual database exported successfully!\n"
 "\n"
 "File: {}\n"
@@ -592,7 +586,6 @@ msgstr "File temporanei"
 
 #: plugin.py:4673
 #, python-brace-format
-msgid ""
 "No database files found in:\n"
 "{}"
 msgstr ""
@@ -627,7 +620,6 @@ msgstr "File di registro cancellato correttamente"
 
 #: plugin.py:4835
 #, python-brace-format
-msgid ""
 "Delete manual correction for:\n"
 "{}\n"
 "\n"
@@ -644,7 +636,6 @@ msgstr "Errore durante l'eliminazione della correzione"
 
 #: plugin.py:4924
 #, python-brace-format
-msgid ""
 "Import file not found:\n"
 "{}"
 msgstr ""
@@ -670,7 +661,6 @@ msgstr "unito"
 
 #: plugin.py:5005
 #, python-brace-format
-msgid ""
 "Database import successful!\n"
 "\n"
 "{} mappings {}.\n"
@@ -791,7 +781,6 @@ msgstr "Nessun canale IPTV trovato nel bouquet"
 
 #: plugin.py:5602
 #, python-format
-msgid ""
 "Error parsing TV bouquet file:\n"
 "%s"
 msgstr ""
@@ -800,7 +789,6 @@ msgstr ""
 
 #: plugin.py:5757
 #, python-format
-msgid ""
 "Error parsing JSON file. Please check the format.\n"
 "\n"
 "Error: %s"
@@ -888,7 +876,6 @@ msgstr "Errore durante l'avvio della conversione"
 
 #: plugin.py:6971
 #, python-brace-format
-msgid ""
 "✅ CONVERSION COMPLETED SUCCESSFULLY\n"
 "\n"
 "📁 Bouquet: {}\n"
@@ -1103,7 +1090,6 @@ msgid "Save error"
 msgstr "Errore di salvataggio"
 
 #: plugin.py:8033
-msgid ""
 "You have unsaved manual changes.\n"
 "\n"
 "Do you want to save before closing?"
@@ -1307,7 +1293,6 @@ msgstr "Nessun file selezionato per l'eliminazione"
 
 #: plugin.py:9245
 #, python-brace-format
-msgid ""
 "Delete {} selected items?\n"
 "\n"
 "This action cannot be undone."
@@ -1345,7 +1330,6 @@ msgstr "Seleziona una mappatura da eliminare"
 
 #: plugin.py:9364
 #, python-brace-format
-msgid ""
 "Delete manual mapping?\n"
 "\n"
 "Channel: {}\n"
@@ -1369,7 +1353,6 @@ msgid "Error deleting mapping"
 msgstr "Errore durante l'eliminazione della mappatura"
 
 #: plugin.py:9516
-msgid ""
 "You have unsaved changes in the database.\n"
 "\n"
 "Do you want to save before closing?"

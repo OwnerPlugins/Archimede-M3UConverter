@@ -1,0 +1,968 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: M 3UConverter\n"
+"PO-Revision-Date: 2026-08-23 08:23+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Esperanto <translation-team-eo@lists.sourceforge.net>\n"
+"Language: eo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "(Based on selected database mode: {})"
+msgstr "(Surbaze de elektita datumbaza reĝimo: {})"
+
+msgid "(Reused previous manual corrections)"
+msgstr "(Reuzitaj antaŭaj manaj korektoj)"
+
+msgid "- {} duplicate groups"
+msgstr "- {} duobligitaj grupoj"
+
+msgid "-- Auto-open Editor"
+msgstr "-- Aŭtomate malferma Redaktoro"
+
+msgid "-- DVB search limit (Match Edit)"
+msgstr "-- DVB-serĉa limo (Match Edit)"
+
+msgid "-- Database Mode"
+msgstr ""
+
+msgid "-- EPG Generation Mode"
+msgstr "-- Generacia Reĝimo EPG"
+
+msgid "-- EPG Language"
+msgstr "-- EPG Lingvo"
+
+msgid "-- Ignore DVB-T services"
+msgstr "-- Ignoru DVB-T-servojn"
+
+msgid "-- Max Backups"
+msgstr "-- Maksimumaj Rezervoj"
+
+msgid "-- Rytec search limit (Match Edit)"
+msgstr "-- Rytec-serĉa limo (Match Edit)"
+
+msgid "-- Similarity Threshold DVB (%)"
+msgstr "-- Simileca sojlo DVB (%)"
+
+msgid "-- Similarity Threshold Global (%)"
+msgstr "-- Simileca Sojlo Tutmonda (%)"
+
+msgid "-- Similarity Threshold Rytec (%)"
+msgstr "-- Simileca Sojlo Rytec (%)"
+
+msgid "-- Use Manual Database"
+msgstr "-- Uzu Manan datumbazon"
+
+msgid "--- {} ({} duplicates) ---"
+msgstr "--- {} ({} duplikatoj) ---"
+
+msgid "---- Max manual corrections to save"
+msgstr "---- Maksimumaj manaj korektoj por konservi"
+
+msgid ">>> DUPLICATES VIEW"
+msgstr ">>> DUPLIKAJ VIEW"
+
+msgid ">>> SELECTION MODE - Select items with OK"
+msgstr ">>> ELEKTA REĜIMO - Elektu erojn per OK"
+
+msgid ">>> {} duplicate groups, {} total mappings"
+msgstr ">>> {} duobligitaj grupoj, {} totalaj mapadoj"
+
+msgid ">>> {} groups, {} mappings total"
+msgstr ">>> {} grupoj, {} mapadoj entute"
+
+msgid "ALL MAPPINGS: {} total"
+msgstr "ĈIUJ MAPADOJ: {} entute"
+
+msgid "Action for: {}"
+msgstr "Ago por: {}"
+
+msgid "Advanced Tools Menu"
+msgstr "Altnivelaj Iloj-Menuo"
+
+msgid "All Mappings"
+msgstr "Ĉiuj Mapoj"
+
+msgid "Archimede Converter Settings"
+msgstr "Agordoj de la Konvertilo de Arkimedo"
+
+msgid "Archimede Universal Converter by Lululla v.{version} - {page}"
+msgstr "Archimede Universal Converter de Lululla v.{version} - {page}"
+
+msgid "Archimede Universal Converter v.%s"
+msgstr ""
+
+msgid "Archimede Universal Converter v.%s by Lululla"
+msgstr "Archimede Universal Converter v.%s de Lululla"
+
+msgid "Backup created successfully!"
+msgstr "Rezervo kreita sukcese!"
+
+msgid "Backup failed: {}"
+msgstr "Rezervo malsukcesis: {}"
+
+msgid "Barry Allen"
+msgstr ""
+
+msgid "Bottom"
+msgstr "Fundo"
+
+msgid "Bouquet Mode"
+msgstr "Bukeda Reĝimo"
+
+msgid "Bouquet Position"
+msgstr "Bukeda Pozicio"
+
+msgid "Cancel"
+msgstr "Nuligi"
+
+msgid "Cancelling conversion..."
+msgstr "Nuligante konvertiĝon..."
+
+msgid "Cancelling..."
+msgstr "Nuligo..."
+
+msgid "Channel: {} | {} | Match: {} | Press RIGHT for matches"
+msgstr "Kanalo: {} | {} | Kongruo: {} | Premu DEKSTREN por matĉoj"
+
+msgid "Close"
+msgstr "Fermu"
+
+msgid "Conversion already in progress"
+msgstr "Konvertiĝo jam en progreso"
+
+msgid "Conversion cancelled"
+msgstr "Konvertiĝo nuligita"
+
+msgid "Conversion completed"
+msgstr "Konvertiĝo finiĝis"
+
+msgid "Conversion error: %s"
+msgstr "Konverta eraro: %s"
+
+msgid "Conversion failed: Invalid result"
+msgstr "Konvertiĝo malsukcesis: Nevalida rezulto"
+
+msgid "Conversion failed: {}"
+msgstr "Konvertiĝo malsukcesis: {}"
+
+msgid "Conversion in progress..."
+msgstr "Konvertiĝo en progreso..."
+
+msgid "Convert"
+msgstr "Konverti"
+
+msgid "Convert HLS Streams"
+msgstr "Konverti HLS-riveretojn"
+
+msgid "Convert HLS to Enigma2 format"
+msgstr "Konverti HLS al Enigma2-formato"
+
+msgid "Convert JSON to M3U"
+msgstr "Konverti JSON al M3U"
+
+msgid "Convert JSON to TV"
+msgstr "Konverti JSON al televido"
+
+msgid "Convert M3U to JSON"
+msgstr "Konverti M3U al JSON"
+
+msgid "Convert M3U to TV"
+msgstr "Konverti M3U al televido"
+
+msgid "Convert TV to M3U"
+msgstr "Konverti televidon al M3U"
+
+msgid "Convert TV to TV"
+msgstr "Konverti televidon al televido"
+
+msgid "Convert XSPF to M3U"
+msgstr "Konverti XSPF al M3U"
+
+msgid "Convert between M3U Enigma2 Bouquets Json"
+msgstr "Konverti inter M3U Enigma2 Bukedoj Json"
+
+msgid "Converting: %d/%d (%d%%)"
+msgstr "Konverti: %d/%d (%d%%)"
+
+msgid "Converting: {name} ({percent}%)"
+msgstr "Konvertado: {name} ({percent}%)"
+
+msgid "Converting: {title} ({percent}%)"
+msgstr "Konvertado: {name} ({percent}%)"
+
+msgid "Converting: {} ({}%)"
+msgstr "Konvertado: {} ({}%)"
+
+msgid "Create Backup"
+msgstr "Krei Rezervon"
+
+msgid "Create backup before conversion"
+msgstr "Krei sekurkopion antaŭ konvertiĝo"
+
+msgid "Create single or multiple bouquets"
+msgstr "Kreu unuopajn aŭ plurajn bukedojn"
+
+msgid "DUPLICATES: {} groups, {} mappings"
+msgstr "DUPLIKAĴOJ: {} grupoj, {} mapadoj"
+
+msgid "DVB + Rytec"
+msgstr "DVB + Gravuristo"
+
+msgid "DVB + Rytec + DTT (Full)"
+msgstr "DVB + Rytec + DTT (Plena)"
+
+msgid "Database Directory"
+msgstr "Datumbaza Adresaro"
+
+msgid "Debug Mode"
+msgstr "Sencimiga Reĝimo"
+
+msgid "Default Folder"
+msgstr "Defaŭlta Dosierujo"
+
+msgid "Default folder for opening and saving M3U files"
+msgstr "Defaŭlta dosierujo por malfermi kaj konservi M3U-dosierojn"
+
+msgid "Delete"
+msgstr "Forigi"
+
+msgid "Deleted {} items"
+msgstr "Forigitaj {} eroj"
+
+msgid "Deleted {} items. No more duplicates."
+msgstr "Forigitaj {} eroj. Ne plu duplikatoj."
+
+msgid "Deleted {} items. Still in selection mode."
+msgstr "Forigitaj {} eroj. Ankoraŭ en elekta reĝimo."
+
+msgid "Done"
+msgstr "Farita"
+
+msgid "Duplicates"
+msgstr "Duplikatoj"
+
+msgid "EPG Coverage: {}/{} channels ({:.1f}%)"
+msgstr "EPG-Priraportado: {}/{} kanaloj ({:.1f}%)"
+
+msgid "EPG assigned: {} | {}"
+msgstr "EPG asignita: {} | {}"
+
+msgid "EPG cache cleared! {} entries removed"
+msgstr "EPG-kaŝmemoro malplenigita! {} enskriboj forigitaj"
+
+msgid "EPG database reloaded successfully!"
+msgstr "EPG-datumbazo sukcese reŝargita!"
+
+msgid "EPG mapper not available"
+msgstr "EPG-maparilo ne havebla"
+
+msgid "EPG mapper not initialized"
+msgstr "EPG-mapisto ne pravigita"
+
+msgid "EPG matching algorithm"
+msgstr "EPG kongrua algoritmo"
+
+msgid "EPGImport plugin not found"
+msgstr "EPGImport kromaĵo ne trovita"
+
+msgid "EPGImporter"
+msgstr "EPG Importilo"
+
+msgid "EPGShare Mode"
+msgstr ""
+
+msgid "Enable EPG"
+msgstr "Ebligu EPG"
+
+msgid "Enable detailed logging"
+msgstr "Ebligu detalan registradon"
+
+msgid "Enigma2 Bouquet to Enigma2 Bouquet Conversion"
+msgstr "Enigma2 Bukedo al Enigma2 Bukedo Konvertiĝo"
+
+msgid "Enigma2 Bouquet to M3U Conversion"
+msgstr "Enigma2 Bukedo al M3U-Konvertiĝo"
+
+msgid "Enigma2 Bouquets to  Enigma2 Bouquets"
+msgstr "Enigma2 Bukedoj al Enigma2 Bukedoj"
+
+msgid "Enigma2 Bouquets to  M3U"
+msgstr "Enigma2 Bukedoj al M3U"
+
+msgid "Error clearing EPG cache"
+msgstr "Eraro dum forigo de EPG-kaŝmemoro"
+
+msgid "Error clearing database"
+msgstr "Eraro purigante datumbazon"
+
+msgid "Error deleting correction"
+msgstr "Eraro dum forigo de korekto"
+
+msgid "Error deleting items"
+msgstr "Eraro dum forigo de elementoj"
+
+msgid "Error deleting mapping"
+msgstr "Eraro dum forigo de mapado"
+
+msgid "Error exporting database"
+msgstr "Eraro dum eksporto de datumbazo"
+
+msgid "Error finalizing import: {}"
+msgstr "Eraro dum finfinado de importo: {}"
+
+msgid "Error importing database: {}"
+msgstr "Eraro dum importado de datumbazo: {}"
+
+msgid "Error initiating service reload"
+msgstr "Eraro dum la reŝargo de la servo"
+
+msgid "Error loading database"
+msgstr "Eraro dum ŝarĝo de datumbazo"
+
+msgid "Error opening plugin information: %s"
+msgstr "Eraro dum malfermado de informoj pri kromprogramoj: %s"
+
+msgid "Error processing conversion result"
+msgstr "Eraro prilaborante konvertan rezulton"
+
+msgid "Error reloading EPG database: {}"
+msgstr "Eraro dum reŝargi EPG-datumbazon: {}"
+
+msgid "Error saving imported database"
+msgstr "Eraro dum konservado de importita datumbazo"
+
+msgid "Error starting import: {}"
+msgstr "Eraro dum komencado de importo: {}"
+
+msgid "Error undoing action"
+msgstr "Eraro malfarante agon"
+
+msgid "Error: Channel index out of range"
+msgstr "Eraro: Kanala indekso ekster intervalo"
+
+msgid "Failed to initialize EPG mapper - check logs"
+msgstr "Malsukcesis pravalorigi EPG-maparilon - kontrolu protokolojn"
+
+msgid "File loaded: {}"
+msgstr "Dosiero ŝargita: {}"
+
+msgid "File not found"
+msgstr "Dosiero ne trovita"
+
+msgid "File write error: %s"
+msgstr "Dosiera skriberaro: %s"
+
+msgid "File: {}"
+msgstr "Dosiero: {}"
+
+msgid "Files larger than this will be sampled (1000 channels max)"
+msgstr "Dosieroj pli grandaj ol tio estos specimenitaj (maksimume 1000 kanaloj)"
+
+msgid "First select a match from the right list (use RIGHT arrow)"
+msgstr "Unue elektu matĉon el la dekstra listo (uzu DEKSTRAN sagon)"
+
+msgid "Found {} matches for: {} | Select and press OK"
+msgstr "Trovis {} kongruojn por: {} | Elektu kaj premu OK"
+
+msgid "Found {} matches so far for: {} | Searching..."
+msgstr "Trovis {} kongruojn ĝis nun por: {} | Serĉante..."
+
+msgid "Generate EPG data for bouquets"
+msgstr "Generu EPG-datumojn por bukedoj"
+
+msgid "Global similarity threshold for all matches (20-100%)"
+msgstr "Tutmonda similecsojlo por ĉiuj matĉoj (20-100%)"
+
+msgid "HDD Drive"
+msgstr ""
+
+msgid "Ignore DVB-T services on conversion"
+msgstr "Ignoru DVB-T-servojn dum konvertiĝo"
+
+msgid "Import {} mappings from {}"
+msgstr "Importu {} mapojn de {}"
+
+msgid "Invalid .m3u item format"
+msgstr "Nevalida eroformato .m3u"
+
+msgid "Invalid .tv item format"
+msgstr "Nevalida .tv eroformato"
+
+msgid "Invalid XSPF file"
+msgstr "Nevalida XSPF-dosiero"
+
+msgid "Invalid database file structure"
+msgstr "Nevalida datumbaza dosierstrukturo"
+
+msgid "Invalid selection"
+msgstr "Nevalida elekto"
+
+msgid "JSON to Enigma2 Bouquet Conversion"
+msgstr "JSON al Enigma2 Bukedo-Konvertiĝo"
+
+msgid "JSON to M3U Conversion"
+msgstr "Konvertiĝo de JSON al M3U"
+
+msgid "JSON to  Enigma2 Bouquets"
+msgstr "JSON al Enigma2 Bukedoj"
+
+msgid "JSON to  M3U"
+msgstr "JSON al M3U"
+
+msgid "Language for EPG sources"
+msgstr "Lingvo por EPG-fontoj"
+
+msgid "Large file detected: {:.1f}MB. Processing first {} channels..."
+msgstr "Granda dosiero detektita: {:.1f}MB. Prilaboranta unuajn {} kanalojn..."
+
+msgid "Large file threshold (MB)"
+msgstr "Granda dosiersojlo (MB)"
+
+msgid "Loaded first %d channels. Press Green to convert."
+msgstr "Ŝarĝis unuaj %d kanaloj. Premu Verdan por konverti."
+
+msgid "Loading database..."
+msgstr "Ŝarĝante datumbazon..."
+
+msgid "Log file cleared successfully"
+msgstr "Logdosiero forigita sukcese"
+
+msgid "M3U to Enigma2 Bouquet Conversion"
+msgstr "M3U al Enigma2 Bukedo-Konvertiĝo"
+
+msgid "M3U to JSON Conversion"
+msgstr "Konvertiĝo de M3U al JSON"
+
+msgid "M3U to  Enigma2 Bouquets"
+msgstr "M3U al Enigma2 Bukedoj"
+
+msgid "M3U to  JSON"
+msgstr "M3U al JSON"
+
+msgid "Manual Corrections ({} total)"
+msgstr "Manaj korektoj ({} entute)"
+
+msgid "Manual Database Editor"
+msgstr "Mana Datumbaza Redaktilo"
+
+msgid "Manual EPG Match Editor"
+msgstr "Manlibro EPG Match Editor"
+
+msgid "Manual database cleared"
+msgstr "Mana datumbazo malbarita"
+
+msgid "Manual database not available"
+msgstr "Manlibro datumbazo ne havebla"
+
+msgid "Manual editing completed"
+msgstr "Mana redaktado finiĝis"
+
+msgid "Manual editing completed - ready for conversion"
+msgstr "Mana redaktado finiĝis - preta por konvertiĝo"
+
+msgid "Mapping deleted successfully"
+msgstr "Mapo sukcese forigita"
+
+msgid "Match Editor"
+msgstr "Matĉa Redaktoro"
+
+msgid "Match reset for: {}"
+msgstr "Kongruo rekomencigita por: {}"
+
+msgid "Max DVB entries scanned during automatic Match Edit (Slow down scanning)"
+msgstr "Maksimumaj DVB-enskriboj skanitaj dum aŭtomata Matĉa Redakto (Malrapidigi skanadon)"
+
+msgid "Max Rytec entries scanned during automatic Match Edit (Slow down scanning)"
+msgstr "Max Rytec-enskriboj skanitaj dum aŭtomata Matĉa Redakto (Malrapidigi skanadon)"
+
+msgid "Maximum backup copies"
+msgstr "Maksimumaj rezervaj kopioj"
+
+msgid "Maximum manual corrections to save"
+msgstr "Maksimumaj manaj korektoj por konservi"
+
+msgid "Multiple Bouquets"
+msgstr "Multoblaj Bukedoj"
+
+msgid "Network Storage"
+msgstr "Reta Stokado"
+
+msgid "Next"
+msgstr "Poste"
+
+msgid "No IPTV channels found in the bouquet"
+msgstr "Neniuj IPTV-kanaloj trovitaj en la bukedo"
+
+msgid "No M3UConverter bouquets found to remove."
+msgstr "Neniuj M3UConverter-bukedoj trovitaj por forigi."
+
+msgid "No MANUAL changes to save"
+msgstr "Neniuj MANAJN ŝanĝojn por konservi"
+
+msgid "No MANUAL corrections saved"
+msgstr "Neniuj MANUALAJ korektoj konservitaj"
+
+msgid "No actions to undo"
+msgstr "Neniuj agoj por malfari"
+
+msgid "No channels available"
+msgstr "Neniuj kanaloj haveblaj"
+
+msgid "No channels loaded. Please select a valid TV bouquet file."
+msgstr "Neniuj kanaloj ŝarĝitaj. Bonvolu elekti validan televidbukedan dosieron."
+
+msgid "No conversion data available."
+msgstr "Neniuj konvertaj datumoj haveblaj."
+
+msgid "No conversion data available. Please run a conversion first."
+msgstr "Neniuj konvertaj datumoj haveblaj. Bonvolu unue fari konvertiĝon."
+
+msgid "No conversion statistics available."
+msgstr "Neniuj konvertaj statistikoj haveblaj."
+
+msgid "No duplicates available for selection"
+msgstr "Neniuj duplikatoj disponeblaj por elekto"
+
+msgid "No duplicates found"
+msgstr "Neniuj duplikatoj trovitaj"
+
+msgid "No duplicates found in the database"
+msgstr "Neniuj duplikatoj trovitaj en la datumbazo"
+
+msgid "No file selected"
+msgstr "Neniu dosiero elektita"
+
+msgid "No file selected for conversion"
+msgstr "Neniu dosiero elektita por konvertiĝo"
+
+msgid "No items selected for deletion"
+msgstr "Neniuj eroj elektitaj por forigo"
+
+msgid "No manual corrections found"
+msgstr "Neniuj manaj korektoj trovitaj"
+
+msgid "No manual corrections to export"
+msgstr "Neniuj manaj korektoj por eksporti"
+
+msgid "No mappings available"
+msgstr "Neniuj mapoj haveblaj"
+
+msgid "No matches found - try different search"
+msgstr "Neniuj kongruoj trovitaj - provu alian serĉon"
+
+msgid "No matches found for: {}"
+msgstr "Neniuj kongruoj trovitaj por: {}"
+
+msgid "No statistics available"
+msgstr "Neniuj statistikoj haveblaj"
+
+msgid "No valid channels found in the JSON file"
+msgstr "Neniuj validaj kanaloj trovitaj en la JSON-dosiero"
+
+msgid "Only DTT"
+msgstr "Nur TDT"
+
+msgid "Only DVB"
+msgstr "Nur DVB"
+
+msgid "Only Rytec"
+msgstr "Nur Rytec"
+
+msgid "Open File"
+msgstr "Malfermu Dosieron"
+
+msgid "Open manual editor after conversion"
+msgstr "Malfermu manan redaktilon post konvertiĝo"
+
+msgid "Playback error"
+msgstr "Eraro de reprodukto"
+
+msgid "Playing: %s"
+msgstr "Ludado: %s"
+
+msgid "Please select a channel first"
+msgstr "Bonvolu unue elekti kanalon"
+
+msgid "Please select a mapping (not a group header)"
+msgstr "Bonvolu elekti mapadon (ne grupkapon)"
+
+msgid "Please select a mapping to delete"
+msgstr "Bonvolu elekti mapadon por forigi"
+
+msgid "Please select a valid match from the right list"
+msgstr "Bonvolu elekti validan kongruon el la ĝusta listo"
+
+msgid "Plugin Information"
+msgstr "Aldonaĵa Informo"
+
+msgid "Position in channel list"
+msgstr "Pozicio en kanallisto"
+
+msgid "Press RED to select file"
+msgstr "Premu RUĜAN por elekti dosieron"
+
+msgid "Prev"
+msgstr "Antaŭa"
+
+msgid "Processing selection..."
+msgstr "Pretiganta elekton..."
+
+msgid "Ready"
+msgstr "Preta"
+
+msgid "Ready for next operation"
+msgstr "Preta por la sekva operacio"
+
+msgid "Ready to convert"
+msgstr "Preta por konverti"
+
+msgid "Ready: Select the file from the %s you configured in settings."
+msgstr "Preta: Elektu la dosieron el la %s, kiujn vi agordis en agordoj."
+
+msgid "Reloading services..."
+msgstr "Reŝargante servojn..."
+
+msgid "Remove Bouquets"
+msgstr "Forigi Bukedojn"
+
+msgid "Remove M3U Bouquets"
+msgstr "Forigi M3U Bukedojn"
+
+msgid "Reset"
+msgstr "Restarigi"
+
+msgid "Run a conversion first to see statistics."
+msgstr "Unue rulu konvertiĝon por vidi statistikojn."
+
+msgid "SELECTION MODE: {} items selected"
+msgstr "ELEKTREĜIMO: {} eroj elektitaj"
+
+msgid "Save All"
+msgstr "Konservu Ĉion"
+
+msgid "Save error"
+msgstr "Konservi eraron"
+
+msgid "Saved {} MANUAL corrections"
+msgstr "Konservitaj {} MANUALAJ korektoj"
+
+msgid "Searching matches for: {}..."
+msgstr "Serĉante kongruojn por: {}..."
+
+msgid "Select"
+msgstr "Elektu"
+
+msgid "Select a channel to correct the match"
+msgstr "Elektu kanalon por korekti la kongruon"
+
+msgid "Select a channel to edit (use OK or RIGHT to go to matches)"
+msgstr "Elektu kanalon por redakti (uzu OK aŭ DEKSTRE por iri al kongruoj)"
+
+msgid "Select a match and press OK to assign"
+msgstr "Elektu kongruon kaj premu OK por atribui"
+
+msgid "Select databases for channel matching"
+msgstr "Elektu datumbazojn por kanala kongruo"
+
+msgid "Select file to import from {}"
+msgstr "Elektu dosieron por importi el {}"
+
+msgid "Select import location"
+msgstr "Elektu importan lokon"
+
+msgid "Selection mode active. Select items with OK"
+msgstr "Elekta reĝimo aktiva. Elektu erojn per OK"
+
+msgid "Selection mode off"
+msgstr "Elekta reĝimo malŝaltita"
+
+msgid "Selection mode: Select items with OK"
+msgstr "Elektreĝimo: Elektu erojn per OK"
+
+msgid "Service reload initiated"
+msgstr "Servo reŝargo komencita"
+
+msgid "Similarity threshold for DVB matches (20-100%)"
+msgstr "Similecsojlo por DVB-matĉoj (20-100%)"
+
+msgid "Similarity threshold for Rytec matches (20-100%)"
+msgstr "Similecsojlo por Rytec-matĉoj (20-100%)"
+
+msgid "Single Bouquet"
+msgstr "Unuopa Bukedo"
+
+msgid "Standard Mode"
+msgstr "Norma Reĝimo"
+
+msgid "Stopped"
+msgstr "Haltis"
+
+msgid "Temporary"
+msgstr "Provizora"
+
+msgid "Temporary Files"
+msgstr "Provizoraj Dosieroj"
+
+msgid "Tools"
+msgstr "Iloj"
+
+msgid "Top"
+msgstr "Supre"
+
+msgid "USB Drive"
+msgstr ""
+
+msgid "Undo"
+msgstr "Malfari"
+
+msgid "Undo: Restored previous state for {}"
+msgstr "Malfari: restarigita antaŭa stato por {}"
+
+msgid "Universal Converter"
+msgstr "Universala Konvertilo"
+
+msgid "Unknown error"
+msgstr "Nekonata eraro"
+
+msgid "Unsupported conversion type"
+msgstr "Nesubtenata konverta tipo"
+
+msgid "Use saved manual corrections"
+msgstr "Uzu konservitajn manajn korektojn"
+
+msgid "We're ready: what do you want to do?"
+msgstr "Ni estas pretaj: kion vi volas fari?"
+
+msgid "XSPF conversion error: %s"
+msgstr "XSPF-konverta eraro: %s"
+
+msgid "XSPF to M3U Playlist Conversion"
+msgstr "XSPF al M3U Ludlisto Konvertiĝo"
+
+msgid "XSPF to  M3U Playlist"
+msgstr "XSPF al M3U Ludlisto"
+
+msgid "merged"
+msgstr "kunfandita"
+
+msgid "replaced"
+msgstr "anstataŭigita"
+
+msgid "tv_to_m3u Conversion error: %s"
+msgstr "tv_to_m3u Konvertiĝa eraro: %s"
+
+msgid " Current total: {}"
+msgstr "Nuna totalo: {}"
+
+msgid " DVB: {} channels"
+msgstr "DVB: {} kanaloj"
+
+msgid " Duplicate mappings: {}"
+msgstr "Duoblaj mapadoj: {}"
+
+msgid " Hit: {} ({:.1f}%)"
+msgstr "Trafo: {} ({:.1f}%)"
+
+msgid " Miss: {}"
+msgstr "Fraŭlino: {}"
+
+msgid " Mode: {}"
+msgstr "Reĝimo: {}"
+
+msgid " New mappings: {}"
+msgstr "Novaj mapadoj: {}"
+
+msgid " Rytec: {} channels"
+msgstr "Rytec: {} kanaloj"
+
+msgid " Size: {} entries"
+msgstr "Grandeco: {} enskriboj"
+
+msgid " Total in import file: {}"
+msgstr "Sumo en importdosiero: {}"
+
+msgid "  Manual DB: {} ({:.1f}%)"
+msgstr "Manlibro DB: {} ({:.1f}%)"
+
+msgid "  DVB-S: {} ({:.1f}%)"
+msgstr "DVB-S: {} ({:.1f}%)"
+
+msgid "  DVB-T: {} ({:.1f}%)"
+msgstr "DVB-T: {} ({:.1f}%)"
+
+msgid "  IPTV Fallback: {} ({:.1f}%)"
+msgstr "IPTV-Returniĝo: {} ({:.1f}%)"
+
+msgid "  Rytec: {} ({:.1f}%)"
+msgstr "Rytec: {} ({:.1f}%)"
+
+msgid " Conversion type: {}"
+msgstr "Konverta tipo: {}"
+
+msgid " Status: Completed successfully"
+msgstr "Statuso: Kompletigita sukcese"
+
+msgid " Valid channels processed: {}"
+msgstr "Validaj kanaloj procesitaj: {}"
+
+msgid " Edit this mapping"
+msgstr "Redaktu ĉi tiun mapadon"
+
+msgid " Manual edits applied: {}"
+msgstr "Manaj redaktoj aplikitaj: {}"
+
+msgid " Open Database Editor"
+msgstr "Malfermu datumbazredaktilon"
+
+msgid " Error generating statistics"
+msgstr "Eraro dum generado de statistikoj"
+
+msgid " Merge (keep both)"
+msgstr "Kunfandi (konservu ambaŭ)"
+
+msgid " New mappings ({}):"
+msgstr "Novaj mapadoj ({}):"
+
+msgid " CONVERSION COMPLETE"
+msgstr "KONVERSIO COMPLETA"
+
+msgid " Effective EPG matches: {}"
+msgstr "Efikaj EPG-kongruoj: {}"
+
+msgid " TOTAL CHANNELS: {}"
+msgstr "TUTO KANALOJ: {}"
+
+msgid " View Manual Database"
+msgstr "Vidu Manlibron-Datumbazon"
+
+msgid " CACHE PERFORMANCE:"
+msgstr "KAŜA RENDECO:"
+
+msgid " Cache efficiency: {}"
+msgstr "Kaŝefikeco: {}"
+
+msgid " Create Backup"
+msgstr "Krei Rezervon"
+
+msgid " Manual DB matches: {}"
+msgstr "Manaj DB kongruoj: {}"
+
+msgid " Output file: {}"
+msgstr "Eliga dosiero: {}"
+
+msgid " File size: {}"
+msgstr "Dosiera grandeco: {}"
+
+msgid " EFFECTIVE EPG coverage: {}"
+msgstr "EFIKA EPG-kovrado: {}"
+
+msgid " EPG COVERAGE: {:.1f}%"
+msgstr "EPG-KOVRADO: {:.1f}%"
+
+msgid " Statistics:"
+msgstr "Statistiko:"
+
+msgid " EPG Cache Statistics"
+msgstr "EPG-Kaŝmemoro-Statistiko"
+
+msgid " EPG STATISTICS - {}"
+msgstr "EPG-STATISTIKO - {}"
+
+msgid " IMPORT PREVIEW"
+msgstr "IMPORTA PREVIEW"
+
+msgid " Preview Changes"
+msgstr "Antaŭrigardi Ŝanĝojn"
+
+msgid " Total channels in file: {}"
+msgstr "Totalaj kanaloj en dosiero: {}"
+
+msgid " Plugin Info"
+msgstr "Kromaĵo Informoj"
+
+msgid " Manual Match Editing"
+msgstr "Mana Matĉa Redaktado"
+
+msgid " DVB channels in DB: {}"
+msgstr "DVB-kanaloj en DB: {}"
+
+msgid " DVB-T EPG matches: {}"
+msgstr "DVB-T EPG kongruoj: {}"
+
+msgid " Export Manual Database"
+msgstr "Eksportu Manlibron-Datumbazon"
+
+msgid " Import Manual Database"
+msgstr "Importi Manlibron-Datumbazon"
+
+msgid " DVB EPG matches: {}"
+msgstr "DVB EPG kongruoj: {}"
+
+msgid " Duplicates ({}):"
+msgstr "Duobloj ({}):"
+
+msgid " Reload EPG Database"
+msgstr "Reŝargi EPG-Datumbazon"
+
+msgid " Reload Services"
+msgstr "Reŝargi Servojn"
+
+msgid " Replace All ({} mappings)"
+msgstr "Anstataŭigi ĉiujn ({} mapadoj)"
+
+msgid " Fallback (no EPG): {}"
+msgstr "Rezervo (sen EPG): {}"
+
+msgid " Cache size: {} entries"
+msgstr "Kaŝmemorgrando: {} enskriboj"
+
+msgid " Back"
+msgstr "Reen"
+
+msgid " Back to Tools"
+msgstr "Reen al Iloj"
+
+msgid " Back to locations"
+msgstr "Reen al lokoj"
+
+msgid " MATCH BREAKDOWN:"
+msgstr "PARTODIVALO:"
+
+msgid " Completed at: {}"
+msgstr "Kompletigita ĉe: {}"
+
+msgid " Edited at: {}"
+msgstr "Redaktite ĉe: {}"
+
+msgid " === Manual Database Management ==="
+msgstr "=== Mana datumbaza administrado ==="
+
+msgid " DATABASE INFO:"
+msgstr "INFORMOJ DE DATUBAZO:"
+
+msgid " Database mode: {}"
+msgstr "Datumbaza reĝimo: {}"
+
+msgid " Rytec channels in DB: {}"
+msgstr "Rytec-kanaloj en DB: {}"
+
+msgid " Clear Log File"
+msgstr "Forigi Progan Dosieron"
+
+msgid " Delete this mapping"
+msgstr "Forigu ĉi tiun mapadon"
+
+msgid " Skipped channels: {}"
+msgstr "Saltitaj kanaloj: {}"
+
+msgid " Rytec EPG matches: {}"
+msgstr "Rytec EPG-kongruoj: {}"
+
+msgid " Clean Manual Database"
+msgstr "Pura Manlibro-Datumbazo"
+
+msgid " Clear EPG Cache"
+msgstr "Forigi EPG-Kaŝmemoron"
