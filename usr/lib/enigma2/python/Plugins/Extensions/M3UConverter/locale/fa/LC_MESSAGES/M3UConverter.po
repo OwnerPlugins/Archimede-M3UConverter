@@ -10,958 +10,958 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "(Based on selected database mode: {})"
-msgstr ""
+msgstr "(بر اساس حالت پایگاه داده انتخاب شده: {})"
 
 msgid "(Reused previous manual corrections)"
-msgstr ""
+msgstr "(از اصلاحات دستی قبلی استفاده مجدد شده است)"
 
 msgid "- {} duplicate groups"
-msgstr ""
+msgstr "- {} گروه تکراری"
 
 msgid "-- Auto-open Editor"
-msgstr ""
+msgstr "- باز کردن خودکار ویرایشگر"
 
 msgid "-- DVB search limit (Match Edit)"
-msgstr ""
+msgstr "- محدودیت جستجوی DVB (ویرایش مطابقت)"
 
 msgid "-- Database Mode"
-msgstr ""
+msgstr "- حالت پایگاه داده"
 
 msgid "-- EPG Generation Mode"
-msgstr ""
+msgstr "- حالت تولید EPG"
 
 msgid "-- EPG Language"
-msgstr ""
+msgstr "- زبان EPG"
 
 msgid "-- Ignore DVB-T services"
-msgstr ""
+msgstr "- خدمات DVB-T را نادیده بگیرید"
 
 msgid "-- Max Backups"
-msgstr ""
+msgstr "- حداکثر پشتیبان گیری"
 
 msgid "-- Rytec search limit (Match Edit)"
-msgstr ""
+msgstr "- محدودیت جستجوی Rytec (ویرایش مطابقت)"
 
 msgid "-- Similarity Threshold DVB (%)"
-msgstr ""
+msgstr "-- آستانه تشابه DVB (%)"
 
 msgid "-- Similarity Threshold Global (%)"
-msgstr ""
+msgstr "-- آستانه شباهت جهانی (%)"
 
 msgid "-- Similarity Threshold Rytec (%)"
-msgstr ""
+msgstr "-- آستانه تشابه Rytec (%)"
 
 msgid "-- Use Manual Database"
-msgstr ""
+msgstr "- از پایگاه داده دستی استفاده کنید"
 
 msgid "--- {} ({} duplicates) ---"
-msgstr ""
+msgstr "--- {} ({} تکراری) ---"
 
 msgid "---- Max manual corrections to save"
-msgstr ""
+msgstr "---- حداکثر اصلاحات دستی برای ذخیره"
 
 msgid ">>> DUPLICATES VIEW"
-msgstr ""
+msgstr ">>> مشاهده موارد تکراری"
 
 msgid ">>> SELECTION MODE - Select items with OK"
-msgstr ""
+msgstr ">>> SELECTION MODE - موارد را با OK انتخاب کنید"
 
 msgid ">>> {} duplicate groups, {} total mappings"
-msgstr ""
+msgstr ">>> {} گروه های تکراری، {} کل نگاشت ها"
 
 msgid ">>> {} groups, {} mappings total"
-msgstr ""
+msgstr ">>> {} گروه، {} نگاشت کل"
 
 msgid "ALL MAPPINGS: {} total"
-msgstr ""
+msgstr "ALL MAPPING ها: در مجموع {}"
 
 msgid "Action for: {}"
-msgstr ""
+msgstr "اقدام برای: {}"
 
 msgid "Advanced Tools Menu"
-msgstr ""
+msgstr "منوی ابزارهای پیشرفته"
 
 msgid "All Mappings"
-msgstr ""
+msgstr "همه نقشه برداری ها"
 
 msgid "Archimede Converter Settings"
-msgstr ""
+msgstr "تنظیمات مبدل Archimede"
 
 msgid "Archimede Universal Converter by Lululla v.{version} - {page}"
-msgstr ""
+msgstr "مبدل جهانی Archimede توسط Lululla v.{version} - {page}"
 
 msgid "Archimede Universal Converter v.%s"
-msgstr ""
+msgstr "مبدل جهانی Archimede v.%s"
 
 msgid "Archimede Universal Converter v.%s by Lululla"
-msgstr ""
+msgstr "Archimede Universal Converter v.%s توسط Lululla"
 
 msgid "Backup created successfully!"
-msgstr ""
+msgstr "پشتیبان گیری با موفقیت ایجاد شد!"
 
 msgid "Backup failed: {}"
-msgstr ""
+msgstr "پشتیبان گیری انجام نشد: {}"
 
 msgid "Barry Allen"
-msgstr ""
+msgstr "بری آلن"
 
 msgid "Bottom"
-msgstr ""
+msgstr "پایین"
 
 msgid "Bouquet Mode"
-msgstr ""
+msgstr "حالت دسته گل"
 
 msgid "Bouquet Position"
-msgstr ""
+msgstr "موقعیت دسته گل"
 
 msgid "Cancel"
-msgstr ""
+msgstr "لغو کنید"
 
 msgid "Cancelling conversion..."
-msgstr ""
+msgstr "در حال لغو تبدیل..."
 
 msgid "Cancelling..."
-msgstr ""
+msgstr "در حال لغو..."
 
 msgid "Channel: {} | {} | Match: {} | Press RIGHT for matches"
-msgstr ""
+msgstr "کانال: {} | {} | مطابقت: {} | برای مسابقات RIGHT را فشار دهید"
 
 msgid "Close"
-msgstr ""
+msgstr "بستن"
 
 msgid "Conversion already in progress"
-msgstr ""
+msgstr "تبدیل از قبل در حال انجام است"
 
 msgid "Conversion cancelled"
-msgstr ""
+msgstr "تبدیل لغو شد"
 
 msgid "Conversion completed"
-msgstr ""
+msgstr "تبدیل کامل شد"
 
 msgid "Conversion error: %s"
-msgstr ""
+msgstr "خطای تبدیل: %s"
 
 msgid "Conversion failed: Invalid result"
-msgstr ""
+msgstr "تبدیل انجام نشد: نتیجه نامعتبر است"
 
 msgid "Conversion failed: {}"
-msgstr ""
+msgstr "تبدیل انجام نشد: {}"
 
 msgid "Conversion in progress..."
-msgstr ""
+msgstr "تبدیل در حال انجام است..."
 
 msgid "Convert"
-msgstr ""
+msgstr "تبدیل کنید"
 
 msgid "Convert HLS Streams"
-msgstr ""
+msgstr "تبدیل HLS Streams"
 
 msgid "Convert HLS to Enigma2 format"
-msgstr ""
+msgstr "HLS را به فرمت Enigma2 تبدیل کنید"
 
 msgid "Convert JSON to M3U"
-msgstr ""
+msgstr "JSON را به M3U تبدیل کنید"
 
 msgid "Convert JSON to TV"
-msgstr ""
+msgstr "تبدیل JSON به تلویزیون"
 
 msgid "Convert M3U to JSON"
-msgstr ""
+msgstr "M3U را به JSON تبدیل کنید"
 
 msgid "Convert M3U to TV"
-msgstr ""
+msgstr "تبدیل M3U به تلویزیون"
 
 msgid "Convert TV to M3U"
-msgstr ""
+msgstr "تبدیل تلویزیون به M3U"
 
 msgid "Convert TV to TV"
-msgstr ""
+msgstr "تبدیل تلویزیون به تلویزیون"
 
 msgid "Convert XSPF to M3U"
-msgstr ""
+msgstr "XSPF را به M3U تبدیل کنید"
 
 msgid "Convert between M3U Enigma2 Bouquets Json"
-msgstr ""
+msgstr "تبدیل بین M3U Enigma2 Bouquets Json"
 
 msgid "Converting: %d/%d (%d%%)"
-msgstr ""
+msgstr "در حال تبدیل: %d/%d (%d%%)"
 
 msgid "Converting: {name} ({percent}%)"
-msgstr ""
+msgstr "در حال تبدیل: {name} ({percent}%)"
 
 msgid "Converting: {title} ({percent}%)"
-msgstr ""
+msgstr "در حال تبدیل: {name} ({percent}%)"
 
 msgid "Converting: {} ({}%)"
-msgstr ""
+msgstr "در حال تبدیل: {} ({}%)"
 
 msgid "Create Backup"
-msgstr ""
+msgstr "ایجاد پشتیبان"
 
 msgid "Create backup before conversion"
-msgstr ""
+msgstr "قبل از تبدیل یک نسخه پشتیبان ایجاد کنید"
 
 msgid "Create single or multiple bouquets"
-msgstr ""
+msgstr "دسته گل های تک یا چندتایی ایجاد کنید"
 
 msgid "DUPLICATES: {} groups, {} mappings"
-msgstr ""
+msgstr "موارد تکراری: {} گروه، {} نقشه برداری"
 
 msgid "DVB + Rytec"
-msgstr ""
+msgstr "DVB + حکاکی"
 
 msgid "DVB + Rytec + DTT (Full)"
-msgstr ""
+msgstr "DVB + Rytec + DTT (کامل)"
 
 msgid "Database Directory"
-msgstr ""
+msgstr "دایرکتوری پایگاه داده"
 
 msgid "Debug Mode"
-msgstr ""
+msgstr "حالت اشکال زدایی"
 
 msgid "Default Folder"
-msgstr ""
+msgstr "پوشه پیش فرض"
 
 msgid "Default folder for opening and saving M3U files"
-msgstr ""
+msgstr "پوشه پیش فرض برای باز کردن و ذخیره فایل های M3U"
 
 msgid "Delete"
-msgstr ""
+msgstr "حذف کنید"
 
 msgid "Deleted {} items"
-msgstr ""
+msgstr "{} مورد حذف شد"
 
 msgid "Deleted {} items. No more duplicates."
-msgstr ""
+msgstr "{} مورد حذف شد. دیگر تکراری نیست."
 
 msgid "Deleted {} items. Still in selection mode."
-msgstr ""
+msgstr "{} مورد حذف شد. هنوز در حالت انتخاب است."
 
 msgid "Done"
-msgstr ""
+msgstr "انجام شد"
 
 msgid "Duplicates"
-msgstr ""
+msgstr "موارد تکراری"
 
 msgid "EPG Coverage: {}/{} channels ({:.1f}%)"
-msgstr ""
+msgstr "پوشش EPG: {}/{} کانال ({:.1f}%)"
 
 msgid "EPG assigned: {} | {}"
-msgstr ""
+msgstr "EPG اختصاص داده شده: {} | {}"
 
 msgid "EPG cache cleared! {} entries removed"
-msgstr ""
+msgstr "حافظه پنهان EPG پاک شد! {} ورودی حذف شد"
 
 msgid "EPG database reloaded successfully!"
-msgstr ""
+msgstr "پایگاه داده EPG با موفقیت بارگیری مجدد شد!"
 
 msgid "EPG mapper not available"
-msgstr ""
+msgstr "نقشه‌بردار EPG در دسترس نیست"
 
 msgid "EPG mapper not initialized"
-msgstr ""
+msgstr "نقشه‌بردار EPG راه‌اندازی نشده است"
 
 msgid "EPG matching algorithm"
-msgstr ""
+msgstr "الگوریتم تطبیق EPG"
 
 msgid "EPGImport plugin not found"
-msgstr ""
+msgstr "پلاگین EPGImport پیدا نشد"
 
 msgid "EPGImporter"
-msgstr ""
+msgstr "وارد کننده EPG"
 
 msgid "EPGShare Mode"
-msgstr ""
+msgstr "حالت EPGShare"
 
 msgid "Enable EPG"
-msgstr ""
+msgstr "EPG را فعال کنید"
 
 msgid "Enable detailed logging"
-msgstr ""
+msgstr "ثبت جزئیات را فعال کنید"
 
 msgid "Enigma2 Bouquet to Enigma2 Bouquet Conversion"
-msgstr ""
+msgstr "تبدیل دسته گل Enigma2 به Enigma2 Bouquet"
 
 msgid "Enigma2 Bouquet to M3U Conversion"
-msgstr ""
+msgstr "تبدیل Enigma2 Bouquet به M3U"
 
 msgid "Enigma2 Bouquets to  Enigma2 Bouquets"
-msgstr ""
+msgstr "دسته گل Enigma2 به دسته Enigma2"
 
 msgid "Enigma2 Bouquets to  M3U"
-msgstr ""
+msgstr "دسته گل Enigma2 به M3U"
 
 msgid "Error clearing EPG cache"
-msgstr ""
+msgstr "خطا در پاک کردن حافظه پنهان EPG"
 
 msgid "Error clearing database"
-msgstr ""
+msgstr "خطا در پاک کردن پایگاه داده"
 
 msgid "Error deleting correction"
-msgstr ""
+msgstr "خطا در حذف تصحیح"
 
 msgid "Error deleting items"
-msgstr ""
+msgstr "خطا در حذف موارد"
 
 msgid "Error deleting mapping"
-msgstr ""
+msgstr "خطا در حذف نقشه"
 
 msgid "Error exporting database"
-msgstr ""
+msgstr "خطا در صادرات پایگاه داده"
 
 msgid "Error finalizing import: {}"
-msgstr ""
+msgstr "خطا در نهایی کردن واردات: {}"
 
 msgid "Error importing database: {}"
-msgstr ""
+msgstr "خطا در وارد کردن پایگاه داده: {}"
 
 msgid "Error initiating service reload"
-msgstr ""
+msgstr "خطا در شروع بارگذاری مجدد سرویس"
 
 msgid "Error loading database"
-msgstr ""
+msgstr "خطا در بارگیری پایگاه داده"
 
 msgid "Error opening plugin information: %s"
-msgstr ""
+msgstr "خطا در باز کردن اطلاعات افزونه: %s"
 
 msgid "Error processing conversion result"
-msgstr ""
+msgstr "خطا در پردازش نتیجه تبدیل"
 
 msgid "Error reloading EPG database: {}"
-msgstr ""
+msgstr "خطا در بارگیری مجدد پایگاه داده EPG: {}"
 
 msgid "Error saving imported database"
-msgstr ""
+msgstr "خطا در ذخیره پایگاه داده وارد شده"
 
 msgid "Error starting import: {}"
-msgstr ""
+msgstr "خطا در شروع وارد کردن: {}"
 
 msgid "Error undoing action"
-msgstr ""
+msgstr "خطا در واگرد اقدام"
 
 msgid "Error: Channel index out of range"
-msgstr ""
+msgstr "خطا: فهرست کانال خارج از محدوده است"
 
 msgid "Failed to initialize EPG mapper - check logs"
-msgstr ""
+msgstr "تنظیم اولیه نقشه‌بردار EPG انجام نشد - گزارش‌های بررسی"
 
 msgid "File loaded: {}"
-msgstr ""
+msgstr "فایل بارگیری شد: {}"
 
 msgid "File not found"
-msgstr ""
+msgstr "فایل پیدا نشد"
 
 msgid "File write error: %s"
-msgstr ""
+msgstr "خطای نوشتن فایل: %s"
 
 msgid "File: {}"
-msgstr ""
+msgstr "فایل: {}"
 
 msgid "Files larger than this will be sampled (1000 channels max)"
-msgstr ""
+msgstr "فایل‌های بزرگ‌تر از این نمونه‌برداری می‌شوند (حداکثر 1000 کانال)"
 
 msgid "First select a match from the right list (use RIGHT arrow)"
-msgstr ""
+msgstr "ابتدا یک مسابقه را از لیست سمت راست انتخاب کنید (از فلش راست استفاده کنید)"
 
 msgid "Found {} matches for: {} | Select and press OK"
-msgstr ""
+msgstr "{} مورد منطبق برای: {} | را انتخاب کنید و OK را فشار دهید"
 
 msgid "Found {} matches so far for: {} | Searching..."
-msgstr ""
+msgstr "تاکنون {} مورد منطبق برای: {} | در حال جستجو..."
 
 msgid "Generate EPG data for bouquets"
-msgstr ""
+msgstr "داده های EPG را برای دسته گل ها تولید کنید"
 
 msgid "Global similarity threshold for all matches (20-100%)"
-msgstr ""
+msgstr "آستانه شباهت جهانی برای همه مسابقات (20-100%)"
 
 msgid "HDD Drive"
-msgstr ""
+msgstr "درایو HDD"
 
 msgid "Ignore DVB-T services on conversion"
-msgstr ""
+msgstr "خدمات DVB-T را در هنگام تبدیل نادیده بگیرید"
 
 msgid "Import {} mappings from {}"
-msgstr ""
+msgstr "وارد کردن {} نقشه‌برداری از {}"
 
 msgid "Invalid .m3u item format"
-msgstr ""
+msgstr "قالب مورد m3u. نامعتبر است"
 
 msgid "Invalid .tv item format"
-msgstr ""
+msgstr "قالب مورد .tv نامعتبر است"
 
 msgid "Invalid XSPF file"
-msgstr ""
+msgstr "فایل XSPF نامعتبر است"
 
 msgid "Invalid database file structure"
-msgstr ""
+msgstr "ساختار فایل پایگاه داده نامعتبر است"
 
 msgid "Invalid selection"
-msgstr ""
+msgstr "انتخاب نامعتبر است"
 
 msgid "JSON to Enigma2 Bouquet Conversion"
-msgstr ""
+msgstr "تبدیل JSON به Enigma2 Bouquet"
 
 msgid "JSON to M3U Conversion"
-msgstr ""
+msgstr "تبدیل JSON به M3U"
 
 msgid "JSON to  Enigma2 Bouquets"
-msgstr ""
+msgstr "دسته های JSON به Enigma2"
 
 msgid "JSON to  M3U"
-msgstr ""
+msgstr "JSON به M3U"
 
 msgid "Language for EPG sources"
-msgstr ""
+msgstr "زبان برای منابع EPG"
 
 msgid "Large file detected: {:.1f}MB. Processing first {} channels..."
-msgstr ""
+msgstr "فایل بزرگ شناسایی شد: {:.1f}MB. در حال پردازش {} کانال اول..."
 
 msgid "Large file threshold (MB)"
-msgstr ""
+msgstr "آستانه فایل بزرگ (MB)"
 
 msgid "Loaded first %d channels. Press Green to convert."
-msgstr ""
+msgstr "اولین %d کانال بارگیری شد. سبز را برای تبدیل فشار دهید."
 
 msgid "Loading database..."
-msgstr ""
+msgstr "در حال بارگیری پایگاه داده..."
 
 msgid "Log file cleared successfully"
-msgstr ""
+msgstr "فایل گزارش با موفقیت پاک شد"
 
 msgid "M3U to Enigma2 Bouquet Conversion"
-msgstr ""
+msgstr "تبدیل دسته گل M3U به Enigma2"
 
 msgid "M3U to JSON Conversion"
-msgstr ""
+msgstr "تبدیل M3U به JSON"
 
 msgid "M3U to  Enigma2 Bouquets"
-msgstr ""
+msgstr "دسته گل های M3U به Enigma2"
 
 msgid "M3U to  JSON"
-msgstr ""
+msgstr "M3U به JSON"
 
 msgid "Manual Corrections ({} total)"
-msgstr ""
+msgstr "اصلاحات دستی ({} در مجموع)"
 
 msgid "Manual Database Editor"
-msgstr ""
+msgstr "ویرایشگر دستی پایگاه داده"
 
 msgid "Manual EPG Match Editor"
-msgstr ""
+msgstr "ویرایشگر دستی EPG Match"
 
 msgid "Manual database cleared"
-msgstr ""
+msgstr "پایگاه داده دستی پاک شد"
 
 msgid "Manual database not available"
-msgstr ""
+msgstr "پایگاه داده دستی در دسترس نیست"
 
 msgid "Manual editing completed"
-msgstr ""
+msgstr "ویرایش دستی تکمیل شد"
 
 msgid "Manual editing completed - ready for conversion"
-msgstr ""
+msgstr "ویرایش دستی تکمیل شد - آماده برای تبدیل"
 
 msgid "Mapping deleted successfully"
-msgstr ""
+msgstr "نقشه برداری با موفقیت حذف شد"
 
 msgid "Match Editor"
-msgstr ""
+msgstr "ویرایشگر مسابقه"
 
 msgid "Match reset for: {}"
-msgstr ""
+msgstr "بازنشانی مطابقت برای: {}"
 
 msgid "Max DVB entries scanned during automatic Match Edit (Slow down scanning)"
-msgstr ""
+msgstr "حداکثر ورودی‌های DVB اسکن شده در حین ویرایش خودکار Match (اسکن آهسته)"
 
 msgid "Max Rytec entries scanned during automatic Match Edit (Slow down scanning)"
-msgstr ""
+msgstr "ورودی‌های Max Rytec در حین ویرایش خودکار Match اسکن شدند (اسکن آهسته)"
 
 msgid "Maximum backup copies"
-msgstr ""
+msgstr "حداکثر نسخه پشتیبان"
 
 msgid "Maximum manual corrections to save"
-msgstr ""
+msgstr "حداکثر اصلاحات دستی برای ذخیره"
 
 msgid "Multiple Bouquets"
-msgstr ""
+msgstr "دسته گل های متعدد"
 
 msgid "Network Storage"
-msgstr ""
+msgstr "ذخیره سازی شبکه"
 
 msgid "Next"
-msgstr ""
+msgstr "بعدی"
 
 msgid "No IPTV channels found in the bouquet"
-msgstr ""
+msgstr "هیچ کانال IPTV در دسته گل یافت نشد"
 
 msgid "No M3UConverter bouquets found to remove."
-msgstr ""
+msgstr "دسته گل M3UConverter برای حذف یافت نشد."
 
 msgid "No MANUAL changes to save"
-msgstr ""
+msgstr "هیچ تغییر دستی برای ذخیره وجود ندارد"
 
 msgid "No MANUAL corrections saved"
-msgstr ""
+msgstr "هیچ اصلاح دستی ذخیره نشد"
 
 msgid "No actions to undo"
-msgstr ""
+msgstr "هیچ اقدامی برای لغو وجود ندارد"
 
 msgid "No channels available"
-msgstr ""
+msgstr "هیچ کانالی در دسترس نیست"
 
 msgid "No channels loaded. Please select a valid TV bouquet file."
-msgstr ""
+msgstr "هیچ کانالی بارگیری نشده است. لطفاً یک فایل دسته گل تلویزیون معتبر انتخاب کنید."
 
 msgid "No conversion data available."
-msgstr ""
+msgstr "هیچ داده تبدیلی موجود نیست."
 
 msgid "No conversion data available. Please run a conversion first."
-msgstr ""
+msgstr "هیچ داده تبدیلی موجود نیست. لطفا ابتدا یک تبدیل را اجرا کنید."
 
 msgid "No conversion statistics available."
-msgstr ""
+msgstr "هیچ آمار تبدیلی موجود نیست."
 
 msgid "No duplicates available for selection"
-msgstr ""
+msgstr "هیچ مورد تکراری برای انتخاب موجود نیست"
 
 msgid "No duplicates found"
-msgstr ""
+msgstr "تکراری یافت نشد"
 
 msgid "No duplicates found in the database"
-msgstr ""
+msgstr "هیچ مورد تکراری در پایگاه داده یافت نشد"
 
 msgid "No file selected"
-msgstr ""
+msgstr "هیچ فایلی انتخاب نشده است"
 
 msgid "No file selected for conversion"
-msgstr ""
+msgstr "هیچ فایلی برای تبدیل انتخاب نشده است"
 
 msgid "No items selected for deletion"
-msgstr ""
+msgstr "هیچ موردی برای حذف انتخاب نشده است"
 
 msgid "No manual corrections found"
-msgstr ""
+msgstr "هیچ اصلاح دستی یافت نشد"
 
 msgid "No manual corrections to export"
-msgstr ""
+msgstr "هیچ اصلاح دستی برای صادرات وجود ندارد"
 
 msgid "No mappings available"
-msgstr ""
+msgstr "هیچ نقشه برداری در دسترس نیست"
 
 msgid "No matches found - try different search"
-msgstr ""
+msgstr "هیچ منطبقی یافت نشد - جستجوی مختلف را امتحان کنید"
 
 msgid "No matches found for: {}"
-msgstr ""
+msgstr "هیچ منطبقی برای: {} یافت نشد"
 
 msgid "No statistics available"
-msgstr ""
+msgstr "هیچ آماری در دسترس نیست"
 
 msgid "No valid channels found in the JSON file"
-msgstr ""
+msgstr "هیچ کانال معتبری در فایل JSON یافت نشد"
 
 msgid "Only DTT"
-msgstr ""
+msgstr "فقط DTT"
 
 msgid "Only DVB"
-msgstr ""
+msgstr "فقط DVB"
 
 msgid "Only Rytec"
-msgstr ""
+msgstr "فقط Rytec"
 
 msgid "Open File"
-msgstr ""
+msgstr "فایل را باز کنید"
 
 msgid "Open manual editor after conversion"
-msgstr ""
+msgstr "ویرایشگر دستی را بعد از تبدیل باز کنید"
 
 msgid "Playback error"
-msgstr ""
+msgstr "خطای پخش"
 
 msgid "Playing: %s"
-msgstr ""
+msgstr "در حال پخش: %s"
 
 msgid "Please select a channel first"
-msgstr ""
+msgstr "لطفا ابتدا یک کانال را انتخاب کنید"
 
 msgid "Please select a mapping (not a group header)"
-msgstr ""
+msgstr "لطفاً یک نقشه برداری (نه سرصفحه گروه) انتخاب کنید"
 
 msgid "Please select a mapping to delete"
-msgstr ""
+msgstr "لطفاً یک نقشه برداری را برای حذف انتخاب کنید"
 
 msgid "Please select a valid match from the right list"
-msgstr ""
+msgstr "لطفاً یک مطابقت معتبر از لیست مناسب انتخاب کنید"
 
 msgid "Plugin Information"
-msgstr ""
+msgstr "اطلاعات پلاگین"
 
 msgid "Position in channel list"
-msgstr ""
+msgstr "موقعیت در لیست کانال"
 
 msgid "Press RED to select file"
-msgstr ""
+msgstr "برای انتخاب فایل، قرمز را فشار دهید"
 
 msgid "Prev"
-msgstr ""
+msgstr "قبلی"
 
 msgid "Processing selection..."
-msgstr ""
+msgstr "پردازش انتخاب..."
 
 msgid "Ready"
-msgstr ""
+msgstr "آماده است"
 
 msgid "Ready for next operation"
-msgstr ""
+msgstr "آماده برای عملیات بعدی"
 
 msgid "Ready to convert"
-msgstr ""
+msgstr "آماده تبدیل"
 
 msgid "Ready: Select the file from the %s you configured in settings."
-msgstr ""
+msgstr "Ready: فایل را از %s که در تنظیمات پیکربندی کرده‌اید انتخاب کنید."
 
 msgid "Reloading services..."
-msgstr ""
+msgstr "بارگیری مجدد خدمات..."
 
 msgid "Remove Bouquets"
-msgstr ""
+msgstr "دسته گل ها را بردارید"
 
 msgid "Remove M3U Bouquets"
-msgstr ""
+msgstr "دسته گل های M3U را حذف کنید"
 
 msgid "Reset"
-msgstr ""
+msgstr "بازنشانی کنید"
 
 msgid "Run a conversion first to see statistics."
-msgstr ""
+msgstr "برای مشاهده آمار ابتدا یک تبدیل را اجرا کنید."
 
 msgid "SELECTION MODE: {} items selected"
-msgstr ""
+msgstr "حالت انتخاب: {} مورد انتخاب شده است"
 
 msgid "Save All"
-msgstr ""
+msgstr "ذخیره همه"
 
 msgid "Save error"
-msgstr ""
+msgstr "خطای ذخیره"
 
 msgid "Saved {} MANUAL corrections"
-msgstr ""
+msgstr "{} اصلاحات دستی ذخیره شد"
 
 msgid "Searching matches for: {}..."
-msgstr ""
+msgstr "جستجوی موارد منطبق برای: {}..."
 
 msgid "Select"
-msgstr ""
+msgstr "انتخاب کنید"
 
 msgid "Select a channel to correct the match"
-msgstr ""
+msgstr "کانالی را برای تصحیح مطابقت انتخاب کنید"
 
 msgid "Select a channel to edit (use OK or RIGHT to go to matches)"
-msgstr ""
+msgstr "یک کانال را برای ویرایش انتخاب کنید (از OK یا RIGHT برای رفتن به موارد منطبق استفاده کنید)"
 
 msgid "Select a match and press OK to assign"
-msgstr ""
+msgstr "یک مسابقه را انتخاب کنید و برای اختصاص دادن OK را فشار دهید"
 
 msgid "Select databases for channel matching"
-msgstr ""
+msgstr "پایگاه داده را برای تطبیق کانال انتخاب کنید"
 
 msgid "Select file to import from {}"
-msgstr ""
+msgstr "انتخاب فایل برای وارد کردن از {}"
 
 msgid "Select import location"
-msgstr ""
+msgstr "مکان واردات را انتخاب کنید"
 
 msgid "Selection mode active. Select items with OK"
-msgstr ""
+msgstr "حالت انتخاب فعال است. موارد را با OK انتخاب کنید"
 
 msgid "Selection mode off"
-msgstr ""
+msgstr "حالت انتخاب خاموش است"
 
 msgid "Selection mode: Select items with OK"
-msgstr ""
+msgstr "حالت انتخاب: موارد را با OK انتخاب کنید"
 
 msgid "Service reload initiated"
-msgstr ""
+msgstr "بارگیری مجدد سرویس آغاز شد"
 
 msgid "Similarity threshold for DVB matches (20-100%)"
-msgstr ""
+msgstr "آستانه تشابه برای مسابقات DVB (20-100%)"
 
 msgid "Similarity threshold for Rytec matches (20-100%)"
-msgstr ""
+msgstr "آستانه تشابه برای مسابقات Rytec (20-100٪)"
 
 msgid "Single Bouquet"
-msgstr ""
+msgstr "دسته گل تک"
 
 msgid "Standard Mode"
-msgstr ""
+msgstr "حالت استاندارد"
 
 msgid "Stopped"
-msgstr ""
+msgstr "متوقف شد"
 
 msgid "Temporary"
-msgstr ""
+msgstr "موقت"
 
 msgid "Temporary Files"
-msgstr ""
+msgstr "فایل های موقت"
 
 msgid "Tools"
-msgstr ""
+msgstr "ابزار"
 
 msgid "Top"
-msgstr ""
+msgstr "بالا"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "درایو USB"
 
 msgid "Undo"
-msgstr ""
+msgstr "واگرد"
 
 msgid "Undo: Restored previous state for {}"
-msgstr ""
+msgstr "واگرد: وضعیت قبلی برای {} بازیابی شد"
 
 msgid "Universal Converter"
-msgstr ""
+msgstr "مبدل جهانی"
 
 msgid "Unknown error"
-msgstr ""
+msgstr "خطای ناشناخته"
 
 msgid "Unsupported conversion type"
-msgstr ""
+msgstr "نوع تبدیل پشتیبانی نشده"
 
 msgid "Use saved manual corrections"
-msgstr ""
+msgstr "از اصلاحات دستی ذخیره شده استفاده کنید"
 
 msgid "We're ready: what do you want to do?"
-msgstr ""
+msgstr "ما آماده ایم: چه کاری می خواهید انجام دهید؟"
 
 msgid "XSPF conversion error: %s"
-msgstr ""
+msgstr "خطای تبدیل XSPF: %s"
 
 msgid "XSPF to M3U Playlist Conversion"
-msgstr ""
+msgstr "تبدیل لیست پخش XSPF به M3U"
 
 msgid "XSPF to  M3U Playlist"
-msgstr ""
+msgstr "لیست پخش XSPF به M3U"
 
 msgid "merged"
-msgstr ""
+msgstr "ادغام شد"
 
 msgid "replaced"
-msgstr ""
+msgstr "جایگزین شده است"
 
 msgid "tv_to_m3u Conversion error: %s"
-msgstr ""
+msgstr "tv_to_m3u خطای تبدیل: %s"
 
 msgid " Current total: {}"
-msgstr ""
+msgstr "کل فعلی: {}"
 
 msgid " DVB: {} channels"
-msgstr ""
+msgstr "DVB: {} کانال"
 
 msgid " Duplicate mappings: {}"
-msgstr ""
+msgstr "نگاشت های تکراری: {}"
 
 msgid " Hit: {} ({:.1f}%)"
-msgstr ""
+msgstr "بازدید: {} ({:.1f}%)"
 
 msgid " Miss: {}"
-msgstr ""
+msgstr "خانم: {}"
 
 msgid " Mode: {}"
-msgstr ""
+msgstr "حالت: {}"
 
 msgid " New mappings: {}"
-msgstr ""
+msgstr "نگاشت های جدید: {}"
 
 msgid " Rytec: {} channels"
-msgstr ""
+msgstr "Rytec: {} کانال"
 
 msgid " Size: {} entries"
-msgstr ""
+msgstr "اندازه: {} ورودی"
 
 msgid " Total in import file: {}"
-msgstr ""
+msgstr "مجموع فایل وارد شده: {}"
 
 msgid "  Manual DB: {} ({:.1f}%)"
-msgstr ""
+msgstr "DB دستی: {} ({:.1f}%)"
 
 msgid "  DVB-S: {} ({:.1f}%)"
-msgstr ""
+msgstr "DVB-S: {} ({:.1f}%)"
 
 msgid "  DVB-T: {} ({:.1f}%)"
-msgstr ""
+msgstr "DVB-T: {} ({:.1f}%)"
 
 msgid "  IPTV Fallback: {} ({:.1f}%)"
-msgstr ""
+msgstr "IPTV بازگشتی: {} ({:.1f}%)"
 
 msgid "  Rytec: {} ({:.1f}%)"
-msgstr ""
+msgstr "Rytec: {} ({:.1f}%)"
 
 msgid " Conversion type: {}"
-msgstr ""
+msgstr "نوع تبدیل: {}"
 
 msgid " Status: Completed successfully"
-msgstr ""
+msgstr "وضعیت: با موفقیت تکمیل شد"
 
 msgid " Valid channels processed: {}"
-msgstr ""
+msgstr "کانال های معتبر پردازش شده: {}"
 
 msgid " Edit this mapping"
-msgstr ""
+msgstr "این نقشه برداری را ویرایش کنید"
 
 msgid " Manual edits applied: {}"
-msgstr ""
+msgstr "ویرایش‌های دستی اعمال شد: {}"
 
 msgid " Open Database Editor"
-msgstr ""
+msgstr "ویرایشگر پایگاه داده را باز کنید"
 
 msgid " Error generating statistics"
-msgstr ""
+msgstr "خطا در تولید آمار"
 
 msgid " Merge (keep both)"
-msgstr ""
+msgstr "ادغام (حفظ هر دو)"
 
 msgid " New mappings ({}):"
-msgstr ""
+msgstr "نقشه برداری های جدید ({}):"
 
 msgid " CONVERSION COMPLETE"
-msgstr ""
+msgstr "تبدیل کامل شد"
 
 msgid " Effective EPG matches: {}"
-msgstr ""
+msgstr "منطبقات موثر EPG: {}"
 
 msgid " TOTAL CHANNELS: {}"
-msgstr ""
+msgstr "مجموع کانال ها: {}"
 
 msgid " View Manual Database"
-msgstr ""
+msgstr "مشاهده پایگاه داده دستی"
 
 msgid " CACHE PERFORMANCE:"
-msgstr ""
+msgstr "عملکرد حافظه پنهان:"
 
 msgid " Cache efficiency: {}"
-msgstr ""
+msgstr "کارایی کش: {}"
 
 msgid " Create Backup"
-msgstr ""
+msgstr "ایجاد پشتیبان"
 
 msgid " Manual DB matches: {}"
-msgstr ""
+msgstr "مطابقت DB دستی: {}"
 
 msgid " Output file: {}"
-msgstr ""
+msgstr "فایل خروجی: {}"
 
 msgid " File size: {}"
-msgstr ""
+msgstr "اندازه فایل: {}"
 
 msgid " EFFECTIVE EPG coverage: {}"
-msgstr ""
+msgstr "پوشش موثر EPG: {}"
 
 msgid " EPG COVERAGE: {:.1f}%"
-msgstr ""
+msgstr "پوشش EPG: {:.1f}%"
 
 msgid " Statistics:"
-msgstr ""
+msgstr "آمار:"
 
 msgid " EPG Cache Statistics"
-msgstr ""
+msgstr "آمار کش EPG"
 
 msgid " EPG STATISTICS - {}"
-msgstr ""
+msgstr "آمار EPG - {}"
 
 msgid " IMPORT PREVIEW"
-msgstr ""
+msgstr "پیش نمایش واردات"
 
 msgid " Preview Changes"
-msgstr ""
+msgstr "پیش نمایش تغییرات"
 
 msgid " Total channels in file: {}"
-msgstr ""
+msgstr "مجموع کانال های موجود در فایل: {}"
 
 msgid " Plugin Info"
-msgstr ""
+msgstr "اطلاعات پلاگین"
 
 msgid " Manual Match Editing"
-msgstr ""
+msgstr "ویرایش دستی مطابقت"
 
 msgid " DVB channels in DB: {}"
-msgstr ""
+msgstr "کانال های DVB در DB: {}"
 
 msgid " DVB-T EPG matches: {}"
-msgstr ""
+msgstr "مطابقت DVB-T EPG: {}"
 
 msgid " Export Manual Database"
-msgstr ""
+msgstr "پایگاه داده دستی صادرات"
 
 msgid " Import Manual Database"
-msgstr ""
+msgstr "پایگاه داده دستی وارد کنید"
 
 msgid " DVB EPG matches: {}"
-msgstr ""
+msgstr "مطابقت DVB EPG: {}"
 
 msgid " Duplicates ({}):"
-msgstr ""
+msgstr "موارد تکراری ({}):"
 
 msgid " Reload EPG Database"
-msgstr ""
+msgstr "بارگیری مجدد پایگاه داده EPG"
 
 msgid " Reload Services"
-msgstr ""
+msgstr "بارگذاری مجدد خدمات"
 
 msgid " Replace All ({} mappings)"
-msgstr ""
+msgstr "جایگزینی همه ({} نقشه‌برداری)"
 
 msgid " Fallback (no EPG): {}"
-msgstr ""
+msgstr "بازگشتی (بدون EPG): {}"
 
 msgid " Cache size: {} entries"
-msgstr ""
+msgstr "اندازه حافظه پنهان: {} ورودی"
 
 msgid " Back"
-msgstr ""
+msgstr "برگشت"
 
 msgid " Back to Tools"
-msgstr ""
+msgstr "بازگشت به ابزار"
 
 msgid " Back to locations"
-msgstr ""
+msgstr "بازگشت به مکان ها"
 
 msgid " MATCH BREAKDOWN:"
-msgstr ""
+msgstr "تفکیک بازی:"
 
 msgid " Completed at: {}"
-msgstr ""
+msgstr "تکمیل شده در: {}"
 
 msgid " Edited at: {}"
-msgstr ""
+msgstr "ویرایش شده در: {}"
 
 msgid " === Manual Database Management ==="
-msgstr ""
+msgstr "=== مدیریت پایگاه داده دستی ==="
 
 msgid " DATABASE INFO:"
-msgstr ""
+msgstr "اطلاعات پایگاه داده:"
 
 msgid " Database mode: {}"
-msgstr ""
+msgstr "حالت پایگاه داده: {}"
 
 msgid " Rytec channels in DB: {}"
-msgstr ""
+msgstr "کانال های Rytec در DB: {}"
 
 msgid " Clear Log File"
-msgstr ""
+msgstr "پاک کردن فایل گزارش"
 
 msgid " Delete this mapping"
-msgstr ""
+msgstr "این نقشه برداری را حذف کنید"
 
 msgid " Skipped channels: {}"
-msgstr ""
+msgstr "کانال های رد شده: {}"
 
 msgid " Rytec EPG matches: {}"
-msgstr ""
+msgstr "Rytec EPG مطابقت دارد: {}"
 
 msgid " Clean Manual Database"
-msgstr ""
+msgstr "پایگاه داده دستی تمیز"
 
 msgid " Clear EPG Cache"
-msgstr ""
+msgstr "کش EPG را پاک کنید"

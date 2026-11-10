@@ -11,958 +11,958 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "(Based on selected database mode: {})"
-msgstr ""
+msgstr "(Seçilen veritabanı moduna göre: {})"
 
 msgid "(Reused previous manual corrections)"
-msgstr ""
+msgstr "(Önceki manuel düzeltmeler yeniden kullanıldı)"
 
 msgid "- {} duplicate groups"
-msgstr ""
+msgstr "- {} yinelenen grup"
 
 msgid "-- Auto-open Editor"
-msgstr ""
+msgstr "-- Düzenleyiciyi Otomatik Aç"
 
 msgid "-- DVB search limit (Match Edit)"
-msgstr ""
+msgstr "-- DVB arama limiti (Maç Düzenleme)"
 
 msgid "-- Database Mode"
-msgstr ""
+msgstr "-- Veritabanı Modu"
 
 msgid "-- EPG Generation Mode"
-msgstr ""
+msgstr "-- EPG Oluşturma Modu"
 
 msgid "-- EPG Language"
-msgstr ""
+msgstr "-- EPG Dili"
 
 msgid "-- Ignore DVB-T services"
-msgstr ""
+msgstr "-- DVB-T hizmetlerini göz ardı edin"
 
 msgid "-- Max Backups"
-msgstr ""
+msgstr "-- Maksimum Yedekleme"
 
 msgid "-- Rytec search limit (Match Edit)"
-msgstr ""
+msgstr "-- Rytec arama limiti (Maç Düzenleme)"
 
 msgid "-- Similarity Threshold DVB (%)"
-msgstr ""
+msgstr "-- Benzerlik Eşiği DVB (%)"
 
 msgid "-- Similarity Threshold Global (%)"
-msgstr ""
+msgstr "-- Benzerlik Eşiği Küresel (%)"
 
 msgid "-- Similarity Threshold Rytec (%)"
-msgstr ""
+msgstr "-- Benzerlik Eşiği Rytec (%)"
 
 msgid "-- Use Manual Database"
-msgstr ""
+msgstr "-- Manuel Veritabanını Kullan"
 
 msgid "--- {} ({} duplicates) ---"
-msgstr ""
+msgstr "--- {} ({} kopya) ---"
 
 msgid "---- Max manual corrections to save"
-msgstr ""
+msgstr "---- Kaydedilecek maksimum manuel düzeltmeler"
 
 msgid ">>> DUPLICATES VIEW"
-msgstr ""
+msgstr ">>> KOPYALANAN GÖRÜNÜM"
 
 msgid ">>> SELECTION MODE - Select items with OK"
-msgstr ""
+msgstr ">>> SEÇİM MODU - Öğeleri OK ile seçin"
 
 msgid ">>> {} duplicate groups, {} total mappings"
-msgstr ""
+msgstr ">>> {} yinelenen grup, {} toplam eşleme"
 
 msgid ">>> {} groups, {} mappings total"
-msgstr ""
+msgstr ">>> {} grup, toplam {} eşleme"
 
 msgid "ALL MAPPINGS: {} total"
-msgstr ""
+msgstr "TÜM HARİTALAMALAR: Toplam {}"
 
 msgid "Action for: {}"
-msgstr ""
+msgstr "Şunun için işlem: {}"
 
 msgid "Advanced Tools Menu"
-msgstr ""
+msgstr "Gelişmiş Araçlar Menüsü"
 
 msgid "All Mappings"
-msgstr ""
+msgstr "Tüm Eşlemeler"
 
 msgid "Archimede Converter Settings"
-msgstr ""
+msgstr "Arşimet Dönüştürücü Ayarları"
 
 msgid "Archimede Universal Converter by Lululla v.{version} - {page}"
-msgstr ""
+msgstr "Archimede Evrensel Dönüştürücü, Lululla v.{version} - {page}"
 
 msgid "Archimede Universal Converter v.%s"
-msgstr ""
+msgstr "Archimede Evrensel Dönüştürücü v.%s"
 
 msgid "Archimede Universal Converter v.%s by Lululla"
-msgstr ""
+msgstr "Arşimet Evrensel Dönüştürücü v.%s, Lululla"
 
 msgid "Backup created successfully!"
-msgstr ""
+msgstr "Yedekleme başarıyla oluşturuldu!"
 
 msgid "Backup failed: {}"
-msgstr ""
+msgstr "Yedekleme başarısız oldu: {}"
 
 msgid "Barry Allen"
 msgstr ""
 
 msgid "Bottom"
-msgstr ""
+msgstr "Alt"
 
 msgid "Bouquet Mode"
-msgstr ""
+msgstr "Buket Modu"
 
 msgid "Bouquet Position"
-msgstr ""
+msgstr "Buket Pozisyonu"
 
 msgid "Cancel"
-msgstr ""
+msgstr "İptal etmek"
 
 msgid "Cancelling conversion..."
-msgstr ""
+msgstr "Dönüşüm iptal ediliyor..."
 
 msgid "Cancelling..."
-msgstr ""
+msgstr "İptal..."
 
 msgid "Channel: {} | {} | Match: {} | Press RIGHT for matches"
-msgstr ""
+msgstr "Kanal: {} | {} | Eşleşme: {} | Maçlar için SAĞA basın"
 
 msgid "Close"
-msgstr ""
+msgstr "Kapalı"
 
 msgid "Conversion already in progress"
-msgstr ""
+msgstr "Dönüşüm zaten devam ediyor"
 
 msgid "Conversion cancelled"
-msgstr ""
+msgstr "Dönüşüm iptal edildi"
 
 msgid "Conversion completed"
-msgstr ""
+msgstr "Dönüşüm tamamlandı"
 
 msgid "Conversion error: %s"
-msgstr ""
+msgstr "Dönüşüm hatası: %s"
 
 msgid "Conversion failed: Invalid result"
-msgstr ""
+msgstr "Dönüştürme başarısız oldu: Geçersiz sonuç"
 
 msgid "Conversion failed: {}"
-msgstr ""
+msgstr "Dönüşüm başarısız oldu: {}"
 
 msgid "Conversion in progress..."
-msgstr ""
+msgstr "Dönüşüm devam ediyor..."
 
 msgid "Convert"
-msgstr ""
+msgstr "Dönüştürmek"
 
 msgid "Convert HLS Streams"
-msgstr ""
+msgstr "HLS Akışlarını Dönüştür"
 
 msgid "Convert HLS to Enigma2 format"
-msgstr ""
+msgstr "HLS'yi Enigma2 formatına dönüştürün"
 
 msgid "Convert JSON to M3U"
-msgstr ""
+msgstr "JSON'u M3U'ya dönüştür"
 
 msgid "Convert JSON to TV"
-msgstr ""
+msgstr "JSON'u TV'ye dönüştürün"
 
 msgid "Convert M3U to JSON"
-msgstr ""
+msgstr "M3U'yu JSON'ye dönüştür"
 
 msgid "Convert M3U to TV"
-msgstr ""
+msgstr "M3U'yu TV'ye dönüştürün"
 
 msgid "Convert TV to M3U"
-msgstr ""
+msgstr "TV'yi M3U'ya dönüştürün"
 
 msgid "Convert TV to TV"
-msgstr ""
+msgstr "TV'yi TV'ye dönüştürün"
 
 msgid "Convert XSPF to M3U"
-msgstr ""
+msgstr "XSPF'yi M3U'ye dönüştür"
 
 msgid "Convert between M3U Enigma2 Bouquets Json"
-msgstr ""
+msgstr "M3U Enigma2 Buketleri Json arasında dönüştürme"
 
 msgid "Converting: %d/%d (%d%%)"
-msgstr ""
+msgstr "Dönüştürme: %d/%d (%d%%)"
 
 msgid "Converting: {name} ({percent}%)"
-msgstr ""
+msgstr "Dönüştürme: {name} ({percent}%)"
 
 msgid "Converting: {title} ({percent}%)"
-msgstr ""
+msgstr "Dönüştürme: {name} ({percent}%)"
 
 msgid "Converting: {} ({}%)"
-msgstr ""
+msgstr "Dönüştürülüyor: {} (%{})"
 
 msgid "Create Backup"
-msgstr ""
+msgstr "Yedekleme Oluştur"
 
 msgid "Create backup before conversion"
-msgstr ""
+msgstr "Dönüştürmeden önce yedekleme oluşturun"
 
 msgid "Create single or multiple bouquets"
-msgstr ""
+msgstr "Tekli veya çoklu buketler oluşturun"
 
 msgid "DUPLICATES: {} groups, {} mappings"
-msgstr ""
+msgstr "KOPYALANANLAR: {} grup, {} eşleme"
 
 msgid "DVB + Rytec"
-msgstr ""
+msgstr "DVB + Oymacı"
 
 msgid "DVB + Rytec + DTT (Full)"
-msgstr ""
+msgstr "DVB + Rytec + DTT (Tam)"
 
 msgid "Database Directory"
-msgstr ""
+msgstr "Veritabanı Dizini"
 
 msgid "Debug Mode"
-msgstr ""
+msgstr "Hata Ayıklama Modu"
 
 msgid "Default Folder"
-msgstr ""
+msgstr "Varsayılan Klasör"
 
 msgid "Default folder for opening and saving M3U files"
-msgstr ""
+msgstr "M3U dosyalarını açmak ve kaydetmek için varsayılan klasör"
 
 msgid "Delete"
-msgstr ""
+msgstr "Silmek"
 
 msgid "Deleted {} items"
-msgstr ""
+msgstr "{} öğe silindi"
 
 msgid "Deleted {} items. No more duplicates."
-msgstr ""
+msgstr "{} öğe silindi. Artık kopya yok."
 
 msgid "Deleted {} items. Still in selection mode."
-msgstr ""
+msgstr "{} öğe silindi. Hala seçim modunda."
 
 msgid "Done"
-msgstr ""
+msgstr "Tamamlamak"
 
 msgid "Duplicates"
-msgstr ""
+msgstr "Kopyalar"
 
 msgid "EPG Coverage: {}/{} channels ({:.1f}%)"
-msgstr ""
+msgstr "EPG Kapsamı: {}/{} kanal ({:.1f}%)"
 
 msgid "EPG assigned: {} | {}"
-msgstr ""
+msgstr "EPG atandı: {} | {}"
 
 msgid "EPG cache cleared! {} entries removed"
-msgstr ""
+msgstr "EPG önbelleği temizlendi! {} giriş kaldırıldı"
 
 msgid "EPG database reloaded successfully!"
-msgstr ""
+msgstr "EPG veritabanı başarıyla yeniden yüklendi!"
 
 msgid "EPG mapper not available"
-msgstr ""
+msgstr "EPG eşleyicisi kullanılamıyor"
 
 msgid "EPG mapper not initialized"
-msgstr ""
+msgstr "EPG eşleyicisi başlatılmadı"
 
 msgid "EPG matching algorithm"
-msgstr ""
+msgstr "EPG eşleştirme algoritması"
 
 msgid "EPGImport plugin not found"
-msgstr ""
+msgstr "EPGImport eklentisi bulunamadı"
 
 msgid "EPGImporter"
-msgstr ""
+msgstr "EPG İthalatçısı"
 
 msgid "EPGShare Mode"
-msgstr ""
+msgstr "EPG Paylaşım Modu"
 
 msgid "Enable EPG"
-msgstr ""
+msgstr "EPG'yi etkinleştir"
 
 msgid "Enable detailed logging"
-msgstr ""
+msgstr "Ayrıntılı günlük kaydını etkinleştir"
 
 msgid "Enigma2 Bouquet to Enigma2 Bouquet Conversion"
-msgstr ""
+msgstr "Enigma2 Buketinden Enigma2 Buketine Dönüştürme"
 
 msgid "Enigma2 Bouquet to M3U Conversion"
-msgstr ""
+msgstr "Enigma2 Buketini M3U'ya Dönüştürme"
 
 msgid "Enigma2 Bouquets to  Enigma2 Bouquets"
-msgstr ""
+msgstr "Enigma2 Buketlerinden Enigma2 Buketlerine"
 
 msgid "Enigma2 Bouquets to  M3U"
-msgstr ""
+msgstr "M3U'ya Enigma2 Buketleri"
 
 msgid "Error clearing EPG cache"
-msgstr ""
+msgstr "EPG önbelleği temizlenirken hata oluştu"
 
 msgid "Error clearing database"
-msgstr ""
+msgstr "Veritabanı temizlenirken hata oluştu"
 
 msgid "Error deleting correction"
-msgstr ""
+msgstr "Düzeltme silinirken hata oluştu"
 
 msgid "Error deleting items"
-msgstr ""
+msgstr "Öğeler silinirken hata oluştu"
 
 msgid "Error deleting mapping"
-msgstr ""
+msgstr "Eşleme silinirken hata oluştu"
 
 msgid "Error exporting database"
-msgstr ""
+msgstr "Veritabanı dışa aktarılırken hata oluştu"
 
 msgid "Error finalizing import: {}"
-msgstr ""
+msgstr "İçe aktarma sonlandırılırken hata oluştu: {}"
 
 msgid "Error importing database: {}"
-msgstr ""
+msgstr "Veritabanı içe aktarılırken hata oluştu: {}"
 
 msgid "Error initiating service reload"
-msgstr ""
+msgstr "Hizmetin yeniden yüklenmesi başlatılırken hata oluştu"
 
 msgid "Error loading database"
-msgstr ""
+msgstr "Veritabanı yüklenirken hata oluştu"
 
 msgid "Error opening plugin information: %s"
-msgstr ""
+msgstr "Eklenti bilgileri açılırken hata oluştu: %s"
 
 msgid "Error processing conversion result"
-msgstr ""
+msgstr "Dönüşüm sonucu işlenirken hata oluştu"
 
 msgid "Error reloading EPG database: {}"
-msgstr ""
+msgstr "EPG veritabanı yeniden yüklenirken hata oluştu: {}"
 
 msgid "Error saving imported database"
-msgstr ""
+msgstr "İçe aktarılan veritabanı kaydedilirken hata oluştu"
 
 msgid "Error starting import: {}"
-msgstr ""
+msgstr "İçe aktarma başlatılırken hata oluştu: {}"
 
 msgid "Error undoing action"
-msgstr ""
+msgstr "İşlem geri alınırken hata oluştu"
 
 msgid "Error: Channel index out of range"
-msgstr ""
+msgstr "Hata: Kanal dizini aralık dışında"
 
 msgid "Failed to initialize EPG mapper - check logs"
-msgstr ""
+msgstr "EPG eşleyici başlatılamadı - günlükleri kontrol edin"
 
 msgid "File loaded: {}"
-msgstr ""
+msgstr "Dosya yüklendi: {}"
 
 msgid "File not found"
-msgstr ""
+msgstr "Dosya bulunamadı"
 
 msgid "File write error: %s"
-msgstr ""
+msgstr "Dosya yazma hatası: %s"
 
 msgid "File: {}"
-msgstr ""
+msgstr "Dosya: {}"
 
 msgid "Files larger than this will be sampled (1000 channels max)"
-msgstr ""
+msgstr "Bundan daha büyük dosyalar örneklenecektir (maksimum 1000 kanal)"
 
 msgid "First select a match from the right list (use RIGHT arrow)"
-msgstr ""
+msgstr "Öncelikle sağ listeden bir eşleşme seçin (SAĞ oku kullanın)"
 
 msgid "Found {} matches for: {} | Select and press OK"
-msgstr ""
+msgstr "Şunun için {} eşleşme bulundu: {} | Seçin ve Tamam'a basın"
 
 msgid "Found {} matches so far for: {} | Searching..."
-msgstr ""
+msgstr "Şu ana kadar {} eşleşme bulundu: {} | Arama..."
 
 msgid "Generate EPG data for bouquets"
-msgstr ""
+msgstr "Buketler için EPG verileri oluşturun"
 
 msgid "Global similarity threshold for all matches (20-100%)"
-msgstr ""
+msgstr "Tüm eşleşmeler için küresel benzerlik eşiği (%20-100)"
 
 msgid "HDD Drive"
-msgstr ""
+msgstr "HDD Sürücüsü"
 
 msgid "Ignore DVB-T services on conversion"
-msgstr ""
+msgstr "Dönüştürme sırasında DVB-T hizmetlerini göz ardı edin"
 
 msgid "Import {} mappings from {}"
-msgstr ""
+msgstr "{} eşlemesini {} kaynağından içe aktarın"
 
 msgid "Invalid .m3u item format"
-msgstr ""
+msgstr "Geçersiz .m3u öğe biçimi"
 
 msgid "Invalid .tv item format"
-msgstr ""
+msgstr "Geçersiz .tv öğesi biçimi"
 
 msgid "Invalid XSPF file"
-msgstr ""
+msgstr "Geçersiz XSPF dosyası"
 
 msgid "Invalid database file structure"
-msgstr ""
+msgstr "Geçersiz veritabanı dosya yapısı"
 
 msgid "Invalid selection"
-msgstr ""
+msgstr "Geçersiz seçim"
 
 msgid "JSON to Enigma2 Bouquet Conversion"
-msgstr ""
+msgstr "JSON'dan Enigma2 Buketine Dönüştürme"
 
 msgid "JSON to M3U Conversion"
-msgstr ""
+msgstr "JSON'dan M3U'ya Dönüştürme"
 
 msgid "JSON to  Enigma2 Bouquets"
-msgstr ""
+msgstr "JSON'dan Enigma2'ye Buketler"
 
 msgid "JSON to  M3U"
-msgstr ""
+msgstr "JSON'den M3U'ye dönüştürücü"
 
 msgid "Language for EPG sources"
-msgstr ""
+msgstr "EPG kaynakları için dil"
 
 msgid "Large file detected: {:.1f}MB. Processing first {} channels..."
-msgstr ""
+msgstr "Büyük dosya algılandı: {:.1f}MB. İlk {} kanal işleniyor..."
 
 msgid "Large file threshold (MB)"
-msgstr ""
+msgstr "Büyük dosya eşiği (MB)"
 
 msgid "Loaded first %d channels. Press Green to convert."
-msgstr ""
+msgstr "İlk %d kanal yüklendi. Dönüştürmek için Yeşil'e basın."
 
 msgid "Loading database..."
-msgstr ""
+msgstr "Veritabanı yükleniyor..."
 
 msgid "Log file cleared successfully"
-msgstr ""
+msgstr "Günlük dosyası başarıyla temizlendi"
 
 msgid "M3U to Enigma2 Bouquet Conversion"
-msgstr ""
+msgstr "M3U'dan Enigma2 Buketine Dönüştürme"
 
 msgid "M3U to JSON Conversion"
-msgstr ""
+msgstr "M3U'dan JSON'a Dönüştürme"
 
 msgid "M3U to  Enigma2 Bouquets"
-msgstr ""
+msgstr "M3U'dan Enigma2'ye Buketler"
 
 msgid "M3U to  JSON"
-msgstr ""
+msgstr "M3U'dan JSON'ye dönüştürücü"
 
 msgid "Manual Corrections ({} total)"
-msgstr ""
+msgstr "Manuel Düzeltmeler (toplam {})"
 
 msgid "Manual Database Editor"
-msgstr ""
+msgstr "Manuel Veritabanı Düzenleyicisi"
 
 msgid "Manual EPG Match Editor"
-msgstr ""
+msgstr "Manuel EPG Eşleştirme Düzenleyicisi"
 
 msgid "Manual database cleared"
-msgstr ""
+msgstr "Manuel veritabanı temizlendi"
 
 msgid "Manual database not available"
-msgstr ""
+msgstr "Manuel veritabanı mevcut değil"
 
 msgid "Manual editing completed"
-msgstr ""
+msgstr "Manuel düzenleme tamamlandı"
 
 msgid "Manual editing completed - ready for conversion"
-msgstr ""
+msgstr "Manuel düzenleme tamamlandı - dönüştürmeye hazır"
 
 msgid "Mapping deleted successfully"
-msgstr ""
+msgstr "Eşleme başarıyla silindi"
 
 msgid "Match Editor"
-msgstr ""
+msgstr "Maç Editörü"
 
 msgid "Match reset for: {}"
-msgstr ""
+msgstr "Şunun için maç sıfırlama: {}"
 
 msgid "Max DVB entries scanned during automatic Match Edit (Slow down scanning)"
-msgstr ""
+msgstr "Otomatik Eşleşme Düzenleme sırasında taranan maksimum DVB girişi (Taramayı yavaşlatır)"
 
 msgid "Max Rytec entries scanned during automatic Match Edit (Slow down scanning)"
-msgstr ""
+msgstr "Otomatik Maç Düzenleme sırasında taranan Max Rytec girişleri (Taramayı yavaşlatın)"
 
 msgid "Maximum backup copies"
-msgstr ""
+msgstr "Maksimum yedek kopya"
 
 msgid "Maximum manual corrections to save"
-msgstr ""
+msgstr "Kaydedilecek maksimum manuel düzeltmeler"
 
 msgid "Multiple Bouquets"
-msgstr ""
+msgstr "Çoklu Buketler"
 
 msgid "Network Storage"
-msgstr ""
+msgstr "Ağ Depolama"
 
 msgid "Next"
-msgstr ""
+msgstr "Sonraki"
 
 msgid "No IPTV channels found in the bouquet"
-msgstr ""
+msgstr "Bukette IPTV kanalı bulunamadı"
 
 msgid "No M3UConverter bouquets found to remove."
-msgstr ""
+msgstr "Kaldırılacak M3UConverter buketi bulunamadı."
 
 msgid "No MANUAL changes to save"
-msgstr ""
+msgstr "Kaydedilecek MANUEL değişiklik yok"
 
 msgid "No MANUAL corrections saved"
-msgstr ""
+msgstr "MANUEL düzeltme kaydedilmedi"
 
 msgid "No actions to undo"
-msgstr ""
+msgstr "Geri alınacak işlem yok"
 
 msgid "No channels available"
-msgstr ""
+msgstr "Kullanılabilir kanal yok"
 
 msgid "No channels loaded. Please select a valid TV bouquet file."
-msgstr ""
+msgstr "Hiçbir kanal yüklenmedi. Lütfen geçerli bir TV buketi dosyası seçin."
 
 msgid "No conversion data available."
-msgstr ""
+msgstr "Dönüşüm verisi yok."
 
 msgid "No conversion data available. Please run a conversion first."
-msgstr ""
+msgstr "Dönüşüm verisi yok. Lütfen önce bir dönüşüm gerçekleştirin."
 
 msgid "No conversion statistics available."
-msgstr ""
+msgstr "Dönüşüm istatistikleri mevcut değil."
 
 msgid "No duplicates available for selection"
-msgstr ""
+msgstr "Seçim için kopya yok"
 
 msgid "No duplicates found"
-msgstr ""
+msgstr "Kopya bulunamadı"
 
 msgid "No duplicates found in the database"
-msgstr ""
+msgstr "Veritabanında kopya bulunamadı"
 
 msgid "No file selected"
-msgstr ""
+msgstr "Hiçbir dosya seçilmedi"
 
 msgid "No file selected for conversion"
-msgstr ""
+msgstr "Dönüştürme için dosya seçilmedi"
 
 msgid "No items selected for deletion"
-msgstr ""
+msgstr "Silinmek üzere seçilmemiş öğe yok"
 
 msgid "No manual corrections found"
-msgstr ""
+msgstr "Manuel düzeltme bulunamadı"
 
 msgid "No manual corrections to export"
-msgstr ""
+msgstr "Dışa aktarılacak manuel düzeltme yok"
 
 msgid "No mappings available"
-msgstr ""
+msgstr "Eşleme yok"
 
 msgid "No matches found - try different search"
-msgstr ""
+msgstr "Eşleşme bulunamadı - farklı aramayı deneyin"
 
 msgid "No matches found for: {}"
-msgstr ""
+msgstr "Şunun için eşleşme bulunamadı: {}"
 
 msgid "No statistics available"
-msgstr ""
+msgstr "İstatistik mevcut değil"
 
 msgid "No valid channels found in the JSON file"
-msgstr ""
+msgstr "JSON dosyasında geçerli kanal bulunamadı"
 
 msgid "Only DTT"
-msgstr ""
+msgstr "Yalnızca DTT"
 
 msgid "Only DVB"
-msgstr ""
+msgstr "Yalnızca DVB"
 
 msgid "Only Rytec"
-msgstr ""
+msgstr "Yalnızca Rytec"
 
 msgid "Open File"
-msgstr ""
+msgstr "Dosyayı Aç"
 
 msgid "Open manual editor after conversion"
-msgstr ""
+msgstr "Dönüşümden sonra manuel düzenleyiciyi aç"
 
 msgid "Playback error"
-msgstr ""
+msgstr "Oynatma hatası"
 
 msgid "Playing: %s"
-msgstr ""
+msgstr "Oynanıyor: %s"
 
 msgid "Please select a channel first"
-msgstr ""
+msgstr "Lütfen önce bir kanal seçin"
 
 msgid "Please select a mapping (not a group header)"
-msgstr ""
+msgstr "Lütfen bir eşleme seçin (grup başlığı değil)"
 
 msgid "Please select a mapping to delete"
-msgstr ""
+msgstr "Lütfen silinecek bir eşleme seçin"
 
 msgid "Please select a valid match from the right list"
-msgstr ""
+msgstr "Lütfen doğru listeden geçerli bir eşleşme seçin"
 
 msgid "Plugin Information"
-msgstr ""
+msgstr "Eklenti Bilgileri"
 
 msgid "Position in channel list"
-msgstr ""
+msgstr "Kanal listesindeki konum"
 
 msgid "Press RED to select file"
-msgstr ""
+msgstr "Dosyayı seçmek için KIRMIZI'ya basın"
 
 msgid "Prev"
-msgstr ""
+msgstr "Önceki"
 
 msgid "Processing selection..."
-msgstr ""
+msgstr "Seçim işleniyor..."
 
 msgid "Ready"
-msgstr ""
+msgstr "Hazır"
 
 msgid "Ready for next operation"
-msgstr ""
+msgstr "Bir sonraki operasyona hazır"
 
 msgid "Ready to convert"
-msgstr ""
+msgstr "Dönüştürmeye hazır"
 
 msgid "Ready: Select the file from the %s you configured in settings."
-msgstr ""
+msgstr "Hazır: Ayarlarda yapılandırdığınız %s dosyasından dosyayı seçin."
 
 msgid "Reloading services..."
-msgstr ""
+msgstr "Hizmetler yeniden yükleniyor..."
 
 msgid "Remove Bouquets"
-msgstr ""
+msgstr "Buketleri Kaldır"
 
 msgid "Remove M3U Bouquets"
-msgstr ""
+msgstr "M3U Buketlerini Kaldır"
 
 msgid "Reset"
-msgstr ""
+msgstr "Sıfırla"
 
 msgid "Run a conversion first to see statistics."
-msgstr ""
+msgstr "İstatistikleri görmek için önce bir dönüşüm çalıştırın."
 
 msgid "SELECTION MODE: {} items selected"
-msgstr ""
+msgstr "SEÇİM MODU: {} öğe seçildi"
 
 msgid "Save All"
-msgstr ""
+msgstr "Tümünü Kaydet"
 
 msgid "Save error"
-msgstr ""
+msgstr "Hatayı kaydet"
 
 msgid "Saved {} MANUAL corrections"
-msgstr ""
+msgstr "{} MANUEL düzeltme kaydedildi"
 
 msgid "Searching matches for: {}..."
-msgstr ""
+msgstr "Şunun için eşleşmeler aranıyor: {}..."
 
 msgid "Select"
-msgstr ""
+msgstr "Seçme"
 
 msgid "Select a channel to correct the match"
-msgstr ""
+msgstr "Eşleşmeyi düzeltmek için bir kanal seçin"
 
 msgid "Select a channel to edit (use OK or RIGHT to go to matches)"
-msgstr ""
+msgstr "Düzenlenecek kanalı seçin (maçlara gitmek için OK veya SAĞ'ı kullanın)"
 
 msgid "Select a match and press OK to assign"
-msgstr ""
+msgstr "Bir eşleşme seçin ve atamak için Tamam'a basın"
 
 msgid "Select databases for channel matching"
-msgstr ""
+msgstr "Kanal eşleştirme için veritabanlarını seçin"
 
 msgid "Select file to import from {}"
-msgstr ""
+msgstr "{} kaynağından içe aktarılacak dosyayı seçin"
 
 msgid "Select import location"
-msgstr ""
+msgstr "İçe aktarma konumunu seçin"
 
 msgid "Selection mode active. Select items with OK"
-msgstr ""
+msgstr "Seçim modu etkin. Tamam ile öğeleri seçin"
 
 msgid "Selection mode off"
-msgstr ""
+msgstr "Seçim modu kapalı"
 
 msgid "Selection mode: Select items with OK"
-msgstr ""
+msgstr "Seçim modu: Öğeleri OK ile seçin"
 
 msgid "Service reload initiated"
-msgstr ""
+msgstr "Hizmet yeniden yükleme başlatıldı"
 
 msgid "Similarity threshold for DVB matches (20-100%)"
-msgstr ""
+msgstr "DVB eşleşmeleri için benzerlik eşiği (%20-100)"
 
 msgid "Similarity threshold for Rytec matches (20-100%)"
-msgstr ""
+msgstr "Rytec eşleşmeleri için benzerlik eşiği (%20-100)"
 
 msgid "Single Bouquet"
-msgstr ""
+msgstr "Tek Buket"
 
 msgid "Standard Mode"
-msgstr ""
+msgstr "Standart Mod"
 
 msgid "Stopped"
-msgstr ""
+msgstr "Durduruldu"
 
 msgid "Temporary"
-msgstr ""
+msgstr "Geçici"
 
 msgid "Temporary Files"
-msgstr ""
+msgstr "Geçici Dosyalar"
 
 msgid "Tools"
-msgstr ""
+msgstr "Aletler"
 
 msgid "Top"
-msgstr ""
+msgstr "Tepe"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "USB Sürücü"
 
 msgid "Undo"
-msgstr ""
+msgstr "Geri al"
 
 msgid "Undo: Restored previous state for {}"
-msgstr ""
+msgstr "Geri al: {} için önceki durum geri yüklendi"
 
 msgid "Universal Converter"
-msgstr ""
+msgstr "Evrensel Dönüştürücü"
 
 msgid "Unknown error"
-msgstr ""
+msgstr "Bilinmeyen hata"
 
 msgid "Unsupported conversion type"
-msgstr ""
+msgstr "Desteklenmeyen dönüşüm türü"
 
 msgid "Use saved manual corrections"
-msgstr ""
+msgstr "Kaydedilen manuel düzeltmeleri kullan"
 
 msgid "We're ready: what do you want to do?"
-msgstr ""
+msgstr "Biz hazırız: ne yapmak istiyorsunuz?"
 
 msgid "XSPF conversion error: %s"
-msgstr ""
+msgstr "XSPF dönüştürme hatası: %s"
 
 msgid "XSPF to M3U Playlist Conversion"
-msgstr ""
+msgstr "XSPF'den M3U Çalma Listesine Dönüştürme"
 
 msgid "XSPF to  M3U Playlist"
-msgstr ""
+msgstr "XSPF'den M3U'ya Çalma Listesi"
 
 msgid "merged"
-msgstr ""
+msgstr "birleştirilmiş"
 
 msgid "replaced"
-msgstr ""
+msgstr "değiştirildi"
 
 msgid "tv_to_m3u Conversion error: %s"
-msgstr ""
+msgstr "tv_to_m3u Dönüştürme hatası: %s"
 
 msgid " Current total: {}"
-msgstr ""
+msgstr "Mevcut toplam: {}"
 
 msgid " DVB: {} channels"
-msgstr ""
+msgstr "DVB: {} kanal"
 
 msgid " Duplicate mappings: {}"
-msgstr ""
+msgstr "Yinelenen eşlemeler: {}"
 
 msgid " Hit: {} ({:.1f}%)"
-msgstr ""
+msgstr "İsabet: {} ({:.1f}%)"
 
 msgid " Miss: {}"
-msgstr ""
+msgstr "Kayıp: {}"
 
 msgid " Mode: {}"
-msgstr ""
+msgstr "Mod: {}"
 
 msgid " New mappings: {}"
-msgstr ""
+msgstr "Yeni eşlemeler: {}"
 
 msgid " Rytec: {} channels"
-msgstr ""
+msgstr "Rytec: {} kanal"
 
 msgid " Size: {} entries"
-msgstr ""
+msgstr "Boyut: {} giriş"
 
 msgid " Total in import file: {}"
-msgstr ""
+msgstr "İçe aktarma dosyasındaki toplam: {}"
 
 msgid "  Manual DB: {} ({:.1f}%)"
-msgstr ""
+msgstr "Manuel Veritabanı: {} ({:.1f}%)"
 
 msgid "  DVB-S: {} ({:.1f}%)"
-msgstr ""
+msgstr "DVB-S: {} ({:.1f}%)"
 
 msgid "  DVB-T: {} ({:.1f}%)"
-msgstr ""
+msgstr "DVB-T: {} ({:.1f}%)"
 
 msgid "  IPTV Fallback: {} ({:.1f}%)"
-msgstr ""
+msgstr "IPTV Geri Dönüşü: {} ({:.1f}%)"
 
 msgid "  Rytec: {} ({:.1f}%)"
-msgstr ""
+msgstr "Rytec: {} ({:.1f}%)"
 
 msgid " Conversion type: {}"
-msgstr ""
+msgstr "Dönüşüm türü: {}"
 
 msgid " Status: Completed successfully"
-msgstr ""
+msgstr "Durum: Başarıyla tamamlandı"
 
 msgid " Valid channels processed: {}"
-msgstr ""
+msgstr "İşlenen geçerli kanallar: {}"
 
 msgid " Edit this mapping"
-msgstr ""
+msgstr "Bu eşlemeyi düzenle"
 
 msgid " Manual edits applied: {}"
-msgstr ""
+msgstr "Manuel düzenlemeler uygulandı: {}"
 
 msgid " Open Database Editor"
-msgstr ""
+msgstr "Veritabanı Düzenleyicisini Aç"
 
 msgid " Error generating statistics"
-msgstr ""
+msgstr "İstatistikler oluşturulurken hata oluştu"
 
 msgid " Merge (keep both)"
-msgstr ""
+msgstr "Birleştir (her ikisini de tut)"
 
 msgid " New mappings ({}):"
-msgstr ""
+msgstr "Yeni eşlemeler ({}):"
 
 msgid " CONVERSION COMPLETE"
-msgstr ""
+msgstr "DÖNÜŞTÜRME TAMAMLANDI"
 
 msgid " Effective EPG matches: {}"
-msgstr ""
+msgstr "Etkili EPG eşleşmeleri: {}"
 
 msgid " TOTAL CHANNELS: {}"
-msgstr ""
+msgstr "TOPLAM KANALLAR: {}"
 
 msgid " View Manual Database"
-msgstr ""
+msgstr "Manuel Veritabanını Görüntüle"
 
 msgid " CACHE PERFORMANCE:"
-msgstr ""
+msgstr "ÖNbellek PERFORMANSI:"
 
 msgid " Cache efficiency: {}"
-msgstr ""
+msgstr "Önbellek verimliliği: {}"
 
 msgid " Create Backup"
-msgstr ""
+msgstr "Yedekleme Oluştur"
 
 msgid " Manual DB matches: {}"
-msgstr ""
+msgstr "Manuel Veritabanı eşleşmeleri: {}"
 
 msgid " Output file: {}"
-msgstr ""
+msgstr "Çıkış dosyası: {}"
 
 msgid " File size: {}"
-msgstr ""
+msgstr "Dosya boyutu: {}"
 
 msgid " EFFECTIVE EPG coverage: {}"
-msgstr ""
+msgstr "ETKİLİ EPG kapsamı: {}"
 
 msgid " EPG COVERAGE: {:.1f}%"
-msgstr ""
+msgstr "EPG KAPSAMI: %{:.1f}"
 
 msgid " Statistics:"
-msgstr ""
+msgstr "İstatistikler:"
 
 msgid " EPG Cache Statistics"
-msgstr ""
+msgstr "EPG Önbellek İstatistikleri"
 
 msgid " EPG STATISTICS - {}"
-msgstr ""
+msgstr "EPG İSTATİSTİKLERİ - {}"
 
 msgid " IMPORT PREVIEW"
-msgstr ""
+msgstr "İTHALAT Önizlemesi"
 
 msgid " Preview Changes"
-msgstr ""
+msgstr "Değişiklikleri Önizle"
 
 msgid " Total channels in file: {}"
-msgstr ""
+msgstr "Dosyadaki toplam kanallar: {}"
 
 msgid " Plugin Info"
-msgstr ""
+msgstr "Eklenti Bilgisi"
 
 msgid " Manual Match Editing"
-msgstr ""
+msgstr "Manuel Eşleştirme Düzenleme"
 
 msgid " DVB channels in DB: {}"
-msgstr ""
+msgstr "DB'deki DVB kanalları: {}"
 
 msgid " DVB-T EPG matches: {}"
-msgstr ""
+msgstr "DVB-T EPG eşleşmeleri: {}"
 
 msgid " Export Manual Database"
-msgstr ""
+msgstr "Manuel Veritabanını Dışa Aktarma"
 
 msgid " Import Manual Database"
-msgstr ""
+msgstr "Manuel Veritabanını İçe Aktar"
 
 msgid " DVB EPG matches: {}"
-msgstr ""
+msgstr "DVB EPG eşleşmeleri: {}"
 
 msgid " Duplicates ({}):"
-msgstr ""
+msgstr "Kopyalar ({}):"
 
 msgid " Reload EPG Database"
-msgstr ""
+msgstr "EPG Veritabanını Yeniden Yükle"
 
 msgid " Reload Services"
-msgstr ""
+msgstr "Hizmetleri Yeniden Yükleme"
 
 msgid " Replace All ({} mappings)"
-msgstr ""
+msgstr "Tümünü Değiştir ({} eşleme)"
 
 msgid " Fallback (no EPG): {}"
-msgstr ""
+msgstr "Geri dönüş (EPG yok): {}"
 
 msgid " Cache size: {} entries"
-msgstr ""
+msgstr "Önbellek boyutu: {} giriş"
 
 msgid " Back"
-msgstr ""
+msgstr "Geri"
 
 msgid " Back to Tools"
-msgstr ""
+msgstr "Araçlara Geri Dön"
 
 msgid " Back to locations"
-msgstr ""
+msgstr "Konumlara geri dön"
 
 msgid " MATCH BREAKDOWN:"
-msgstr ""
+msgstr "MAÇ DAĞILIMI:"
 
 msgid " Completed at: {}"
-msgstr ""
+msgstr "Tamamlanma tarihi: {}"
 
 msgid " Edited at: {}"
-msgstr ""
+msgstr "Düzenlendiği yer: {}"
 
 msgid " === Manual Database Management ==="
-msgstr ""
+msgstr "=== Manuel Veritabanı Yönetimi ==="
 
 msgid " DATABASE INFO:"
-msgstr ""
+msgstr "VERİTABANI BİLGİSİ:"
 
 msgid " Database mode: {}"
-msgstr ""
+msgstr "Veritabanı modu: {}"
 
 msgid " Rytec channels in DB: {}"
-msgstr ""
+msgstr "DB'deki Rytec kanalları: {}"
 
 msgid " Clear Log File"
-msgstr ""
+msgstr "Günlük Dosyasını Temizle"
 
 msgid " Delete this mapping"
-msgstr ""
+msgstr "Bu eşlemeyi sil"
 
 msgid " Skipped channels: {}"
-msgstr ""
+msgstr "Atlanan kanallar: {}"
 
 msgid " Rytec EPG matches: {}"
-msgstr ""
+msgstr "Rytec EPG eşleşmeleri: {}"
 
 msgid " Clean Manual Database"
-msgstr ""
+msgstr "Manuel Veritabanını Temizleme"
 
 msgid " Clear EPG Cache"
-msgstr ""
+msgstr "EPG Önbelleğini Temizle"

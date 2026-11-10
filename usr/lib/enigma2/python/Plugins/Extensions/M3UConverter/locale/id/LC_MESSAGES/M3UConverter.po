@@ -10,958 +10,958 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "(Based on selected database mode: {})"
-msgstr ""
+msgstr "(Berdasarkan mode database yang dipilih: {})"
 
 msgid "(Reused previous manual corrections)"
-msgstr ""
+msgstr "(Menggunakan kembali koreksi manual sebelumnya)"
 
 msgid "- {} duplicate groups"
-msgstr ""
+msgstr "- {} grup duplikat"
 
 msgid "-- Auto-open Editor"
-msgstr ""
+msgstr "-- Editor Buka Otomatis"
 
 msgid "-- DVB search limit (Match Edit)"
-msgstr ""
+msgstr "-- Batas pencarian DVB (Edit Pencocokan)"
 
 msgid "-- Database Mode"
-msgstr ""
+msgstr "-- Modus Basis Data"
 
 msgid "-- EPG Generation Mode"
-msgstr ""
+msgstr "-- Mode Pembuatan EPG"
 
 msgid "-- EPG Language"
-msgstr ""
+msgstr "-- Bahasa EPG"
 
 msgid "-- Ignore DVB-T services"
-msgstr ""
+msgstr "-- Abaikan layanan DVB-T"
 
 msgid "-- Max Backups"
-msgstr ""
+msgstr "-- Cadangan Maks"
 
 msgid "-- Rytec search limit (Match Edit)"
-msgstr ""
+msgstr "-- Batas pencarian Rytec (Edit Pencocokan)"
 
 msgid "-- Similarity Threshold DVB (%)"
-msgstr ""
+msgstr "-- Ambang Kemiripan DVB (%)"
 
 msgid "-- Similarity Threshold Global (%)"
-msgstr ""
+msgstr "-- Ambang Kesamaan Global (%)"
 
 msgid "-- Similarity Threshold Rytec (%)"
-msgstr ""
+msgstr "-- Ambang Kemiripan Rytec (%)"
 
 msgid "-- Use Manual Database"
-msgstr ""
+msgstr "-- Gunakan Basis Data Manual"
 
 msgid "--- {} ({} duplicates) ---"
-msgstr ""
+msgstr "--- {} ({} duplikat) ---"
 
 msgid "---- Max manual corrections to save"
-msgstr ""
+msgstr "---- Koreksi manual maksimal untuk disimpan"
 
 msgid ">>> DUPLICATES VIEW"
-msgstr ""
+msgstr ">>> TAMPILAN DUPLIKAT"
 
 msgid ">>> SELECTION MODE - Select items with OK"
-msgstr ""
+msgstr ">>> MODE PEMILIHAN - Pilih item dengan OK"
 
 msgid ">>> {} duplicate groups, {} total mappings"
-msgstr ""
+msgstr ">>> {} grup duplikat, {} pemetaan total"
 
 msgid ">>> {} groups, {} mappings total"
-msgstr ""
+msgstr ">>> {} grup, {} total pemetaan"
 
 msgid "ALL MAPPINGS: {} total"
-msgstr ""
+msgstr "SEMUA PEMETAAN: {} total"
 
 msgid "Action for: {}"
-msgstr ""
+msgstr "Tindakan untuk: {}"
 
 msgid "Advanced Tools Menu"
-msgstr ""
+msgstr "Menu Alat Lanjutan"
 
 msgid "All Mappings"
-msgstr ""
+msgstr "Semua Pemetaan"
 
 msgid "Archimede Converter Settings"
-msgstr ""
+msgstr "Pengaturan Konverter Archimede"
 
 msgid "Archimede Universal Converter by Lululla v.{version} - {page}"
-msgstr ""
+msgstr "Konverter Universal Archimede oleh Lululla v.{version} - {page}"
 
 msgid "Archimede Universal Converter v.%s"
-msgstr ""
+msgstr "Konverter Universal Archimede v.%s"
 
 msgid "Archimede Universal Converter v.%s by Lululla"
-msgstr ""
+msgstr "Konverter Universal Archimede v.%s oleh Lululla"
 
 msgid "Backup created successfully!"
-msgstr ""
+msgstr "Cadangan berhasil dibuat!"
 
 msgid "Backup failed: {}"
-msgstr ""
+msgstr "Pencadangan gagal: {}"
 
 msgid "Barry Allen"
 msgstr ""
 
 msgid "Bottom"
-msgstr ""
+msgstr "Dasar"
 
 msgid "Bouquet Mode"
-msgstr ""
+msgstr "Modus Buket"
 
 msgid "Bouquet Position"
-msgstr ""
+msgstr "Posisi Karangan Bunga"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Membatalkan"
 
 msgid "Cancelling conversion..."
-msgstr ""
+msgstr "Membatalkan konversi..."
 
 msgid "Cancelling..."
-msgstr ""
+msgstr "Membatalkan..."
 
 msgid "Channel: {} | {} | Match: {} | Press RIGHT for matches"
-msgstr ""
+msgstr "Saluran: {} | {} | Cocok: {} | Tekan KANAN untuk pertandingan"
 
 msgid "Close"
-msgstr ""
+msgstr "Menutup"
 
 msgid "Conversion already in progress"
-msgstr ""
+msgstr "Konversi sedang berlangsung"
 
 msgid "Conversion cancelled"
-msgstr ""
+msgstr "Konversi dibatalkan"
 
 msgid "Conversion completed"
-msgstr ""
+msgstr "Konversi selesai"
 
 msgid "Conversion error: %s"
-msgstr ""
+msgstr "Kesalahan konversi: %s"
 
 msgid "Conversion failed: Invalid result"
-msgstr ""
+msgstr "Konversi gagal: Hasil tidak valid"
 
 msgid "Conversion failed: {}"
-msgstr ""
+msgstr "Konversi gagal: {}"
 
 msgid "Conversion in progress..."
-msgstr ""
+msgstr "Konversi sedang berlangsung..."
 
 msgid "Convert"
-msgstr ""
+msgstr "Mengubah"
 
 msgid "Convert HLS Streams"
-msgstr ""
+msgstr "Konversi Aliran HLS"
 
 msgid "Convert HLS to Enigma2 format"
-msgstr ""
+msgstr "Ubah format HLS ke format Enigma2"
 
 msgid "Convert JSON to M3U"
-msgstr ""
+msgstr "Konversikan JSON ke M3U"
 
 msgid "Convert JSON to TV"
-msgstr ""
+msgstr "Konversi JSON ke TV"
 
 msgid "Convert M3U to JSON"
-msgstr ""
+msgstr "Konversikan M3U ke JSON"
 
 msgid "Convert M3U to TV"
-msgstr ""
+msgstr "Konversikan M3U ke TV"
 
 msgid "Convert TV to M3U"
-msgstr ""
+msgstr "Konversi TV ke M3U"
 
 msgid "Convert TV to TV"
-msgstr ""
+msgstr "Ubah TV menjadi TV"
 
 msgid "Convert XSPF to M3U"
-msgstr ""
+msgstr "Konversikan XSPF ke M3U"
 
 msgid "Convert between M3U Enigma2 Bouquets Json"
-msgstr ""
+msgstr "Konversi antara Karangan Bunga M3U Enigma2 Json"
 
 msgid "Converting: %d/%d (%d%%)"
-msgstr ""
+msgstr "Konversi: %d/%d (%d%%)"
 
 msgid "Converting: {name} ({percent}%)"
-msgstr ""
+msgstr "Mengonversi: {name} ({percent}%)"
 
 msgid "Converting: {title} ({percent}%)"
-msgstr ""
+msgstr "Mengonversi: {name} ({percent}%)"
 
 msgid "Converting: {} ({}%)"
-msgstr ""
+msgstr "Mengonversi: {} ({}%)"
 
 msgid "Create Backup"
-msgstr ""
+msgstr "Buat Cadangan"
 
 msgid "Create backup before conversion"
-msgstr ""
+msgstr "Buat cadangan sebelum konversi"
 
 msgid "Create single or multiple bouquets"
-msgstr ""
+msgstr "Buat karangan bunga tunggal atau ganda"
 
 msgid "DUPLICATES: {} groups, {} mappings"
-msgstr ""
+msgstr "DUPLIKAT: {} grup, {} pemetaan"
 
 msgid "DVB + Rytec"
-msgstr ""
+msgstr "DVB + Pengukir"
 
 msgid "DVB + Rytec + DTT (Full)"
-msgstr ""
+msgstr "DVB + Rytec + DTT (Penuh)"
 
 msgid "Database Directory"
-msgstr ""
+msgstr "Direktori Basis Data"
 
 msgid "Debug Mode"
-msgstr ""
+msgstr "Modus Debug"
 
 msgid "Default Folder"
-msgstr ""
+msgstr "Folder Bawaan"
 
 msgid "Default folder for opening and saving M3U files"
-msgstr ""
+msgstr "Folder default untuk membuka dan menyimpan file M3U"
 
 msgid "Delete"
-msgstr ""
+msgstr "Menghapus"
 
 msgid "Deleted {} items"
-msgstr ""
+msgstr "Menghapus {} item"
 
 msgid "Deleted {} items. No more duplicates."
-msgstr ""
+msgstr "Menghapus {} item. Tidak ada lagi duplikat."
 
 msgid "Deleted {} items. Still in selection mode."
-msgstr ""
+msgstr "Menghapus {} item. Masih dalam mode seleksi."
 
 msgid "Done"
-msgstr ""
+msgstr "Selesai"
 
 msgid "Duplicates"
-msgstr ""
+msgstr "Duplikat"
 
 msgid "EPG Coverage: {}/{} channels ({:.1f}%)"
-msgstr ""
+msgstr "Cakupan EPG: {}/{} saluran ({:.1f}%)"
 
 msgid "EPG assigned: {} | {}"
-msgstr ""
+msgstr "EPG ditugaskan: {} | {}"
 
 msgid "EPG cache cleared! {} entries removed"
-msgstr ""
+msgstr "Cache EPG dibersihkan! {} entri dihapus"
 
 msgid "EPG database reloaded successfully!"
-msgstr ""
+msgstr "Basis data EPG berhasil dimuat ulang!"
 
 msgid "EPG mapper not available"
-msgstr ""
+msgstr "Pemeta EPG tidak tersedia"
 
 msgid "EPG mapper not initialized"
-msgstr ""
+msgstr "Pemeta EPG tidak diinisialisasi"
 
 msgid "EPG matching algorithm"
-msgstr ""
+msgstr "Algoritma pencocokan EPG"
 
 msgid "EPGImport plugin not found"
-msgstr ""
+msgstr "Plugin EPGImport tidak ditemukan"
 
 msgid "EPGImporter"
-msgstr ""
+msgstr "Importir EPG"
 
 msgid "EPGShare Mode"
-msgstr ""
+msgstr "Mode Berbagi EPG"
 
 msgid "Enable EPG"
-msgstr ""
+msgstr "Aktifkan EPG"
 
 msgid "Enable detailed logging"
-msgstr ""
+msgstr "Aktifkan pencatatan terperinci"
 
 msgid "Enigma2 Bouquet to Enigma2 Bouquet Conversion"
-msgstr ""
+msgstr "Konversi Buket Enigma2 ke Buket Enigma2"
 
 msgid "Enigma2 Bouquet to M3U Conversion"
-msgstr ""
+msgstr "Konversi Buket Enigma2 ke M3U"
 
 msgid "Enigma2 Bouquets to  Enigma2 Bouquets"
-msgstr ""
+msgstr "Karangan Bunga Enigma2 ke Karangan Bunga Enigma2"
 
 msgid "Enigma2 Bouquets to  M3U"
-msgstr ""
+msgstr "Karangan Bunga Enigma2 ke M3U"
 
 msgid "Error clearing EPG cache"
-msgstr ""
+msgstr "Terjadi kesalahan saat membersihkan cache EPG"
 
 msgid "Error clearing database"
-msgstr ""
+msgstr "Terjadi kesalahan saat menghapus basis data"
 
 msgid "Error deleting correction"
-msgstr ""
+msgstr "Kesalahan saat menghapus koreksi"
 
 msgid "Error deleting items"
-msgstr ""
+msgstr "Terjadi kesalahan saat menghapus item"
 
 msgid "Error deleting mapping"
-msgstr ""
+msgstr "Terjadi kesalahan saat menghapus pemetaan"
 
 msgid "Error exporting database"
-msgstr ""
+msgstr "Terjadi kesalahan saat mengekspor basis data"
 
 msgid "Error finalizing import: {}"
-msgstr ""
+msgstr "Kesalahan saat menyelesaikan impor: {}"
 
 msgid "Error importing database: {}"
-msgstr ""
+msgstr "Terjadi kesalahan saat mengimpor database: {}"
 
 msgid "Error initiating service reload"
-msgstr ""
+msgstr "Terjadi kesalahan saat memulai pemuatan ulang layanan"
 
 msgid "Error loading database"
-msgstr ""
+msgstr "Terjadi kesalahan saat memuat basis data"
 
 msgid "Error opening plugin information: %s"
-msgstr ""
+msgstr "Kesalahan saat membuka informasi plugin: %s"
 
 msgid "Error processing conversion result"
-msgstr ""
+msgstr "Terjadi kesalahan saat memproses hasil konversi"
 
 msgid "Error reloading EPG database: {}"
-msgstr ""
+msgstr "Terjadi kesalahan saat memuat ulang database EPG: {}"
 
 msgid "Error saving imported database"
-msgstr ""
+msgstr "Terjadi kesalahan saat menyimpan basis data yang diimpor"
 
 msgid "Error starting import: {}"
-msgstr ""
+msgstr "Terjadi kesalahan saat memulai impor: {}"
 
 msgid "Error undoing action"
-msgstr ""
+msgstr "Terjadi kesalahan saat mengurungkan tindakan"
 
 msgid "Error: Channel index out of range"
-msgstr ""
+msgstr "Kesalahan: Indeks saluran di luar jangkauan"
 
 msgid "Failed to initialize EPG mapper - check logs"
-msgstr ""
+msgstr "Gagal menginisialisasi pembuat peta EPG - periksa log"
 
 msgid "File loaded: {}"
-msgstr ""
+msgstr "File dimuat: {}"
 
 msgid "File not found"
-msgstr ""
+msgstr "Berkas tidak ditemukan"
 
 msgid "File write error: %s"
-msgstr ""
+msgstr "Kesalahan penulisan berkas: %s"
 
 msgid "File: {}"
-msgstr ""
+msgstr "Berkas: {}"
 
 msgid "Files larger than this will be sampled (1000 channels max)"
-msgstr ""
+msgstr "File yang lebih besar dari ini akan diambil sampelnya (maks 1000 saluran)"
 
 msgid "First select a match from the right list (use RIGHT arrow)"
-msgstr ""
+msgstr "Pertama pilih kecocokan dari daftar kanan (gunakan panah KANAN)"
 
 msgid "Found {} matches for: {} | Select and press OK"
-msgstr ""
+msgstr "Ditemukan {} yang cocok untuk: {} | Pilih dan tekan OK"
 
 msgid "Found {} matches so far for: {} | Searching..."
-msgstr ""
+msgstr "Sejauh ini ditemukan kecocokan {} untuk: {} | Mencari..."
 
 msgid "Generate EPG data for bouquets"
-msgstr ""
+msgstr "Hasilkan data EPG untuk karangan bunga"
 
 msgid "Global similarity threshold for all matches (20-100%)"
-msgstr ""
+msgstr "Ambang batas kesamaan global untuk semua kecocokan (20-100%)"
 
 msgid "HDD Drive"
-msgstr ""
+msgstr "Drive HDD"
 
 msgid "Ignore DVB-T services on conversion"
-msgstr ""
+msgstr "Abaikan layanan DVB-T pada konversi"
 
 msgid "Import {} mappings from {}"
-msgstr ""
+msgstr "Impor pemetaan {} dari {}"
 
 msgid "Invalid .m3u item format"
-msgstr ""
+msgstr "Format item .m3u tidak valid"
 
 msgid "Invalid .tv item format"
-msgstr ""
+msgstr "Format item .tv tidak valid"
 
 msgid "Invalid XSPF file"
-msgstr ""
+msgstr "Berkas XSPF tidak valid"
 
 msgid "Invalid database file structure"
-msgstr ""
+msgstr "Struktur file database tidak valid"
 
 msgid "Invalid selection"
-msgstr ""
+msgstr "Pilihan tidak valid"
 
 msgid "JSON to Enigma2 Bouquet Conversion"
-msgstr ""
+msgstr "Konversi Buket JSON ke Enigma2"
 
 msgid "JSON to M3U Conversion"
-msgstr ""
+msgstr "Konversi JSON ke M3U"
 
 msgid "JSON to  Enigma2 Bouquets"
-msgstr ""
+msgstr "Karangan Bunga JSON ke Enigma2"
 
 msgid "JSON to  M3U"
-msgstr ""
+msgstr "JSON ke M3U"
 
 msgid "Language for EPG sources"
-msgstr ""
+msgstr "Bahasa untuk sumber EPG"
 
 msgid "Large file detected: {:.1f}MB. Processing first {} channels..."
-msgstr ""
+msgstr "File besar terdeteksi: {:.1f}MB. Memproses {} saluran pertama..."
 
 msgid "Large file threshold (MB)"
-msgstr ""
+msgstr "Ambang batas file besar (MB)"
 
 msgid "Loaded first %d channels. Press Green to convert."
-msgstr ""
+msgstr "Memuat %d saluran pertama. Tekan Hijau untuk mengonversi."
 
 msgid "Loading database..."
-msgstr ""
+msgstr "Memuat basis data..."
 
 msgid "Log file cleared successfully"
-msgstr ""
+msgstr "File log berhasil dibersihkan"
 
 msgid "M3U to Enigma2 Bouquet Conversion"
-msgstr ""
+msgstr "Konversi Buket M3U ke Enigma2"
 
 msgid "M3U to JSON Conversion"
-msgstr ""
+msgstr "Konversi M3U ke JSON"
 
 msgid "M3U to  Enigma2 Bouquets"
-msgstr ""
+msgstr "Karangan Bunga M3U hingga Enigma2"
 
 msgid "M3U to  JSON"
-msgstr ""
+msgstr "M3U ke JSON"
 
 msgid "Manual Corrections ({} total)"
-msgstr ""
+msgstr "Koreksi Manual (total {})"
 
 msgid "Manual Database Editor"
-msgstr ""
+msgstr "Editor Basis Data Manual"
 
 msgid "Manual EPG Match Editor"
-msgstr ""
+msgstr "Editor Pencocokan EPG Manual"
 
 msgid "Manual database cleared"
-msgstr ""
+msgstr "Basis data manual dihapus"
 
 msgid "Manual database not available"
-msgstr ""
+msgstr "Basis data manual tidak tersedia"
 
 msgid "Manual editing completed"
-msgstr ""
+msgstr "Pengeditan manual selesai"
 
 msgid "Manual editing completed - ready for conversion"
-msgstr ""
+msgstr "Pengeditan manual selesai - siap untuk konversi"
 
 msgid "Mapping deleted successfully"
-msgstr ""
+msgstr "Pemetaan berhasil dihapus"
 
 msgid "Match Editor"
-msgstr ""
+msgstr "Editor Pertandingan"
 
 msgid "Match reset for: {}"
-msgstr ""
+msgstr "Penyetelan ulang kecocokan untuk: {}"
 
 msgid "Max DVB entries scanned during automatic Match Edit (Slow down scanning)"
-msgstr ""
+msgstr "Entri DVB maks dipindai selama Pengeditan Pencocokan otomatis (Memperlambat pemindaian)"
 
 msgid "Max Rytec entries scanned during automatic Match Edit (Slow down scanning)"
-msgstr ""
+msgstr "Entri Max Rytec dipindai selama Pengeditan Pencocokan otomatis (Memperlambat pemindaian)"
 
 msgid "Maximum backup copies"
-msgstr ""
+msgstr "Salinan cadangan maksimum"
 
 msgid "Maximum manual corrections to save"
-msgstr ""
+msgstr "Koreksi manual maksimum untuk disimpan"
 
 msgid "Multiple Bouquets"
-msgstr ""
+msgstr "Beberapa Karangan Bunga"
 
 msgid "Network Storage"
-msgstr ""
+msgstr "Penyimpanan Jaringan"
 
 msgid "Next"
-msgstr ""
+msgstr "Berikutnya"
 
 msgid "No IPTV channels found in the bouquet"
-msgstr ""
+msgstr "Tidak ada saluran IPTV yang ditemukan di buket"
 
 msgid "No M3UConverter bouquets found to remove."
-msgstr ""
+msgstr "Tidak ada karangan bunga M3UConverter yang ditemukan untuk dihapus."
 
 msgid "No MANUAL changes to save"
-msgstr ""
+msgstr "Tidak ada perubahan MANUAL untuk disimpan"
 
 msgid "No MANUAL corrections saved"
-msgstr ""
+msgstr "Tidak ada koreksi MANUAL yang disimpan"
 
 msgid "No actions to undo"
-msgstr ""
+msgstr "Tidak ada tindakan untuk dibatalkan"
 
 msgid "No channels available"
-msgstr ""
+msgstr "Tidak ada saluran yang tersedia"
 
 msgid "No channels loaded. Please select a valid TV bouquet file."
-msgstr ""
+msgstr "Tidak ada saluran yang dimuat. Silakan pilih file buket TV yang valid."
 
 msgid "No conversion data available."
-msgstr ""
+msgstr "Tidak ada data konversi yang tersedia."
 
 msgid "No conversion data available. Please run a conversion first."
-msgstr ""
+msgstr "Tidak ada data konversi yang tersedia. Silakan jalankan konversi terlebih dahulu."
 
 msgid "No conversion statistics available."
-msgstr ""
+msgstr "Tidak ada statistik konversi yang tersedia."
 
 msgid "No duplicates available for selection"
-msgstr ""
+msgstr "Tidak ada duplikat yang tersedia untuk dipilih"
 
 msgid "No duplicates found"
-msgstr ""
+msgstr "Tidak ada duplikat yang ditemukan"
 
 msgid "No duplicates found in the database"
-msgstr ""
+msgstr "Tidak ada duplikat yang ditemukan di database"
 
 msgid "No file selected"
-msgstr ""
+msgstr "Tidak ada berkas yang dipilih"
 
 msgid "No file selected for conversion"
-msgstr ""
+msgstr "Tidak ada file yang dipilih untuk konversi"
 
 msgid "No items selected for deletion"
-msgstr ""
+msgstr "Tidak ada item yang dipilih untuk dihapus"
 
 msgid "No manual corrections found"
-msgstr ""
+msgstr "Tidak ditemukan koreksi manual"
 
 msgid "No manual corrections to export"
-msgstr ""
+msgstr "Tidak ada koreksi manual untuk diekspor"
 
 msgid "No mappings available"
-msgstr ""
+msgstr "Tidak ada pemetaan yang tersedia"
 
 msgid "No matches found - try different search"
-msgstr ""
+msgstr "Tidak ada kecocokan yang ditemukan - coba pencarian lain"
 
 msgid "No matches found for: {}"
-msgstr ""
+msgstr "Tidak ditemukan kecocokan untuk: {}"
 
 msgid "No statistics available"
-msgstr ""
+msgstr "Tidak ada statistik yang tersedia"
 
 msgid "No valid channels found in the JSON file"
-msgstr ""
+msgstr "Tidak ditemukan saluran valid di file JSON"
 
 msgid "Only DTT"
-msgstr ""
+msgstr "Hanya DTT"
 
 msgid "Only DVB"
-msgstr ""
+msgstr "Hanya DVB"
 
 msgid "Only Rytec"
-msgstr ""
+msgstr "Hanya Rytec"
 
 msgid "Open File"
-msgstr ""
+msgstr "Buka Berkas"
 
 msgid "Open manual editor after conversion"
-msgstr ""
+msgstr "Buka editor manual setelah konversi"
 
 msgid "Playback error"
-msgstr ""
+msgstr "Kesalahan pemutaran"
 
 msgid "Playing: %s"
-msgstr ""
+msgstr "Memutar: %s"
 
 msgid "Please select a channel first"
-msgstr ""
+msgstr "Silakan pilih saluran terlebih dahulu"
 
 msgid "Please select a mapping (not a group header)"
-msgstr ""
+msgstr "Silakan pilih pemetaan (bukan header grup)"
 
 msgid "Please select a mapping to delete"
-msgstr ""
+msgstr "Silakan pilih pemetaan yang akan dihapus"
 
 msgid "Please select a valid match from the right list"
-msgstr ""
+msgstr "Silakan pilih kecocokan yang valid dari daftar kanan"
 
 msgid "Plugin Information"
-msgstr ""
+msgstr "Informasi Pengaya"
 
 msgid "Position in channel list"
-msgstr ""
+msgstr "Posisi dalam daftar saluran"
 
 msgid "Press RED to select file"
-msgstr ""
+msgstr "Tekan MERAH untuk memilih file"
 
 msgid "Prev"
-msgstr ""
+msgstr "Sebelumnya"
 
 msgid "Processing selection..."
-msgstr ""
+msgstr "Seleksi pemrosesan..."
 
 msgid "Ready"
-msgstr ""
+msgstr "Siap"
 
 msgid "Ready for next operation"
-msgstr ""
+msgstr "Siap untuk operasi selanjutnya"
 
 msgid "Ready to convert"
-msgstr ""
+msgstr "Siap untuk mengkonversi"
 
 msgid "Ready: Select the file from the %s you configured in settings."
-msgstr ""
+msgstr "Siap: Pilih file dari %s yang Anda konfigurasikan di pengaturan."
 
 msgid "Reloading services..."
-msgstr ""
+msgstr "Memuat ulang layanan..."
 
 msgid "Remove Bouquets"
-msgstr ""
+msgstr "Hapus Karangan Bunga"
 
 msgid "Remove M3U Bouquets"
-msgstr ""
+msgstr "Hapus Karangan Bunga M3U"
 
 msgid "Reset"
-msgstr ""
+msgstr "Mengatur ulang"
 
 msgid "Run a conversion first to see statistics."
-msgstr ""
+msgstr "Jalankan konversi terlebih dahulu untuk melihat statistik."
 
 msgid "SELECTION MODE: {} items selected"
-msgstr ""
+msgstr "MODE PEMILIHAN: {} item dipilih"
 
 msgid "Save All"
-msgstr ""
+msgstr "Simpan Semua"
 
 msgid "Save error"
-msgstr ""
+msgstr "Simpan kesalahan"
 
 msgid "Saved {} MANUAL corrections"
-msgstr ""
+msgstr "Menyimpan {} koreksi MANUAL"
 
 msgid "Searching matches for: {}..."
-msgstr ""
+msgstr "Mencari kecocokan untuk: {}..."
 
 msgid "Select"
-msgstr ""
+msgstr "Memilih"
 
 msgid "Select a channel to correct the match"
-msgstr ""
+msgstr "Pilih saluran untuk mengoreksi kecocokan"
 
 msgid "Select a channel to edit (use OK or RIGHT to go to matches)"
-msgstr ""
+msgstr "Pilih saluran yang akan diedit (gunakan OK atau KANAN untuk menuju ke pertandingan)"
 
 msgid "Select a match and press OK to assign"
-msgstr ""
+msgstr "Pilih kecocokan dan tekan OK untuk menetapkan"
 
 msgid "Select databases for channel matching"
-msgstr ""
+msgstr "Pilih database untuk pencocokan saluran"
 
 msgid "Select file to import from {}"
-msgstr ""
+msgstr "Pilih file yang akan diimpor dari {}"
 
 msgid "Select import location"
-msgstr ""
+msgstr "Pilih lokasi impor"
 
 msgid "Selection mode active. Select items with OK"
-msgstr ""
+msgstr "Mode pemilihan aktif. Pilih item dengan OK"
 
 msgid "Selection mode off"
-msgstr ""
+msgstr "Mode pemilihan mati"
 
 msgid "Selection mode: Select items with OK"
-msgstr ""
+msgstr "Mode pemilihan: Pilih item dengan OK"
 
 msgid "Service reload initiated"
-msgstr ""
+msgstr "Pemuatan ulang layanan dimulai"
 
 msgid "Similarity threshold for DVB matches (20-100%)"
-msgstr ""
+msgstr "Ambang batas kesamaan untuk pertandingan DVB (20-100%)"
 
 msgid "Similarity threshold for Rytec matches (20-100%)"
-msgstr ""
+msgstr "Ambang batas kemiripan untuk kecocokan Rytec (20-100%)"
 
 msgid "Single Bouquet"
-msgstr ""
+msgstr "Buket Tunggal"
 
 msgid "Standard Mode"
-msgstr ""
+msgstr "Modus Standar"
 
 msgid "Stopped"
-msgstr ""
+msgstr "Berhenti"
 
 msgid "Temporary"
-msgstr ""
+msgstr "Sementara"
 
 msgid "Temporary Files"
-msgstr ""
+msgstr "File Sementara"
 
 msgid "Tools"
-msgstr ""
+msgstr "Peralatan"
 
 msgid "Top"
-msgstr ""
+msgstr "Atas"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "Drive USB"
 
 msgid "Undo"
-msgstr ""
+msgstr "Membuka"
 
 msgid "Undo: Restored previous state for {}"
-msgstr ""
+msgstr "Undo: Memulihkan keadaan sebelumnya untuk {}"
 
 msgid "Universal Converter"
-msgstr ""
+msgstr "Konverter Universal"
 
 msgid "Unknown error"
-msgstr ""
+msgstr "Kesalahan tidak diketahui"
 
 msgid "Unsupported conversion type"
-msgstr ""
+msgstr "Jenis konversi tidak didukung"
 
 msgid "Use saved manual corrections"
-msgstr ""
+msgstr "Gunakan koreksi manual yang disimpan"
 
 msgid "We're ready: what do you want to do?"
-msgstr ""
+msgstr "Kami siap: apa yang ingin Anda lakukan?"
 
 msgid "XSPF conversion error: %s"
-msgstr ""
+msgstr "Kesalahan konversi XSPF: %s"
 
 msgid "XSPF to M3U Playlist Conversion"
-msgstr ""
+msgstr "Konversi Daftar Putar XSPF ke M3U"
 
 msgid "XSPF to  M3U Playlist"
-msgstr ""
+msgstr "Daftar Putar XSPF ke M3U"
 
 msgid "merged"
-msgstr ""
+msgstr "digabungkan"
 
 msgid "replaced"
-msgstr ""
+msgstr "diganti"
 
 msgid "tv_to_m3u Conversion error: %s"
-msgstr ""
+msgstr "tv_to_m3u Kesalahan konversi: %s"
 
 msgid " Current total: {}"
-msgstr ""
+msgstr "Jumlah saat ini: {}"
 
 msgid " DVB: {} channels"
-msgstr ""
+msgstr "DVB: {} saluran"
 
 msgid " Duplicate mappings: {}"
-msgstr ""
+msgstr "Pemetaan duplikat: {}"
 
 msgid " Hit: {} ({:.1f}%)"
-msgstr ""
+msgstr "Pukul: {} ({:.1f}%)"
 
 msgid " Miss: {}"
-msgstr ""
+msgstr "Merindukan: {}"
 
 msgid " Mode: {}"
-msgstr ""
+msgstr "Modus: {}"
 
 msgid " New mappings: {}"
-msgstr ""
+msgstr "Pemetaan baru: {}"
 
 msgid " Rytec: {} channels"
-msgstr ""
+msgstr "Rytec: {} saluran"
 
 msgid " Size: {} entries"
-msgstr ""
+msgstr "Ukuran: {} entri"
 
 msgid " Total in import file: {}"
-msgstr ""
+msgstr "Total file yang diimpor: {}"
 
 msgid "  Manual DB: {} ({:.1f}%)"
-msgstr ""
+msgstr "DB Manual: {} ({:.1f}%)"
 
 msgid "  DVB-S: {} ({:.1f}%)"
-msgstr ""
+msgstr "DVB-S: {} ({:.1f}%)"
 
 msgid "  DVB-T: {} ({:.1f}%)"
-msgstr ""
+msgstr "DVB-T: {} ({:.1f}%)"
 
 msgid "  IPTV Fallback: {} ({:.1f}%)"
-msgstr ""
+msgstr "Penggantian IPTV: {} ({:.1f}%)"
 
 msgid "  Rytec: {} ({:.1f}%)"
-msgstr ""
+msgstr "Rytec: {} ({:.1f}%)"
 
 msgid " Conversion type: {}"
-msgstr ""
+msgstr "Tipe konversi: {}"
 
 msgid " Status: Completed successfully"
-msgstr ""
+msgstr "Status: Berhasil diselesaikan"
 
 msgid " Valid channels processed: {}"
-msgstr ""
+msgstr "Saluran valid yang diproses: {}"
 
 msgid " Edit this mapping"
-msgstr ""
+msgstr "Edit pemetaan ini"
 
 msgid " Manual edits applied: {}"
-msgstr ""
+msgstr "Pengeditan manual diterapkan: {}"
 
 msgid " Open Database Editor"
-msgstr ""
+msgstr "Buka Editor Basis Data"
 
 msgid " Error generating statistics"
-msgstr ""
+msgstr "Kesalahan saat menghasilkan statistik"
 
 msgid " Merge (keep both)"
-msgstr ""
+msgstr "Gabungkan (pertahankan keduanya)"
 
 msgid " New mappings ({}):"
-msgstr ""
+msgstr "Pemetaan baru ({}):"
 
 msgid " CONVERSION COMPLETE"
-msgstr ""
+msgstr "KONVERSI SELESAI"
 
 msgid " Effective EPG matches: {}"
-msgstr ""
+msgstr "Kecocokan EPG yang efektif: {}"
 
 msgid " TOTAL CHANNELS: {}"
-msgstr ""
+msgstr "JUMLAH SALURAN: {}"
 
 msgid " View Manual Database"
-msgstr ""
+msgstr "Lihat Basis Data Manual"
 
 msgid " CACHE PERFORMANCE:"
-msgstr ""
+msgstr "KINERJA CACHE:"
 
 msgid " Cache efficiency: {}"
-msgstr ""
+msgstr "Efisiensi cache: {}"
 
 msgid " Create Backup"
-msgstr ""
+msgstr "Buat Cadangan"
 
 msgid " Manual DB matches: {}"
-msgstr ""
+msgstr "Pencocokan DB manual: {}"
 
 msgid " Output file: {}"
-msgstr ""
+msgstr "Berkas keluaran: {}"
 
 msgid " File size: {}"
-msgstr ""
+msgstr "Ukuran berkas: {}"
 
 msgid " EFFECTIVE EPG coverage: {}"
-msgstr ""
+msgstr "Cakupan EPG yang EFEKTIF: {}"
 
 msgid " EPG COVERAGE: {:.1f}%"
-msgstr ""
+msgstr "CAKUPAN EPG: {:.1f}%"
 
 msgid " Statistics:"
-msgstr ""
+msgstr "Statistik:"
 
 msgid " EPG Cache Statistics"
-msgstr ""
+msgstr "Statistik Tembolok EPG"
 
 msgid " EPG STATISTICS - {}"
-msgstr ""
+msgstr "STATISTIK EPG - {}"
 
 msgid " IMPORT PREVIEW"
-msgstr ""
+msgstr "PREVIEW IMPOR"
 
 msgid " Preview Changes"
-msgstr ""
+msgstr "Pratinjau Perubahan"
 
 msgid " Total channels in file: {}"
-msgstr ""
+msgstr "Total saluran dalam file: {}"
 
 msgid " Plugin Info"
-msgstr ""
+msgstr "Informasi Pengaya"
 
 msgid " Manual Match Editing"
-msgstr ""
+msgstr "Pengeditan Pencocokan Manual"
 
 msgid " DVB channels in DB: {}"
-msgstr ""
+msgstr "Saluran DVB di DB: {}"
 
 msgid " DVB-T EPG matches: {}"
-msgstr ""
+msgstr "Kecocokan DVB-T EPG: {}"
 
 msgid " Export Manual Database"
-msgstr ""
+msgstr "Ekspor Basis Data Manual"
 
 msgid " Import Manual Database"
-msgstr ""
+msgstr "Impor Basis Data Manual"
 
 msgid " DVB EPG matches: {}"
-msgstr ""
+msgstr "Kecocokan DVB EPG: {}"
 
 msgid " Duplicates ({}):"
-msgstr ""
+msgstr "Duplikat ({}):"
 
 msgid " Reload EPG Database"
-msgstr ""
+msgstr "Muat ulang Basis Data EPG"
 
 msgid " Reload Services"
-msgstr ""
+msgstr "Muat Ulang Layanan"
 
 msgid " Replace All ({} mappings)"
-msgstr ""
+msgstr "Ganti Semua (pemetaan {})"
 
 msgid " Fallback (no EPG): {}"
-msgstr ""
+msgstr "Penggantian (tanpa EPG): {}"
 
 msgid " Cache size: {} entries"
-msgstr ""
+msgstr "Ukuran cache: {} entri"
 
 msgid " Back"
-msgstr ""
+msgstr "Kembali"
 
 msgid " Back to Tools"
-msgstr ""
+msgstr "Kembali ke Alat"
 
 msgid " Back to locations"
-msgstr ""
+msgstr "Kembali ke lokasi"
 
 msgid " MATCH BREAKDOWN:"
-msgstr ""
+msgstr "RINCIAN PERTANDINGAN:"
 
 msgid " Completed at: {}"
-msgstr ""
+msgstr "Selesai pada: {}"
 
 msgid " Edited at: {}"
-msgstr ""
+msgstr "Diedit di: {}"
 
 msgid " === Manual Database Management ==="
-msgstr ""
+msgstr "=== Manajemen Basis Data Manual ==="
 
 msgid " DATABASE INFO:"
-msgstr ""
+msgstr "INFO DATABASE :"
 
 msgid " Database mode: {}"
-msgstr ""
+msgstr "Mode basis data: {}"
 
 msgid " Rytec channels in DB: {}"
-msgstr ""
+msgstr "Saluran Rytec di DB: {}"
 
 msgid " Clear Log File"
-msgstr ""
+msgstr "Hapus File Log"
 
 msgid " Delete this mapping"
-msgstr ""
+msgstr "Hapus pemetaan ini"
 
 msgid " Skipped channels: {}"
-msgstr ""
+msgstr "Saluran yang dilewati: {}"
 
 msgid " Rytec EPG matches: {}"
-msgstr ""
+msgstr "Pertandingan Rytec EPG: {}"
 
 msgid " Clean Manual Database"
-msgstr ""
+msgstr "Bersihkan Basis Data Manual"
 
 msgid " Clear EPG Cache"
-msgstr ""
+msgstr "Hapus Cache EPG"

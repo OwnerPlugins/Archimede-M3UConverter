@@ -10,958 +10,958 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "(Based on selected database mode: {})"
-msgstr ""
+msgstr "（基于所选数据库模式：{}）"
 
 msgid "(Reused previous manual corrections)"
-msgstr ""
+msgstr "（重复使用之前的手动更正）"
 
 msgid "- {} duplicate groups"
-msgstr ""
+msgstr "- {} 个重复组"
 
 msgid "-- Auto-open Editor"
-msgstr ""
+msgstr "-- 自动打开编辑器"
 
 msgid "-- DVB search limit (Match Edit)"
-msgstr ""
+msgstr "-- DVB 搜索限制（匹配编辑）"
 
 msgid "-- Database Mode"
-msgstr ""
+msgstr "-- 数据库模式"
 
 msgid "-- EPG Generation Mode"
-msgstr ""
+msgstr "-- EPG生成方式"
 
 msgid "-- EPG Language"
-msgstr ""
+msgstr "-- 电子节目指南语言"
 
 msgid "-- Ignore DVB-T services"
-msgstr ""
+msgstr "-- 忽略 DVB-T 服务"
 
 msgid "-- Max Backups"
-msgstr ""
+msgstr "-- 最大备份数"
 
 msgid "-- Rytec search limit (Match Edit)"
-msgstr ""
+msgstr "-- Rytec 搜索限制（比赛编辑）"
 
 msgid "-- Similarity Threshold DVB (%)"
-msgstr ""
+msgstr "-- 相似度阈值 DVB (%)"
 
 msgid "-- Similarity Threshold Global (%)"
-msgstr ""
+msgstr "-- 全局相似度阈值 (%)"
 
 msgid "-- Similarity Threshold Rytec (%)"
-msgstr ""
+msgstr "-- 相似度阈值 Rytec (%)"
 
 msgid "-- Use Manual Database"
-msgstr ""
+msgstr "-- 使用手动数据库"
 
 msgid "--- {} ({} duplicates) ---"
-msgstr ""
+msgstr "--- {}（{} 重复）---"
 
 msgid "---- Max manual corrections to save"
-msgstr ""
+msgstr "---- 最多保存手动修正"
 
 msgid ">>> DUPLICATES VIEW"
-msgstr ""
+msgstr ">>> 重复视图"
 
 msgid ">>> SELECTION MODE - Select items with OK"
-msgstr ""
+msgstr ">>> 选择模式 - 单击“确定”选择项目"
 
 msgid ">>> {} duplicate groups, {} total mappings"
-msgstr ""
+msgstr ">>> {} 个重复组，{} 个映射总数"
 
 msgid ">>> {} groups, {} mappings total"
-msgstr ""
+msgstr ">>> {} 个组，总共 {} 个映射"
 
 msgid "ALL MAPPINGS: {} total"
-msgstr ""
+msgstr "所有映射：总共 {}"
 
 msgid "Action for: {}"
-msgstr ""
+msgstr "操作：{}"
 
 msgid "Advanced Tools Menu"
-msgstr ""
+msgstr "高级工具菜单"
 
 msgid "All Mappings"
-msgstr ""
+msgstr "所有映射"
 
 msgid "Archimede Converter Settings"
-msgstr ""
+msgstr "阿基米德转换器设置"
 
 msgid "Archimede Universal Converter by Lululla v.{version} - {page}"
-msgstr ""
+msgstr "阿基米德通用转换器 Lululla v.{version} - {page}"
 
 msgid "Archimede Universal Converter v.%s"
-msgstr ""
+msgstr "阿基米德通用转换器 v.%s"
 
 msgid "Archimede Universal Converter v.%s by Lululla"
-msgstr ""
+msgstr "阿基米德万能转换器 v.%s by Lululla"
 
 msgid "Backup created successfully!"
-msgstr ""
+msgstr "备份创建成功！"
 
 msgid "Backup failed: {}"
-msgstr ""
+msgstr "备份失败：{}"
 
 msgid "Barry Allen"
-msgstr ""
+msgstr "巴里·艾伦"
 
 msgid "Bottom"
-msgstr ""
+msgstr "底部"
 
 msgid "Bouquet Mode"
-msgstr ""
+msgstr "花束模式"
 
 msgid "Bouquet Position"
-msgstr ""
+msgstr "花束位置"
 
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 msgid "Cancelling conversion..."
-msgstr ""
+msgstr "正在取消转换..."
 
 msgid "Cancelling..."
-msgstr ""
+msgstr "正在取消..."
 
 msgid "Channel: {} | {} | Match: {} | Press RIGHT for matches"
-msgstr ""
+msgstr "频道：{} | {} |匹配：{} |按向右进行匹配"
 
 msgid "Close"
-msgstr ""
+msgstr "关闭"
 
 msgid "Conversion already in progress"
-msgstr ""
+msgstr "转换已在进行中"
 
 msgid "Conversion cancelled"
-msgstr ""
+msgstr "转换已取消"
 
 msgid "Conversion completed"
-msgstr ""
+msgstr "转换完成"
 
 msgid "Conversion error: %s"
-msgstr ""
+msgstr "转换错误：%s"
 
 msgid "Conversion failed: Invalid result"
-msgstr ""
+msgstr "转换失败：结果无效"
 
 msgid "Conversion failed: {}"
-msgstr ""
+msgstr "转换失败：{}"
 
 msgid "Conversion in progress..."
-msgstr ""
+msgstr "转换正在进行中..."
 
 msgid "Convert"
-msgstr ""
+msgstr "转变"
 
 msgid "Convert HLS Streams"
-msgstr ""
+msgstr "转换 HLS 流"
 
 msgid "Convert HLS to Enigma2 format"
-msgstr ""
+msgstr "将 HLS 转换为 Enigma2 格式"
 
 msgid "Convert JSON to M3U"
-msgstr ""
+msgstr "将 JSON 转换为 M3U"
 
 msgid "Convert JSON to TV"
-msgstr ""
+msgstr "将 JSON 转换为 TV"
 
 msgid "Convert M3U to JSON"
-msgstr ""
+msgstr "将 M3U 转换为 JSON"
 
 msgid "Convert M3U to TV"
-msgstr ""
+msgstr "将 M3U 转换为电视"
 
 msgid "Convert TV to M3U"
-msgstr ""
+msgstr "将电视转换为 M3U"
 
 msgid "Convert TV to TV"
-msgstr ""
+msgstr "将电视转换为电视"
 
 msgid "Convert XSPF to M3U"
-msgstr ""
+msgstr "将 XSPF 转换为 M3U"
 
 msgid "Convert between M3U Enigma2 Bouquets Json"
-msgstr ""
+msgstr "M3U Enigma2 花束 Json 之间转换"
 
 msgid "Converting: %d/%d (%d%%)"
-msgstr ""
+msgstr "转换：%d/%d (%d%%)"
 
 msgid "Converting: {name} ({percent}%)"
-msgstr ""
+msgstr "转换：{name} ({percent}%)"
 
 msgid "Converting: {title} ({percent}%)"
-msgstr ""
+msgstr "转换：{name} ({percent}%)"
 
 msgid "Converting: {} ({}%)"
-msgstr ""
+msgstr "转换：{} ({}%)"
 
 msgid "Create Backup"
-msgstr ""
+msgstr "创建备份"
 
 msgid "Create backup before conversion"
-msgstr ""
+msgstr "转换前创建备份"
 
 msgid "Create single or multiple bouquets"
 msgstr ""
 
 msgid "DUPLICATES: {} groups, {} mappings"
-msgstr ""
+msgstr "重复：{} 个组，{} 个映射"
 
 msgid "DVB + Rytec"
-msgstr ""
+msgstr "DVB + 雕刻机"
 
 msgid "DVB + Rytec + DTT (Full)"
-msgstr ""
+msgstr "DVB + Rytec + DTT（完整）"
 
 msgid "Database Directory"
-msgstr ""
+msgstr "数据库目录"
 
 msgid "Debug Mode"
-msgstr ""
+msgstr "调试模式"
 
 msgid "Default Folder"
-msgstr ""
+msgstr "默认文件夹"
 
 msgid "Default folder for opening and saving M3U files"
-msgstr ""
+msgstr "用于打开和保存 M3U 文件的默认文件夹"
 
 msgid "Delete"
-msgstr ""
+msgstr "删除"
 
 msgid "Deleted {} items"
-msgstr ""
+msgstr "已删除 {} 项"
 
 msgid "Deleted {} items. No more duplicates."
-msgstr ""
+msgstr "已删除 {} 项。不再重复。"
 
 msgid "Deleted {} items. Still in selection mode."
-msgstr ""
+msgstr "已删除 {} 项。仍处于选择模式。"
 
 msgid "Done"
-msgstr ""
+msgstr "完毕"
 
 msgid "Duplicates"
-msgstr ""
+msgstr "重复项"
 
 msgid "EPG Coverage: {}/{} channels ({:.1f}%)"
-msgstr ""
+msgstr "EPG 覆盖率：{}/{} 个频道 ({:.1f}%)"
 
 msgid "EPG assigned: {} | {}"
-msgstr ""
+msgstr "分配的 EPG：{} | {}"
 
 msgid "EPG cache cleared! {} entries removed"
-msgstr ""
+msgstr "EPG 缓存已清除！已删除 {} 个条目"
 
 msgid "EPG database reloaded successfully!"
-msgstr ""
+msgstr "EPG 数据库重新加载成功！"
 
 msgid "EPG mapper not available"
-msgstr ""
+msgstr "EPG 映射器不可用"
 
 msgid "EPG mapper not initialized"
-msgstr ""
+msgstr "EPG 映射器未初始化"
 
 msgid "EPG matching algorithm"
-msgstr ""
+msgstr "EPG匹配算法"
 
 msgid "EPGImport plugin not found"
-msgstr ""
+msgstr "未找到 EPGImport 插件"
 
 msgid "EPGImporter"
-msgstr ""
+msgstr "电子节目指南导入器"
 
 msgid "EPGShare Mode"
-msgstr ""
+msgstr "EPG分享模式"
 
 msgid "Enable EPG"
-msgstr ""
+msgstr "启用EPG"
 
 msgid "Enable detailed logging"
-msgstr ""
+msgstr "启用详细日志记录"
 
 msgid "Enigma2 Bouquet to Enigma2 Bouquet Conversion"
-msgstr ""
+msgstr "Enigma2 花束到 Enigma2 花束转换"
 
 msgid "Enigma2 Bouquet to M3U Conversion"
-msgstr ""
+msgstr "Enigma2 花束到 M3U 转换"
 
 msgid "Enigma2 Bouquets to  Enigma2 Bouquets"
-msgstr ""
+msgstr "Enigma2 花束到 Enigma2 花束"
 
 msgid "Enigma2 Bouquets to  M3U"
-msgstr ""
+msgstr "Enigma2 花束到 M3U"
 
 msgid "Error clearing EPG cache"
-msgstr ""
+msgstr "清除 EPG 缓存时出错"
 
 msgid "Error clearing database"
-msgstr ""
+msgstr "清除数据库时出错"
 
 msgid "Error deleting correction"
-msgstr ""
+msgstr "错误删除更正"
 
 msgid "Error deleting items"
-msgstr ""
+msgstr "删除项目时出错"
 
 msgid "Error deleting mapping"
-msgstr ""
+msgstr "删除映射时出错"
 
 msgid "Error exporting database"
-msgstr ""
+msgstr "导出数据库时出错"
 
 msgid "Error finalizing import: {}"
-msgstr ""
+msgstr "完成导入时出错：{}"
 
 msgid "Error importing database: {}"
-msgstr ""
+msgstr "导入数据库时​​出错：{}"
 
 msgid "Error initiating service reload"
-msgstr ""
+msgstr "启动服务重新加载时出错"
 
 msgid "Error loading database"
-msgstr ""
+msgstr "加载数据库时出错"
 
 msgid "Error opening plugin information: %s"
-msgstr ""
+msgstr "打开插件信息时出错：%s"
 
 msgid "Error processing conversion result"
-msgstr ""
+msgstr "处理转换结果时出错"
 
 msgid "Error reloading EPG database: {}"
-msgstr ""
+msgstr "重新加载 EPG 数据库时出错：{}"
 
 msgid "Error saving imported database"
-msgstr ""
+msgstr "保存导入的数据库时出错"
 
 msgid "Error starting import: {}"
-msgstr ""
+msgstr "开始导入时出错：{}"
 
 msgid "Error undoing action"
-msgstr ""
+msgstr "撤消操作时出错"
 
 msgid "Error: Channel index out of range"
-msgstr ""
+msgstr "错误：通道索引超出范围"
 
 msgid "Failed to initialize EPG mapper - check logs"
-msgstr ""
+msgstr "无法初始化 EPG 映射器 - 检查日志"
 
 msgid "File loaded: {}"
-msgstr ""
+msgstr "已加载文件：{}"
 
 msgid "File not found"
-msgstr ""
+msgstr "找不到文件"
 
 msgid "File write error: %s"
-msgstr ""
+msgstr "文件写入错误：%s"
 
 msgid "File: {}"
-msgstr ""
+msgstr "文件： {}"
 
 msgid "Files larger than this will be sampled (1000 channels max)"
-msgstr ""
+msgstr "大于此大小的文件将被采样（最多 1000 个通道）"
 
 msgid "First select a match from the right list (use RIGHT arrow)"
-msgstr ""
+msgstr "首先从右侧列表中选择一个匹配项（使用向右箭头）"
 
 msgid "Found {} matches for: {} | Select and press OK"
-msgstr ""
+msgstr "找到了 {} 匹配项：{} |选择并按确定"
 
 msgid "Found {} matches so far for: {} | Searching..."
-msgstr ""
+msgstr "到目前为止已找到 {} 个匹配项：{} |正在寻找..."
 
 msgid "Generate EPG data for bouquets"
-msgstr ""
+msgstr "生成花束的 EPG 数据"
 
 msgid "Global similarity threshold for all matches (20-100%)"
-msgstr ""
+msgstr "所有匹配的全局相似度阈值 (20-100%)"
 
 msgid "HDD Drive"
-msgstr ""
+msgstr "硬盘驱动器"
 
 msgid "Ignore DVB-T services on conversion"
-msgstr ""
+msgstr "转换时忽略 DVB-T 服务"
 
 msgid "Import {} mappings from {}"
-msgstr ""
+msgstr "从 {} 导入 {} 映射"
 
 msgid "Invalid .m3u item format"
-msgstr ""
+msgstr ".m3u 项目格式无效"
 
 msgid "Invalid .tv item format"
-msgstr ""
+msgstr ".tv 项目格式无效"
 
 msgid "Invalid XSPF file"
-msgstr ""
+msgstr "无效的 XSPF 文件"
 
 msgid "Invalid database file structure"
-msgstr ""
+msgstr "无效的数据库文件结构"
 
 msgid "Invalid selection"
-msgstr ""
+msgstr "选择无效"
 
 msgid "JSON to Enigma2 Bouquet Conversion"
-msgstr ""
+msgstr "JSON 到 Enigma2 花束的转换"
 
 msgid "JSON to M3U Conversion"
-msgstr ""
+msgstr "JSON 到 M3U 转换"
 
 msgid "JSON to  Enigma2 Bouquets"
-msgstr ""
+msgstr "JSON 到 Enigma2 花束"
 
 msgid "JSON to  M3U"
-msgstr ""
+msgstr "JSON 到 M3U"
 
 msgid "Language for EPG sources"
-msgstr ""
+msgstr "EPG 源语言"
 
 msgid "Large file detected: {:.1f}MB. Processing first {} channels..."
-msgstr ""
+msgstr "检测到大文件：{:.1f}MB。正在处理前 {} 个通道..."
 
 msgid "Large file threshold (MB)"
-msgstr ""
+msgstr "大文件阈值（MB）"
 
 msgid "Loaded first %d channels. Press Green to convert."
-msgstr ""
+msgstr "已加载前 %d 个频道。按绿色进行转换。"
 
 msgid "Loading database..."
-msgstr ""
+msgstr "正在加载数据库..."
 
 msgid "Log file cleared successfully"
-msgstr ""
+msgstr "日志文件清除成功"
 
 msgid "M3U to Enigma2 Bouquet Conversion"
-msgstr ""
+msgstr "M3U 到 Enigma2 花束转换"
 
 msgid "M3U to JSON Conversion"
-msgstr ""
+msgstr "M3U 到 JSON 的转换"
 
 msgid "M3U to  Enigma2 Bouquets"
-msgstr ""
+msgstr "M3U 到 Enigma2 花束"
 
 msgid "M3U to  JSON"
-msgstr ""
+msgstr "M3U 转 JSON"
 
 msgid "Manual Corrections ({} total)"
-msgstr ""
+msgstr "手动更正（总共 {}）"
 
 msgid "Manual Database Editor"
-msgstr ""
+msgstr "手动数据库编辑器"
 
 msgid "Manual EPG Match Editor"
-msgstr ""
+msgstr "手动 EPG 匹配编辑器"
 
 msgid "Manual database cleared"
-msgstr ""
+msgstr "手动清除数据库"
 
 msgid "Manual database not available"
-msgstr ""
+msgstr "手动数据库不可用"
 
 msgid "Manual editing completed"
-msgstr ""
+msgstr "手动编辑完成"
 
 msgid "Manual editing completed - ready for conversion"
-msgstr ""
+msgstr "手动编辑完成 - 准备转换"
 
 msgid "Mapping deleted successfully"
-msgstr ""
+msgstr "映射删除成功"
 
 msgid "Match Editor"
-msgstr ""
+msgstr "比赛编辑器"
 
 msgid "Match reset for: {}"
-msgstr ""
+msgstr "重置匹配：{}"
 
 msgid "Max DVB entries scanned during automatic Match Edit (Slow down scanning)"
-msgstr ""
+msgstr "自动匹配编辑期间扫描的最大 DVB 条目数（减慢扫描速度）"
 
 msgid "Max Rytec entries scanned during automatic Match Edit (Slow down scanning)"
-msgstr ""
+msgstr "自动匹配编辑期间扫描的最大 Rytec 条目（减慢扫描）"
 
 msgid "Maximum backup copies"
-msgstr ""
+msgstr "最大备份份数"
 
 msgid "Maximum manual corrections to save"
-msgstr ""
+msgstr "保存的最大手动更正数"
 
 msgid "Multiple Bouquets"
-msgstr ""
+msgstr "多束花束"
 
 msgid "Network Storage"
-msgstr ""
+msgstr "网络存储"
 
 msgid "Next"
-msgstr ""
+msgstr "下一个"
 
 msgid "No IPTV channels found in the bouquet"
-msgstr ""
+msgstr "花束中未找到 IPTV 频道"
 
 msgid "No M3UConverter bouquets found to remove."
-msgstr ""
+msgstr "未找到可删除的 M3UConverter 花束。"
 
 msgid "No MANUAL changes to save"
-msgstr ""
+msgstr "无需保存手动更改"
 
 msgid "No MANUAL corrections saved"
-msgstr ""
+msgstr "未保存手动更正"
 
 msgid "No actions to undo"
-msgstr ""
+msgstr "没有可撤消的操作"
 
 msgid "No channels available"
-msgstr ""
+msgstr "无可用频道"
 
 msgid "No channels loaded. Please select a valid TV bouquet file."
-msgstr ""
+msgstr "未加载频道。请选择有效的电视花束文件。"
 
 msgid "No conversion data available."
-msgstr ""
+msgstr "没有可用的转换数据。"
 
 msgid "No conversion data available. Please run a conversion first."
-msgstr ""
+msgstr "没有可用的转换数据。请先运行转换。"
 
 msgid "No conversion statistics available."
-msgstr ""
+msgstr "没有可用的转化统计数据。"
 
 msgid "No duplicates available for selection"
-msgstr ""
+msgstr "没有可供选择的重复项"
 
 msgid "No duplicates found"
-msgstr ""
+msgstr "没有发现重复项"
 
 msgid "No duplicates found in the database"
-msgstr ""
+msgstr "数据库中未发现重复项"
 
 msgid "No file selected"
-msgstr ""
+msgstr "未选择文件"
 
 msgid "No file selected for conversion"
-msgstr ""
+msgstr "未选择要转换的文件"
 
 msgid "No items selected for deletion"
-msgstr ""
+msgstr "没有选择要删除的项目"
 
 msgid "No manual corrections found"
-msgstr ""
+msgstr "未找到手动更正"
 
 msgid "No manual corrections to export"
-msgstr ""
+msgstr "无需手动更正即可导出"
 
 msgid "No mappings available"
-msgstr ""
+msgstr "没有可用的映射"
 
 msgid "No matches found - try different search"
-msgstr ""
+msgstr "未找到匹配项 - 尝试不同的搜索"
 
 msgid "No matches found for: {}"
-msgstr ""
+msgstr "未找到匹配项：{}"
 
 msgid "No statistics available"
-msgstr ""
+msgstr "无可用统计数据"
 
 msgid "No valid channels found in the JSON file"
-msgstr ""
+msgstr "在 JSON 文件中找不到有效通道"
 
 msgid "Only DTT"
-msgstr ""
+msgstr "仅限数码地面电视"
 
 msgid "Only DVB"
-msgstr ""
+msgstr "仅DVB"
 
 msgid "Only Rytec"
-msgstr ""
+msgstr "仅瑞泰克"
 
 msgid "Open File"
-msgstr ""
+msgstr "打开文件"
 
 msgid "Open manual editor after conversion"
-msgstr ""
+msgstr "转换后打开手动编辑器"
 
 msgid "Playback error"
-msgstr ""
+msgstr "播放错误"
 
 msgid "Playing: %s"
-msgstr ""
+msgstr "播放中：%s"
 
 msgid "Please select a channel first"
-msgstr ""
+msgstr "请先选择频道"
 
 msgid "Please select a mapping (not a group header)"
-msgstr ""
+msgstr "请选择一个映射（不是组标题）"
 
 msgid "Please select a mapping to delete"
-msgstr ""
+msgstr "请选择要删除的映射"
 
 msgid "Please select a valid match from the right list"
-msgstr ""
+msgstr "请从右侧列表中选择有效的匹配项"
 
 msgid "Plugin Information"
-msgstr ""
+msgstr "插件信息"
 
 msgid "Position in channel list"
-msgstr ""
+msgstr "在频道列表中的位置"
 
 msgid "Press RED to select file"
-msgstr ""
+msgstr "按红色选择文件"
 
 msgid "Prev"
-msgstr ""
+msgstr "上一篇"
 
 msgid "Processing selection..."
-msgstr ""
+msgstr "加工选择..."
 
 msgid "Ready"
-msgstr ""
+msgstr "准备好"
 
 msgid "Ready for next operation"
-msgstr ""
+msgstr "准备下一步操作"
 
 msgid "Ready to convert"
-msgstr ""
+msgstr "准备转换"
 
 msgid "Ready: Select the file from the %s you configured in settings."
-msgstr ""
+msgstr "就绪：从您在设置中配置的 %s 中选择文件。"
 
 msgid "Reloading services..."
-msgstr ""
+msgstr "正在重新加载服务..."
 
 msgid "Remove Bouquets"
-msgstr ""
+msgstr "移除花束"
 
 msgid "Remove M3U Bouquets"
-msgstr ""
+msgstr "移除 M3U 花束"
 
 msgid "Reset"
-msgstr ""
+msgstr "重置"
 
 msgid "Run a conversion first to see statistics."
-msgstr ""
+msgstr "首先运行转换以查看统计信息。"
 
 msgid "SELECTION MODE: {} items selected"
-msgstr ""
+msgstr "选择模式：已选择 {} 个项目"
 
 msgid "Save All"
-msgstr ""
+msgstr "全部保存"
 
 msgid "Save error"
-msgstr ""
+msgstr "保存错误"
 
 msgid "Saved {} MANUAL corrections"
-msgstr ""
+msgstr "已保存 {} 条手动更正"
 
 msgid "Searching matches for: {}..."
-msgstr ""
+msgstr "正在搜索匹配项：{}..."
 
 msgid "Select"
-msgstr ""
+msgstr "选择"
 
 msgid "Select a channel to correct the match"
-msgstr ""
+msgstr "选择一个通道来纠正匹配"
 
 msgid "Select a channel to edit (use OK or RIGHT to go to matches)"
-msgstr ""
+msgstr "选择要编辑的频道（使用“确定”或“向右”转到匹配项）"
 
 msgid "Select a match and press OK to assign"
-msgstr ""
+msgstr "选择一个匹配项，然后按“确定”进行分配"
 
 msgid "Select databases for channel matching"
-msgstr ""
+msgstr "选择用于渠道匹配的数据库"
 
 msgid "Select file to import from {}"
-msgstr ""
+msgstr "选择要从 {} 导入的文件"
 
 msgid "Select import location"
-msgstr ""
+msgstr "选择导入位置"
 
 msgid "Selection mode active. Select items with OK"
-msgstr ""
+msgstr "选择模式已激活。单击“确定”选择项目"
 
 msgid "Selection mode off"
-msgstr ""
+msgstr "选择模式关闭"
 
 msgid "Selection mode: Select items with OK"
-msgstr ""
+msgstr "选择模式：选择项目并确定"
 
 msgid "Service reload initiated"
-msgstr ""
+msgstr "服务重新加载已启动"
 
 msgid "Similarity threshold for DVB matches (20-100%)"
-msgstr ""
+msgstr "DVB 匹配的相似度阈值 (20-100%)"
 
 msgid "Similarity threshold for Rytec matches (20-100%)"
-msgstr ""
+msgstr "Rytec 匹配的相似度阈值 (20-100%)"
 
 msgid "Single Bouquet"
-msgstr ""
+msgstr "单束花束"
 
 msgid "Standard Mode"
-msgstr ""
+msgstr "标准模式"
 
 msgid "Stopped"
-msgstr ""
+msgstr "已停止"
 
 msgid "Temporary"
-msgstr ""
+msgstr "暂时的"
 
 msgid "Temporary Files"
-msgstr ""
+msgstr "临时文件"
 
 msgid "Tools"
-msgstr ""
+msgstr "工具"
 
 msgid "Top"
-msgstr ""
+msgstr "顶部"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "USB 驱动器"
 
 msgid "Undo"
-msgstr ""
+msgstr "撤消"
 
 msgid "Undo: Restored previous state for {}"
-msgstr ""
+msgstr "撤消：恢复 {} 之前的状态"
 
 msgid "Universal Converter"
-msgstr ""
+msgstr "万能转换器"
 
 msgid "Unknown error"
-msgstr ""
+msgstr "未知错误"
 
 msgid "Unsupported conversion type"
-msgstr ""
+msgstr "不支持的转换类型"
 
 msgid "Use saved manual corrections"
-msgstr ""
+msgstr "使用保存的手动更正"
 
 msgid "We're ready: what do you want to do?"
-msgstr ""
+msgstr "我们准备好了：你想做什么？"
 
 msgid "XSPF conversion error: %s"
-msgstr ""
+msgstr "XSPF 转换错误：%s"
 
 msgid "XSPF to M3U Playlist Conversion"
-msgstr ""
+msgstr "XSPF 到 M3U 播放列表转换"
 
 msgid "XSPF to  M3U Playlist"
-msgstr ""
+msgstr "XSPF 到 M3U 播放列表"
 
 msgid "merged"
-msgstr ""
+msgstr "合并"
 
 msgid "replaced"
-msgstr ""
+msgstr "被取代"
 
 msgid "tv_to_m3u Conversion error: %s"
-msgstr ""
+msgstr "tv_to_m3u 转换错误：%s"
 
 msgid " Current total: {}"
-msgstr ""
+msgstr "当前总数：{}"
 
 msgid " DVB: {} channels"
-msgstr ""
+msgstr "DVB：{} 个频道"
 
 msgid " Duplicate mappings: {}"
-msgstr ""
+msgstr "重复映射：{}"
 
 msgid " Hit: {} ({:.1f}%)"
-msgstr ""
+msgstr "命中：{} ({:.1f}%)"
 
 msgid " Miss: {}"
-msgstr ""
+msgstr "错过： {}"
 
 msgid " Mode: {}"
-msgstr ""
+msgstr "模式： {}"
 
 msgid " New mappings: {}"
-msgstr ""
+msgstr "新映射：{}"
 
 msgid " Rytec: {} channels"
-msgstr ""
+msgstr "Rytec：{} 个频道"
 
 msgid " Size: {} entries"
-msgstr ""
+msgstr "大小：{} 个条目"
 
 msgid " Total in import file: {}"
-msgstr ""
+msgstr "导入文件总计：{}"
 
 msgid "  Manual DB: {} ({:.1f}%)"
-msgstr ""
+msgstr "手动数据库：{} ({:.1f}%)"
 
 msgid "  DVB-S: {} ({:.1f}%)"
-msgstr ""
+msgstr "DVB-S：{} ({:.1f}%)"
 
 msgid "  DVB-T: {} ({:.1f}%)"
-msgstr ""
+msgstr "DVB-T：{} ({:.1f}%)"
 
 msgid "  IPTV Fallback: {} ({:.1f}%)"
-msgstr ""
+msgstr "IPTV 后备：{} ({:.1f}%)"
 
 msgid "  Rytec: {} ({:.1f}%)"
-msgstr ""
+msgstr "Rytec：{} ({:.1f}%)"
 
 msgid " Conversion type: {}"
-msgstr ""
+msgstr "转化类型：{}"
 
 msgid " Status: Completed successfully"
-msgstr ""
+msgstr "状态：已成功完成"
 
 msgid " Valid channels processed: {}"
-msgstr ""
+msgstr "已处理的有效通道：{}"
 
 msgid " Edit this mapping"
-msgstr ""
+msgstr "编辑此映射"
 
 msgid " Manual edits applied: {}"
-msgstr ""
+msgstr "应用的手动编辑：{}"
 
 msgid " Open Database Editor"
-msgstr ""
+msgstr "打开数据库编辑器"
 
 msgid " Error generating statistics"
-msgstr ""
+msgstr "生成统计数据时出错"
 
 msgid " Merge (keep both)"
-msgstr ""
+msgstr "合并（保留两者）"
 
 msgid " New mappings ({}):"
-msgstr ""
+msgstr "新映射 ({})："
 
 msgid " CONVERSION COMPLETE"
-msgstr ""
+msgstr "转换完成"
 
 msgid " Effective EPG matches: {}"
-msgstr ""
+msgstr "有效 EPG 匹配：{}"
 
 msgid " TOTAL CHANNELS: {}"
-msgstr ""
+msgstr "频道总数：{}"
 
 msgid " View Manual Database"
-msgstr ""
+msgstr "查看手册数据库"
 
 msgid " CACHE PERFORMANCE:"
-msgstr ""
+msgstr "缓存性能："
 
 msgid " Cache efficiency: {}"
-msgstr ""
+msgstr "缓存效率：{}"
 
 msgid " Create Backup"
-msgstr ""
+msgstr "创建备份"
 
 msgid " Manual DB matches: {}"
-msgstr ""
+msgstr "手动数据库匹配：{}"
 
 msgid " Output file: {}"
-msgstr ""
+msgstr "输出文件：{}"
 
 msgid " File size: {}"
-msgstr ""
+msgstr "文件大小：{}"
 
 msgid " EFFECTIVE EPG coverage: {}"
-msgstr ""
+msgstr "有效的 EPG 覆盖范围：{}"
 
 msgid " EPG COVERAGE: {:.1f}%"
-msgstr ""
+msgstr "EPG 覆盖率：{:.1f}%"
 
 msgid " Statistics:"
-msgstr ""
+msgstr "统计数据："
 
 msgid " EPG Cache Statistics"
-msgstr ""
+msgstr "EPG 缓存统计"
 
 msgid " EPG STATISTICS - {}"
-msgstr ""
+msgstr "EPG 统计数据 - {}"
 
 msgid " IMPORT PREVIEW"
-msgstr ""
+msgstr "导入预览"
 
 msgid " Preview Changes"
-msgstr ""
+msgstr "预览更改"
 
 msgid " Total channels in file: {}"
-msgstr ""
+msgstr "文件中的频道总数：{}"
 
 msgid " Plugin Info"
-msgstr ""
+msgstr "插件信息"
 
 msgid " Manual Match Editing"
-msgstr ""
+msgstr "手动匹配编辑"
 
 msgid " DVB channels in DB: {}"
-msgstr ""
+msgstr "DB 中的 DVB 频道：{}"
 
 msgid " DVB-T EPG matches: {}"
-msgstr ""
+msgstr "DVB-T EPG 匹配：{}"
 
 msgid " Export Manual Database"
-msgstr ""
+msgstr "导出手册数据库"
 
 msgid " Import Manual Database"
-msgstr ""
+msgstr "导入手册数据库"
 
 msgid " DVB EPG matches: {}"
-msgstr ""
+msgstr "DVB EPG 匹配：{}"
 
 msgid " Duplicates ({}):"
-msgstr ""
+msgstr "重复项 ({})："
 
 msgid " Reload EPG Database"
-msgstr ""
+msgstr "重新加载 EPG 数据库"
 
 msgid " Reload Services"
-msgstr ""
+msgstr "充值服务"
 
 msgid " Replace All ({} mappings)"
-msgstr ""
+msgstr "全部替换（{} 个映射）"
 
 msgid " Fallback (no EPG): {}"
-msgstr ""
+msgstr "后备（无 EPG）：{}"
 
 msgid " Cache size: {} entries"
-msgstr ""
+msgstr "缓存大小：{} 个条目"
 
 msgid " Back"
-msgstr ""
+msgstr "后退"
 
 msgid " Back to Tools"
-msgstr ""
+msgstr "返回工具"
 
 msgid " Back to locations"
-msgstr ""
+msgstr "返回地点"
 
 msgid " MATCH BREAKDOWN:"
-msgstr ""
+msgstr "比赛细目："
 
 msgid " Completed at: {}"
-msgstr ""
+msgstr "完成于：{}"
 
 msgid " Edited at: {}"
-msgstr ""
+msgstr "编辑于：{}"
 
 msgid " === Manual Database Management ==="
-msgstr ""
+msgstr "=== 手动数据库管理 ==="
 
 msgid " DATABASE INFO:"
-msgstr ""
+msgstr "数据库信息："
 
 msgid " Database mode: {}"
-msgstr ""
+msgstr "数据库模式：{}"
 
 msgid " Rytec channels in DB: {}"
-msgstr ""
+msgstr "DB 中的 Rytec 频道：{}"
 
 msgid " Clear Log File"
-msgstr ""
+msgstr "清除日志文件"
 
 msgid " Delete this mapping"
-msgstr ""
+msgstr "删除该映射"
 
 msgid " Skipped channels: {}"
-msgstr ""
+msgstr "跳过的频道：{}"
 
 msgid " Rytec EPG matches: {}"
-msgstr ""
+msgstr "Rytec EPG 匹配：{}"
 
 msgid " Clean Manual Database"
-msgstr ""
+msgstr "清理手动数据库"
 
 msgid " Clear EPG Cache"
-msgstr ""
+msgstr "清除 EPG 缓存"

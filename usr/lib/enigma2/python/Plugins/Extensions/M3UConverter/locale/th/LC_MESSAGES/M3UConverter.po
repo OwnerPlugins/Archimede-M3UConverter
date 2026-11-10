@@ -10,958 +10,958 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "(Based on selected database mode: {})"
-msgstr ""
+msgstr "(ขึ้นอยู่กับโหมดฐานข้อมูลที่เลือก: {})"
 
 msgid "(Reused previous manual corrections)"
-msgstr ""
+msgstr "(นำการแก้ไขด้วยตนเองก่อนหน้านี้มาใช้ซ้ำ)"
 
 msgid "- {} duplicate groups"
-msgstr ""
+msgstr "- {} กลุ่มที่ซ้ำกัน"
 
 msgid "-- Auto-open Editor"
-msgstr ""
+msgstr "-- ตัวแก้ไขเปิดอัตโนมัติ"
 
 msgid "-- DVB search limit (Match Edit)"
-msgstr ""
+msgstr "- ขีด จำกัด การค้นหา DVB (Match Edit)"
 
 msgid "-- Database Mode"
-msgstr ""
+msgstr "- โหมดฐานข้อมูล"
 
 msgid "-- EPG Generation Mode"
-msgstr ""
+msgstr "- โหมดการสร้าง EPG"
 
 msgid "-- EPG Language"
-msgstr ""
+msgstr "-- ภาษาอีพีจี"
 
 msgid "-- Ignore DVB-T services"
-msgstr ""
+msgstr "-- ละเว้นบริการ DVB-T"
 
 msgid "-- Max Backups"
-msgstr ""
+msgstr "- การสำรองข้อมูลสูงสุด"
 
 msgid "-- Rytec search limit (Match Edit)"
-msgstr ""
+msgstr "-- ขีดจำกัดการค้นหา Rytec (แก้ไขการจับคู่)"
 
 msgid "-- Similarity Threshold DVB (%)"
-msgstr ""
+msgstr "-- เกณฑ์ความคล้ายคลึงกัน DVB (%)"
 
 msgid "-- Similarity Threshold Global (%)"
-msgstr ""
+msgstr "-- เกณฑ์ความคล้ายคลึงกันทั่วโลก (%)"
 
 msgid "-- Similarity Threshold Rytec (%)"
-msgstr ""
+msgstr "-- เกณฑ์ความคล้ายคลึงกัน Rytec (%)"
 
 msgid "-- Use Manual Database"
-msgstr ""
+msgstr "-- ใช้ฐานข้อมูลด้วยตนเอง"
 
 msgid "--- {} ({} duplicates) ---"
-msgstr ""
+msgstr "--- {} (ซ้ำกัน {} รายการ) ---"
 
 msgid "---- Max manual corrections to save"
-msgstr ""
+msgstr "---- การแก้ไขด้วยตนเองสูงสุดที่จะบันทึก"
 
 msgid ">>> DUPLICATES VIEW"
-msgstr ""
+msgstr ">>> ดูซ้ำ"
 
 msgid ">>> SELECTION MODE - Select items with OK"
-msgstr ""
+msgstr ">>> โหมดการเลือก - เลือกรายการด้วยตกลง"
 
 msgid ">>> {} duplicate groups, {} total mappings"
-msgstr ""
+msgstr ">>> {} กลุ่มที่ซ้ำกัน {} การแมปทั้งหมด"
 
 msgid ">>> {} groups, {} mappings total"
-msgstr ""
+msgstr ">>> {} กลุ่ม, รวมการแมป {} รายการ"
 
 msgid "ALL MAPPINGS: {} total"
-msgstr ""
+msgstr "การแมปทั้งหมด: รวม {}"
 
 msgid "Action for: {}"
-msgstr ""
+msgstr "การดำเนินการสำหรับ: {}"
 
 msgid "Advanced Tools Menu"
-msgstr ""
+msgstr "เมนูเครื่องมือขั้นสูง"
 
 msgid "All Mappings"
-msgstr ""
+msgstr "การแมปทั้งหมด"
 
 msgid "Archimede Converter Settings"
-msgstr ""
+msgstr "การตั้งค่าตัวแปลง Archimede"
 
 msgid "Archimede Universal Converter by Lululla v.{version} - {page}"
-msgstr ""
+msgstr "Archimede Universal Converter โดย Lululla v.{version} - {page}"
 
 msgid "Archimede Universal Converter v.%s"
 msgstr ""
 
 msgid "Archimede Universal Converter v.%s by Lululla"
-msgstr ""
+msgstr "Archimede Universal Converter v.%s โดย Lululla"
 
 msgid "Backup created successfully!"
-msgstr ""
+msgstr "สร้างข้อมูลสำรองเรียบร้อยแล้ว!"
 
 msgid "Backup failed: {}"
-msgstr ""
+msgstr "การสำรองข้อมูลล้มเหลว: {}"
 
 msgid "Barry Allen"
-msgstr ""
+msgstr "แบร์รี่ อัลเลน"
 
 msgid "Bottom"
-msgstr ""
+msgstr "ด้านล่าง"
 
 msgid "Bouquet Mode"
-msgstr ""
+msgstr "โหมดช่อดอกไม้"
 
 msgid "Bouquet Position"
-msgstr ""
+msgstr "ตำแหน่งช่อดอกไม้"
 
 msgid "Cancel"
-msgstr ""
+msgstr "ยกเลิก"
 
 msgid "Cancelling conversion..."
-msgstr ""
+msgstr "กำลังยกเลิกการแปลง..."
 
 msgid "Cancelling..."
-msgstr ""
+msgstr "กำลังยกเลิก..."
 
 msgid "Channel: {} | {} | Match: {} | Press RIGHT for matches"
-msgstr ""
+msgstr "ช่อง: {} | {} | ตรงกัน: {} | กดขวาเพื่อการแข่งขัน"
 
 msgid "Close"
-msgstr ""
+msgstr "ปิด"
 
 msgid "Conversion already in progress"
-msgstr ""
+msgstr "อยู่ระหว่างการแปลง"
 
 msgid "Conversion cancelled"
-msgstr ""
+msgstr "ยกเลิกการแปลงแล้ว"
 
 msgid "Conversion completed"
-msgstr ""
+msgstr "การแปลงเสร็จสมบูรณ์"
 
 msgid "Conversion error: %s"
-msgstr ""
+msgstr "ข้อผิดพลาดในการแปลง: %s"
 
 msgid "Conversion failed: Invalid result"
-msgstr ""
+msgstr "การแปลงล้มเหลว: ผลลัพธ์ไม่ถูกต้อง"
 
 msgid "Conversion failed: {}"
-msgstr ""
+msgstr "การแปลงล้มเหลว: {}"
 
 msgid "Conversion in progress..."
-msgstr ""
+msgstr "อยู่ระหว่างการแปลง..."
 
 msgid "Convert"
-msgstr ""
+msgstr "แปลง"
 
 msgid "Convert HLS Streams"
-msgstr ""
+msgstr "แปลงสตรีม HLS"
 
 msgid "Convert HLS to Enigma2 format"
-msgstr ""
+msgstr "แปลงรูปแบบ HLS เป็นรูปแบบ Enigma2"
 
 msgid "Convert JSON to M3U"
-msgstr ""
+msgstr "แปลง JSON เป็น M3U"
 
 msgid "Convert JSON to TV"
-msgstr ""
+msgstr "แปลง JSON เป็นทีวี"
 
 msgid "Convert M3U to JSON"
-msgstr ""
+msgstr "แปลง M3U เป็น JSON"
 
 msgid "Convert M3U to TV"
-msgstr ""
+msgstr "แปลง M3U เป็นทีวี"
 
 msgid "Convert TV to M3U"
-msgstr ""
+msgstr "แปลงทีวีเป็น M3U"
 
 msgid "Convert TV to TV"
-msgstr ""
+msgstr "แปลงทีวีเป็นทีวี"
 
 msgid "Convert XSPF to M3U"
-msgstr ""
+msgstr "แปลง XSPF เป็น M3U"
 
 msgid "Convert between M3U Enigma2 Bouquets Json"
-msgstr ""
+msgstr "แปลงระหว่าง M3U Enigma2 Bouquets Json"
 
 msgid "Converting: %d/%d (%d%%)"
-msgstr ""
+msgstr "กำลังแปลง: %d/%d (%d%%)"
 
 msgid "Converting: {name} ({percent}%)"
-msgstr ""
+msgstr "กำลังแปลง: {name} ({percent}%)"
 
 msgid "Converting: {title} ({percent}%)"
-msgstr ""
+msgstr "กำลังแปลง: {name} ({percent}%)"
 
 msgid "Converting: {} ({}%)"
-msgstr ""
+msgstr "กำลังแปลง: {} ({}%)"
 
 msgid "Create Backup"
-msgstr ""
+msgstr "สร้างข้อมูลสำรอง"
 
 msgid "Create backup before conversion"
-msgstr ""
+msgstr "สร้างการสำรองข้อมูลก่อนการแปลง"
 
 msgid "Create single or multiple bouquets"
-msgstr ""
+msgstr "สร้างช่อดอกไม้เดี่ยวหรือหลายช่อ"
 
 msgid "DUPLICATES: {} groups, {} mappings"
-msgstr ""
+msgstr "ซ้ำกัน: {} กลุ่ม, {} การแมป"
 
 msgid "DVB + Rytec"
-msgstr ""
+msgstr "DVB + ช่างแกะสลัก"
 
 msgid "DVB + Rytec + DTT (Full)"
-msgstr ""
+msgstr "DVB + Rytec + DTT (เต็ม)"
 
 msgid "Database Directory"
-msgstr ""
+msgstr "ไดเร็กทอรีฐานข้อมูล"
 
 msgid "Debug Mode"
-msgstr ""
+msgstr "โหมดแก้ไขข้อบกพร่อง"
 
 msgid "Default Folder"
-msgstr ""
+msgstr "โฟลเดอร์เริ่มต้น"
 
 msgid "Default folder for opening and saving M3U files"
-msgstr ""
+msgstr "โฟลเดอร์เริ่มต้นสำหรับการเปิดและบันทึกไฟล์ M3U"
 
 msgid "Delete"
-msgstr ""
+msgstr "ลบ"
 
 msgid "Deleted {} items"
-msgstr ""
+msgstr "ลบแล้ว {} รายการ"
 
 msgid "Deleted {} items. No more duplicates."
-msgstr ""
+msgstr "ลบแล้ว {} รายการ ไม่มีรายการที่ซ้ำกันอีกต่อไป"
 
 msgid "Deleted {} items. Still in selection mode."
-msgstr ""
+msgstr "ลบแล้ว {} รายการ ยังอยู่ในโหมดการเลือก"
 
 msgid "Done"
-msgstr ""
+msgstr "เสร็จแล้ว"
 
 msgid "Duplicates"
-msgstr ""
+msgstr "ซ้ำกัน"
 
 msgid "EPG Coverage: {}/{} channels ({:.1f}%)"
-msgstr ""
+msgstr "ความครอบคลุม EPG: {}/{} ช่อง ({:.1f}%)"
 
 msgid "EPG assigned: {} | {}"
-msgstr ""
+msgstr "กำหนด EPG: {} | {}"
 
 msgid "EPG cache cleared! {} entries removed"
-msgstr ""
+msgstr "ล้างแคช EPG แล้ว! ลบ {} รายการแล้ว"
 
 msgid "EPG database reloaded successfully!"
-msgstr ""
+msgstr "โหลดฐานข้อมูล EPG ใหม่สำเร็จแล้ว!"
 
 msgid "EPG mapper not available"
-msgstr ""
+msgstr "ผู้ทำแผนที่ EPG ไม่พร้อมใช้งาน"
 
 msgid "EPG mapper not initialized"
-msgstr ""
+msgstr "ผู้ทำแผนที่ EPG ไม่ได้เริ่มต้น"
 
 msgid "EPG matching algorithm"
-msgstr ""
+msgstr "อัลกอริธึมการจับคู่ EPG"
 
 msgid "EPGImport plugin not found"
-msgstr ""
+msgstr "ไม่พบปลั๊กอิน EPGImport"
 
 msgid "EPGImporter"
-msgstr ""
+msgstr "ผู้นำเข้า EPG"
 
 msgid "EPGShare Mode"
-msgstr ""
+msgstr "โหมด EPGShare"
 
 msgid "Enable EPG"
-msgstr ""
+msgstr "เปิดใช้งาน EPG"
 
 msgid "Enable detailed logging"
-msgstr ""
+msgstr "เปิดใช้งานการบันทึกแบบละเอียด"
 
 msgid "Enigma2 Bouquet to Enigma2 Bouquet Conversion"
-msgstr ""
+msgstr "การแปลงช่อดอกไม้ Enigma2 เป็นช่อดอกไม้ Enigma2"
 
 msgid "Enigma2 Bouquet to M3U Conversion"
-msgstr ""
+msgstr "การแปลงช่อดอกไม้ Enigma2 เป็น M3U"
 
 msgid "Enigma2 Bouquets to  Enigma2 Bouquets"
-msgstr ""
+msgstr "ช่อดอกไม้ Enigma2 ไปจนถึงช่อดอกไม้ Enigma2"
 
 msgid "Enigma2 Bouquets to  M3U"
-msgstr ""
+msgstr "Enigma2 ช่อดอกไม้ถึง M3U"
 
 msgid "Error clearing EPG cache"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดในการล้างแคช EPG"
 
 msgid "Error clearing database"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดในการล้างฐานข้อมูล"
 
 msgid "Error deleting correction"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดในการลบการแก้ไข"
 
 msgid "Error deleting items"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดในการลบรายการ"
 
 msgid "Error deleting mapping"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดในการลบการแมป"
 
 msgid "Error exporting database"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดในการส่งออกฐานข้อมูล"
 
 msgid "Error finalizing import: {}"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดในการสรุปการนำเข้า: {}"
 
 msgid "Error importing database: {}"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดในการนำเข้าฐานข้อมูล: {}"
 
 msgid "Error initiating service reload"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดในการเริ่มโหลดบริการซ้ำ"
 
 msgid "Error loading database"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดในการโหลดฐานข้อมูล"
 
 msgid "Error opening plugin information: %s"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดในการเปิดข้อมูลปลั๊กอิน: %s"
 
 msgid "Error processing conversion result"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดในการประมวลผลผลลัพธ์การแปลง"
 
 msgid "Error reloading EPG database: {}"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดในการโหลดฐานข้อมูล EPG ใหม่: {}"
 
 msgid "Error saving imported database"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดในการบันทึกฐานข้อมูลที่นำเข้า"
 
 msgid "Error starting import: {}"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดในการเริ่มนำเข้า: {}"
 
 msgid "Error undoing action"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดในการยกเลิกการดำเนินการ"
 
 msgid "Error: Channel index out of range"
-msgstr ""
+msgstr "ข้อผิดพลาด: ดัชนีช่องอยู่นอกช่วง"
 
 msgid "Failed to initialize EPG mapper - check logs"
-msgstr ""
+msgstr "ไม่สามารถเริ่มต้นผู้ทำแผนที่ EPG - ตรวจสอบบันทึก"
 
 msgid "File loaded: {}"
-msgstr ""
+msgstr "ไฟล์ที่โหลด: {}"
 
 msgid "File not found"
-msgstr ""
+msgstr "ไม่พบไฟล์"
 
 msgid "File write error: %s"
-msgstr ""
+msgstr "ข้อผิดพลาดในการเขียนไฟล์: %s"
 
 msgid "File: {}"
-msgstr ""
+msgstr "ไฟล์: {}"
 
 msgid "Files larger than this will be sampled (1000 channels max)"
-msgstr ""
+msgstr "ไฟล์ที่มีขนาดใหญ่กว่านี้จะถูกสุ่มตัวอย่าง (สูงสุด 1,000 ช่อง)"
 
 msgid "First select a match from the right list (use RIGHT arrow)"
-msgstr ""
+msgstr "ขั้นแรกเลือกการแข่งขันจากรายการที่ถูกต้อง (ใช้ลูกศรขวา)"
 
 msgid "Found {} matches for: {} | Select and press OK"
-msgstr ""
+msgstr "พบ {} รายการที่ตรงกันสำหรับ: {} | เลือกและกดตกลง"
 
 msgid "Found {} matches so far for: {} | Searching..."
-msgstr ""
+msgstr "พบการแข่งขัน {} รายการสำหรับ: {} | กำลังค้นหา..."
 
 msgid "Generate EPG data for bouquets"
-msgstr ""
+msgstr "สร้างข้อมูล EPG สำหรับช่อดอกไม้"
 
 msgid "Global similarity threshold for all matches (20-100%)"
-msgstr ""
+msgstr "เกณฑ์ความคล้ายคลึงกันทั่วโลกสำหรับการแข่งขันทั้งหมด (20-100%)"
 
 msgid "HDD Drive"
-msgstr ""
+msgstr "ฮาร์ดดิสไดรฟ์"
 
 msgid "Ignore DVB-T services on conversion"
-msgstr ""
+msgstr "ละเว้นบริการ DVB-T ในการแปลง"
 
 msgid "Import {} mappings from {}"
-msgstr ""
+msgstr "นำเข้า {} การแมปจาก {}"
 
 msgid "Invalid .m3u item format"
-msgstr ""
+msgstr "รูปแบบรายการ .m3u ไม่ถูกต้อง"
 
 msgid "Invalid .tv item format"
-msgstr ""
+msgstr "รูปแบบรายการ .tv ไม่ถูกต้อง"
 
 msgid "Invalid XSPF file"
-msgstr ""
+msgstr "ไฟล์ XSPF ไม่ถูกต้อง"
 
 msgid "Invalid database file structure"
-msgstr ""
+msgstr "โครงสร้างไฟล์ฐานข้อมูลไม่ถูกต้อง"
 
 msgid "Invalid selection"
-msgstr ""
+msgstr "การเลือกไม่ถูกต้อง"
 
 msgid "JSON to Enigma2 Bouquet Conversion"
-msgstr ""
+msgstr "การแปลงช่อดอกไม้ JSON เป็น Enigma2"
 
 msgid "JSON to M3U Conversion"
-msgstr ""
+msgstr "การแปลง JSON เป็น M3U"
 
 msgid "JSON to  Enigma2 Bouquets"
-msgstr ""
+msgstr "JSON ถึง Enigma2 ช่อดอกไม้"
 
 msgid "JSON to  M3U"
-msgstr ""
+msgstr "JSON เป็น M3U"
 
 msgid "Language for EPG sources"
-msgstr ""
+msgstr "ภาษาสำหรับแหล่งที่มาของ EPG"
 
 msgid "Large file detected: {:.1f}MB. Processing first {} channels..."
-msgstr ""
+msgstr "ตรวจพบไฟล์ขนาดใหญ่: {:.1f}MB กำลังประมวลผล {} ช่องแรก..."
 
 msgid "Large file threshold (MB)"
-msgstr ""
+msgstr "เกณฑ์ไฟล์ขนาดใหญ่ (MB)"
 
 msgid "Loaded first %d channels. Press Green to convert."
-msgstr ""
+msgstr "โหลด %d ช่องแรกแล้ว กดสีเขียวเพื่อแปลง"
 
 msgid "Loading database..."
-msgstr ""
+msgstr "กำลังโหลดฐานข้อมูล..."
 
 msgid "Log file cleared successfully"
-msgstr ""
+msgstr "ล้างไฟล์บันทึกเรียบร้อยแล้ว"
 
 msgid "M3U to Enigma2 Bouquet Conversion"
-msgstr ""
+msgstr "การแปลงช่อดอกไม้ M3U เป็น Enigma2"
 
 msgid "M3U to JSON Conversion"
-msgstr ""
+msgstr "การแปลง M3U เป็น JSON"
 
 msgid "M3U to  Enigma2 Bouquets"
-msgstr ""
+msgstr "M3U ถึง Enigma2 ช่อดอกไม้"
 
 msgid "M3U to  JSON"
-msgstr ""
+msgstr "M3U เป็น JSON"
 
 msgid "Manual Corrections ({} total)"
-msgstr ""
+msgstr "การแก้ไขด้วยตนเอง (ทั้งหมด {})"
 
 msgid "Manual Database Editor"
-msgstr ""
+msgstr "แก้ไขฐานข้อมูลด้วยตนเอง"
 
 msgid "Manual EPG Match Editor"
-msgstr ""
+msgstr "ตัวแก้ไขการจับคู่ EPG ด้วยตนเอง"
 
 msgid "Manual database cleared"
-msgstr ""
+msgstr "ล้างฐานข้อมูลด้วยตนเองแล้ว"
 
 msgid "Manual database not available"
-msgstr ""
+msgstr "ฐานข้อมูลแบบแมนนวลไม่พร้อมใช้งาน"
 
 msgid "Manual editing completed"
-msgstr ""
+msgstr "การแก้ไขด้วยตนเองเสร็จสมบูรณ์"
 
 msgid "Manual editing completed - ready for conversion"
-msgstr ""
+msgstr "การแก้ไขด้วยตนเองเสร็จสมบูรณ์ - พร้อมสำหรับการแปลง"
 
 msgid "Mapping deleted successfully"
-msgstr ""
+msgstr "ลบการแมปเรียบร้อยแล้ว"
 
 msgid "Match Editor"
-msgstr ""
+msgstr "ตัวแก้ไขการแข่งขัน"
 
 msgid "Match reset for: {}"
-msgstr ""
+msgstr "รีเซ็ตการแข่งขันสำหรับ: {}"
 
 msgid "Max DVB entries scanned during automatic Match Edit (Slow down scanning)"
-msgstr ""
+msgstr "รายการ DVB สูงสุดที่สแกนระหว่างการแก้ไขการจับคู่อัตโนมัติ (การสแกนช้าลง)"
 
 msgid "Max Rytec entries scanned during automatic Match Edit (Slow down scanning)"
-msgstr ""
+msgstr "รายการ Max Rytec สแกนระหว่างการแก้ไขการจับคู่อัตโนมัติ (สแกนช้าลง)"
 
 msgid "Maximum backup copies"
-msgstr ""
+msgstr "สำเนาสำรองสูงสุด"
 
 msgid "Maximum manual corrections to save"
-msgstr ""
+msgstr "การแก้ไขด้วยตนเองสูงสุดที่จะบันทึก"
 
 msgid "Multiple Bouquets"
-msgstr ""
+msgstr "หลายช่อดอกไม้"
 
 msgid "Network Storage"
-msgstr ""
+msgstr "ที่เก็บข้อมูลเครือข่าย"
 
 msgid "Next"
-msgstr ""
+msgstr "ต่อไป"
 
 msgid "No IPTV channels found in the bouquet"
-msgstr ""
+msgstr "ไม่พบช่อง IPTV ในช่อดอกไม้"
 
 msgid "No M3UConverter bouquets found to remove."
-msgstr ""
+msgstr "ไม่พบช่อดอกไม้ M3UConverter ที่จะลบออก"
 
 msgid "No MANUAL changes to save"
-msgstr ""
+msgstr "ไม่มีการเปลี่ยนแปลงด้วยตนเองที่จะบันทึก"
 
 msgid "No MANUAL corrections saved"
-msgstr ""
+msgstr "ไม่มีการบันทึกการแก้ไขด้วยตนเอง"
 
 msgid "No actions to undo"
-msgstr ""
+msgstr "ไม่มีการดำเนินการที่จะเลิกทำ"
 
 msgid "No channels available"
-msgstr ""
+msgstr "ไม่มีช่องรายการ"
 
 msgid "No channels loaded. Please select a valid TV bouquet file."
-msgstr ""
+msgstr "ไม่มีช่องโหลด โปรดเลือกไฟล์ช่อดอกไม้ทีวีที่ถูกต้อง"
 
 msgid "No conversion data available."
-msgstr ""
+msgstr "ไม่มีข้อมูลการแปลง"
 
 msgid "No conversion data available. Please run a conversion first."
-msgstr ""
+msgstr "ไม่มีข้อมูลการแปลง โปรดเรียกใช้การแปลงก่อน"
 
 msgid "No conversion statistics available."
-msgstr ""
+msgstr "ไม่มีสถิติการแปลง"
 
 msgid "No duplicates available for selection"
-msgstr ""
+msgstr "ไม่มีรายการที่ซ้ำกันสำหรับการเลือก"
 
 msgid "No duplicates found"
-msgstr ""
+msgstr "ไม่พบรายการที่ซ้ำกัน"
 
 msgid "No duplicates found in the database"
-msgstr ""
+msgstr "ไม่พบรายการที่ซ้ำกันในฐานข้อมูล"
 
 msgid "No file selected"
-msgstr ""
+msgstr "ไม่ได้เลือกไฟล์"
 
 msgid "No file selected for conversion"
-msgstr ""
+msgstr "ไม่มีไฟล์ที่เลือกสำหรับการแปลง"
 
 msgid "No items selected for deletion"
-msgstr ""
+msgstr "ไม่มีรายการที่เลือกสำหรับการลบ"
 
 msgid "No manual corrections found"
-msgstr ""
+msgstr "ไม่พบการแก้ไขด้วยตนเอง"
 
 msgid "No manual corrections to export"
-msgstr ""
+msgstr "ไม่มีการแก้ไขด้วยตนเองในการส่งออก"
 
 msgid "No mappings available"
-msgstr ""
+msgstr "ไม่มีการแมป"
 
 msgid "No matches found - try different search"
-msgstr ""
+msgstr "ไม่พบรายการที่ตรงกัน - ลองค้นหาแบบอื่น"
 
 msgid "No matches found for: {}"
-msgstr ""
+msgstr "ไม่พบรายการที่ตรงกันสำหรับ: {}"
 
 msgid "No statistics available"
-msgstr ""
+msgstr "ไม่มีสถิติ"
 
 msgid "No valid channels found in the JSON file"
-msgstr ""
+msgstr "ไม่พบช่องที่ถูกต้องในไฟล์ JSON"
 
 msgid "Only DTT"
-msgstr ""
+msgstr "ดีทีทีเท่านั้น"
 
 msgid "Only DVB"
-msgstr ""
+msgstr "มีเพียงทีวีดิจิตอลเท่านั้น"
 
 msgid "Only Rytec"
-msgstr ""
+msgstr "ไรเทคเท่านั้น"
 
 msgid "Open File"
-msgstr ""
+msgstr "เปิดไฟล์"
 
 msgid "Open manual editor after conversion"
-msgstr ""
+msgstr "เปิดตัวแก้ไขด้วยตนเองหลังการแปลง"
 
 msgid "Playback error"
-msgstr ""
+msgstr "ข้อผิดพลาดในการเล่น"
 
 msgid "Playing: %s"
-msgstr ""
+msgstr "กำลังเล่น: %s"
 
 msgid "Please select a channel first"
-msgstr ""
+msgstr "โปรดเลือกช่องก่อน"
 
 msgid "Please select a mapping (not a group header)"
-msgstr ""
+msgstr "โปรดเลือกการแมป (ไม่ใช่ส่วนหัวของกลุ่ม)"
 
 msgid "Please select a mapping to delete"
-msgstr ""
+msgstr "โปรดเลือกการแมปที่จะลบ"
 
 msgid "Please select a valid match from the right list"
-msgstr ""
+msgstr "โปรดเลือกการแข่งขันที่ถูกต้องจากรายการที่ถูกต้อง"
 
 msgid "Plugin Information"
-msgstr ""
+msgstr "ข้อมูลปลั๊กอิน"
 
 msgid "Position in channel list"
-msgstr ""
+msgstr "ตำแหน่งในรายการช่อง"
 
 msgid "Press RED to select file"
-msgstr ""
+msgstr "กดสีแดงเพื่อเลือกไฟล์"
 
 msgid "Prev"
-msgstr ""
+msgstr "ก่อนหน้า"
 
 msgid "Processing selection..."
-msgstr ""
+msgstr "กำลังประมวลผลการเลือก..."
 
 msgid "Ready"
-msgstr ""
+msgstr "พร้อม"
 
 msgid "Ready for next operation"
-msgstr ""
+msgstr "พร้อมดำเนินการต่อไป"
 
 msgid "Ready to convert"
-msgstr ""
+msgstr "พร้อมแปลง"
 
 msgid "Ready: Select the file from the %s you configured in settings."
-msgstr ""
+msgstr "พร้อม: เลือกไฟล์จาก %s ที่คุณกำหนดค่าไว้ในการตั้งค่า"
 
 msgid "Reloading services..."
-msgstr ""
+msgstr "กำลังโหลดบริการ..."
 
 msgid "Remove Bouquets"
-msgstr ""
+msgstr "ลบช่อดอกไม้"
 
 msgid "Remove M3U Bouquets"
-msgstr ""
+msgstr "ลบช่อดอกไม้ M3U"
 
 msgid "Reset"
-msgstr ""
+msgstr "รีเซ็ต"
 
 msgid "Run a conversion first to see statistics."
-msgstr ""
+msgstr "เรียกใช้ Conversion ก่อนเพื่อดูสถิติ"
 
 msgid "SELECTION MODE: {} items selected"
-msgstr ""
+msgstr "โหมดการเลือก: เลือกแล้ว {} รายการ"
 
 msgid "Save All"
-msgstr ""
+msgstr "บันทึกทั้งหมด"
 
 msgid "Save error"
-msgstr ""
+msgstr "บันทึกข้อผิดพลาด"
 
 msgid "Saved {} MANUAL corrections"
-msgstr ""
+msgstr "บันทึกการแก้ไขด้วยตนเอง {} รายการ"
 
 msgid "Searching matches for: {}..."
-msgstr ""
+msgstr "กำลังค้นหารายการที่ตรงกันสำหรับ: {}..."
 
 msgid "Select"
-msgstr ""
+msgstr "เลือก"
 
 msgid "Select a channel to correct the match"
-msgstr ""
+msgstr "เลือกช่องที่จะแก้ไขการแข่งขัน"
 
 msgid "Select a channel to edit (use OK or RIGHT to go to matches)"
-msgstr ""
+msgstr "เลือกช่องที่จะแก้ไข (ใช้ตกลงหรือขวาเพื่อไปยังการแข่งขัน)"
 
 msgid "Select a match and press OK to assign"
-msgstr ""
+msgstr "เลือกการแข่งขันแล้วกดตกลงเพื่อกำหนด"
 
 msgid "Select databases for channel matching"
-msgstr ""
+msgstr "เลือกฐานข้อมูลสำหรับการจับคู่ช่องสัญญาณ"
 
 msgid "Select file to import from {}"
-msgstr ""
+msgstr "เลือกไฟล์ที่จะนำเข้าจาก {}"
 
 msgid "Select import location"
-msgstr ""
+msgstr "เลือกสถานที่นำเข้า"
 
 msgid "Selection mode active. Select items with OK"
-msgstr ""
+msgstr "โหมดการเลือกใช้งานอยู่ เลือกรายการด้วย OK"
 
 msgid "Selection mode off"
-msgstr ""
+msgstr "โหมดการเลือกปิดอยู่"
 
 msgid "Selection mode: Select items with OK"
-msgstr ""
+msgstr "โหมดการเลือก: เลือกรายการด้วยตกลง"
 
 msgid "Service reload initiated"
-msgstr ""
+msgstr "เริ่มโหลดบริการใหม่แล้ว"
 
 msgid "Similarity threshold for DVB matches (20-100%)"
-msgstr ""
+msgstr "เกณฑ์ความคล้ายคลึงกันสำหรับการจับคู่ DVB (20-100%)"
 
 msgid "Similarity threshold for Rytec matches (20-100%)"
-msgstr ""
+msgstr "เกณฑ์ความคล้ายคลึงกันสำหรับการจับคู่ Rytec (20-100%)"
 
 msgid "Single Bouquet"
-msgstr ""
+msgstr "ช่อดอกไม้เดี่ยว"
 
 msgid "Standard Mode"
-msgstr ""
+msgstr "โหมดมาตรฐาน"
 
 msgid "Stopped"
-msgstr ""
+msgstr "หยุดแล้ว"
 
 msgid "Temporary"
-msgstr ""
+msgstr "ชั่วคราว"
 
 msgid "Temporary Files"
-msgstr ""
+msgstr "ไฟล์ชั่วคราว"
 
 msgid "Tools"
-msgstr ""
+msgstr "เครื่องมือ"
 
 msgid "Top"
-msgstr ""
+msgstr "สูงสุด"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "ไดรฟ์ USB"
 
 msgid "Undo"
-msgstr ""
+msgstr "เลิกทำ"
 
 msgid "Undo: Restored previous state for {}"
-msgstr ""
+msgstr "เลิกทำ: กู้คืนสถานะก่อนหน้าสำหรับ {}"
 
 msgid "Universal Converter"
-msgstr ""
+msgstr "ตัวแปลงสากล"
 
 msgid "Unknown error"
-msgstr ""
+msgstr "ข้อผิดพลาดที่ไม่รู้จัก"
 
 msgid "Unsupported conversion type"
-msgstr ""
+msgstr "ประเภทการแปลงที่ไม่รองรับ"
 
 msgid "Use saved manual corrections"
-msgstr ""
+msgstr "ใช้การแก้ไขด้วยตนเองที่บันทึกไว้"
 
 msgid "We're ready: what do you want to do?"
-msgstr ""
+msgstr "เราพร้อมแล้ว คุณต้องการทำอะไร?"
 
 msgid "XSPF conversion error: %s"
-msgstr ""
+msgstr "ข้อผิดพลาดในการแปลง XSPF: %s"
 
 msgid "XSPF to M3U Playlist Conversion"
-msgstr ""
+msgstr "การแปลงเพลย์ลิสต์ XSPF เป็น M3U"
 
 msgid "XSPF to  M3U Playlist"
-msgstr ""
+msgstr "XSPF เป็นเพลย์ลิสต์ M3U"
 
 msgid "merged"
-msgstr ""
+msgstr "รวมกัน"
 
 msgid "replaced"
-msgstr ""
+msgstr "แทนที่"
 
 msgid "tv_to_m3u Conversion error: %s"
-msgstr ""
+msgstr "tv_to_m3u ข้อผิดพลาดในการแปลง: %s"
 
 msgid " Current total: {}"
-msgstr ""
+msgstr "ยอดรวมปัจจุบัน: {}"
 
 msgid " DVB: {} channels"
-msgstr ""
+msgstr "DVB: {} ช่อง"
 
 msgid " Duplicate mappings: {}"
-msgstr ""
+msgstr "การแมปที่ซ้ำกัน: {}"
 
 msgid " Hit: {} ({:.1f}%)"
-msgstr ""
+msgstr "การเข้าชม: {} ({:.1f}%)"
 
 msgid " Miss: {}"
-msgstr ""
+msgstr "นางสาว: {}"
 
 msgid " Mode: {}"
-msgstr ""
+msgstr "โหมด: {}"
 
 msgid " New mappings: {}"
-msgstr ""
+msgstr "การแมปใหม่: {}"
 
 msgid " Rytec: {} channels"
-msgstr ""
+msgstr "Rytec: {} ช่อง"
 
 msgid " Size: {} entries"
-msgstr ""
+msgstr "ขนาด: {} รายการ"
 
 msgid " Total in import file: {}"
-msgstr ""
+msgstr "ยอดรวมในไฟล์นำเข้า: {}"
 
 msgid "  Manual DB: {} ({:.1f}%)"
-msgstr ""
+msgstr "ฐานข้อมูลแบบแมนนวล: {} ({:.1f}%)"
 
 msgid "  DVB-S: {} ({:.1f}%)"
-msgstr ""
+msgstr "DVB-S: {} ({:.1f}%)"
 
 msgid "  DVB-T: {} ({:.1f}%)"
-msgstr ""
+msgstr "DVB-T: {} ({:.1f}%)"
 
 msgid "  IPTV Fallback: {} ({:.1f}%)"
-msgstr ""
+msgstr "IPTV สำรอง: {} ({:.1f}%)"
 
 msgid "  Rytec: {} ({:.1f}%)"
-msgstr ""
+msgstr "ไรเทค: {} ({:.1f}%)"
 
 msgid " Conversion type: {}"
-msgstr ""
+msgstr "ประเภทการแปลง: {}"
 
 msgid " Status: Completed successfully"
-msgstr ""
+msgstr "สถานะ: เสร็จสมบูรณ์เรียบร้อยแล้ว"
 
 msgid " Valid channels processed: {}"
-msgstr ""
+msgstr "ช่องที่ถูกต้องที่ประมวลผล: {}"
 
 msgid " Edit this mapping"
-msgstr ""
+msgstr "แก้ไขการแมปนี้"
 
 msgid " Manual edits applied: {}"
-msgstr ""
+msgstr "มีการแก้ไขด้วยตนเอง: {}"
 
 msgid " Open Database Editor"
-msgstr ""
+msgstr "เปิดตัวแก้ไขฐานข้อมูล"
 
 msgid " Error generating statistics"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดในการสร้างสถิติ"
 
 msgid " Merge (keep both)"
-msgstr ""
+msgstr "รวม (เก็บทั้งสองอย่าง)"
 
 msgid " New mappings ({}):"
-msgstr ""
+msgstr "การแมปใหม่ ({}):"
 
 msgid " CONVERSION COMPLETE"
-msgstr ""
+msgstr "การแปลงเสร็จสมบูรณ์"
 
 msgid " Effective EPG matches: {}"
-msgstr ""
+msgstr "การแข่งขัน EPG ที่มีผล: {}"
 
 msgid " TOTAL CHANNELS: {}"
-msgstr ""
+msgstr "ช่องทั้งหมด: {}"
 
 msgid " View Manual Database"
-msgstr ""
+msgstr "ดูฐานข้อมูลด้วยตนเอง"
 
 msgid " CACHE PERFORMANCE:"
-msgstr ""
+msgstr "ประสิทธิภาพแคช:"
 
 msgid " Cache efficiency: {}"
-msgstr ""
+msgstr "ประสิทธิภาพแคช: {}"
 
 msgid " Create Backup"
-msgstr ""
+msgstr "สร้างข้อมูลสำรอง"
 
 msgid " Manual DB matches: {}"
-msgstr ""
+msgstr "การจับคู่ DB ด้วยตนเอง: {}"
 
 msgid " Output file: {}"
-msgstr ""
+msgstr "ไฟล์เอาต์พุต: {}"
 
 msgid " File size: {}"
-msgstr ""
+msgstr "ขนาดไฟล์: {}"
 
 msgid " EFFECTIVE EPG coverage: {}"
-msgstr ""
+msgstr "ความครอบคลุม EPG ที่มีประสิทธิภาพ: {}"
 
 msgid " EPG COVERAGE: {:.1f}%"
-msgstr ""
+msgstr "ความครอบคลุมอีพีจี: {:.1f}%"
 
 msgid " Statistics:"
-msgstr ""
+msgstr "สถิติ:"
 
 msgid " EPG Cache Statistics"
-msgstr ""
+msgstr "สถิติแคช EPG"
 
 msgid " EPG STATISTICS - {}"
-msgstr ""
+msgstr "สถิติอีพีจี - {}"
 
 msgid " IMPORT PREVIEW"
-msgstr ""
+msgstr "นำเข้าตัวอย่าง"
 
 msgid " Preview Changes"
-msgstr ""
+msgstr "ดูตัวอย่างการเปลี่ยนแปลง"
 
 msgid " Total channels in file: {}"
-msgstr ""
+msgstr "ช่องทั้งหมดในไฟล์: {}"
 
 msgid " Plugin Info"
-msgstr ""
+msgstr "ข้อมูลปลั๊กอิน"
 
 msgid " Manual Match Editing"
-msgstr ""
+msgstr "การแก้ไขการจับคู่ด้วยตนเอง"
 
 msgid " DVB channels in DB: {}"
-msgstr ""
+msgstr "ช่อง DVB ในฐานข้อมูล: {}"
 
 msgid " DVB-T EPG matches: {}"
-msgstr ""
+msgstr "ตรงกับ DVB-T EPG: {}"
 
 msgid " Export Manual Database"
-msgstr ""
+msgstr "ส่งออกฐานข้อมูลด้วยตนเอง"
 
 msgid " Import Manual Database"
-msgstr ""
+msgstr "นำเข้าฐานข้อมูลด้วยตนเอง"
 
 msgid " DVB EPG matches: {}"
-msgstr ""
+msgstr "ตรงกับ DVB EPG: {}"
 
 msgid " Duplicates ({}):"
-msgstr ""
+msgstr "ซ้ำกัน ({}):"
 
 msgid " Reload EPG Database"
-msgstr ""
+msgstr "โหลดฐานข้อมูล EPG ใหม่"
 
 msgid " Reload Services"
-msgstr ""
+msgstr "โหลดบริการอีกครั้ง"
 
 msgid " Replace All ({} mappings)"
-msgstr ""
+msgstr "แทนที่ทั้งหมด ({} การแมป)"
 
 msgid " Fallback (no EPG): {}"
-msgstr ""
+msgstr "ทางเลือกสำรอง (ไม่มี EPG): {}"
 
 msgid " Cache size: {} entries"
-msgstr ""
+msgstr "ขนาดแคช: {} รายการ"
 
 msgid " Back"
-msgstr ""
+msgstr "กลับ"
 
 msgid " Back to Tools"
-msgstr ""
+msgstr "กลับไปที่เครื่องมือ"
 
 msgid " Back to locations"
-msgstr ""
+msgstr "กลับไปยังสถานที่ต่างๆ"
 
 msgid " MATCH BREAKDOWN:"
-msgstr ""
+msgstr "รายละเอียดการแข่งขัน:"
 
 msgid " Completed at: {}"
-msgstr ""
+msgstr "เสร็จสิ้นเมื่อ: {}"
 
 msgid " Edited at: {}"
-msgstr ""
+msgstr "แก้ไขเมื่อ: {}"
 
 msgid " === Manual Database Management ==="
-msgstr ""
+msgstr "=== การจัดการฐานข้อมูลด้วยตนเอง ==="
 
 msgid " DATABASE INFO:"
-msgstr ""
+msgstr "ข้อมูลฐานข้อมูล:"
 
 msgid " Database mode: {}"
-msgstr ""
+msgstr "โหมดฐานข้อมูล: {}"
 
 msgid " Rytec channels in DB: {}"
-msgstr ""
+msgstr "ช่อง Rytec ใน DB: {}"
 
 msgid " Clear Log File"
-msgstr ""
+msgstr "ล้างไฟล์บันทึก"
 
 msgid " Delete this mapping"
-msgstr ""
+msgstr "ลบการแมปนี้"
 
 msgid " Skipped channels: {}"
-msgstr ""
+msgstr "ข้ามช่อง: {}"
 
 msgid " Rytec EPG matches: {}"
-msgstr ""
+msgstr "การแข่งขัน Rytec EPG: {}"
 
 msgid " Clean Manual Database"
-msgstr ""
+msgstr "ทำความสะอาดฐานข้อมูลด้วยตนเอง"
 
 msgid " Clear EPG Cache"
-msgstr ""
+msgstr "ล้างแคช EPG"

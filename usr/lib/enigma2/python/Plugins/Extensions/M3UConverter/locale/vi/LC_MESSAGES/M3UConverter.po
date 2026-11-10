@@ -11,958 +11,958 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "(Based on selected database mode: {})"
-msgstr ""
+msgstr "(Dựa trên chế độ cơ sở dữ liệu đã chọn: {})"
 
 msgid "(Reused previous manual corrections)"
-msgstr ""
+msgstr "(Sử dụng lại các chỉnh sửa thủ công trước đó)"
 
 msgid "- {} duplicate groups"
-msgstr ""
+msgstr "- {} nhóm trùng lặp"
 
 msgid "-- Auto-open Editor"
-msgstr ""
+msgstr "-- Trình chỉnh sửa tự động mở"
 
 msgid "-- DVB search limit (Match Edit)"
-msgstr ""
+msgstr "-- Giới hạn tìm kiếm DVB (Chỉnh sửa đối sánh)"
 
 msgid "-- Database Mode"
-msgstr ""
+msgstr "-- Chế độ cơ sở dữ liệu"
 
 msgid "-- EPG Generation Mode"
-msgstr ""
+msgstr "-- Chế độ tạo EPG"
 
 msgid "-- EPG Language"
-msgstr ""
+msgstr "-- Ngôn ngữ EPG"
 
 msgid "-- Ignore DVB-T services"
-msgstr ""
+msgstr "-- Bỏ qua dịch vụ DVB-T"
 
 msgid "-- Max Backups"
-msgstr ""
+msgstr "-- Sao lưu tối đa"
 
 msgid "-- Rytec search limit (Match Edit)"
-msgstr ""
+msgstr "-- Giới hạn tìm kiếm Rytec (Chỉnh sửa trận đấu)"
 
 msgid "-- Similarity Threshold DVB (%)"
-msgstr ""
+msgstr "-- Ngưỡng tương tự DVB (%)"
 
 msgid "-- Similarity Threshold Global (%)"
-msgstr ""
+msgstr "-- Ngưỡng tương tự toàn cầu (%)"
 
 msgid "-- Similarity Threshold Rytec (%)"
-msgstr ""
+msgstr "-- Ngưỡng tương tự Rytec (%)"
 
 msgid "-- Use Manual Database"
-msgstr ""
+msgstr "-- Sử dụng cơ sở dữ liệu thủ công"
 
 msgid "--- {} ({} duplicates) ---"
-msgstr ""
+msgstr "--- {} ({} trùng lặp) ---"
 
 msgid "---- Max manual corrections to save"
-msgstr ""
+msgstr "---- Chỉnh sửa thủ công tối đa để lưu"
 
 msgid ">>> DUPLICATES VIEW"
-msgstr ""
+msgstr ">>> XEM NHIỀU"
 
 msgid ">>> SELECTION MODE - Select items with OK"
-msgstr ""
+msgstr ">>> CHẾ ĐỘ CHỌN - Chọn mục bằng OK"
 
 msgid ">>> {} duplicate groups, {} total mappings"
-msgstr ""
+msgstr ">>> {} nhóm trùng lặp, tổng cộng {} ánh xạ"
 
 msgid ">>> {} groups, {} mappings total"
-msgstr ""
+msgstr ">>> {} nhóm, tổng cộng {} ánh xạ"
 
 msgid "ALL MAPPINGS: {} total"
-msgstr ""
+msgstr "TẤT CẢ CÁC BẢN ĐỒ: tổng cộng {}"
 
 msgid "Action for: {}"
-msgstr ""
+msgstr "Hành động cho: {}"
 
 msgid "Advanced Tools Menu"
-msgstr ""
+msgstr "Menu công cụ nâng cao"
 
 msgid "All Mappings"
-msgstr ""
+msgstr "Tất cả ánh xạ"
 
 msgid "Archimede Converter Settings"
-msgstr ""
+msgstr "Cài đặt bộ chuyển đổi Archimede"
 
 msgid "Archimede Universal Converter by Lululla v.{version} - {page}"
-msgstr ""
+msgstr "Archimede Universal Converter của Lululla v.{version} - {page}"
 
 msgid "Archimede Universal Converter v.%s"
-msgstr ""
+msgstr "Bộ chuyển đổi vạn năng Archimede v.%s"
 
 msgid "Archimede Universal Converter v.%s by Lululla"
-msgstr ""
+msgstr "Archimede Universal Converter v.%s của Lululla"
 
 msgid "Backup created successfully!"
-msgstr ""
+msgstr "Sao lưu được tạo thành công!"
 
 msgid "Backup failed: {}"
-msgstr ""
+msgstr "Sao lưu không thành công: {}"
 
 msgid "Barry Allen"
 msgstr ""
 
 msgid "Bottom"
-msgstr ""
+msgstr "Đáy"
 
 msgid "Bouquet Mode"
-msgstr ""
+msgstr "Chế độ bó hoa"
 
 msgid "Bouquet Position"
-msgstr ""
+msgstr "Vị trí bó hoa"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Hủy bỏ"
 
 msgid "Cancelling conversion..."
-msgstr ""
+msgstr "Đang hủy chuyển đổi..."
 
 msgid "Cancelling..."
-msgstr ""
+msgstr "Đang hủy..."
 
 msgid "Channel: {} | {} | Match: {} | Press RIGHT for matches"
-msgstr ""
+msgstr "Kênh: {} | {} | Trận đấu: {} | Nhấn RIGHT để xem trận đấu"
 
 msgid "Close"
-msgstr ""
+msgstr "Đóng"
 
 msgid "Conversion already in progress"
-msgstr ""
+msgstr "Quá trình chuyển đổi đang diễn ra"
 
 msgid "Conversion cancelled"
-msgstr ""
+msgstr "Đã hủy chuyển đổi"
 
 msgid "Conversion completed"
-msgstr ""
+msgstr "Chuyển đổi hoàn tất"
 
 msgid "Conversion error: %s"
-msgstr ""
+msgstr "Lỗi chuyển đổi: %s"
 
 msgid "Conversion failed: Invalid result"
-msgstr ""
+msgstr "Chuyển đổi không thành công: Kết quả không hợp lệ"
 
 msgid "Conversion failed: {}"
-msgstr ""
+msgstr "Chuyển đổi không thành công: {}"
 
 msgid "Conversion in progress..."
-msgstr ""
+msgstr "Đang tiến hành chuyển đổi..."
 
 msgid "Convert"
-msgstr ""
+msgstr "Chuyển thành"
 
 msgid "Convert HLS Streams"
-msgstr ""
+msgstr "Chuyển đổi luồng HLS"
 
 msgid "Convert HLS to Enigma2 format"
-msgstr ""
+msgstr "Chuyển đổi định dạng HLS sang Enigma2"
 
 msgid "Convert JSON to M3U"
-msgstr ""
+msgstr "Chuyển đổi JSON sang M3U"
 
 msgid "Convert JSON to TV"
-msgstr ""
+msgstr "Chuyển đổi JSON sang TV"
 
 msgid "Convert M3U to JSON"
-msgstr ""
+msgstr "Chuyển đổi M3U sang JSON"
 
 msgid "Convert M3U to TV"
-msgstr ""
+msgstr "Chuyển đổi M3U sang TV"
 
 msgid "Convert TV to M3U"
-msgstr ""
+msgstr "Chuyển đổi tivi sang M3U"
 
 msgid "Convert TV to TV"
-msgstr ""
+msgstr "Chuyển đổi tivi thành tivi"
 
 msgid "Convert XSPF to M3U"
-msgstr ""
+msgstr "Chuyển XSPF sang M3U"
 
 msgid "Convert between M3U Enigma2 Bouquets Json"
-msgstr ""
+msgstr "Chuyển đổi giữa các bó hoa M3U Enigma2 Json"
 
 msgid "Converting: %d/%d (%d%%)"
-msgstr ""
+msgstr "Đang chuyển đổi: %d/%d (%d%%)"
 
 msgid "Converting: {name} ({percent}%)"
-msgstr ""
+msgstr "Đang chuyển đổi: {name} ({percent}%)"
 
 msgid "Converting: {title} ({percent}%)"
-msgstr ""
+msgstr "Đang chuyển đổi: {name} ({percent}%)"
 
 msgid "Converting: {} ({}%)"
-msgstr ""
+msgstr "Đang chuyển đổi: {} ({}%)"
 
 msgid "Create Backup"
-msgstr ""
+msgstr "Tạo bản sao lưu"
 
 msgid "Create backup before conversion"
-msgstr ""
+msgstr "Tạo bản sao lưu trước khi chuyển đổi"
 
 msgid "Create single or multiple bouquets"
-msgstr ""
+msgstr "Tạo một hoặc nhiều bó hoa"
 
 msgid "DUPLICATES: {} groups, {} mappings"
-msgstr ""
+msgstr "SAO CHÉP: {} nhóm, {} ánh xạ"
 
 msgid "DVB + Rytec"
-msgstr ""
+msgstr "DVB + Máy khắc"
 
 msgid "DVB + Rytec + DTT (Full)"
-msgstr ""
+msgstr "DVB + Rytec + DTT (Đầy đủ)"
 
 msgid "Database Directory"
-msgstr ""
+msgstr "Thư mục cơ sở dữ liệu"
 
 msgid "Debug Mode"
-msgstr ""
+msgstr "Chế độ gỡ lỗi"
 
 msgid "Default Folder"
-msgstr ""
+msgstr "Thư mục mặc định"
 
 msgid "Default folder for opening and saving M3U files"
-msgstr ""
+msgstr "Thư mục mặc định để mở và lưu file M3U"
 
 msgid "Delete"
-msgstr ""
+msgstr "Xóa bỏ"
 
 msgid "Deleted {} items"
-msgstr ""
+msgstr "Đã xóa {} mục"
 
 msgid "Deleted {} items. No more duplicates."
-msgstr ""
+msgstr "Đã xóa {} mục. Không còn trùng lặp nữa."
 
 msgid "Deleted {} items. Still in selection mode."
-msgstr ""
+msgstr "Đã xóa {} mục. Vẫn ở chế độ lựa chọn."
 
 msgid "Done"
-msgstr ""
+msgstr "Xong"
 
 msgid "Duplicates"
-msgstr ""
+msgstr "trùng lặp"
 
 msgid "EPG Coverage: {}/{} channels ({:.1f}%)"
-msgstr ""
+msgstr "Phạm vi phủ sóng EPG: {}/{} kênh ({:.1f}%)"
 
 msgid "EPG assigned: {} | {}"
-msgstr ""
+msgstr "EPG được chỉ định: {} | {}"
 
 msgid "EPG cache cleared! {} entries removed"
-msgstr ""
+msgstr "Đã xóa bộ nhớ đệm EPG! {} mục đã bị xóa"
 
 msgid "EPG database reloaded successfully!"
-msgstr ""
+msgstr "Cơ sở dữ liệu EPG đã được tải lại thành công!"
 
 msgid "EPG mapper not available"
-msgstr ""
+msgstr "Trình ánh xạ EPG không có sẵn"
 
 msgid "EPG mapper not initialized"
-msgstr ""
+msgstr "Trình ánh xạ EPG chưa được khởi tạo"
 
 msgid "EPG matching algorithm"
-msgstr ""
+msgstr "Thuật toán khớp EPG"
 
 msgid "EPGImport plugin not found"
-msgstr ""
+msgstr "Không tìm thấy plugin EPGimport"
 
 msgid "EPGImporter"
-msgstr ""
+msgstr "Nhà nhập khẩu EPG"
 
 msgid "EPGShare Mode"
-msgstr ""
+msgstr "Chế độ chia sẻ EPG"
 
 msgid "Enable EPG"
-msgstr ""
+msgstr "Bật EPG"
 
 msgid "Enable detailed logging"
-msgstr ""
+msgstr "Bật ghi nhật ký chi tiết"
 
 msgid "Enigma2 Bouquet to Enigma2 Bouquet Conversion"
-msgstr ""
+msgstr "Chuyển đổi bó hoa Enigma2 sang bó hoa Enigma2"
 
 msgid "Enigma2 Bouquet to M3U Conversion"
-msgstr ""
+msgstr "Chuyển đổi bó Enigma2 sang M3U"
 
 msgid "Enigma2 Bouquets to  Enigma2 Bouquets"
-msgstr ""
+msgstr "Bó hoa Enigma2 đến Bó hoa Enigma2"
 
 msgid "Enigma2 Bouquets to  M3U"
-msgstr ""
+msgstr "Bó hoa Enigma2 tới M3U"
 
 msgid "Error clearing EPG cache"
-msgstr ""
+msgstr "Lỗi xóa bộ đệm EPG"
 
 msgid "Error clearing database"
-msgstr ""
+msgstr "Lỗi xóa cơ sở dữ liệu"
 
 msgid "Error deleting correction"
-msgstr ""
+msgstr "Lỗi xóa sửa"
 
 msgid "Error deleting items"
-msgstr ""
+msgstr "Lỗi xóa mục"
 
 msgid "Error deleting mapping"
-msgstr ""
+msgstr "Lỗi xóa bản đồ"
 
 msgid "Error exporting database"
-msgstr ""
+msgstr "Lỗi xuất cơ sở dữ liệu"
 
 msgid "Error finalizing import: {}"
-msgstr ""
+msgstr "Lỗi khi hoàn tất quá trình nhập: {}"
 
 msgid "Error importing database: {}"
-msgstr ""
+msgstr "Lỗi nhập cơ sở dữ liệu: {}"
 
 msgid "Error initiating service reload"
-msgstr ""
+msgstr "Lỗi khi tải lại dịch vụ"
 
 msgid "Error loading database"
-msgstr ""
+msgstr "Lỗi tải cơ sở dữ liệu"
 
 msgid "Error opening plugin information: %s"
-msgstr ""
+msgstr "Lỗi mở thông tin plugin: %s"
 
 msgid "Error processing conversion result"
-msgstr ""
+msgstr "Lỗi xử lý kết quả chuyển đổi"
 
 msgid "Error reloading EPG database: {}"
-msgstr ""
+msgstr "Lỗi tải lại cơ sở dữ liệu EPG: {}"
 
 msgid "Error saving imported database"
-msgstr ""
+msgstr "Lỗi lưu cơ sở dữ liệu đã nhập"
 
 msgid "Error starting import: {}"
-msgstr ""
+msgstr "Lỗi khi bắt đầu nhập: {}"
 
 msgid "Error undoing action"
-msgstr ""
+msgstr "Lỗi hoàn tác hành động"
 
 msgid "Error: Channel index out of range"
-msgstr ""
+msgstr "Lỗi: Chỉ mục kênh nằm ngoài phạm vi"
 
 msgid "Failed to initialize EPG mapper - check logs"
-msgstr ""
+msgstr "Không thể khởi chạy trình ánh xạ EPG - kiểm tra nhật ký"
 
 msgid "File loaded: {}"
-msgstr ""
+msgstr "Đã tải tệp: {}"
 
 msgid "File not found"
-msgstr ""
+msgstr "Không tìm thấy tập tin"
 
 msgid "File write error: %s"
-msgstr ""
+msgstr "Lỗi ghi tập tin: %s"
 
 msgid "File: {}"
-msgstr ""
+msgstr "Tài liệu: {}"
 
 msgid "Files larger than this will be sampled (1000 channels max)"
-msgstr ""
+msgstr "Các tệp lớn hơn mức này sẽ được lấy mẫu (tối đa 1000 kênh)"
 
 msgid "First select a match from the right list (use RIGHT arrow)"
-msgstr ""
+msgstr "Đầu tiên chọn một kết quả phù hợp từ danh sách bên phải (sử dụng mũi tên PHẢI)"
 
 msgid "Found {} matches for: {} | Select and press OK"
-msgstr ""
+msgstr "Đã tìm thấy {} kết quả phù hợp cho: {} | Chọn và nhấn OK"
 
 msgid "Found {} matches so far for: {} | Searching..."
-msgstr ""
+msgstr "Đã tìm thấy {} kết quả phù hợp cho đến nay: {} | Đang tìm kiếm..."
 
 msgid "Generate EPG data for bouquets"
-msgstr ""
+msgstr "Tạo dữ liệu EPG cho bó hoa"
 
 msgid "Global similarity threshold for all matches (20-100%)"
-msgstr ""
+msgstr "Ngưỡng tương tự toàn cầu cho tất cả các trận đấu (20-100%)"
 
 msgid "HDD Drive"
-msgstr ""
+msgstr "Ổ đĩa cứng"
 
 msgid "Ignore DVB-T services on conversion"
-msgstr ""
+msgstr "Bỏ qua dịch vụ DVB-T khi chuyển đổi"
 
 msgid "Import {} mappings from {}"
-msgstr ""
+msgstr "Nhập ánh xạ {} từ {}"
 
 msgid "Invalid .m3u item format"
-msgstr ""
+msgstr "Định dạng mục .m3u không hợp lệ"
 
 msgid "Invalid .tv item format"
-msgstr ""
+msgstr "Định dạng mục .tv không hợp lệ"
 
 msgid "Invalid XSPF file"
-msgstr ""
+msgstr "Tệp XSPF không hợp lệ"
 
 msgid "Invalid database file structure"
-msgstr ""
+msgstr "Cấu trúc tệp cơ sở dữ liệu không hợp lệ"
 
 msgid "Invalid selection"
-msgstr ""
+msgstr "Lựa chọn không hợp lệ"
 
 msgid "JSON to Enigma2 Bouquet Conversion"
-msgstr ""
+msgstr "Chuyển đổi bó hoa JSON sang Enigma2"
 
 msgid "JSON to M3U Conversion"
-msgstr ""
+msgstr "Chuyển đổi JSON sang M3U"
 
 msgid "JSON to  Enigma2 Bouquets"
-msgstr ""
+msgstr "Bó hoa JSON đến Enigma2"
 
 msgid "JSON to  M3U"
-msgstr ""
+msgstr "JSON sang M3U"
 
 msgid "Language for EPG sources"
-msgstr ""
+msgstr "Ngôn ngữ cho nguồn EPG"
 
 msgid "Large file detected: {:.1f}MB. Processing first {} channels..."
-msgstr ""
+msgstr "Đã phát hiện tệp lớn: {:.1f}MB. Đang xử lý {} kênh đầu tiên..."
 
 msgid "Large file threshold (MB)"
-msgstr ""
+msgstr "Ngưỡng tệp lớn (MB)"
 
 msgid "Loaded first %d channels. Press Green to convert."
-msgstr ""
+msgstr "Đã tải %d kênh đầu tiên. Nhấn Green để chuyển đổi."
 
 msgid "Loading database..."
-msgstr ""
+msgstr "Đang tải cơ sở dữ liệu..."
 
 msgid "Log file cleared successfully"
-msgstr ""
+msgstr "Tệp nhật ký đã được xóa thành công"
 
 msgid "M3U to Enigma2 Bouquet Conversion"
-msgstr ""
+msgstr "Chuyển đổi bó hoa M3U sang Enigma2"
 
 msgid "M3U to JSON Conversion"
-msgstr ""
+msgstr "Chuyển đổi M3U sang JSON"
 
 msgid "M3U to  Enigma2 Bouquets"
-msgstr ""
+msgstr "Bó hoa từ M3U đến Enigma2"
 
 msgid "M3U to  JSON"
-msgstr ""
+msgstr "M3U sang JSON"
 
 msgid "Manual Corrections ({} total)"
-msgstr ""
+msgstr "Chỉnh sửa thủ công (tổng cộng {})"
 
 msgid "Manual Database Editor"
-msgstr ""
+msgstr "Trình soạn thảo cơ sở dữ liệu thủ công"
 
 msgid "Manual EPG Match Editor"
-msgstr ""
+msgstr "Trình chỉnh sửa trận đấu EPG thủ công"
 
 msgid "Manual database cleared"
-msgstr ""
+msgstr "Đã xóa cơ sở dữ liệu thủ công"
 
 msgid "Manual database not available"
-msgstr ""
+msgstr "Cơ sở dữ liệu thủ công không có sẵn"
 
 msgid "Manual editing completed"
-msgstr ""
+msgstr "Chỉnh sửa thủ công đã hoàn tất"
 
 msgid "Manual editing completed - ready for conversion"
-msgstr ""
+msgstr "Chỉnh sửa thủ công đã hoàn tất - sẵn sàng để chuyển đổi"
 
 msgid "Mapping deleted successfully"
-msgstr ""
+msgstr "Đã xóa bản đồ thành công"
 
 msgid "Match Editor"
-msgstr ""
+msgstr "Trình chỉnh sửa trận đấu"
 
 msgid "Match reset for: {}"
-msgstr ""
+msgstr "Đặt lại trận đấu cho: {}"
 
 msgid "Max DVB entries scanned during automatic Match Edit (Slow down scanning)"
-msgstr ""
+msgstr "Các mục DVB tối đa được quét trong quá trình Chỉnh sửa đối sánh tự động (Quét chậm lại)"
 
 msgid "Max Rytec entries scanned during automatic Match Edit (Slow down scanning)"
-msgstr ""
+msgstr "Các mục nhập Rytec tối đa được quét trong quá trình Chỉnh sửa trận đấu tự động (Quét chậm lại)"
 
 msgid "Maximum backup copies"
-msgstr ""
+msgstr "Bản sao lưu tối đa"
 
 msgid "Maximum manual corrections to save"
-msgstr ""
+msgstr "Chỉnh sửa thủ công tối đa để tiết kiệm"
 
 msgid "Multiple Bouquets"
-msgstr ""
+msgstr "Nhiều bó hoa"
 
 msgid "Network Storage"
-msgstr ""
+msgstr "Lưu trữ mạng"
 
 msgid "Next"
-msgstr ""
+msgstr "Kế tiếp"
 
 msgid "No IPTV channels found in the bouquet"
-msgstr ""
+msgstr "Không tìm thấy kênh IPTV nào trong bó"
 
 msgid "No M3UConverter bouquets found to remove."
-msgstr ""
+msgstr "Không tìm thấy bó hoa M3UConverter nào để xóa."
 
 msgid "No MANUAL changes to save"
-msgstr ""
+msgstr "Không có thay đổi THỦ CÔNG nào để lưu"
 
 msgid "No MANUAL corrections saved"
-msgstr ""
+msgstr "Không có chỉnh sửa THỦ CÔNG nào được lưu"
 
 msgid "No actions to undo"
-msgstr ""
+msgstr "Không có hành động nào để hoàn tác"
 
 msgid "No channels available"
-msgstr ""
+msgstr "Không có kênh nào"
 
 msgid "No channels loaded. Please select a valid TV bouquet file."
-msgstr ""
+msgstr "Không có kênh nào được tải. Vui lòng chọn tệp bó hoa TV hợp lệ."
 
 msgid "No conversion data available."
-msgstr ""
+msgstr "Không có dữ liệu chuyển đổi có sẵn."
 
 msgid "No conversion data available. Please run a conversion first."
-msgstr ""
+msgstr "Không có dữ liệu chuyển đổi có sẵn. Vui lòng chạy chuyển đổi trước."
 
 msgid "No conversion statistics available."
-msgstr ""
+msgstr "Không có số liệu thống kê chuyển đổi có sẵn."
 
 msgid "No duplicates available for selection"
-msgstr ""
+msgstr "Không có bản sao nào để lựa chọn"
 
 msgid "No duplicates found"
-msgstr ""
+msgstr "Không tìm thấy bản sao"
 
 msgid "No duplicates found in the database"
-msgstr ""
+msgstr "Không tìm thấy bản sao trong cơ sở dữ liệu"
 
 msgid "No file selected"
-msgstr ""
+msgstr "Không có tập tin nào được chọn"
 
 msgid "No file selected for conversion"
-msgstr ""
+msgstr "Không có tệp nào được chọn để chuyển đổi"
 
 msgid "No items selected for deletion"
-msgstr ""
+msgstr "Không có mục nào được chọn để xóa"
 
 msgid "No manual corrections found"
-msgstr ""
+msgstr "Không tìm thấy chỉnh sửa thủ công nào"
 
 msgid "No manual corrections to export"
-msgstr ""
+msgstr "Không có chỉnh sửa thủ công để xuất"
 
 msgid "No mappings available"
-msgstr ""
+msgstr "Không có bản đồ nào"
 
 msgid "No matches found - try different search"
-msgstr ""
+msgstr "Không tìm thấy kết quả phù hợp - hãy thử tìm kiếm khác"
 
 msgid "No matches found for: {}"
-msgstr ""
+msgstr "Không tìm thấy kết quả phù hợp cho: {}"
 
 msgid "No statistics available"
-msgstr ""
+msgstr "Không có số liệu thống kê"
 
 msgid "No valid channels found in the JSON file"
-msgstr ""
+msgstr "Không tìm thấy kênh hợp lệ nào trong tệp JSON"
 
 msgid "Only DTT"
-msgstr ""
+msgstr "Chỉ DTT"
 
 msgid "Only DVB"
-msgstr ""
+msgstr "Chỉ DVB"
 
 msgid "Only Rytec"
-msgstr ""
+msgstr "Chỉ Rytec"
 
 msgid "Open File"
-msgstr ""
+msgstr "Mở tệp"
 
 msgid "Open manual editor after conversion"
-msgstr ""
+msgstr "Mở trình chỉnh sửa thủ công sau khi chuyển đổi"
 
 msgid "Playback error"
-msgstr ""
+msgstr "Lỗi phát lại"
 
 msgid "Playing: %s"
-msgstr ""
+msgstr "Đang phát: %s"
 
 msgid "Please select a channel first"
-msgstr ""
+msgstr "Vui lòng chọn kênh trước"
 
 msgid "Please select a mapping (not a group header)"
-msgstr ""
+msgstr "Vui lòng chọn ánh xạ (không phải tiêu đề nhóm)"
 
 msgid "Please select a mapping to delete"
-msgstr ""
+msgstr "Vui lòng chọn bản đồ để xóa"
 
 msgid "Please select a valid match from the right list"
-msgstr ""
+msgstr "Vui lòng chọn một kết quả phù hợp từ danh sách bên phải"
 
 msgid "Plugin Information"
-msgstr ""
+msgstr "Thông tin plugin"
 
 msgid "Position in channel list"
-msgstr ""
+msgstr "Vị trí trong danh sách kênh"
 
 msgid "Press RED to select file"
-msgstr ""
+msgstr "Nhấn RED để chọn tập tin"
 
 msgid "Prev"
-msgstr ""
+msgstr "Trước đó"
 
 msgid "Processing selection..."
-msgstr ""
+msgstr "Đang xử lý lựa chọn..."
 
 msgid "Ready"
-msgstr ""
+msgstr "Sẵn sàng"
 
 msgid "Ready for next operation"
-msgstr ""
+msgstr "Sẵn sàng cho hoạt động tiếp theo"
 
 msgid "Ready to convert"
-msgstr ""
+msgstr "Sẵn sàng chuyển đổi"
 
 msgid "Ready: Select the file from the %s you configured in settings."
-msgstr ""
+msgstr "Sẵn sàng: Chọn tệp từ %s bạn đã định cấu hình trong cài đặt."
 
 msgid "Reloading services..."
-msgstr ""
+msgstr "Đang tải lại dịch vụ..."
 
 msgid "Remove Bouquets"
-msgstr ""
+msgstr "Loại bỏ bó hoa"
 
 msgid "Remove M3U Bouquets"
-msgstr ""
+msgstr "Loại bỏ bó hoa M3U"
 
 msgid "Reset"
-msgstr ""
+msgstr "Cài lại"
 
 msgid "Run a conversion first to see statistics."
-msgstr ""
+msgstr "Trước tiên hãy chạy chuyển đổi để xem số liệu thống kê."
 
 msgid "SELECTION MODE: {} items selected"
-msgstr ""
+msgstr "CHẾ ĐỘ LỰA CHỌN: đã chọn {} mục"
 
 msgid "Save All"
-msgstr ""
+msgstr "Lưu tất cả"
 
 msgid "Save error"
-msgstr ""
+msgstr "Lưu lỗi"
 
 msgid "Saved {} MANUAL corrections"
-msgstr ""
+msgstr "Đã lưu {} chỉnh sửa THỦ CÔNG"
 
 msgid "Searching matches for: {}..."
-msgstr ""
+msgstr "Đang tìm kiếm kết quả phù hợp cho: {}..."
 
 msgid "Select"
-msgstr ""
+msgstr "Lựa chọn"
 
 msgid "Select a channel to correct the match"
-msgstr ""
+msgstr "Chọn một kênh để sửa trận đấu"
 
 msgid "Select a channel to edit (use OK or RIGHT to go to matches)"
-msgstr ""
+msgstr "Chọn kênh để chỉnh sửa (dùng OK hoặc RIGHT để đi đến kết quả phù hợp)"
 
 msgid "Select a match and press OK to assign"
-msgstr ""
+msgstr "Chọn một trận đấu và nhấn OK để gán"
 
 msgid "Select databases for channel matching"
-msgstr ""
+msgstr "Chọn cơ sở dữ liệu để khớp kênh"
 
 msgid "Select file to import from {}"
-msgstr ""
+msgstr "Chọn tệp để nhập từ {}"
 
 msgid "Select import location"
-msgstr ""
+msgstr "Chọn vị trí nhập"
 
 msgid "Selection mode active. Select items with OK"
-msgstr ""
+msgstr "Chế độ lựa chọn đang hoạt động. Chọn các mục bằng OK"
 
 msgid "Selection mode off"
-msgstr ""
+msgstr "Tắt chế độ lựa chọn"
 
 msgid "Selection mode: Select items with OK"
-msgstr ""
+msgstr "Chế độ lựa chọn: Chọn mục bằng OK"
 
 msgid "Service reload initiated"
-msgstr ""
+msgstr "Đã bắt đầu tải lại dịch vụ"
 
 msgid "Similarity threshold for DVB matches (20-100%)"
-msgstr ""
+msgstr "Ngưỡng tương tự cho các trận đấu DVB (20-100%)"
 
 msgid "Similarity threshold for Rytec matches (20-100%)"
-msgstr ""
+msgstr "Ngưỡng tương tự cho các trận đấu Rytec (20-100%)"
 
 msgid "Single Bouquet"
-msgstr ""
+msgstr "Bó hoa đơn"
 
 msgid "Standard Mode"
-msgstr ""
+msgstr "Chế độ tiêu chuẩn"
 
 msgid "Stopped"
-msgstr ""
+msgstr "Đã dừng"
 
 msgid "Temporary"
-msgstr ""
+msgstr "Tạm thời"
 
 msgid "Temporary Files"
-msgstr ""
+msgstr "Tệp tạm thời"
 
 msgid "Tools"
-msgstr ""
+msgstr "Công cụ"
 
 msgid "Top"
-msgstr ""
+msgstr "Đứng đầu"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "Ổ USB"
 
 msgid "Undo"
-msgstr ""
+msgstr "Hoàn tác"
 
 msgid "Undo: Restored previous state for {}"
-msgstr ""
+msgstr "Hoàn tác: Đã khôi phục trạng thái trước đó cho {}"
 
 msgid "Universal Converter"
-msgstr ""
+msgstr "Bộ chuyển đổi đa năng"
 
 msgid "Unknown error"
-msgstr ""
+msgstr "Lỗi không xác định"
 
 msgid "Unsupported conversion type"
-msgstr ""
+msgstr "Loại chuyển đổi không được hỗ trợ"
 
 msgid "Use saved manual corrections"
-msgstr ""
+msgstr "Sử dụng các chỉnh sửa thủ công đã lưu"
 
 msgid "We're ready: what do you want to do?"
-msgstr ""
+msgstr "Chúng tôi đã sẵn sàng: bạn muốn làm gì?"
 
 msgid "XSPF conversion error: %s"
-msgstr ""
+msgstr "Lỗi chuyển đổi XSPF: %s"
 
 msgid "XSPF to M3U Playlist Conversion"
-msgstr ""
+msgstr "Chuyển đổi danh sách phát XSPF sang M3U"
 
 msgid "XSPF to  M3U Playlist"
-msgstr ""
+msgstr "Danh sách phát XSPF sang M3U"
 
 msgid "merged"
-msgstr ""
+msgstr "sáp nhập"
 
 msgid "replaced"
-msgstr ""
+msgstr "thay thế"
 
 msgid "tv_to_m3u Conversion error: %s"
-msgstr ""
+msgstr "tv_to_m3u Lỗi chuyển đổi: %s"
 
 msgid " Current total: {}"
-msgstr ""
+msgstr "Tổng số hiện tại: {}"
 
 msgid " DVB: {} channels"
-msgstr ""
+msgstr "DVB: {} kênh"
 
 msgid " Duplicate mappings: {}"
-msgstr ""
+msgstr "Ánh xạ trùng lặp: {}"
 
 msgid " Hit: {} ({:.1f}%)"
-msgstr ""
+msgstr "Lượt truy cập: {} ({:.1f}%)"
 
 msgid " Miss: {}"
-msgstr ""
+msgstr "Cô: {}"
 
 msgid " Mode: {}"
-msgstr ""
+msgstr "Cách thức: {}"
 
 msgid " New mappings: {}"
-msgstr ""
+msgstr "Ánh xạ mới: {}"
 
 msgid " Rytec: {} channels"
-msgstr ""
+msgstr "Rytec: {} kênh"
 
 msgid " Size: {} entries"
-msgstr ""
+msgstr "Kích thước: {} mục"
 
 msgid " Total in import file: {}"
-msgstr ""
+msgstr "Tổng số trong tệp nhập: {}"
 
 msgid "  Manual DB: {} ({:.1f}%)"
-msgstr ""
+msgstr "Cơ sở dữ liệu thủ công: {} ({:.1f}%)"
 
 msgid "  DVB-S: {} ({:.1f}%)"
-msgstr ""
+msgstr "DVB-S: {} ({:.1f}%)"
 
 msgid "  DVB-T: {} ({:.1f}%)"
-msgstr ""
+msgstr "DVB-T: {} ({:.1f}%)"
 
 msgid "  IPTV Fallback: {} ({:.1f}%)"
-msgstr ""
+msgstr "Dự phòng IPTV: {} ({:.1f}%)"
 
 msgid "  Rytec: {} ({:.1f}%)"
-msgstr ""
+msgstr "Rytec: {} ({:.1f}%)"
 
 msgid " Conversion type: {}"
-msgstr ""
+msgstr "Loại chuyển đổi: {}"
 
 msgid " Status: Completed successfully"
-msgstr ""
+msgstr "Trạng thái: Đã hoàn tất thành công"
 
 msgid " Valid channels processed: {}"
-msgstr ""
+msgstr "Các kênh hợp lệ đã được xử lý: {}"
 
 msgid " Edit this mapping"
-msgstr ""
+msgstr "Chỉnh sửa ánh xạ này"
 
 msgid " Manual edits applied: {}"
-msgstr ""
+msgstr "Đã áp dụng chỉnh sửa thủ công: {}"
 
 msgid " Open Database Editor"
-msgstr ""
+msgstr "Mở trình soạn thảo cơ sở dữ liệu"
 
 msgid " Error generating statistics"
-msgstr ""
+msgstr "Lỗi tạo số liệu thống kê"
 
 msgid " Merge (keep both)"
-msgstr ""
+msgstr "Hợp nhất (giữ cả hai)"
 
 msgid " New mappings ({}):"
-msgstr ""
+msgstr "Ánh xạ mới ({}):"
 
 msgid " CONVERSION COMPLETE"
-msgstr ""
+msgstr "CHUYỂN ĐỔI HOÀN THÀNH"
 
 msgid " Effective EPG matches: {}"
-msgstr ""
+msgstr "Các trận đấu EPG hiệu quả: {}"
 
 msgid " TOTAL CHANNELS: {}"
-msgstr ""
+msgstr "TỔNG KÊNH: {}"
 
 msgid " View Manual Database"
-msgstr ""
+msgstr "Xem cơ sở dữ liệu thủ công"
 
 msgid " CACHE PERFORMANCE:"
-msgstr ""
+msgstr "HIỆU SUẤT BỘ NHỚ:"
 
 msgid " Cache efficiency: {}"
-msgstr ""
+msgstr "Hiệu suất bộ nhớ đệm: {}"
 
 msgid " Create Backup"
-msgstr ""
+msgstr "Tạo bản sao lưu"
 
 msgid " Manual DB matches: {}"
-msgstr ""
+msgstr "Kết quả khớp DB thủ công: {}"
 
 msgid " Output file: {}"
-msgstr ""
+msgstr "Tệp đầu ra: {}"
 
 msgid " File size: {}"
-msgstr ""
+msgstr "Kích thước tệp: {}"
 
 msgid " EFFECTIVE EPG coverage: {}"
-msgstr ""
+msgstr "Phạm vi phủ sóng EPG HIỆU QUẢ: {}"
 
 msgid " EPG COVERAGE: {:.1f}%"
-msgstr ""
+msgstr "ĐỘ PHỦ EPG: {:.1f}%"
 
 msgid " Statistics:"
-msgstr ""
+msgstr "Thống kê:"
 
 msgid " EPG Cache Statistics"
-msgstr ""
+msgstr "Thống kê bộ đệm EPG"
 
 msgid " EPG STATISTICS - {}"
-msgstr ""
+msgstr "THỐNG KÊ EPG - {}"
 
 msgid " IMPORT PREVIEW"
-msgstr ""
+msgstr "XEM TRƯỚC NHẬP KHẨU"
 
 msgid " Preview Changes"
-msgstr ""
+msgstr "Xem trước các thay đổi"
 
 msgid " Total channels in file: {}"
-msgstr ""
+msgstr "Tổng số kênh trong tệp: {}"
 
 msgid " Plugin Info"
-msgstr ""
+msgstr "Thông tin plugin"
 
 msgid " Manual Match Editing"
-msgstr ""
+msgstr "Chỉnh sửa trận đấu thủ công"
 
 msgid " DVB channels in DB: {}"
-msgstr ""
+msgstr "Các kênh DVB trong DB: {}"
 
 msgid " DVB-T EPG matches: {}"
-msgstr ""
+msgstr "DVB-T EPG phù hợp: {}"
 
 msgid " Export Manual Database"
-msgstr ""
+msgstr "Xuất cơ sở dữ liệu thủ công"
 
 msgid " Import Manual Database"
-msgstr ""
+msgstr "Nhập cơ sở dữ liệu thủ công"
 
 msgid " DVB EPG matches: {}"
-msgstr ""
+msgstr "Các trận đấu EPG của DVB: {}"
 
 msgid " Duplicates ({}):"
-msgstr ""
+msgstr "Bản sao ({}):"
 
 msgid " Reload EPG Database"
-msgstr ""
+msgstr "Tải lại cơ sở dữ liệu EPG"
 
 msgid " Reload Services"
-msgstr ""
+msgstr "Tải lại dịch vụ"
 
 msgid " Replace All ({} mappings)"
-msgstr ""
+msgstr "Thay thế tất cả ({} ánh xạ)"
 
 msgid " Fallback (no EPG): {}"
-msgstr ""
+msgstr "Dự phòng (không có EPG): {}"
 
 msgid " Cache size: {} entries"
-msgstr ""
+msgstr "Kích thước bộ đệm: {} mục"
 
 msgid " Back"
-msgstr ""
+msgstr "Mặt sau"
 
 msgid " Back to Tools"
-msgstr ""
+msgstr "Quay lại Công cụ"
 
 msgid " Back to locations"
-msgstr ""
+msgstr "Quay lại vị trí"
 
 msgid " MATCH BREAKDOWN:"
-msgstr ""
+msgstr "TỔNG KẾT TRẬN ĐẤU:"
 
 msgid " Completed at: {}"
-msgstr ""
+msgstr "Hoàn thành lúc: {}"
 
 msgid " Edited at: {}"
-msgstr ""
+msgstr "Đã chỉnh sửa tại: {}"
 
 msgid " === Manual Database Management ==="
-msgstr ""
+msgstr "=== Quản lý cơ sở dữ liệu thủ công ==="
 
 msgid " DATABASE INFO:"
-msgstr ""
+msgstr "THÔNG TIN CƠ SỞ DỮ LIỆU:"
 
 msgid " Database mode: {}"
-msgstr ""
+msgstr "Chế độ cơ sở dữ liệu: {}"
 
 msgid " Rytec channels in DB: {}"
-msgstr ""
+msgstr "Các kênh Rytec trong DB: {}"
 
 msgid " Clear Log File"
-msgstr ""
+msgstr "Xóa tệp nhật ký"
 
 msgid " Delete this mapping"
-msgstr ""
+msgstr "Xóa ánh xạ này"
 
 msgid " Skipped channels: {}"
-msgstr ""
+msgstr "Các kênh bị bỏ qua: {}"
 
 msgid " Rytec EPG matches: {}"
-msgstr ""
+msgstr "Rytec EPG phù hợp: {}"
 
 msgid " Clean Manual Database"
-msgstr ""
+msgstr "Làm sạch cơ sở dữ liệu thủ công"
 
 msgid " Clear EPG Cache"
-msgstr ""
+msgstr "Xóa bộ nhớ đệm EPG"

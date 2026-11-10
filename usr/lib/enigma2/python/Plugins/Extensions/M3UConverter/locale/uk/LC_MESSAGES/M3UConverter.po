@@ -11,958 +11,958 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 msgid "(Based on selected database mode: {})"
-msgstr ""
+msgstr "(На основі вибраного режиму бази даних: {})"
 
 msgid "(Reused previous manual corrections)"
-msgstr ""
+msgstr "(Повторно використані попередні виправлення вручну)"
 
 msgid "- {} duplicate groups"
-msgstr ""
+msgstr "- {} повторюваних груп"
 
 msgid "-- Auto-open Editor"
-msgstr ""
+msgstr "-- Автоматичне відкриття редактора"
 
 msgid "-- DVB search limit (Match Edit)"
-msgstr ""
+msgstr "-- Обмеження пошуку DVB (редагування відповідності)"
 
 msgid "-- Database Mode"
-msgstr ""
+msgstr "-- Режим бази даних"
 
 msgid "-- EPG Generation Mode"
-msgstr ""
+msgstr "-- Режим генерації EPG"
 
 msgid "-- EPG Language"
-msgstr ""
+msgstr "-- Мова EPG"
 
 msgid "-- Ignore DVB-T services"
-msgstr ""
+msgstr "-- Ігноруйте послуги DVB-T"
 
 msgid "-- Max Backups"
-msgstr ""
+msgstr "-- Максимальне резервне копіювання"
 
 msgid "-- Rytec search limit (Match Edit)"
-msgstr ""
+msgstr "-- Обмеження пошуку Rytec (редагування відповідності)"
 
 msgid "-- Similarity Threshold DVB (%)"
-msgstr ""
+msgstr "-- Поріг подібності DVB ​​(%)"
 
 msgid "-- Similarity Threshold Global (%)"
-msgstr ""
+msgstr "-- Загальний поріг подібності (%)"
 
 msgid "-- Similarity Threshold Rytec (%)"
-msgstr ""
+msgstr "-- Поріг подібності Rytec (%)"
 
 msgid "-- Use Manual Database"
-msgstr ""
+msgstr "-- Використовуйте ручну базу даних"
 
 msgid "--- {} ({} duplicates) ---"
-msgstr ""
+msgstr "--- {} ({} дублікатів) ---"
 
 msgid "---- Max manual corrections to save"
-msgstr ""
+msgstr "---- Максимальна кількість ручних виправлень для збереження"
 
 msgid ">>> DUPLICATES VIEW"
-msgstr ""
+msgstr ">>> ПЕРЕГЛЯД ДУБЛІКАТІВ"
 
 msgid ">>> SELECTION MODE - Select items with OK"
-msgstr ""
+msgstr ">>> РЕЖИМ ВИБІРУ - Виберіть елементи за допомогою ОК"
 
 msgid ">>> {} duplicate groups, {} total mappings"
 msgstr ""
 
 msgid ">>> {} groups, {} mappings total"
-msgstr ""
+msgstr ">>> {} груп, {} відображень всього"
 
 msgid "ALL MAPPINGS: {} total"
-msgstr ""
+msgstr "УСІ ВІДОБРАЖЕННЯ: всього {}"
 
 msgid "Action for: {}"
-msgstr ""
+msgstr "Дія для: {}"
 
 msgid "Advanced Tools Menu"
-msgstr ""
+msgstr "Меню додаткових інструментів"
 
 msgid "All Mappings"
-msgstr ""
+msgstr "Усі відображення"
 
 msgid "Archimede Converter Settings"
-msgstr ""
+msgstr "Налаштування конвертера Archimede"
 
 msgid "Archimede Universal Converter by Lululla v.{version} - {page}"
-msgstr ""
+msgstr "Універсальний конвертер Archimede від Lululla v.{version} - {page}"
 
 msgid "Archimede Universal Converter v.%s"
-msgstr ""
+msgstr "Універсальний конвертер Archimede v.%s"
 
 msgid "Archimede Universal Converter v.%s by Lululla"
-msgstr ""
+msgstr "Універсальний конвертер Archimede v.%s від Lululla"
 
 msgid "Backup created successfully!"
-msgstr ""
+msgstr "Резервну копію успішно створено!"
 
 msgid "Backup failed: {}"
-msgstr ""
+msgstr "Помилка резервного копіювання: {}"
 
 msgid "Barry Allen"
-msgstr ""
+msgstr "Баррі Аллен"
 
 msgid "Bottom"
-msgstr ""
+msgstr "Дно"
 
 msgid "Bouquet Mode"
-msgstr ""
+msgstr "Режим «Букет»."
 
 msgid "Bouquet Position"
-msgstr ""
+msgstr "Позиція букета"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgid "Cancelling conversion..."
-msgstr ""
+msgstr "Скасування конвертації..."
 
 msgid "Cancelling..."
-msgstr ""
+msgstr "Скасування..."
 
 msgid "Channel: {} | {} | Match: {} | Press RIGHT for matches"
-msgstr ""
+msgstr "Канал: {} | {} | Збіг: {} | Натисніть ВПРАВО для збігів"
 
 msgid "Close"
-msgstr ""
+msgstr "Закрити"
 
 msgid "Conversion already in progress"
-msgstr ""
+msgstr "Перетворення вже триває"
 
 msgid "Conversion cancelled"
-msgstr ""
+msgstr "Перетворення скасовано"
 
 msgid "Conversion completed"
-msgstr ""
+msgstr "Перетворення завершено"
 
 msgid "Conversion error: %s"
-msgstr ""
+msgstr "Помилка перетворення: %s"
 
 msgid "Conversion failed: Invalid result"
-msgstr ""
+msgstr "Помилка перетворення: недійсний результат"
 
 msgid "Conversion failed: {}"
-msgstr ""
+msgstr "Помилка перетворення: {}"
 
 msgid "Conversion in progress..."
-msgstr ""
+msgstr "Триває перетворення..."
 
 msgid "Convert"
-msgstr ""
+msgstr "конвертувати"
 
 msgid "Convert HLS Streams"
-msgstr ""
+msgstr "Перетворення потоків HLS"
 
 msgid "Convert HLS to Enigma2 format"
-msgstr ""
+msgstr "Перетворення HLS у формат Enigma2"
 
 msgid "Convert JSON to M3U"
-msgstr ""
+msgstr "Перетворення JSON на M3U"
 
 msgid "Convert JSON to TV"
-msgstr ""
+msgstr "Перетворення JSON на TV"
 
 msgid "Convert M3U to JSON"
-msgstr ""
+msgstr "Перетворення M3U в JSON"
 
 msgid "Convert M3U to TV"
-msgstr ""
+msgstr "Перетворення M3U на телевізор"
 
 msgid "Convert TV to M3U"
-msgstr ""
+msgstr "Перетворення ТБ на M3U"
 
 msgid "Convert TV to TV"
-msgstr ""
+msgstr "Перетворення телевізора на телевізор"
 
 msgid "Convert XSPF to M3U"
-msgstr ""
+msgstr "Перетворення XSPF на M3U"
 
 msgid "Convert between M3U Enigma2 Bouquets Json"
-msgstr ""
+msgstr "Перетворення між M3U Enigma2 Bouquets Json"
 
 msgid "Converting: %d/%d (%d%%)"
-msgstr ""
+msgstr "Перетворення: %d/%d (%d%%)"
 
 msgid "Converting: {name} ({percent}%)"
-msgstr ""
+msgstr "Конвертація: {name} ({percent}%)"
 
 msgid "Converting: {title} ({percent}%)"
-msgstr ""
+msgstr "Конвертація: {name} ({percent}%)"
 
 msgid "Converting: {} ({}%)"
-msgstr ""
+msgstr "Перетворення: {} ({}%)"
 
 msgid "Create Backup"
-msgstr ""
+msgstr "Створити резервну копію"
 
 msgid "Create backup before conversion"
-msgstr ""
+msgstr "Створіть резервну копію перед перетворенням"
 
 msgid "Create single or multiple bouquets"
-msgstr ""
+msgstr "Створення одного або кількох букетів"
 
 msgid "DUPLICATES: {} groups, {} mappings"
-msgstr ""
+msgstr "ДУБЛІКАТИ: {} груп, {} зіставлень"
 
 msgid "DVB + Rytec"
-msgstr ""
+msgstr "DVB + Гравер"
 
 msgid "DVB + Rytec + DTT (Full)"
-msgstr ""
+msgstr "DVB + Rytec + DTT (повний)"
 
 msgid "Database Directory"
-msgstr ""
+msgstr "Каталог бази даних"
 
 msgid "Debug Mode"
-msgstr ""
+msgstr "Режим налагодження"
 
 msgid "Default Folder"
-msgstr ""
+msgstr "Папка за замовчуванням"
 
 msgid "Default folder for opening and saving M3U files"
-msgstr ""
+msgstr "Стандартна папка для відкриття та збереження файлів M3U"
 
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgid "Deleted {} items"
-msgstr ""
+msgstr "Видалено {} елементів"
 
 msgid "Deleted {} items. No more duplicates."
-msgstr ""
+msgstr "Видалено {} елементів. Більше ніяких дублікатів."
 
 msgid "Deleted {} items. Still in selection mode."
-msgstr ""
+msgstr "Видалено {} елементів. Все ще в режимі вибору."
 
 msgid "Done"
-msgstr ""
+msgstr "Готово"
 
 msgid "Duplicates"
-msgstr ""
+msgstr "Дублікати"
 
 msgid "EPG Coverage: {}/{} channels ({:.1f}%)"
-msgstr ""
+msgstr "Покриття EPG: {}/{} каналів ({:.1f}%)"
 
 msgid "EPG assigned: {} | {}"
-msgstr ""
+msgstr "Призначено EPG: {} | {}"
 
 msgid "EPG cache cleared! {} entries removed"
-msgstr ""
+msgstr "Кеш EPG очищено! Видалено записів: {}"
 
 msgid "EPG database reloaded successfully!"
-msgstr ""
+msgstr "Базу даних EPG успішно перезавантажено!"
 
 msgid "EPG mapper not available"
-msgstr ""
+msgstr "Картограф EPG недоступний"
 
 msgid "EPG mapper not initialized"
-msgstr ""
+msgstr "Відповідач EPG не ініціалізовано"
 
 msgid "EPG matching algorithm"
-msgstr ""
+msgstr "Алгоритм відповідності EPG"
 
 msgid "EPGImport plugin not found"
-msgstr ""
+msgstr "Плагін EPGImport не знайдено"
 
 msgid "EPGImporter"
-msgstr ""
+msgstr "Імпорт EPG"
 
 msgid "EPGShare Mode"
-msgstr ""
+msgstr "Режим EPGShare"
 
 msgid "Enable EPG"
-msgstr ""
+msgstr "Увімкнути EPG"
 
 msgid "Enable detailed logging"
-msgstr ""
+msgstr "Увімкнути детальне ведення журналу"
 
 msgid "Enigma2 Bouquet to Enigma2 Bouquet Conversion"
-msgstr ""
+msgstr "Перетворення Enigma2 Bouquet на Enigma2 Bouquet"
 
 msgid "Enigma2 Bouquet to M3U Conversion"
-msgstr ""
+msgstr "Перетворення Enigma2 Bouquet на M3U"
 
 msgid "Enigma2 Bouquets to  Enigma2 Bouquets"
-msgstr ""
+msgstr "Enigma2 Букети до Enigma2 Букети"
 
 msgid "Enigma2 Bouquets to  M3U"
-msgstr ""
+msgstr "Enigma2 Букети до M3U"
 
 msgid "Error clearing EPG cache"
-msgstr ""
+msgstr "Помилка очищення кешу EPG"
 
 msgid "Error clearing database"
-msgstr ""
+msgstr "Помилка очищення бази даних"
 
 msgid "Error deleting correction"
-msgstr ""
+msgstr "Помилка видалення виправлення"
 
 msgid "Error deleting items"
-msgstr ""
+msgstr "Помилка видалення елементів"
 
 msgid "Error deleting mapping"
-msgstr ""
+msgstr "Помилка видалення зіставлення"
 
 msgid "Error exporting database"
-msgstr ""
+msgstr "Помилка експорту бази даних"
 
 msgid "Error finalizing import: {}"
-msgstr ""
+msgstr "Помилка завершення імпорту: {}"
 
 msgid "Error importing database: {}"
-msgstr ""
+msgstr "Помилка імпорту бази даних: {}"
 
 msgid "Error initiating service reload"
-msgstr ""
+msgstr "Помилка запуску перезавантаження служби"
 
 msgid "Error loading database"
-msgstr ""
+msgstr "Помилка завантаження бази даних"
 
 msgid "Error opening plugin information: %s"
-msgstr ""
+msgstr "Помилка відкриття інформації плагіна: %s"
 
 msgid "Error processing conversion result"
-msgstr ""
+msgstr "Помилка обробки результату перетворення"
 
 msgid "Error reloading EPG database: {}"
-msgstr ""
+msgstr "Помилка перезавантаження бази даних EPG: {}"
 
 msgid "Error saving imported database"
-msgstr ""
+msgstr "Помилка збереження імпортованої бази даних"
 
 msgid "Error starting import: {}"
-msgstr ""
+msgstr "Помилка запуску імпорту: {}"
 
 msgid "Error undoing action"
-msgstr ""
+msgstr "Помилка скасування дії"
 
 msgid "Error: Channel index out of range"
-msgstr ""
+msgstr "Помилка: індекс каналу поза діапазоном"
 
 msgid "Failed to initialize EPG mapper - check logs"
-msgstr ""
+msgstr "Не вдалося ініціалізувати EPG Mapper - перевірте журнали"
 
 msgid "File loaded: {}"
-msgstr ""
+msgstr "Файл завантажено: {}"
 
 msgid "File not found"
-msgstr ""
+msgstr "Файл не знайдено"
 
 msgid "File write error: %s"
-msgstr ""
+msgstr "Помилка запису файлу: %s"
 
 msgid "File: {}"
-msgstr ""
+msgstr "Файл: {}"
 
 msgid "Files larger than this will be sampled (1000 channels max)"
-msgstr ""
+msgstr "Файли більшого розміру будуть відібрані (максимум 1000 каналів)"
 
 msgid "First select a match from the right list (use RIGHT arrow)"
-msgstr ""
+msgstr "Спочатку виберіть збіг із правого списку (використовуйте стрілку ВПРАВО)"
 
 msgid "Found {} matches for: {} | Select and press OK"
-msgstr ""
+msgstr "Знайдено {} збігів для: {} | Виберіть і натисніть OK"
 
 msgid "Found {} matches so far for: {} | Searching..."
-msgstr ""
+msgstr "Наразі знайдено {} збігів для: {} | Пошук..."
 
 msgid "Generate EPG data for bouquets"
-msgstr ""
+msgstr "Створення даних EPG для букетів"
 
 msgid "Global similarity threshold for all matches (20-100%)"
-msgstr ""
+msgstr "Глобальний поріг подібності для всіх збігів (20-100%)"
 
 msgid "HDD Drive"
-msgstr ""
+msgstr "HDD накопичувач"
 
 msgid "Ignore DVB-T services on conversion"
-msgstr ""
+msgstr "Ігнорувати послуги DVB-T під час перетворення"
 
 msgid "Import {} mappings from {}"
-msgstr ""
+msgstr "Імпорт зіставлень {} із {}"
 
 msgid "Invalid .m3u item format"
-msgstr ""
+msgstr "Недійсний формат елемента .m3u"
 
 msgid "Invalid .tv item format"
-msgstr ""
+msgstr "Недійсний формат елемента .tv"
 
 msgid "Invalid XSPF file"
-msgstr ""
+msgstr "Недійсний файл XSPF"
 
 msgid "Invalid database file structure"
 msgstr ""
 
 msgid "Invalid selection"
-msgstr ""
+msgstr "Невірний вибір"
 
 msgid "JSON to Enigma2 Bouquet Conversion"
 msgstr ""
 
 msgid "JSON to M3U Conversion"
-msgstr ""
+msgstr "Перетворення JSON на M3U"
 
 msgid "JSON to  Enigma2 Bouquets"
-msgstr ""
+msgstr "Букети JSON до Enigma2"
 
 msgid "JSON to  M3U"
-msgstr ""
+msgstr "JSON до M3U"
 
 msgid "Language for EPG sources"
-msgstr ""
+msgstr "Мова для джерел EPG"
 
 msgid "Large file detected: {:.1f}MB. Processing first {} channels..."
-msgstr ""
+msgstr "Виявлено великий файл: {:.1f}MB. Обробка перших {} каналів..."
 
 msgid "Large file threshold (MB)"
-msgstr ""
+msgstr "Порогове значення великого файлу (МБ)"
 
 msgid "Loaded first %d channels. Press Green to convert."
-msgstr ""
+msgstr "Завантажено перші %d канали. Натисніть зелений, щоб конвертувати."
 
 msgid "Loading database..."
-msgstr ""
+msgstr "Завантаження бази даних..."
 
 msgid "Log file cleared successfully"
-msgstr ""
+msgstr "Файл журналу успішно очищено"
 
 msgid "M3U to Enigma2 Bouquet Conversion"
-msgstr ""
+msgstr "Перетворення M3U в Enigma2 Bouquet"
 
 msgid "M3U to JSON Conversion"
-msgstr ""
+msgstr "Конвертація M3U в JSON"
 
 msgid "M3U to  Enigma2 Bouquets"
-msgstr ""
+msgstr "Букети від M3U до Enigma2"
 
 msgid "M3U to  JSON"
-msgstr ""
+msgstr "M3U в JSON"
 
 msgid "Manual Corrections ({} total)"
-msgstr ""
+msgstr "Виправлення вручну (усього {})"
 
 msgid "Manual Database Editor"
-msgstr ""
+msgstr "Ручний редактор бази даних"
 
 msgid "Manual EPG Match Editor"
-msgstr ""
+msgstr "Ручний редактор EPG Match"
 
 msgid "Manual database cleared"
-msgstr ""
+msgstr "Базу даних очищено вручну"
 
 msgid "Manual database not available"
-msgstr ""
+msgstr "Ручна база даних недоступна"
 
 msgid "Manual editing completed"
-msgstr ""
+msgstr "Ручне редагування завершено"
 
 msgid "Manual editing completed - ready for conversion"
-msgstr ""
+msgstr "Ручне редагування завершено – готово до конвертації"
 
 msgid "Mapping deleted successfully"
-msgstr ""
+msgstr "Відображення успішно видалено"
 
 msgid "Match Editor"
-msgstr ""
+msgstr "Редактор матчів"
 
 msgid "Match reset for: {}"
-msgstr ""
+msgstr "Скидання відповідності для: {}"
 
 msgid "Max DVB entries scanned during automatic Match Edit (Slow down scanning)"
-msgstr ""
+msgstr "Максимальна кількість записів DVB, сканованих під час автоматичного редагування відповідності (уповільнення сканування)"
 
 msgid "Max Rytec entries scanned during automatic Match Edit (Slow down scanning)"
-msgstr ""
+msgstr "Записи Max Rytec скануються під час автоматичного редагування відповідності (уповільнення сканування)"
 
 msgid "Maximum backup copies"
-msgstr ""
+msgstr "Максимальна кількість резервних копій"
 
 msgid "Maximum manual corrections to save"
-msgstr ""
+msgstr "Максимум ручних виправлень для збереження"
 
 msgid "Multiple Bouquets"
-msgstr ""
+msgstr "Кілька букетів"
 
 msgid "Network Storage"
-msgstr ""
+msgstr "Мережне сховище"
 
 msgid "Next"
-msgstr ""
+msgstr "Далі"
 
 msgid "No IPTV channels found in the bouquet"
-msgstr ""
+msgstr "У наборі каналів IPTV не знайдено"
 
 msgid "No M3UConverter bouquets found to remove."
-msgstr ""
+msgstr "Не знайдено букетів M3UConverter для видалення."
 
 msgid "No MANUAL changes to save"
-msgstr ""
+msgstr "Немає змін РУЧНИХ для збереження"
 
 msgid "No MANUAL corrections saved"
-msgstr ""
+msgstr "Немає збережених виправлень MANUAL"
 
 msgid "No actions to undo"
-msgstr ""
+msgstr "Немає дій для скасування"
 
 msgid "No channels available"
-msgstr ""
+msgstr "Немає доступних каналів"
 
 msgid "No channels loaded. Please select a valid TV bouquet file."
-msgstr ""
+msgstr "Немає завантажених каналів. Виберіть дійсний файл телевізійного букета."
 
 msgid "No conversion data available."
-msgstr ""
+msgstr "Немає даних про конверсії."
 
 msgid "No conversion data available. Please run a conversion first."
-msgstr ""
+msgstr "Немає даних про конверсії. Спочатку запустіть перетворення."
 
 msgid "No conversion statistics available."
-msgstr ""
+msgstr "Статистика переходів недоступна."
 
 msgid "No duplicates available for selection"
-msgstr ""
+msgstr "Немає дублікатів для вибору"
 
 msgid "No duplicates found"
-msgstr ""
+msgstr "Дублікатів не знайдено"
 
 msgid "No duplicates found in the database"
-msgstr ""
+msgstr "У базі даних дублікатів не знайдено"
 
 msgid "No file selected"
-msgstr ""
+msgstr "Файл не вибрано"
 
 msgid "No file selected for conversion"
-msgstr ""
+msgstr "Не вибрано жодного файлу для перетворення"
 
 msgid "No items selected for deletion"
-msgstr ""
+msgstr "Немає елементів, вибраних для видалення"
 
 msgid "No manual corrections found"
-msgstr ""
+msgstr "Виправлень вручну не знайдено"
 
 msgid "No manual corrections to export"
-msgstr ""
+msgstr "Немає ручних виправлень для експорту"
 
 msgid "No mappings available"
-msgstr ""
+msgstr "Немає доступних зіставлень"
 
 msgid "No matches found - try different search"
-msgstr ""
+msgstr "Збігів не знайдено - спробуйте інший пошук"
 
 msgid "No matches found for: {}"
-msgstr ""
+msgstr "Немає збігів для: {}"
 
 msgid "No statistics available"
-msgstr ""
+msgstr "Немає статистики"
 
 msgid "No valid channels found in the JSON file"
-msgstr ""
+msgstr "У файлі JSON не знайдено дійсних каналів"
 
 msgid "Only DTT"
-msgstr ""
+msgstr "Тільки DTT"
 
 msgid "Only DVB"
-msgstr ""
+msgstr "Тільки DVB"
 
 msgid "Only Rytec"
-msgstr ""
+msgstr "Тільки Rytec"
 
 msgid "Open File"
-msgstr ""
+msgstr "Відкрити файл"
 
 msgid "Open manual editor after conversion"
-msgstr ""
+msgstr "Відкрийте ручний редактор після конвертації"
 
 msgid "Playback error"
-msgstr ""
+msgstr "Помилка відтворення"
 
 msgid "Playing: %s"
-msgstr ""
+msgstr "Грає: %s"
 
 msgid "Please select a channel first"
-msgstr ""
+msgstr "Спочатку виберіть канал"
 
 msgid "Please select a mapping (not a group header)"
-msgstr ""
+msgstr "Будь ласка, виберіть зіставлення (не заголовок групи)"
 
 msgid "Please select a mapping to delete"
-msgstr ""
+msgstr "Виберіть зіставлення для видалення"
 
 msgid "Please select a valid match from the right list"
-msgstr ""
+msgstr "Виберіть дійсний збіг із правого списку"
 
 msgid "Plugin Information"
-msgstr ""
+msgstr "Інформація про плагін"
 
 msgid "Position in channel list"
-msgstr ""
+msgstr "Позиція в списку каналів"
 
 msgid "Press RED to select file"
-msgstr ""
+msgstr "Натисніть ЧЕРВОНУ, щоб вибрати файл"
 
 msgid "Prev"
-msgstr ""
+msgstr "попередня"
 
 msgid "Processing selection..."
-msgstr ""
+msgstr "Обробка вибору..."
 
 msgid "Ready"
-msgstr ""
+msgstr "Готовий"
 
 msgid "Ready for next operation"
-msgstr ""
+msgstr "Готовий до наступної операції"
 
 msgid "Ready to convert"
-msgstr ""
+msgstr "Готовий до конвертації"
 
 msgid "Ready: Select the file from the %s you configured in settings."
-msgstr ""
+msgstr "Готово: виберіть файл із %s, які ви налаштували в налаштуваннях."
 
 msgid "Reloading services..."
-msgstr ""
+msgstr "Перезавантаження служб..."
 
 msgid "Remove Bouquets"
-msgstr ""
+msgstr "Видалити букети"
 
 msgid "Remove M3U Bouquets"
-msgstr ""
+msgstr "Видаліть M3U Bouquets"
 
 msgid "Reset"
-msgstr ""
+msgstr "Скинути"
 
 msgid "Run a conversion first to see statistics."
-msgstr ""
+msgstr "Спочатку запустіть перетворення, щоб побачити статистику."
 
 msgid "SELECTION MODE: {} items selected"
-msgstr ""
+msgstr "РЕЖИМ ВИБІРУ: вибрано елементів: {}"
 
 msgid "Save All"
-msgstr ""
+msgstr "Зберегти все"
 
 msgid "Save error"
-msgstr ""
+msgstr "Помилка збереження"
 
 msgid "Saved {} MANUAL corrections"
-msgstr ""
+msgstr "Збережено {} РУЧНИХ виправлень"
 
 msgid "Searching matches for: {}..."
-msgstr ""
+msgstr "Пошук збігів для: {}..."
 
 msgid "Select"
-msgstr ""
+msgstr "Виберіть"
 
 msgid "Select a channel to correct the match"
-msgstr ""
+msgstr "Виберіть канал, щоб виправити відповідність"
 
 msgid "Select a channel to edit (use OK or RIGHT to go to matches)"
-msgstr ""
+msgstr "Виберіть канал для редагування (натисніть ОК або ВПРАВО, щоб перейти до збігів)"
 
 msgid "Select a match and press OK to assign"
-msgstr ""
+msgstr "Виберіть збіг і натисніть OK, щоб призначити"
 
 msgid "Select databases for channel matching"
-msgstr ""
+msgstr "Виберіть бази даних для відповідності каналів"
 
 msgid "Select file to import from {}"
-msgstr ""
+msgstr "Виберіть файл для імпорту з {}"
 
 msgid "Select import location"
-msgstr ""
+msgstr "Виберіть місце імпорту"
 
 msgid "Selection mode active. Select items with OK"
-msgstr ""
+msgstr "Активний режим вибору. Виберіть елементи за допомогою ОК"
 
 msgid "Selection mode off"
-msgstr ""
+msgstr "Режим виділення вимкнено"
 
 msgid "Selection mode: Select items with OK"
-msgstr ""
+msgstr "Режим вибору: Виберіть елементи за допомогою ОК"
 
 msgid "Service reload initiated"
-msgstr ""
+msgstr "Розпочато перезавантаження служби"
 
 msgid "Similarity threshold for DVB matches (20-100%)"
-msgstr ""
+msgstr "Поріг схожості для збігів DVB (20-100%)"
 
 msgid "Similarity threshold for Rytec matches (20-100%)"
-msgstr ""
+msgstr "Поріг подібності для збігів Rytec (20-100%)"
 
 msgid "Single Bouquet"
-msgstr ""
+msgstr "Одиночний букет"
 
 msgid "Standard Mode"
-msgstr ""
+msgstr "Стандартний режим"
 
 msgid "Stopped"
-msgstr ""
+msgstr "Зупинився"
 
 msgid "Temporary"
-msgstr ""
+msgstr "Тимчасовий"
 
 msgid "Temporary Files"
-msgstr ""
+msgstr "Тимчасові файли"
 
 msgid "Tools"
-msgstr ""
+msgstr "Інструменти"
 
 msgid "Top"
-msgstr ""
+msgstr "Топ"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "USB накопичувач"
 
 msgid "Undo"
-msgstr ""
+msgstr "Скасувати"
 
 msgid "Undo: Restored previous state for {}"
-msgstr ""
+msgstr "Скасувати: відновлено попередній стан для {}"
 
 msgid "Universal Converter"
-msgstr ""
+msgstr "Універсальний конвертер"
 
 msgid "Unknown error"
-msgstr ""
+msgstr "Невідома помилка"
 
 msgid "Unsupported conversion type"
-msgstr ""
+msgstr "Непідтримуваний тип перетворення"
 
 msgid "Use saved manual corrections"
-msgstr ""
+msgstr "Використовуйте збережені ручні виправлення"
 
 msgid "We're ready: what do you want to do?"
-msgstr ""
+msgstr "Ми готові: що ви хочете зробити?"
 
 msgid "XSPF conversion error: %s"
-msgstr ""
+msgstr "Помилка перетворення XSPF: %s"
 
 msgid "XSPF to M3U Playlist Conversion"
-msgstr ""
+msgstr "Перетворення списку відтворення XSPF у M3U"
 
 msgid "XSPF to  M3U Playlist"
-msgstr ""
+msgstr "XSPF до списку відтворення M3U"
 
 msgid "merged"
-msgstr ""
+msgstr "об'єднані"
 
 msgid "replaced"
-msgstr ""
+msgstr "замінено"
 
 msgid "tv_to_m3u Conversion error: %s"
-msgstr ""
+msgstr "Помилка перетворення tv_to_m3u: %s"
 
 msgid " Current total: {}"
-msgstr ""
+msgstr "Поточна сума: {}"
 
 msgid " DVB: {} channels"
-msgstr ""
+msgstr "DVB: {} каналів"
 
 msgid " Duplicate mappings: {}"
-msgstr ""
+msgstr "Повторювані зіставлення: {}"
 
 msgid " Hit: {} ({:.1f}%)"
-msgstr ""
+msgstr "Хіт: {} ({:.1f}%)"
 
 msgid " Miss: {}"
-msgstr ""
+msgstr "Міс: {}"
 
 msgid " Mode: {}"
-msgstr ""
+msgstr "Режим: {}"
 
 msgid " New mappings: {}"
-msgstr ""
+msgstr "Нові зіставлення: {}"
 
 msgid " Rytec: {} channels"
-msgstr ""
+msgstr "Rytec: {} каналів"
 
 msgid " Size: {} entries"
-msgstr ""
+msgstr "Розмір: {} записів"
 
 msgid " Total in import file: {}"
-msgstr ""
+msgstr "Усього у файлі імпорту: {}"
 
 msgid "  Manual DB: {} ({:.1f}%)"
-msgstr ""
+msgstr "БД вручну: {} ({:.1f}%)"
 
 msgid "  DVB-S: {} ({:.1f}%)"
-msgstr ""
+msgstr "DVB-S: {} ({:.1f}%)"
 
 msgid "  DVB-T: {} ({:.1f}%)"
-msgstr ""
+msgstr "DVB-T: {} ({:.1f}%)"
 
 msgid "  IPTV Fallback: {} ({:.1f}%)"
-msgstr ""
+msgstr "Резервне IPTV: {} ({:.1f}%)"
 
 msgid "  Rytec: {} ({:.1f}%)"
-msgstr ""
+msgstr "Rytec: {} ({:.1f}%)"
 
 msgid " Conversion type: {}"
-msgstr ""
+msgstr "Тип перетворення: {}"
 
 msgid " Status: Completed successfully"
-msgstr ""
+msgstr "Статус: успішно завершено"
 
 msgid " Valid channels processed: {}"
-msgstr ""
+msgstr "Оброблено дійсних каналів: {}"
 
 msgid " Edit this mapping"
-msgstr ""
+msgstr "Відредагуйте це відображення"
 
 msgid " Manual edits applied: {}"
-msgstr ""
+msgstr "Зміни, внесені вручну: {}"
 
 msgid " Open Database Editor"
-msgstr ""
+msgstr "Відкрийте редактор бази даних"
 
 msgid " Error generating statistics"
-msgstr ""
+msgstr "Помилка створення статистики"
 
 msgid " Merge (keep both)"
-msgstr ""
+msgstr "Об’єднати (зберегти обидва)"
 
 msgid " New mappings ({}):"
-msgstr ""
+msgstr "Нові зіставлення ({}):"
 
 msgid " CONVERSION COMPLETE"
-msgstr ""
+msgstr "ПЕРЕТВОРЕННЯ ЗАВЕРШЕНО"
 
 msgid " Effective EPG matches: {}"
-msgstr ""
+msgstr "Ефективні збіги EPG: {}"
 
 msgid " TOTAL CHANNELS: {}"
-msgstr ""
+msgstr "ВСЬОГО КАНАЛІВ: {}"
 
 msgid " View Manual Database"
-msgstr ""
+msgstr "Переглянути ручну базу даних"
 
 msgid " CACHE PERFORMANCE:"
-msgstr ""
+msgstr "ПРОДУКТИВНІСТЬ КЕШ-ПАМЕШІ:"
 
 msgid " Cache efficiency: {}"
-msgstr ""
+msgstr "Ефективність кешу: {}"
 
 msgid " Create Backup"
-msgstr ""
+msgstr "Створити резервну копію"
 
 msgid " Manual DB matches: {}"
-msgstr ""
+msgstr "Збіги БД вручну: {}"
 
 msgid " Output file: {}"
-msgstr ""
+msgstr "Вихідний файл: {}"
 
 msgid " File size: {}"
-msgstr ""
+msgstr "Розмір файлу: {}"
 
 msgid " EFFECTIVE EPG coverage: {}"
-msgstr ""
+msgstr "ЕФЕКТИВНЕ покриття EPG: {}"
 
 msgid " EPG COVERAGE: {:.1f}%"
-msgstr ""
+msgstr "ПОКРИТТЯ EPG: {:.1f}%"
 
 msgid " Statistics:"
-msgstr ""
+msgstr "Статистика:"
 
 msgid " EPG Cache Statistics"
-msgstr ""
+msgstr "Статистика кешу EPG"
 
 msgid " EPG STATISTICS - {}"
-msgstr ""
+msgstr "СТАТИСТИКА EPG - {}"
 
 msgid " IMPORT PREVIEW"
-msgstr ""
+msgstr "ПОПЕРЕДНИЙ ІМПОРТ"
 
 msgid " Preview Changes"
-msgstr ""
+msgstr "Попередній перегляд змін"
 
 msgid " Total channels in file: {}"
-msgstr ""
+msgstr "Загальна кількість каналів у файлі: {}"
 
 msgid " Plugin Info"
-msgstr ""
+msgstr "Інформація про плагін"
 
 msgid " Manual Match Editing"
-msgstr ""
+msgstr "Ручне редагування відповідності"
 
 msgid " DVB channels in DB: {}"
-msgstr ""
+msgstr "Канали DVB в БД: {}"
 
 msgid " DVB-T EPG matches: {}"
-msgstr ""
+msgstr "DVB-T EPG відповідає: {}"
 
 msgid " Export Manual Database"
-msgstr ""
+msgstr "Експортувати ручну базу даних"
 
 msgid " Import Manual Database"
-msgstr ""
+msgstr "Імпорт бази даних вручну"
 
 msgid " DVB EPG matches: {}"
-msgstr ""
+msgstr "DVB EPG відповідає: {}"
 
 msgid " Duplicates ({}):"
-msgstr ""
+msgstr "Дублікати ({}):"
 
 msgid " Reload EPG Database"
-msgstr ""
+msgstr "Перезавантажте базу даних EPG"
 
 msgid " Reload Services"
-msgstr ""
+msgstr "Послуги перезавантаження"
 
 msgid " Replace All ({} mappings)"
-msgstr ""
+msgstr "Замінити все ({} зіставлення)"
 
 msgid " Fallback (no EPG): {}"
-msgstr ""
+msgstr "Запасний варіант (без EPG): {}"
 
 msgid " Cache size: {} entries"
-msgstr ""
+msgstr "Розмір кешу: {} записів"
 
 msgid " Back"
-msgstr ""
+msgstr "Назад"
 
 msgid " Back to Tools"
-msgstr ""
+msgstr "Назад до інструментів"
 
 msgid " Back to locations"
-msgstr ""
+msgstr "Назад до місць розташування"
 
 msgid " MATCH BREAKDOWN:"
-msgstr ""
+msgstr "РОЗКЛЮЧЕННЯ МАТЧІВ:"
 
 msgid " Completed at: {}"
-msgstr ""
+msgstr "Завершено о: {}"
 
 msgid " Edited at: {}"
-msgstr ""
+msgstr "Відредаговано в: {}"
 
 msgid " === Manual Database Management ==="
-msgstr ""
+msgstr "=== Ручне керування базою даних ==="
 
 msgid " DATABASE INFO:"
-msgstr ""
+msgstr "ІНФОРМАЦІЯ ПРО БАЗУ ДАНИХ:"
 
 msgid " Database mode: {}"
-msgstr ""
+msgstr "Режим бази даних: {}"
 
 msgid " Rytec channels in DB: {}"
-msgstr ""
+msgstr "Канали Rytec в БД: {}"
 
 msgid " Clear Log File"
-msgstr ""
+msgstr "Очистити файл журналу"
 
 msgid " Delete this mapping"
-msgstr ""
+msgstr "Видалити це зіставлення"
 
 msgid " Skipped channels: {}"
-msgstr ""
+msgstr "Пропущені канали: {}"
 
 msgid " Rytec EPG matches: {}"
-msgstr ""
+msgstr "Rytec EPG відповідає: {}"
 
 msgid " Clean Manual Database"
-msgstr ""
+msgstr "Чиста база даних вручну"
 
 msgid " Clear EPG Cache"
-msgstr ""
+msgstr "Очистити кеш EPG"
