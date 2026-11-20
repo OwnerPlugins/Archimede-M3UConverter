@@ -285,9 +285,11 @@ msgstr "Konversi Buket Enigma2 ke Buket Enigma2"
 msgid "Enigma2 Bouquet to M3U Conversion"
 msgstr "Konversi Buket Enigma2 ke M3U"
 
+#, fuzzy
 msgid "Enigma2 Bouquets to  Enigma2 Bouquets"
 msgstr "Karangan Bunga Enigma2 ke Karangan Bunga Enigma2"
 
+#, fuzzy
 msgid "Enigma2 Bouquets to  M3U"
 msgstr "Karangan Bunga Enigma2 ke M3U"
 
@@ -405,9 +407,11 @@ msgstr "Konversi Buket JSON ke Enigma2"
 msgid "JSON to M3U Conversion"
 msgstr "Konversi JSON ke M3U"
 
+#, fuzzy
 msgid "JSON to  Enigma2 Bouquets"
 msgstr "Karangan Bunga JSON ke Enigma2"
 
+#, fuzzy
 msgid "JSON to  M3U"
 msgstr "JSON ke M3U"
 
@@ -435,9 +439,11 @@ msgstr "Konversi Buket M3U ke Enigma2"
 msgid "M3U to JSON Conversion"
 msgstr "Konversi M3U ke JSON"
 
+#, fuzzy
 msgid "M3U to  Enigma2 Bouquets"
 msgstr "Karangan Bunga M3U hingga Enigma2"
 
+#, fuzzy
 msgid "M3U to  JSON"
 msgstr "M3U ke JSON"
 
@@ -741,6 +747,7 @@ msgstr "Kesalahan konversi XSPF: %s"
 msgid "XSPF to M3U Playlist Conversion"
 msgstr "Konversi Daftar Putar XSPF ke M3U"
 
+#, fuzzy
 msgid "XSPF to  M3U Playlist"
 msgstr "Daftar Putar XSPF ke M3U"
 
@@ -753,215 +760,286 @@ msgstr "diganti"
 msgid "tv_to_m3u Conversion error: %s"
 msgstr "tv_to_m3u Kesalahan konversi: %s"
 
+#, fuzzy
 msgid " Current total: {}"
 msgstr "Jumlah saat ini: {}"
 
+#, fuzzy
 msgid " DVB: {} channels"
 msgstr "DVB: {} saluran"
 
+#, fuzzy
 msgid " Duplicate mappings: {}"
 msgstr "Pemetaan duplikat: {}"
 
+#, fuzzy
 msgid " Hit: {} ({:.1f}%)"
 msgstr "Pukul: {} ({:.1f}%)"
 
+#, fuzzy
 msgid " Miss: {}"
 msgstr "Merindukan: {}"
 
+#, fuzzy
 msgid " Mode: {}"
 msgstr "Modus: {}"
 
+#, fuzzy
 msgid " New mappings: {}"
 msgstr "Pemetaan baru: {}"
 
+#, fuzzy
 msgid " Rytec: {} channels"
 msgstr "Rytec: {} saluran"
 
+#, fuzzy
 msgid " Size: {} entries"
 msgstr "Ukuran: {} entri"
 
+#, fuzzy
 msgid " Total in import file: {}"
 msgstr "Total file yang diimpor: {}"
 
+#, fuzzy
 msgid "  Manual DB: {} ({:.1f}%)"
 msgstr "DB Manual: {} ({:.1f}%)"
 
+#, fuzzy
 msgid "  DVB-S: {} ({:.1f}%)"
 msgstr "DVB-S: {} ({:.1f}%)"
 
+#, fuzzy
 msgid "  DVB-T: {} ({:.1f}%)"
 msgstr "DVB-T: {} ({:.1f}%)"
 
+#, fuzzy
 msgid "  IPTV Fallback: {} ({:.1f}%)"
 msgstr "Penggantian IPTV: {} ({:.1f}%)"
 
+#, fuzzy
 msgid "  Rytec: {} ({:.1f}%)"
 msgstr "Rytec: {} ({:.1f}%)"
 
+#, fuzzy
 msgid " Conversion type: {}"
 msgstr "Tipe konversi: {}"
 
+#, fuzzy
 msgid " Status: Completed successfully"
 msgstr "Status: Berhasil diselesaikan"
 
+#, fuzzy
 msgid " Valid channels processed: {}"
 msgstr "Saluran valid yang diproses: {}"
 
+#, fuzzy
 msgid " Edit this mapping"
 msgstr "Edit pemetaan ini"
 
+#, fuzzy
 msgid " Manual edits applied: {}"
 msgstr "Pengeditan manual diterapkan: {}"
 
+#, fuzzy
 msgid " Open Database Editor"
 msgstr "Buka Editor Basis Data"
 
+#, fuzzy
 msgid " Error generating statistics"
 msgstr "Kesalahan saat menghasilkan statistik"
 
+#, fuzzy
 msgid " Merge (keep both)"
 msgstr "Gabungkan (pertahankan keduanya)"
 
+#, fuzzy
 msgid " New mappings ({}):"
 msgstr "Pemetaan baru ({}):"
 
+#, fuzzy
 msgid " CONVERSION COMPLETE"
 msgstr "KONVERSI SELESAI"
 
+#, fuzzy
 msgid " Effective EPG matches: {}"
 msgstr "Kecocokan EPG yang efektif: {}"
 
+#, fuzzy
 msgid " TOTAL CHANNELS: {}"
 msgstr "JUMLAH SALURAN: {}"
 
+#, fuzzy
 msgid " View Manual Database"
 msgstr "Lihat Basis Data Manual"
 
+#, fuzzy
 msgid " CACHE PERFORMANCE:"
 msgstr "KINERJA CACHE:"
 
+#, fuzzy
 msgid " Cache efficiency: {}"
 msgstr "Efisiensi cache: {}"
 
+#, fuzzy
 msgid " Create Backup"
 msgstr "Buat Cadangan"
 
+#, fuzzy
 msgid " Manual DB matches: {}"
 msgstr "Pencocokan DB manual: {}"
 
+#, fuzzy
 msgid " Output file: {}"
 msgstr "Berkas keluaran: {}"
 
+#, fuzzy
 msgid " File size: {}"
 msgstr "Ukuran berkas: {}"
 
+#, fuzzy
 msgid " EFFECTIVE EPG coverage: {}"
 msgstr "Cakupan EPG yang EFEKTIF: {}"
 
+#, fuzzy
 msgid " EPG COVERAGE: {:.1f}%"
 msgstr "CAKUPAN EPG: {:.1f}%"
 
+#, fuzzy
 msgid " Statistics:"
 msgstr "Statistik:"
 
+#, fuzzy
 msgid " EPG Cache Statistics"
 msgstr "Statistik Tembolok EPG"
 
+#, fuzzy
 msgid " EPG STATISTICS - {}"
 msgstr "STATISTIK EPG - {}"
 
+#, fuzzy
 msgid " IMPORT PREVIEW"
 msgstr "PREVIEW IMPOR"
 
+#, fuzzy
 msgid " Preview Changes"
 msgstr "Pratinjau Perubahan"
 
+#, fuzzy
 msgid " Total channels in file: {}"
 msgstr "Total saluran dalam file: {}"
 
+#, fuzzy
 msgid " Plugin Info"
 msgstr "Informasi Pengaya"
 
+#, fuzzy
 msgid " Manual Match Editing"
 msgstr "Pengeditan Pencocokan Manual"
 
+#, fuzzy
 msgid " DVB channels in DB: {}"
 msgstr "Saluran DVB di DB: {}"
 
+#, fuzzy
 msgid " DVB-T EPG matches: {}"
 msgstr "Kecocokan DVB-T EPG: {}"
 
+#, fuzzy
 msgid " Export Manual Database"
 msgstr "Ekspor Basis Data Manual"
 
+#, fuzzy
 msgid " Import Manual Database"
 msgstr "Impor Basis Data Manual"
 
+#, fuzzy
 msgid " DVB EPG matches: {}"
 msgstr "Kecocokan DVB EPG: {}"
 
+#, fuzzy
 msgid " Duplicates ({}):"
 msgstr "Duplikat ({}):"
 
+#, fuzzy
 msgid " Reload EPG Database"
 msgstr "Muat ulang Basis Data EPG"
 
+#, fuzzy
 msgid " Reload Services"
 msgstr "Muat Ulang Layanan"
 
+#, fuzzy
 msgid " Replace All ({} mappings)"
 msgstr "Ganti Semua (pemetaan {})"
 
+#, fuzzy
 msgid " Fallback (no EPG): {}"
 msgstr "Penggantian (tanpa EPG): {}"
 
+#, fuzzy
 msgid " Cache size: {} entries"
 msgstr "Ukuran cache: {} entri"
 
+#, fuzzy
 msgid " Back"
 msgstr "Kembali"
 
+#, fuzzy
 msgid " Back to Tools"
 msgstr "Kembali ke Alat"
 
+#, fuzzy
 msgid " Back to locations"
 msgstr "Kembali ke lokasi"
 
+#, fuzzy
 msgid " MATCH BREAKDOWN:"
 msgstr "RINCIAN PERTANDINGAN:"
 
+#, fuzzy
 msgid " Completed at: {}"
 msgstr "Selesai pada: {}"
 
+#, fuzzy
 msgid " Edited at: {}"
 msgstr "Diedit di: {}"
 
+#, fuzzy
 msgid " === Manual Database Management ==="
 msgstr "=== Manajemen Basis Data Manual ==="
 
+#, fuzzy
 msgid " DATABASE INFO:"
 msgstr "INFO DATABASE :"
 
+#, fuzzy
 msgid " Database mode: {}"
 msgstr "Mode basis data: {}"
 
+#, fuzzy
 msgid " Rytec channels in DB: {}"
 msgstr "Saluran Rytec di DB: {}"
 
+#, fuzzy
 msgid " Clear Log File"
 msgstr "Hapus File Log"
 
+#, fuzzy
 msgid " Delete this mapping"
 msgstr "Hapus pemetaan ini"
 
+#, fuzzy
 msgid " Skipped channels: {}"
 msgstr "Saluran yang dilewati: {}"
 
+#, fuzzy
 msgid " Rytec EPG matches: {}"
 msgstr "Pertandingan Rytec EPG: {}"
 
+#, fuzzy
 msgid " Clean Manual Database"
 msgstr "Bersihkan Basis Data Manual"
 
+#, fuzzy
 msgid " Clear EPG Cache"
 msgstr "Hapus Cache EPG"
